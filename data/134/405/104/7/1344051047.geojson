@@ -1,0 +1,71 @@
+{
+  "id": 1344051047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06677,-53.16327,-70.06677,-53.16327",
+    "geom:latitude":-53.16327,
+    "geom:longitude":-70.06677,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:asciiname":"Dos Hermanos",
+    "gn:country_code":"CL",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358104,
+    "gn:latitude":-53.16327,
+    "gn:longitude":-70.06677,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Dos Hermanos",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dos Hermanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358104
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0ff6a5c4b91ae65d0afc5dab497f7f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1344051047,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1344051047,
+    "wof:lastmodified":1537591187,
+    "wof:name":"Dos Hermanos",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06676999999999,
+    -53.16327,
+    -70.06676999999999,
+    -53.16327
+],
+  "geometry": {"coordinates":[-70.06676999999999,-53.16327],"type":"Point"}
+}

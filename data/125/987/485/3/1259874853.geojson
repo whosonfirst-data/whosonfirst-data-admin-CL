@@ -1,0 +1,71 @@
+{
+  "id": 1259874853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43243,-53.27643,-70.43243,-53.27643",
+    "geom:latitude":-53.27643,
+    "geom:longitude":-70.43243,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:asciiname":"Silvana Maria",
+    "gn:country_code":"CL",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358102,
+    "gn:latitude":-53.27643,
+    "gn:longitude":-70.43243,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Silvana Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Silvana Mar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358102
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"88ea4e7f79bdb256bfa2b26f2061ca33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1259874853,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1259874853,
+    "wof:lastmodified":1537591187,
+    "wof:name":"Silvana Maria",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43243000000002,
+    -53.27643000000001,
+    -70.43243000000002,
+    -53.27643000000001
+],
+  "geometry": {"coordinates":[-70.43243000000002,-53.27643000000001],"type":"Point"}
+}

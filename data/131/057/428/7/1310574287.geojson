@@ -1,0 +1,74 @@
+{
+  "id": 1310574287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9,-20.41667,-69.9,-20.41667",
+    "geom:latitude":-20.41667,
+    "geom:longitude":-69.9,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1401.0",
+    "gn:asciiname":"San Antonio",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3872398,
+    "gn:latitude":-20.41667,
+    "gn:longitude":-69.9,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oficina San Antonio",
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3872398
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e2b8dcc244997d78b9a127aab21f323a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1310574287,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1310574287,
+    "wof:lastmodified":1537591104,
+    "wof:name":"San Antonio",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9,
+    -20.41667,
+    -69.9,
+    -20.41667
+],
+  "geometry": {"coordinates":[-69.90000000000001,-20.41667],"type":"Point"}
+}

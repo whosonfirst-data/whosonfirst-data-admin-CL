@@ -1,0 +1,85 @@
+{
+  "id": 890518285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61456,-33.61351,-71.61456,-33.61351",
+    "geom:latitude":-33.61351,
+    "geom:longitude":-71.61456,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Llolleo"
+    ],
+    "name:eng_x_preferred":[
+        "Llolleo"
+    ],
+    "name:spa_x_preferred":[
+        "Llolleo"
+    ],
+    "qs:name":"Llolleo",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882854,
+        "gp:id":350262,
+        "qs:id":189215,
+        "wd:id":"Q6662195",
+        "wk:page":"Llolleo"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056057,
+    "wof:geomhash":"3595f595137ec78c4ecb7f478c13a171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063167,
+            "locality_id":890518285,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890518285,
+    "wof:lastmodified":1527751236,
+    "wof:name":"Llolleo",
+    "wof:parent_id":102063167,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61456,
+    -33.61351,
+    -71.61456,
+    -33.61351
+],
+  "geometry": {"coordinates":[-71.61456,-33.61351],"type":"Point"}
+}

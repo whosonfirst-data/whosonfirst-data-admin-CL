@@ -1,0 +1,78 @@
+{
+  "id": 102017329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":1010090.374731,
+    "geom:bbox":"-71.7407226562,-34.651285199,-71.7297363281,-34.6422470478",
+    "geom:latitude":-34.646766,
+    "geom:longitude":-71.735229,
+    "iso:country":"CL",
+    "lbl:latitude":-34.646766,
+    "lbl:longitude":-71.735229,
+    "mps:latitude":-34.646766,
+    "mps:longitude":-71.735229,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Chile",
+    "qs:a1":"*Libertador General Bernardo O'Higgins",
+    "qs:a1r":"*",
+    "qs:a2":"Colchagua",
+    "qs:id":0,
+    "qs:la":"Pumanque",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nilahue Cornejo",
+    "qs:loc_alt":"Nilahue Cornejo",
+    "qs:loc_lc":"3878646",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3878646,
+        "gp:id":348726,
+        "qs:id":180622,
+        "qs_pg:id":180622
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f1b94c5a04938c8d92d172a2367e566c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "locality_id":102017329,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":102017329,
+    "wof:lastmodified":1497296208,
+    "wof:name":"Nilahue Cornejo",
+    "wof:parent_id":102063157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7407226562,
+    -34.651285199,
+    -71.7297363281,
+    -34.64224704779999
+],
+  "geometry": {"coordinates":[[[-71.74072265620001,-34.651285199],[-71.74072265620001,-34.64224704779999],[-71.7297363281,-34.64224704779999],[-71.7297363281,-34.651285199],[-71.74072265620001,-34.651285199]]],"type":"Polygon"}
+}

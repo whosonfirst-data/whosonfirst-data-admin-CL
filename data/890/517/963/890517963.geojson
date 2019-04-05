@@ -1,0 +1,69 @@
+{
+  "id": 890517963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.131225,-18.516725,-70.131225,-18.516725",
+    "geom:latitude":-18.516725,
+    "geom:longitude":-70.131225,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Arica",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Arica y Parinacota",
+    "qs:photos":461,
+    "qs:photos_1k":93,
+    "qs:photos_9k":21,
+    "qs:photos_9r":13,
+    "qs:photos_all":4692,
+    "qs:photos_sr":7,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":2256,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793977,
+        "qs:id":1086505,
+        "wd:id":"Q2203",
+        "wk:page":"Arica"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056038,
+    "wof:geomhash":"3ade598cafc6d3c64e2fe951f33e4b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517963,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":890517963,
+    "wof:lastmodified":1527749992,
+    "wof:name":"Arica",
+    "wof:parent_id":85682245,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.131225,
+    -18.516725,
+    -70.131225,
+    -18.516725
+],
+  "geometry": {"coordinates":[-70.131225,-18.516725],"type":"Point"}
+}

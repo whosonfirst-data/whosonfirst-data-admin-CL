@@ -1,0 +1,66 @@
+{
+  "id": 890518135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.023349,-33.6833,-71.023349,-33.6833",
+    "geom:latitude":-33.6833,
+    "geom:longitude":-71.023349,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "qs:name":"El Monte",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":165,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794310,
+        "qs:id":359260
+    },
+    "wof:country":"CL",
+    "wof:created":1469056050,
+    "wof:geomhash":"a436a899fa2e86177b09f87a326a4560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063095,
+            "localadmin_id":890518135,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890518135,
+    "wof:lastmodified":1469056050,
+    "wof:name":"El Monte",
+    "wof:parent_id":102063095,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.023349,
+    -33.6833,
+    -71.023349,
+    -33.6833
+],
+  "geometry": {"coordinates":[-71.023349,-33.6833],"type":"Point"}
+}

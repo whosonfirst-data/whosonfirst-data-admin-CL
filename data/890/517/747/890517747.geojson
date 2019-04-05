@@ -1,0 +1,65 @@
+{
+  "id": 890517747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.096866,-54.8715,-68.096866,-54.8715",
+    "geom:latitude":-54.8715,
+    "geom:longitude":-68.096866,
+    "gn:country":"CL",
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Puerto Santa Rosa",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Magallanes y Antartica Chilena",
+    "qs:photos":544,
+    "qs:photos_1k":110,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":544,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1580,
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":350332,
+        "qs:id":460615,
+        "wd:id":"Q361555",
+        "wk:page":"Gilberto Santa Rosa"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056023,
+    "wof:geomhash":"ec63d94c47d746d0a038ef8a66371e01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":890517747
+        }
+    ],
+    "wof:id":890517747,
+    "wof:lastmodified":1527749995,
+    "wof:name":"Puerto Santa Rosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.096866,
+    -54.8715,
+    -68.096866,
+    -54.8715
+],
+  "geometry": {"coordinates":[-68.09686600000001,-54.8715],"type":"Point"}
+}

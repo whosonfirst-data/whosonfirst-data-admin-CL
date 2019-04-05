@@ -1,0 +1,73 @@
+{
+  "id": 1343481067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1653,-34.77605,-71.1653,-34.77605",
+    "geom:latitude":-34.77605,
+    "geom:longitude":-71.1653,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"63.0",
+    "gn:admin3_code":"6302.0",
+    "gn:asciiname":"Paredones",
+    "gn:country_code":"CL",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877186,
+    "gn:latitude":-34.77605,
+    "gn:longitude":-71.1653,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Paredones",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paredones de Auquinco",
+        "Paredones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877186
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e3f462fb5cae07e0a047de10e42a0c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "locality_id":1343481067,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1343481067,
+    "wof:lastmodified":1537591114,
+    "wof:name":"Paredones",
+    "wof:parent_id":102063157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1653,
+    -34.77605,
+    -71.1653,
+    -34.77605
+],
+  "geometry": {"coordinates":[-71.1653,-34.77605],"type":"Point"}
+}

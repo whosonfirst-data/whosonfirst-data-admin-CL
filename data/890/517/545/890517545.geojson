@@ -1,0 +1,73 @@
+{
+  "id": 890517545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.06043,-29.97424,-71.06043,-29.97424",
+    "geom:latitude":-29.97424,
+    "geom:longitude":-71.06043,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Las Rojas",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Coquimbo",
+    "qs:photos":63,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":63,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883942,
+        "gp:id":348284,
+        "qs:id":1262755
+    },
+    "wof:country":"CL",
+    "wof:created":1469056013,
+    "wof:geomhash":"4ba9d6de501d8c3b41c64609c6b2bd29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063091,
+            "locality_id":890517545,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":890517545,
+    "wof:lastmodified":1505343906,
+    "wof:name":"Las Rojas",
+    "wof:parent_id":102063091,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.06043,
+    -29.97424,
+    -71.06043,
+    -29.97424
+],
+  "geometry": {"coordinates":[-71.06043,-29.97424],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293084541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.63759,-41.58228,-72.63759,-41.58228",
+    "geom:latitude":-41.58228,
+    "geom:longitude":-72.63759,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Bellavista",
+    "gn:country_code":"CL",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8048422,
+    "gn:latitude":-41.58228,
+    "gn:longitude":-72.63759,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Bellavista",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048422
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"769b4791b719c282b13d919b8a22f746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1293084541,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1293084541,
+    "wof:lastmodified":1536869926,
+    "wof:name":"Bellavista",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.63759,
+    -41.58228,
+    -72.63759,
+    -41.58228
+],
+  "geometry": {"coordinates":[-72.63759,-41.58228],"type":"Point"}
+}

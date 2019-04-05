@@ -1,0 +1,72 @@
+{
+  "id": 1326813989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.26389,-52.33393,-70.26389,-52.33393",
+    "geom:latitude":-52.33393,
+    "geom:longitude":-70.26389,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12104.0",
+    "gn:asciiname":"Seccion San Jorge",
+    "gn:country_code":"CL",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871068,
+    "gn:latitude":-52.33393,
+    "gn:longitude":-70.26389,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Secci\u00f3n San Jorge",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Secci\u00f3n San Jorge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871068
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e4dcbfc69d63545fb951e04a9e9175e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1326813989,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1326813989,
+    "wof:lastmodified":1537591103,
+    "wof:name":"Seccion San Jorge",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.26389,
+    -52.33393,
+    -70.26389,
+    -52.33393
+],
+  "geometry": {"coordinates":[-70.26389,-52.33393],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209603139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.0273,-35.44168,-72.0273,-35.44168",
+    "geom:latitude":-35.44168,
+    "geom:longitude":-72.0273,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"74.0",
+    "gn:admin3_code":"7406.0",
+    "gn:asciiname":"Poeta Gonzalez Bastias",
+    "gn:country_code":"CL",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3875552,
+    "gn:latitude":-35.44168,
+    "gn:longitude":-72.0273,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Poeta Gonz\u00e1lez Bastias",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875552
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c8ecfd0cda41624d0197afb8bcc38bb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209603139
+        }
+    ],
+    "wof:id":1209603139,
+    "wof:lastmodified":1536282100,
+    "wof:name":"Poeta Gonzalez Bastias",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.0273,
+    -35.44168,
+    -72.0273,
+    -35.44168
+],
+  "geometry": {"coordinates":[-72.0273,-35.44168],"type":"Point"}
+}

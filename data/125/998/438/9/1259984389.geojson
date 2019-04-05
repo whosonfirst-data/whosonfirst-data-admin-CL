@@ -1,0 +1,69 @@
+{
+  "id": 1259984389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.50147,-28.73431,-70.50147,-28.73431",
+    "geom:latitude":-28.73431,
+    "geom:longitude":-70.50147,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3302.0",
+    "gn:asciiname":"El Algodon",
+    "gn:country_code":"CL",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3891998,
+    "gn:latitude":-28.73431,
+    "gn:longitude":-70.50147,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Algod\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3891998
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"483173d85ef8e3084c8cd363f6e92654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1259984389,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1259984389,
+    "wof:lastmodified":1536632347,
+    "wof:name":"El Algodon",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.50147,
+    -28.73431,
+    -70.50147,
+    -28.73431
+],
+  "geometry": {"coordinates":[-70.50147,-28.73431],"type":"Point"}
+}

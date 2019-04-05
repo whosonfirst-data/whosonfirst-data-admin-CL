@@ -1,0 +1,66 @@
+{
+  "id": 890517901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.099323,-39.300792,-72.099323,-39.300792",
+    "geom:latitude":-39.300792,
+    "geom:longitude":-72.099323,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "qs:name":"Los Chilcos",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Araucania",
+    "qs:photos":255,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":255,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":350066,
+        "qs:id":1057720
+    },
+    "wof:country":"CL",
+    "wof:created":1469056034,
+    "wof:geomhash":"874b97b4de78740749216b42c3c42940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":890517901,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":890517901,
+    "wof:lastmodified":1469056034,
+    "wof:name":"Los Chilcos",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.099323,
+    -39.300792,
+    -72.099323,
+    -39.300792
+],
+  "geometry": {"coordinates":[-72.099323,-39.300792],"type":"Point"}
+}

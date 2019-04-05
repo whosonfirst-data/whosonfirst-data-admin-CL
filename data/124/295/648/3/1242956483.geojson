@@ -1,0 +1,72 @@
+{
+  "id": 1242956483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.80979,-41.36427,-72.80979,-41.36427",
+    "geom:latitude":-41.36427,
+    "geom:longitude":-72.80979,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Colonia Metrenquen",
+    "gn:country_code":"CL",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8048081,
+    "gn:latitude":-41.36427,
+    "gn:longitude":-72.80979,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Colonia Metrenqu\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Metrenqu\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048081
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7efce694a6b6b7a0e2753d6c38484027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1242956483,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1242956483,
+    "wof:lastmodified":1537591177,
+    "wof:name":"Colonia Metrenquen",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.80979,
+    -41.36427,
+    -72.80979,
+    -41.36427
+],
+  "geometry": {"coordinates":[-72.80979000000001,-41.36427],"type":"Point"}
+}

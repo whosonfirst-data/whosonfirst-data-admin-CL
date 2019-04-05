@@ -1,0 +1,72 @@
+{
+  "id": 1326509097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.14531,-41.76118,-73.14531,-41.76118",
+    "geom:latitude":-41.76118,
+    "geom:longitude":-73.14531,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10102.0",
+    "gn:asciiname":"Poblado Texas",
+    "gn:country_code":"CL",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8050744,
+    "gn:latitude":-41.76118,
+    "gn:longitude":-73.14531,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Poblado Texas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Poblado Texas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8050744
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ff0234d2ed644fef4a4d04efeebb138b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1326509097,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1326509097,
+    "wof:lastmodified":1537591179,
+    "wof:name":"Poblado Texas",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.14531,
+    -41.76118,
+    -73.14531,
+    -41.76118
+],
+  "geometry": {"coordinates":[-73.14530999999999,-41.76118],"type":"Point"}
+}

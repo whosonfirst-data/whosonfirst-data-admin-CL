@@ -1,0 +1,118 @@
+{
+  "id": 890517493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67078,-33.58682,-70.67078,-33.58682",
+    "geom:latitude":-33.58682,
+    "geom:longitude":-70.67078,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u83ef\u91d1"
+    ],
+    "name:dut_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud638\uc544\ud0a8"
+    ],
+    "name:nan_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:rum_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0430\u043a\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0425\u043e\u0430\u043a\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "San Joaqu\u00edn"
+    ],
+    "qs:name":"San Joaqu\u00edn",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":188,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":188,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":376,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3872140,
+        "gp:id":349432,
+        "qs:id":246419,
+        "wd:id":"Q187838",
+        "wk:page":"San Joaqu\u00edn"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056011,
+    "wof:geomhash":"d89bab4b7f2bd594ef8e8ac9e620043c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063119,
+            "locality_id":890517493,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517493,
+    "wof:lastmodified":1527751200,
+    "wof:name":"San Joaqu\u00edn",
+    "wof:parent_id":102063119,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67078,
+    -33.58682,
+    -70.67078,
+    -33.58682
+],
+  "geometry": {"coordinates":[-70.67077999999999,-33.58682],"type":"Point"}
+}

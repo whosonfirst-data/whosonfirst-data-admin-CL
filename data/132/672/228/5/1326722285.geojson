@@ -1,0 +1,69 @@
+{
+  "id": 1326722285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.99613,-30.33973,-70.99613,-30.33973",
+    "geom:latitude":-30.33973,
+    "geom:longitude":-70.99613,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4305.0",
+    "gn:asciiname":"La Fragua",
+    "gn:country_code":"CL",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885917,
+    "gn:latitude":-30.33973,
+    "gn:longitude":-70.99613,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Fragua",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885917
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f87b81dbe3aca8f4cd4837f8102d7218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1326722285,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1326722285,
+    "wof:lastmodified":1536710482,
+    "wof:name":"La Fragua",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.99613000000002,
+    -30.33973,
+    -70.99613000000002,
+    -30.33973
+],
+  "geometry": {"coordinates":[-70.99613000000002,-30.33973],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890517451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27998,-35.97135,-72.27998,-35.97135",
+    "geom:latitude":-35.97135,
+    "geom:longitude":-72.27998,
+    "gn:country":"CL",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Cauquenes",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Maule",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":259,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":576,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261149,
+        "gp:id":26794234,
+        "qs:id":133590,
+        "wd:id":"Q3749",
+        "wk:page":"Cauquenes"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056009,
+    "wof:geomhash":"bb877e30a618626c93e1292583622a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063129,
+            "localadmin_id":890517451,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":890517451,
+    "wof:lastmodified":1527751200,
+    "wof:name":"Cauquenes",
+    "wof:parent_id":102063129,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27998,
+    -35.97135,
+    -72.27998,
+    -35.97135
+],
+  "geometry": {"coordinates":[-72.27997999999999,-35.97135],"type":"Point"}
+}

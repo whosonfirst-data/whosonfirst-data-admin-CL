@@ -1,0 +1,73 @@
+{
+  "id": 1327034887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.02749,-27.97751,-70.02749,-27.97751",
+    "geom:latitude":-27.97751,
+    "geom:longitude":-70.02749,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3103.0",
+    "gn:asciiname":"Tranque Lautaro",
+    "gn:country_code":"CL",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3869317,
+    "gn:latitude":-27.97751,
+    "gn:longitude":-70.02749,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tranque Lautaro",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lautaro",
+        "Tranque Lautaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869317
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b4a09e6c875c02f17cdbe977ceb844d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "locality_id":1327034887,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1327034887,
+    "wof:lastmodified":1537591101,
+    "wof:name":"Tranque Lautaro",
+    "wof:parent_id":102063143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.02749,
+    -27.97751,
+    -70.02749,
+    -27.97751
+],
+  "geometry": {"coordinates":[-70.02749,-27.97751],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310679985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.25237,-39.46694,-73.25237,-39.46694",
+    "geom:latitude":-39.46694,
+    "geom:longitude":-73.25237,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"141.0",
+    "gn:asciiname":"Maiquillahue",
+    "gn:country_code":"CL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3880973,
+    "gn:latitude":-39.46694,
+    "gn:longitude":-73.25237,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Maiquillahue",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3880973
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fdc2f35ffd0ca8d3b8916566b6d878ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "locality_id":1310679985,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":1310679985,
+    "wof:lastmodified":1536665254,
+    "wof:name":"Maiquillahue",
+    "wof:parent_id":102063183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.25237,
+    -39.46694,
+    -73.25237,
+    -39.46694
+],
+  "geometry": {"coordinates":[-73.25237,-39.46694],"type":"Point"}
+}

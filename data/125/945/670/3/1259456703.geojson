@@ -1,0 +1,68 @@
+{
+  "id": 1259456703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32395,-40.64843,-72.32395,-40.64843",
+    "geom:latitude":-40.64843,
+    "geom:longitude":-72.32395,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"142.0",
+    "gn:asciiname":"Puyehue",
+    "gn:country_code":"CL",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874536,
+    "gn:latitude":-40.64843,
+    "gn:longitude":-72.32395,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Puyehue",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874536
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f02311a323480ec1df534c909a9f1aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063189,
+            "locality_id":1259456703,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":1259456703,
+    "wof:lastmodified":1536897227,
+    "wof:name":"Puyehue",
+    "wof:parent_id":102063189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32395,
+    -40.64843,
+    -72.32395,
+    -40.64843
+],
+  "geometry": {"coordinates":[-72.32395,-40.64843],"type":"Point"}
+}

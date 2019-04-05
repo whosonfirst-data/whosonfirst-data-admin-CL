@@ -1,0 +1,68 @@
+{
+  "id": 1327018907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.07521,-55.07943,-67.07521,-55.07943",
+    "geom:latitude":-55.07943,
+    "geom:longitude":-67.07521,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"122.0",
+    "gn:asciiname":"Puerto Toro",
+    "gn:country_code":"CL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11276268,
+    "gn:latitude":-55.07943,
+    "gn:longitude":-67.07521,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Puerto Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Toro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11276268,
+        "wk:page":"Puerto_Toro"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"04dd5a0ae9a885bfe0e1470b539d8279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1327018907,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327018907,
+    "wof:lastmodified":1537591185,
+    "wof:name":"Puerto Toro",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.07521,
+    -55.07943,
+    -67.07521,
+    -55.07943
+],
+  "geometry": {"coordinates":[-67.07521,-55.07943],"type":"Point"}
+}

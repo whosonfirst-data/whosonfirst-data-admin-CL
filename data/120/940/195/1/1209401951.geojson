@@ -1,0 +1,63 @@
+{
+  "id": 1209401951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.11667,-33.46667,-71.11667,-33.46667",
+    "geom:latitude":-33.46667,
+    "geom:longitude":-71.11667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"135.0",
+    "gn:admin3_code":"13504.0",
+    "gn:asciiname":"Lo Ovalle",
+    "gn:country_code":"CL",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3882519,
+    "gn:latitude":-33.46667,
+    "gn:longitude":-71.11667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Lo Ovalle",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882519
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"48bf29b47bb27be54cb5a27a9af363a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209401951
+        }
+    ],
+    "wof:id":1209401951,
+    "wof:lastmodified":1536288117,
+    "wof:name":"Lo Ovalle",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.11667,
+    -33.46667,
+    -71.11667,
+    -33.46667
+],
+  "geometry": {"coordinates":[-71.11667,-33.46667],"type":"Point"}
+}

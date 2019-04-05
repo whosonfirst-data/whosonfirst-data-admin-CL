@@ -1,0 +1,69 @@
+{
+  "id": 1226617003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24786,-42.49535,-72.24786,-42.49535",
+    "geom:latitude":-42.49535,
+    "geom:longitude":-72.24786,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10403.0",
+    "gn:asciiname":"Correntada del Toro",
+    "gn:country_code":"CL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893462,
+    "gn:latitude":-42.49535,
+    "gn:longitude":-72.24786,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Correntada del Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893462
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"93821eea4d44dbe3c4b7e23d5c7789e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":1226617003,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226617003,
+    "wof:lastmodified":1536900757,
+    "wof:name":"Correntada del Toro",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24786,
+    -42.49535,
+    -72.24786,
+    -42.49535
+],
+  "geometry": {"coordinates":[-72.24786,-42.49535],"type":"Point"}
+}

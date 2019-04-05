@@ -1,0 +1,73 @@
+{
+  "id": 1276624213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.52942,-18.42995,-69.52942,-18.42995",
+    "geom:latitude":-18.42995,
+    "geom:longitude":-69.52942,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Pachama",
+    "gn:country_code":"CL",
+    "gn:dem":3428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877834,
+    "gn:latitude":-18.42995,
+    "gn:longitude":-69.52942,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"Pachama",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pachama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877834,
+        "wk:page":"Pachama"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ff7c2b3246443a829ce82e69d6fcddc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1276624213,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1276624213,
+    "wof:lastmodified":1537591116,
+    "wof:name":"Pachama",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.52942,
+    -18.42995,
+    -69.52942,
+    -18.42995
+],
+  "geometry": {"coordinates":[-69.52942,-18.42995],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277162805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09804,-34.41198,-70.09804,-34.41198",
+    "geom:latitude":-34.41198,
+    "geom:longitude":-70.09804,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"6108.0",
+    "gn:asciiname":"La Placilla",
+    "gn:country_code":"CL",
+    "gn:dem":2809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3884993,
+    "gn:latitude":-34.41198,
+    "gn:longitude":-70.09804,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Placilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Placillas",
+        "La Placilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3884993
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"5c7ecd02b5299a7cc8aeed6e0164dbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":1277162805,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1277162805,
+    "wof:lastmodified":1537591133,
+    "wof:name":"La Placilla",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09804,
+    -34.41198,
+    -70.09804,
+    -34.41198
+],
+  "geometry": {"coordinates":[-70.09804,-34.41198],"type":"Point"}
+}

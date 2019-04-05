@@ -1,0 +1,62 @@
+{
+  "id": 1209306091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31995,-29.7376,-71.31995,-29.7376",
+    "geom:latitude":-29.7376,
+    "geom:longitude":-71.31995,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"41.0",
+    "gn:asciiname":"Trigo Blanco",
+    "gn:country_code":"CL",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3869099,
+    "gn:latitude":-29.7376,
+    "gn:longitude":-71.31995,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Trigo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869099
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"327185235678d67e7990c3f51c5e8047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209306091
+        }
+    ],
+    "wof:id":1209306091,
+    "wof:lastmodified":1536291192,
+    "wof:name":"Trigo Blanco",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31995,
+    -29.7376,
+    -71.31995,
+    -29.7376
+],
+  "geometry": {"coordinates":[-71.31995000000001,-29.7376],"type":"Point"}
+}

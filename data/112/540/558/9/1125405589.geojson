@@ -1,0 +1,74 @@
+{
+  "id": 1125405589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.57581,-38.94959,-72.57581,-38.94959",
+    "geom:latitude":-38.94959,
+    "geom:longitude":-72.57581,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-38.94959,
+    "lbl:longitude":-72.57581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8261381,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Freire",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155750,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261381,
+        "qs_pg:id":1155750
+    },
+    "wof:country":"CL",
+    "wof:created":1497049619,
+    "wof:geomhash":"1b1c0b98c21d374745fda815185be39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "localadmin_id":1125405589,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1125405589,
+    "wof:lastmodified":1509390150,
+    "wof:name":"Freire",
+    "wof:parent_id":102063107,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.57581,
+    -38.94959,
+    -72.57581,
+    -38.94959
+],
+  "geometry": {"coordinates":[-72.57581,-38.94959],"type":"Point"}
+}

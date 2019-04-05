@@ -1,0 +1,72 @@
+{
+  "id": 1310671871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.45562,-41.30546,-73.45562,-41.30546",
+    "geom:latitude":-41.30546,
+    "geom:longitude":-73.45562,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10106.0",
+    "gn:asciiname":"Estacion Rio Frio",
+    "gn:country_code":"CL",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3889763,
+    "gn:latitude":-41.30546,
+    "gn:longitude":-73.45562,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Estaci\u00f3n R\u00edo Fr\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estaci\u00f3n R\u00edo Fr\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3889763
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b8fc46834579a1ed4134d4a7edf037cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1310671871,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1310671871,
+    "wof:lastmodified":1537591144,
+    "wof:name":"Estacion Rio Frio",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.45562,
+    -41.30546,
+    -73.45562,
+    -41.30546
+],
+  "geometry": {"coordinates":[-73.45562,-41.30546],"type":"Point"}
+}

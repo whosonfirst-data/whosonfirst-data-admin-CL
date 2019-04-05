@@ -1,0 +1,67 @@
+{
+  "id": 1209401827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57462,-34.01526,-71.57462,-34.01526",
+    "geom:latitude":-34.01526,
+    "geom:longitude":-71.57462,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Quelentaro",
+    "gn:country_code":"CL",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874432,
+    "gn:latitude":-34.01526,
+    "gn:longitude":-71.57462,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Quelentaro",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad de Quelentaro",
+        "Cuelentaro",
+        "Quelentaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874432
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"441eb3d5365dce25ad53fbd7848addec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209401827
+        }
+    ],
+    "wof:id":1209401827,
+    "wof:lastmodified":1537591109,
+    "wof:name":"Quelentaro",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57462,
+    -34.01526,
+    -71.57462,
+    -34.01526
+],
+  "geometry": {"coordinates":[-71.57462,-34.01526],"type":"Point"}
+}

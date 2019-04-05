@@ -1,0 +1,152 @@
+{
+  "id": 1108980111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67899,-33.44186,-70.67899,-33.44186",
+    "geom:latitude":-33.44186,
+    "geom:longitude":-70.67899,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-33.44186,
+    "lbl:longitude":-70.67899,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:baq_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:cat_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:chi_x_preferred":[
+        "\u91d1\u5854\u8afe\u99ac\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:eng_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:fre_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:ger_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:glg_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:ita_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a8\ud0c0\ub178\ub974\ub9d0"
+    ],
+    "name:nan_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:oci_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:por_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:rum_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0442\u0430-\u041d\u043e\u0440\u043c\u0430\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:spa_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u043d\u0442\u0430 \u041d\u043e\u0440\u043c\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Quinta Normal"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5854\u8afe\u99ac\u723e"
+    ],
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3873992,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Quinta Normal",
+    "qs_pg:name_adm0":"Chile",
+    "qs_pg:name_adm1":"Santiago",
+    "qs_pg:photos":417,
+    "qs_pg:photos_1k":84,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":417,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1141882,
+    "qs_pg:qs_pg_placetype":"locality_gp_neighbourhood_gn",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424782,
+    "qs_pg:woe_id":349234,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424782,
+    "woe:name_adm0":"Chile",
+    "woe:name_adm1":"Santiago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873992,
+        "qs_pg:id":1141882,
+        "wd:id":"Q56113",
+        "woe:id":349234
+    },
+    "wof:country":"CL",
+    "wof:created":1496793282,
+    "wof:geomhash":"ed4f28befeb5d83f4c5829ae0f918cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "locality_id":1108980111,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1108980111,
+    "wof:lastmodified":1513937870,
+    "wof:name":"Quinta Normal",
+    "wof:parent_id":102063117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67899,
+    -33.44186,
+    -70.67899,
+    -33.44186
+],
+  "geometry": {"coordinates":[-70.67899,-33.44186],"type":"Point"}
+}

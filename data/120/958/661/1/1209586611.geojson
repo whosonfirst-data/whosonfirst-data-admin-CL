@@ -1,0 +1,66 @@
+{
+  "id": 1209586611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.13084,-39.79878,-73.13084,-39.79878",
+    "geom:latitude":-39.79878,
+    "geom:longitude":-73.13084,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"141.0",
+    "gn:asciiname":"Hueyelhue",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3887586,
+    "gn:latitude":-39.79878,
+    "gn:longitude":-73.13084,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Hueyelhue",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huellelhue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887586
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"da23b06c5f92fc7d2937074e5894d3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209586611
+        }
+    ],
+    "wof:id":1209586611,
+    "wof:lastmodified":1537591140,
+    "wof:name":"Hueyelhue",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.13084,
+    -39.79878,
+    -73.13084,
+    -39.79878
+],
+  "geometry": {"coordinates":[-73.13084000000001,-39.79878],"type":"Point"}
+}

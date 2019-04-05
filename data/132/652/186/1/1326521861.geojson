@@ -1,0 +1,75 @@
+{
+  "id": 1326521861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3658,-31.62715,-71.3658,-31.62715",
+    "geom:latitude":-31.62715,
+    "geom:longitude":-71.3658,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4201.0",
+    "gn:asciiname":"Tunga Norte",
+    "gn:country_code":"CL",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868919,
+    "gn:latitude":-31.62715,
+    "gn:longitude":-71.3658,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Tunga Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tunga Norte"
+    ],
+    "name:und_x_variant":[
+        "Tunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868919
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"787ee56f2143fee7c20a4bb580fe1604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063179,
+            "locality_id":1326521861,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1326521861,
+    "wof:lastmodified":1537591100,
+    "wof:name":"Tunga Norte",
+    "wof:parent_id":102063179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3658,
+    -31.62715,
+    -71.3658,
+    -31.62715
+],
+  "geometry": {"coordinates":[-71.36579999999999,-31.62715],"type":"Point"}
+}

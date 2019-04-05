@@ -1,0 +1,127 @@
+{
+  "id": 1125297143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.08767,-40.6108,-73.08767,-40.6108",
+    "geom:latitude":-40.6108,
+    "geom:longitude":-73.08767,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-40.6108,
+    "lbl:longitude":-73.08767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u043e\u0440\u043d\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Osorno"
+    ],
+    "name:eng_x_preferred":[
+        "Osorno"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u0648\u0631\u0646\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Osorno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30bd\u30eb\u30ce"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e1\u10dd\u10e0\u10dc\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc18c\ub974\ub178"
+    ],
+    "name:lit_x_preferred":[
+        "Osornas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043e\u0440\u043d\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u043e\u0440\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u043e\u0440\u043d\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u7d22\u5c14\u8bfa"
+    ],
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8261411,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Osorno",
+    "qs_pg:name_adm0":"Chile",
+    "qs_pg:name_adm1":"Los Lagos",
+    "qs_pg:photos":189,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1937,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192747,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424782,
+    "qs_pg:woe_id":26794168,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424782,
+    "woe:name_adm0":"Chile",
+    "woe:name_adm1":"Los Lagos",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261411,
+        "gp:id":26794168,
+        "qs_pg:id":192747
+    },
+    "wof:country":"CL",
+    "wof:created":1497043209,
+    "wof:geomhash":"99ba40c3f76d6a2572b4eb9174348daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063121,
+            "localadmin_id":1125297143,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1125297143,
+    "wof:lastmodified":1509387645,
+    "wof:name":"Osorno",
+    "wof:parent_id":102063121,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08767,
+    -40.6108,
+    -73.08767,
+    -40.6108
+],
+  "geometry": {"coordinates":[-73.08767,-40.6108],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343342643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1741,-35.72881,-71.1741,-35.72881",
+    "geom:latitude":-35.72881,
+    "geom:longitude":-71.1741,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"74.0",
+    "gn:admin3_code":"7402.0",
+    "gn:asciiname":"Colbun Alto",
+    "gn:country_code":"CL",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3894318,
+    "gn:latitude":-35.72881,
+    "gn:longitude":-71.1741,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Colb\u00fan Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colbun",
+        "Colb\u00fan Alto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3894318
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a52c0c9ddcb16aaa093a18502f71e709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063097,
+            "locality_id":1343342643,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1343342643,
+    "wof:lastmodified":1537591156,
+    "wof:name":"Colbun Alto",
+    "wof:parent_id":102063097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1741,
+    -35.72881,
+    -71.1741,
+    -35.72881
+],
+  "geometry": {"coordinates":[-71.1741,-35.72881],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209812137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63049,-31.89814,-70.63049,-31.89814",
+    "geom:latitude":-31.89814,
+    "geom:longitude":-70.63049,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4204.0",
+    "gn:asciiname":"Cuncumen",
+    "gn:country_code":"CL",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3892974,
+    "gn:latitude":-31.89814,
+    "gn:longitude":-70.63049,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Cuncum\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cuncum\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3892974
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b64375ebf06668ac7f13430138cd4a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063179,
+            "locality_id":1209812137,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1209812137,
+    "wof:lastmodified":1537591152,
+    "wof:name":"Cuncumen",
+    "wof:parent_id":102063179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63049000000002,
+    -31.89814,
+    -70.63049000000002,
+    -31.89814
+],
+  "geometry": {"coordinates":[-70.63049000000002,-31.89814],"type":"Point"}
+}

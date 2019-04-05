@@ -1,0 +1,73 @@
+{
+  "id": 1293764881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20324,-35.25424,-72.20324,-35.25424",
+    "geom:latitude":-35.25424,
+    "geom:longitude":-72.20324,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7102.0",
+    "gn:asciiname":"Canelillos",
+    "gn:country_code":"CL",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896943,
+    "gn:latitude":-35.25424,
+    "gn:longitude":-72.20324,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Canelillos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canelillo",
+        "Canelillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896943
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c46e5b28624d47e3b18cdb54478489b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1293764881,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1293764881,
+    "wof:lastmodified":1537591165,
+    "wof:name":"Canelillos",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20324000000002,
+    -35.25424,
+    -72.20324000000002,
+    -35.25424
+],
+  "geometry": {"coordinates":[-72.20324000000002,-35.25424],"type":"Point"}
+}

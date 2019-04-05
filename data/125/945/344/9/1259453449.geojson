@@ -1,0 +1,72 @@
+{
+  "id": 1259453449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.09974,-20.93218,-69.09974,-20.93218",
+    "geom:latitude":-20.93218,
+    "geom:longitude":-69.09974,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1401.0",
+    "gn:asciiname":"Tiquima",
+    "gn:country_code":"CL",
+    "gn:dem":2005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3869772,
+    "gn:latitude":-20.93218,
+    "gn:longitude":-69.09974,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Tiquima",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tiquima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869772
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8df3801236f3ebffc8cc35560534e565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1259453449,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1259453449,
+    "wof:lastmodified":1537591101,
+    "wof:name":"Tiquima",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.09974,
+    -20.93218,
+    -69.09974,
+    -20.93218
+],
+  "geometry": {"coordinates":[-69.09974,-20.93218],"type":"Point"}
+}

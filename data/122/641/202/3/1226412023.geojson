@@ -1,0 +1,70 @@
+{
+  "id": 1226412023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.86859,-18.34414,-69.86859,-18.34414",
+    "geom:latitude":-18.34414,
+    "geom:longitude":-69.86859,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"151.0",
+    "gn:admin3_code":"15101.0",
+    "gn:asciiname":"Sora",
+    "gn:country_code":"CL",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870648,
+    "gn:latitude":-18.34414,
+    "gn:longitude":-69.86859,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Sora",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870648,
+        "wk:page":"Sora,_Chile"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"eb836d7e945205cec67329a1d03ea2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063165,
+            "locality_id":1226412023,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1226412023,
+    "wof:lastmodified":1537489474,
+    "wof:name":"Sora",
+    "wof:parent_id":102063165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.86859,
+    -18.34414,
+    -69.86859,
+    -18.34414
+],
+  "geometry": {"coordinates":[-69.86859,-18.34414],"type":"Point"}
+}

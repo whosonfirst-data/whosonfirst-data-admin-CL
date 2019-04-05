@@ -1,0 +1,69 @@
+{
+  "id": 1259977405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05149,-36.84573,-73.05149,-36.84573",
+    "geom:latitude":-36.84573,
+    "geom:longitude":-73.05149,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8101.0",
+    "gn:asciiname":"Pedro de Valdivia",
+    "gn:country_code":"CL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6693588,
+    "gn:latitude":-36.84573,
+    "gn:longitude":-73.05149,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Pedro de Valdivia",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6693588
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7ecb005a36ab663b9d696032bc478ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "locality_id":1259977405,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1259977405,
+    "wof:lastmodified":1536643236,
+    "wof:name":"Pedro de Valdivia",
+    "wof:parent_id":102063171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05149,
+    -36.84573,
+    -73.05149,
+    -36.84573
+],
+  "geometry": {"coordinates":[-73.05149,-36.84573],"type":"Point"}
+}

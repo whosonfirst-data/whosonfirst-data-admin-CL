@@ -1,0 +1,230 @@
+{
+  "id": 102018151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000637,
+    "geom:area_square_m":6235933.637806,
+    "geom:bbox":"-71.7795144981,-37.6884758078,-71.7348881188,-37.6617743775",
+    "geom:latitude":-37.675125,
+    "geom:longitude":-71.757201,
+    "iso:country":"CL",
+    "lbl:latitude":-37.679473,
+    "lbl:longitude":-71.746216,
+    "mps:latitude":-37.679473,
+    "mps:longitude":-71.746216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0627\u0631\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5df4\u5df4\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:eng_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:fre_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:ita_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30d0\u30eb\u30d0\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ubc14\ub974\ubc14\ub77c"
+    ],
+    "name:nan_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:oci_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0627\u0631\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:rum_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:spa_x_variant":[
+        "Sta Barbara",
+        "Sta. Barbara",
+        "Santa B\u00e1rbara"
+    ],
+    "name:swe_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:war_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Chile",
+    "ne:ADM0_A3":"CHL",
+    "ne:ADM1NAME":"BHo-B",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"CL",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-37.670015,
+    "ne:LONGITUDE":-72.019982,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Santa Barbara3",
+    "ne:MAX_AREAKM":3.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-72.008333,
+    "ne:MAX_BBXMIN":-72.033333,
+    "ne:MAX_BBYMAX":-37.658333,
+    "ne:MAX_BBYMIN":-37.675,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":8.0,
+    "ne:MAX_PERMI":5.0,
+    "ne:MAX_POP10":3494,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-72.0225,
+    "ne:MEAN_BBYC":-37.6675,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":3.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-72.008333,
+    "ne:MIN_BBXMIN":-72.033333,
+    "ne:MIN_BBYMAX":-37.658333,
+    "ne:MIN_BBYMIN":-37.675,
+    "ne:MIN_PERKM":8.0,
+    "ne:MIN_PERMI":5.0,
+    "ne:NAME":"Santa Barbara",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Santa Barbara",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":3494,
+    "ne:POP_MIN":3494,
+    "ne:POP_OTHER":3494,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Chile",
+    "ne:SOV_A3":"CHL",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Santa Barbara",
+    "qs:loc_lc":"8261321",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06b0bfc8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":8261321,
+        "gp:id":26794100,
+        "qs:id":381562,
+        "wd:id":"Q187961"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2fa8de1af6e1c6fd7ccc7f59ea58933e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063151,
+            "locality_id":102018151,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":102018151,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815718,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":102063151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.77951449810965,
+    -37.68847580783095,
+    -71.73488811883034,
+    -37.66177437754297
+],
+  "geometry": {"coordinates":[[[[-71.74433145936229,-37.68835431079176],[-71.74654801857979,-37.68847580783095],[-71.74875180318818,-37.68825128337885],[-71.75085809386323,-37.68768936996039],[-71.75278592363593,-37.68681166977292],[-71.75446119297145,-37.68565192327924],[-71.75581951952233,-37.68425471091432],[-71.75680871271307,-37.68267373805201],[-71.7573907779982,-37.68096976941852],[-71.75754337398507,-37.67920829259492],[-71.75726066688085,-37.67745700060279],[-71.7565535500554,-37.67578319043081],[-71.7554492209872,-37.67425117748773],[-71.75399013252328,-37.67291982524248],[-71.75223235929712,-37.67184028479807],[-71.75024344240566,-37.67105403101216],[-71.74809979523674,-37.67059127035712],[-71.74588376992389,-37.67046978144308],[-71.74368049671219,-37.67069423256007],[-71.74157461707031,-37.67125600234773],[-71.73964703539133,-37.67213351047531],[-71.73797181344005,-37.67329304571931],[-71.73661332634994,-37.67469005980551],[-71.73562378913724,-37.67627087754639],[-71.73504124872177,-37.67797475783144],[-71.73488811883034,-37.6797362265298],[-71.73517031453785,-37.68148759185714],[-71.73587702032995,-37.68316154565974],[-71.73698110130442,-37.68469375066279],[-71.73844014238412,-37.68602531415781],[-71.7401980761496,-37.68710505288087],[-71.74218733706293,-37.68789146178819],[-71.74433145936229,-37.68835431079176]]],[[[-71.76630691656965,-37.67965900472912],[-71.76852322590199,-37.67978009709086],[-71.77072666252661,-37.67955517387391],[-71.77283252051211,-37.67899288294125],[-71.77475984954404,-37.67811484100743],[-71.77643456936011,-37.6769548016727],[-71.77779231875826,-37.67555735662378],[-71.77878092936407,-37.67397622016851],[-71.77936242903294,-37.67227216330782],[-71.77951449810965,-37.67051067699821],[-71.77923132304022,-37.66875945460995],[-71.77852381515834,-37.66708579044358],[-71.77741918694366,-37.66555399428717],[-71.77595990271021,-37.66422292127438],[-71.77420204458687,-37.66314371177955],[-71.77221315691196,-37.66235782794989],[-71.77006965193809,-37.66189546205268],[-71.76785387633296,-37.66177437754297],[-71.76565095075571,-37.66199922718525],[-71.76354550333558,-37.66256137431774],[-71.76161842188205,-37.66343922411806],[-71.75994374896581,-37.66459905223676],[-71.758585838649,-37.66599629914258],[-71.75759688380413,-37.66757728069314],[-71.75701490898354,-37.66928124947069],[-71.75686230617961,-37.67104272792827],[-71.75714497020158,-37.67279402389119],[-71.7578520675182,-37.67446783185773],[-71.75895644815446,-37.67599982014755],[-71.76041568548811,-37.67733110437646],[-71.76217370453008,-37.67841051201439],[-71.76416293644385,-37.67919655074867],[-71.76630691656965,-37.67965900472912]]]],"type":"MultiPolygon"}
+}

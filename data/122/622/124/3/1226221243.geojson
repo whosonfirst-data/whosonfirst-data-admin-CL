@@ -1,0 +1,71 @@
+{
+  "id": 1226221243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9304,-43.21102,-71.9304,-43.21102",
+    "geom:latitude":-43.21102,
+    "geom:longitude":-71.9304,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"104.0",
+    "gn:asciiname":"Paso Ramo",
+    "gn:country_code":"CL",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11232925,
+    "gn:latitude":-43.21102,
+    "gn:longitude":-71.9304,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Paso Ramo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paso Ramo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11232925
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c7aad07d3a1ea2845c2983c07a33ade6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":1226221243,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226221243,
+    "wof:lastmodified":1537591185,
+    "wof:name":"Paso Ramo",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9304,
+    -43.21102,
+    -71.9304,
+    -43.21102
+],
+  "geometry": {"coordinates":[-71.93040000000001,-43.21102],"type":"Point"}
+}

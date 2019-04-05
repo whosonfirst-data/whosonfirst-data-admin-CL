@@ -1,0 +1,115 @@
+{
+  "id": 102017999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000359,
+    "geom:area_square_m":3114655.653295,
+    "geom:bbox":"-72.8356583619,-45.4729779862,-72.810093755,-45.4549886167",
+    "geom:latitude":-45.463983,
+    "geom:longitude":-72.822876,
+    "gn:population":1243,
+    "iso:country":"CL",
+    "lbl:latitude":-45.463984,
+    "lbl:longitude":-72.822876,
+    "mps:latitude":-45.463984,
+    "mps:longitude":-72.822876,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Puerto Chacabuco"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Chacabuco"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Chacabuco"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Chacabuco"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Chacabuco"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Chacabuco"
+    ],
+    "name:spa_x_variant":[
+        "Pto Chacabuco",
+        "Pto. Chacabuco"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Chacabuco"
+    ],
+    "qs:a0":"Chile",
+    "qs:a1":"*Aisen del General Carlos Ibanez Del Campo",
+    "qs:a1r":"*",
+    "qs:a2":"Aisen",
+    "qs:id":0,
+    "qs:la":"Aisen",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Puerto Chacabuco",
+    "qs:loc_alt":"Puerto Chacabuco",
+    "qs:loc_lc":"3950166",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06b17bb6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3950166,
+        "gp:id":350104,
+        "qs:id":1320719,
+        "qs_pg:id":1320719,
+        "wd:id":"Q5492810",
+        "wk:page":"Puerto Chacabuco"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e7042798f8a1b07617914874f2403710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063187,
+            "locality_id":102017999,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":102017999,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527637771,
+    "wof:name":"Puerto Chacabuco",
+    "wof:parent_id":102063187,
+    "wof:placetype":"locality",
+    "wof:population":1243,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.83565836189754,
+    -45.4729779861506,
+    -72.81009375495898,
+    -45.45498861674137
+],
+  "geometry": {"coordinates":[[[-72.82004208392163,-45.47275756267113],[-72.82252951428146,-45.4729779861506],[-72.82503026831199,-45.47285269514281],[-72.82744819850058,-45.47238650591781],[-72.82969034563503,-45.47159734118487],[-72.83167051719332,-45.47051554021766],[-72.83331260394691,-45.46918269108633],[-72.83455350667415,-45.46765003015634],[-72.83534556022337,-45.46597647070914],[-72.83565836189754,-45.46422633680938],[-72.83547993440689,-45.46246688982838],[-72.83481717952489,-45.4607657429126],[-72.83369560602176,-45.45918826286513],[-72.83215834337062,-45.45779505925177],[-72.83026448004384,-45.45663965705322],[-72.82808679090354,-45.4557664420205],[-72.82570894130544,-45.4552089573458],[-72.82322227523815,-45.45498861674137],[-72.82072231041712,-45.45511388306083],[-72.81830507420514,-45.45557994379253],[-72.81606342016256,-45.45636889578905],[-72.81408346574295,-45.45745043216409],[-72.81244128711707,-45.45878300512913],[-72.81119999749362,-45.46031542036269],[-72.81040732092559,-45.46198880198831],[-72.81009375495898,-45.46373885301294],[-72.81027139324021,-45.46549832468236],[-72.81093345414561,-45.46719960009153],[-72.81205453455686,-45.46877729287533],[-72.81359158006933,-45.47017076108078],[-72.81548553526814,-45.47132643944552],[-72.81766361130465,-45.47219990017477],[-72.82004208392163,-45.47275756267113]]],"type":"Polygon"}
+}

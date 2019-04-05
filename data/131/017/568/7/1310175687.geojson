@@ -1,0 +1,72 @@
+{
+  "id": 1310175687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.72413,-19.22757,-68.72413,-19.22757",
+    "geom:latitude":-19.22757,
+    "geom:longitude":-68.72413,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1403.0",
+    "gn:asciiname":"Alsore",
+    "gn:country_code":"CL",
+    "gn:dem":3946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900007,
+    "gn:latitude":-19.22757,
+    "gn:longitude":-68.72413,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Alsore",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alsore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900007
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"42b9501aa551cf27b1eb581cc3fc8ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1310175687,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1310175687,
+    "wof:lastmodified":1537591171,
+    "wof:name":"Alsore",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.72413,
+    -19.22757,
+    -68.72413,
+    -19.22757
+],
+  "geometry": {"coordinates":[-68.72413,-19.22757],"type":"Point"}
+}

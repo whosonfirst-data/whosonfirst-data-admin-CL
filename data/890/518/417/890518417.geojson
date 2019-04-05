@@ -1,0 +1,134 @@
+{
+  "id": 890518417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.0581,-41.12162,-73.0581,-41.12162",
+    "geom:latitude":-41.12162,
+    "geom:longitude":-73.0581,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0648\u062a\u064a\u0644\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Frutillar"
+    ],
+    "name:baq_x_preferred":[
+        "Frutillar"
+    ],
+    "name:cat_x_preferred":[
+        "Frutillar"
+    ],
+    "name:chi_x_preferred":[
+        "\u5f17\u9b6f\u8482\u4e9e\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Frutillar"
+    ],
+    "name:eng_x_preferred":[
+        "Frutillar"
+    ],
+    "name:fre_x_preferred":[
+        "Frutillar"
+    ],
+    "name:ger_x_preferred":[
+        "Frutillar"
+    ],
+    "name:ita_x_preferred":[
+        "Frutillar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30eb\u30c6\u30a3\u30b8\u30e3\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub8e8\ud2f0\uc57c\ub974"
+    ],
+    "name:nan_x_preferred":[
+        "Frutillar"
+    ],
+    "name:oci_x_preferred":[
+        "Frutillar"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062a\u06cc\u0644\u0627\u0631\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Frutillar"
+    ],
+    "name:rum_x_preferred":[
+        "Frutillar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0443\u0442\u0438\u043b\u044c\u044f\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Frutillar"
+    ],
+    "name:unk_x_variant":[
+        "Frutillar"
+    ],
+    "qs:name":"Frutillar Alto",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":187,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":187,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3889262,
+        "gp:id":419927,
+        "qs:id":238236,
+        "wd:id":"Q13058"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056064,
+    "wof:geomhash":"df95360782f3102be8112233e4509368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":890518417,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890518417,
+    "wof:lastmodified":1513937155,
+    "wof:name":"Frutillar Alto",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0581,
+    -41.12162,
+    -73.0581,
+    -41.12162
+],
+  "geometry": {"coordinates":[-73.0581,-41.12162],"type":"Point"}
+}

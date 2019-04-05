@@ -1,0 +1,151 @@
+{
+  "id": 102018071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000317,
+    "geom:area_square_m":3120164.747222,
+    "geom:bbox":"-72.922036772,-37.2699460371,-72.8994965419,-37.2519299895",
+    "geom:latitude":-37.260938,
+    "geom:longitude":-72.910767,
+    "iso:country":"CL",
+    "lbl:latitude":-37.260938,
+    "lbl:longitude":-72.910767,
+    "mps:latitude":-37.260938,
+    "mps:longitude":-72.910767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:baq_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:bre_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u963f\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:glg_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:hrv_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:ina_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ud6c4\uc544\ub098"
+    ],
+    "name:lat_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:oci_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:por_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:rum_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0425\u0443\u0430\u043d\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:vol_x_preferred":[
+        "Santa Juana"
+    ],
+    "name:war_x_preferred":[
+        "Santa Juana"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Santa Juana",
+    "qs:loc_lc":"8261196",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":728,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261196,
+        "gp:id":26794110,
+        "qs:id":904470,
+        "wd:id":"Q187974"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"92805b8abdfa6b2e6a5b23901b7b00f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "locality_id":102018071,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":102018071,
+    "wof:lastmodified":1553815718,
+    "wof:name":"Santa Juana",
+    "wof:parent_id":102063171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.922036771978,
+    -37.26994603714764,
+    -72.89949654194204,
+    -37.25192998947988
+],
+  "geometry": {"coordinates":[[[-72.90832346511567,-37.26973410308223],[-72.91051762486148,-37.26994603714764],[-72.91272135894745,-37.26981175767681],[-72.91484994942235,-37.26933642583998],[-72.91682156962412,-37.26853831370529],[-72.91856043271196,-37.26744810124045],[-72.91999970694188,-37.26610769593264],[-72.92108408522141,-37.26456862059568],[-72.92177191000911,-37.26289003158158],[-72.922036771978,-37.26113644382907],[-72.92186852134768,-37.25937525041867],[-72.9212736535611,-37.25767413213412],[-72.92027505515323,-37.25609845666526],[-72.91891112026269,-37.25470876737673],[-72.91723427234412,-37.25355845802505],[-72.91530894831857,-37.25269172257426],[-72.91320912281861,-37.25214185863916],[-72.91101546759047,-37.25192998947988],[-72.90881225488042,-37.25206425341852],[-72.90668412326497,-37.25253949164951],[-72.90471282954897,-37.25333744635546],[-72.90297411086864,-37.25442746153562],[-72.90153477698331,-37.25576765973764],[-72.90045014406749,-37.25730654967774],[-72.8997619084286,-37.25898500322882],[-72.89949654194204,-37.26073852607521],[-72.89966427119643,-37.2624997350178],[-72.90025868012359,-37.2642009469081],[-72.90125695204577,-37.26577677980578],[-72.90262074252871,-37.26716666637899],[-72.90429765010259,-37.26831718283638],[-72.90622322876445,-37.26918410368403],[-72.90832346511567,-37.26973410308223]]],"type":"Polygon"}
+}

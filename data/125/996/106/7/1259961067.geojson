@@ -1,0 +1,70 @@
+{
+  "id": 1259961067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.46456,-35.76657,-71.46456,-35.76657",
+    "geom:latitude":-35.76657,
+    "geom:longitude":-71.46456,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"74.0",
+    "gn:admin3_code":"7402.0",
+    "gn:asciiname":"Rari",
+    "gn:country_code":"CL",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3873694,
+    "gn:latitude":-35.76657,
+    "gn:longitude":-71.46456,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Rari",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873694,
+        "wk:page":"Rari"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3918071d977d740c48601fa0b06d52e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063097,
+            "locality_id":1259961067,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1259961067,
+    "wof:lastmodified":1537489477,
+    "wof:name":"Rari",
+    "wof:parent_id":102063097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.46455999999998,
+    -35.76657,
+    -71.46455999999998,
+    -35.76657
+],
+  "geometry": {"coordinates":[-71.46455999999998,-35.76657],"type":"Point"}
+}

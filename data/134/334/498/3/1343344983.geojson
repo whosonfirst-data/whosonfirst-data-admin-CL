@@ -1,0 +1,72 @@
+{
+  "id": 1343344983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.10766,-41.5048,-73.10766,-41.5048",
+    "geom:latitude":-41.5048,
+    "geom:longitude":-73.10766,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Cumbre Vistosa",
+    "gn:country_code":"CL",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8049589,
+    "gn:latitude":-41.5048,
+    "gn:longitude":-73.10766,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Cumbre Vistosa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cumbre Vistosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049589
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c2dcc809b3ebe92a9d05b464fbc95225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1343344983,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1343344983,
+    "wof:lastmodified":1537591178,
+    "wof:name":"Cumbre Vistosa",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.10766,
+    -41.5048,
+    -73.10766,
+    -41.5048
+],
+  "geometry": {"coordinates":[-73.10766,-41.5048],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 890517719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.63412,-33.638918,-71.63412,-33.638918",
+    "geom:latitude":-33.638918,
+    "geom:longitude":-71.63412,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Santo Domingo",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1031,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:elevation":14.0,
+    "wd:latitude":"18.476388888",
+    "wd:longitude":"-69.893333333",
+    "wd:wordcount":5634,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261251,
+        "gp:id":26794346,
+        "qs:id":421374,
+        "qs_pg:id":1042634,
+        "wk:page":"Santo Domingo"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056021,
+    "wof:geomhash":"b0f7db3abcae1e09dc5b7a00c7f664d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063167,
+            "localadmin_id":890517719,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890517719,
+    "wof:lastmodified":1527751202,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":102063167,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.63412,
+    -33.638918,
+    -71.63412,
+    -33.638918
+],
+  "geometry": {"coordinates":[-71.63412,-33.638918],"type":"Point"}
+}

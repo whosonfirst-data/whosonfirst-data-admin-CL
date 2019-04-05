@@ -1,0 +1,74 @@
+{
+  "id": 1125421669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.33308,-30.94635,-71.33308,-30.94635",
+    "geom:latitude":-30.94635,
+    "geom:longitude":-71.33308,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-30.94635,
+    "lbl:longitude":-71.33308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8261232,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Punitaqui",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904475,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261232,
+        "qs_pg:id":904475
+    },
+    "wof:country":"CL",
+    "wof:created":1497052373,
+    "wof:geomhash":"3ba97b2340328d320aabf1b2db1b333e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "localadmin_id":1125421669,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1125421669,
+    "wof:lastmodified":1509390492,
+    "wof:name":"Punitaqui",
+    "wof:parent_id":102063113,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.33308,
+    -30.94635,
+    -71.33308,
+    -30.94635
+],
+  "geometry": {"coordinates":[-71.33308,-30.94635],"type":"Point"}
+}

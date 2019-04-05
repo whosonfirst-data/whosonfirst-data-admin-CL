@@ -1,0 +1,70 @@
+{
+  "id": 890518133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.69468,-33.511915,-70.69468,-33.511915",
+    "geom:latitude":-33.511915,
+    "geom:longitude":-70.69468,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pedro Aguirre Cerda",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":114,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":155,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":683,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794297,
+        "qs:id":359259,
+        "wd:id":"Q845",
+        "wk:page":"Pedro Aguirre Cerda"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056050,
+    "wof:geomhash":"e895a6a0232f5da44a3c1916650e7913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "localadmin_id":890518133,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890518133,
+    "wof:lastmodified":1527751229,
+    "wof:name":"Pedro Aguirre Cerda",
+    "wof:parent_id":102063117,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.69468,
+    -33.511915,
+    -70.69468,
+    -33.511915
+],
+  "geometry": {"coordinates":[-70.69468000000001,-33.511915],"type":"Point"}
+}

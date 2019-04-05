@@ -1,0 +1,69 @@
+{
+  "id": 1276306323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.94822,-40.55301,-72.94822,-40.55301",
+    "geom:latitude":-40.55301,
+    "geom:longitude":-72.94822,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10301.0",
+    "gn:asciiname":"Mulpulmo",
+    "gn:country_code":"CL",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879191,
+    "gn:latitude":-40.55301,
+    "gn:longitude":-72.94822,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Mulpulmo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879191
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4e671d7f3325be19f5cf589e9f67d8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063121,
+            "locality_id":1276306323,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1276306323,
+    "wof:lastmodified":1536814263,
+    "wof:name":"Mulpulmo",
+    "wof:parent_id":102063121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.94821999999998,
+    -40.55301,
+    -72.94821999999998,
+    -40.55301
+],
+  "geometry": {"coordinates":[-72.94821999999998,-40.55301],"type":"Point"}
+}

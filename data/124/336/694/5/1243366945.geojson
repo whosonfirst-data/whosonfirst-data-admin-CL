@@ -1,0 +1,71 @@
+{
+  "id": 1243366945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32286,-48.20942,-72.32286,-48.20942",
+    "geom:latitude":-48.20942,
+    "geom:longitude":-72.32286,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"113.0",
+    "gn:asciiname":"Entrada Mayer",
+    "gn:country_code":"CL",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11407850,
+    "gn:latitude":-48.20942,
+    "gn:longitude":-72.32286,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Entrada Mayer",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Entrada Mayer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11407850
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"424be4f18763e72ffc7c4cad60e672fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063085,
+            "locality_id":1243366945,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":1243366945,
+    "wof:lastmodified":1537591189,
+    "wof:name":"Entrada Mayer",
+    "wof:parent_id":102063085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32285999999998,
+    -48.20942,
+    -72.32285999999998,
+    -48.20942
+],
+  "geometry": {"coordinates":[-72.32285999999998,-48.20942],"type":"Point"}
+}

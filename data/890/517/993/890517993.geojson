@@ -1,0 +1,75 @@
+{
+  "id": 890517993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.709724,-33.967281,-70.709724,-33.967281",
+    "geom:latitude":-33.967281,
+    "geom:longitude":-70.709724,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mostazal",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":924,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":259,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261284,
+        "gp:id":26794199,
+        "qs:id":1104046,
+        "qs_pg:id":1042636,
+        "wd:id":"Q51035",
+        "wk:page":"Mostazal"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056039,
+    "wof:geomhash":"91c4d9c5c154c03212bcd9a4b1320a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "localadmin_id":890517993,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890517993,
+    "wof:lastmodified":1527749997,
+    "wof:name":"Mostazal",
+    "wof:parent_id":102063155,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.709724,
+    -33.967281,
+    -70.709724,
+    -33.967281
+],
+  "geometry": {"coordinates":[-70.70972399999999,-33.967281],"type":"Point"}
+}

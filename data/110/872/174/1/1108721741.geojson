@@ -1,0 +1,89 @@
+{
+  "id": 1108721741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.485202,
+    "geom:area_square_m":3897342539.318414,
+    "geom:bbox":"-73.6416647554,-49.8127603306,-72.8711537394,-49.1690240615",
+    "geom:latitude":-49.488719,
+    "geom:longitude":-73.255231,
+    "iso:country":"CL",
+    "lbl:latitude":-49.488411,
+    "lbl:longitude":-73.255231,
+    "meso:admin_1":"Zona sin demarcar",
+    "meso:gadm_admin":"NO DATA",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"NO DATA",
+    "meso:local_id":"0",
+    "meso:mps_x":-73.255231,
+    "meso:mps_y":-49.488411,
+    "meso:name_local":"Zona sin demarcar",
+    "meso:pop":0,
+    "meso:source":"Chilean National Library of Congress",
+    "mps:latitude":-49.488411,
+    "mps:longitude":-73.255231,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"meso",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CL",
+    "wof:created":1476220470,
+    "wof:geomhash":"cf9830b08815d01a246d7cf355534556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":1108721741,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108721741,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":1108721741,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108721741,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1108721741,
+    "wof:lastmodified":1512516919,
+    "wof:name":"Zona sin demarcar",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.64166475542838,
+    -49.81276033064853,
+    -72.8711537393938,
+    -49.16902406150793
+],
+  "geometry": {"coordinates":[[[[-72.87683543320978,-49.16902406150793],[-72.8711537393938,-49.81276033064853],[-73.64021425150774,-49.79675019530384],[-73.64166475542838,-49.17515485857646],[-72.87683543320978,-49.16902406150793]]]],"type":"MultiPolygon"}
+}

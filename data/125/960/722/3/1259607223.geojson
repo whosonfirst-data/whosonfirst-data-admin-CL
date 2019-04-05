@@ -1,0 +1,74 @@
+{
+  "id": 1259607223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20985,-39.64626,-72.20985,-39.64626",
+    "geom:latitude":-39.64626,
+    "geom:longitude":-72.20985,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"141.0",
+    "gn:asciiname":"Puerto Coihueco",
+    "gn:country_code":"CL",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3894404,
+    "gn:latitude":-39.64626,
+    "gn:longitude":-72.20985,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Puerto Coihueco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Coihueco"
+    ],
+    "name:und_x_variant":[
+        "Coihueco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3894404
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"53e4609fca4178c3c17f52c47396f18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "locality_id":1259607223,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":1259607223,
+    "wof:lastmodified":1537591156,
+    "wof:name":"Puerto Coihueco",
+    "wof:parent_id":102063183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20985,
+    -39.64626,
+    -72.20985,
+    -39.64626
+],
+  "geometry": {"coordinates":[-72.20985,-39.64626],"type":"Point"}
+}

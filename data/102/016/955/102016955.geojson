@@ -1,0 +1,71 @@
+{
+  "id": 102016955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":1016035.461709,
+    "geom:bbox":"-71.3891601562,-34.4069096565,-71.3781738281,-34.3978449464",
+    "geom:latitude":-34.402377,
+    "geom:longitude":-71.383667,
+    "gn:latitude":-33.23056,
+    "gn:longitude":-70.66786,
+    "iso:country":"CL",
+    "lbl:latitude":-34.402378,
+    "lbl:longitude":-71.383667,
+    "mps:latitude":-34.402378,
+    "mps:longitude":-71.383667,
+    "mz:hierarchy_label":1,
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Luis",
+    "qs:loc_lc":"3871948",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871948,
+        "gp:id":348931
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c3aba50951b66d389aad11c40788b54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":102016955,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":102016955,
+    "wof:lastmodified":1479951602,
+    "wof:name":"San Luis",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38916015619999,
+    -34.4069096565,
+    -71.3781738281,
+    -34.3978449464
+],
+  "geometry": {"coordinates":[[[-71.38916015619999,-34.4069096565],[-71.38916015619999,-34.3978449464],[-71.3781738281,-34.3978449464],[-71.3781738281,-34.4069096565],[-71.38916015619999,-34.4069096565]]],"type":"Polygon"}
+}

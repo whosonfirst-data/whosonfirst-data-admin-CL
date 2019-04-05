@@ -1,0 +1,69 @@
+{
+  "id": 1260173077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.47277,-30.56091,-71.47277,-30.56091",
+    "geom:latitude":-30.56091,
+    "geom:longitude":-71.47277,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4301.0",
+    "gn:asciiname":"Consa",
+    "gn:country_code":"CL",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893735,
+    "gn:latitude":-30.56091,
+    "gn:longitude":-71.47277,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Consa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893735
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a321e7aa2b6e668eb3b3ba6deb9589e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1260173077,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1260173077,
+    "wof:lastmodified":1536860839,
+    "wof:name":"Consa",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.47277,
+    -30.56091,
+    -71.47277,
+    -30.56091
+],
+  "geometry": {"coordinates":[-71.47277,-30.56091],"type":"Point"}
+}

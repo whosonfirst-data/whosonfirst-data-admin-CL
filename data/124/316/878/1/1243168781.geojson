@@ -1,0 +1,69 @@
+{
+  "id": 1243168781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84716,-30.75077,-70.84716,-30.75077",
+    "geom:latitude":-30.75077,
+    "geom:longitude":-70.84716,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4303.0",
+    "gn:asciiname":"Chilecito",
+    "gn:country_code":"CL",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895111,
+    "gn:latitude":-30.75077,
+    "gn:longitude":-70.84716,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chilecito",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895111
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6a28bd05f8975dd5b6ceb653e3af1777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1243168781,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1243168781,
+    "wof:lastmodified":1536709222,
+    "wof:name":"Chilecito",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84716,
+    -30.75077000000001,
+    -70.84716,
+    -30.75077000000001
+],
+  "geometry": {"coordinates":[-70.84716,-30.75077000000001],"type":"Point"}
+}

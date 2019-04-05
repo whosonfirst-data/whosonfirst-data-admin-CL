@@ -1,0 +1,69 @@
+{
+  "id": 1276680909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73144,-36.14472,-72.73144,-36.14472",
+    "geom:latitude":-36.14472,
+    "geom:longitude":-72.73144,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"84.0",
+    "gn:admin3_code":"8403.0",
+    "gn:asciiname":"Frutillar",
+    "gn:country_code":"CL",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3889264,
+    "gn:latitude":-36.14472,
+    "gn:longitude":-72.73144,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Frutillar",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3889264
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2616afca38098180536007b37a3ac686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "locality_id":1276680909,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1276680909,
+    "wof:lastmodified":1536809615,
+    "wof:name":"Frutillar",
+    "wof:parent_id":102063109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73144,
+    -36.14472,
+    -72.73144,
+    -36.14472
+],
+  "geometry": {"coordinates":[-72.73144000000001,-36.14472],"type":"Point"}
+}

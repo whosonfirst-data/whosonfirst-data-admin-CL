@@ -1,0 +1,73 @@
+{
+  "id": 1260074081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.26691,-52.89818,-70.26691,-52.89818",
+    "geom:latitude":-52.89818,
+    "geom:longitude":-70.26691,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:admin3_code":"12302.0",
+    "gn:asciiname":"Puerto Percy",
+    "gn:country_code":"CL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874948,
+    "gn:latitude":-52.89818,
+    "gn:longitude":-70.26691,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Puerto Percy",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Percy",
+        "Puerto Percy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874948
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a883b26c315ebafe7dad4cbc98ce0f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1260074081,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1260074081,
+    "wof:lastmodified":1537591111,
+    "wof:name":"Puerto Percy",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.26691,
+    -52.89818,
+    -70.26691,
+    -52.89818
+],
+  "geometry": {"coordinates":[-70.26691,-52.89818],"type":"Point"}
+}

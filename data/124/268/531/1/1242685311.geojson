@@ -1,0 +1,72 @@
+{
+  "id": 1242685311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.62551,-22.26759,-68.62551,-22.26759",
+    "geom:latitude":-22.26759,
+    "geom:longitude":-68.62551,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Lasana",
+    "gn:country_code":"CL",
+    "gn:dem":2687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11176220,
+    "gn:latitude":-22.26759,
+    "gn:longitude":-68.62551,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Lasana",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lasana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11176220,
+        "wk:page":"Lasana"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a6862c24a86dd3b84ff5a18ea64da562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063131,
+            "locality_id":1242685311,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1242685311,
+    "wof:lastmodified":1537591181,
+    "wof:name":"Lasana",
+    "wof:parent_id":102063131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.62550999999999,
+    -22.26759,
+    -68.62550999999999,
+    -22.26759
+],
+  "geometry": {"coordinates":[-68.62550999999999,-22.26759],"type":"Point"}
+}

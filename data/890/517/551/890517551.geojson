@@ -1,0 +1,70 @@
+{
+  "id": 890517551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.623504,-43.120281,-73.623504,-43.120281",
+    "geom:latitude":-43.120281,
+    "geom:longitude":-73.623504,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Quellon",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":370,
+    "qs:photos_1k":75,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":776,
+    "qs:photos_sr":6,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":958,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794156,
+        "qs:id":1263705,
+        "wd:id":"Q51608",
+        "wk:page":"Quell\u00f3n"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056014,
+    "wof:geomhash":"af6cbee35f21a31ae7496d6e4783f491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "localadmin_id":890517551,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890517551,
+    "wof:lastmodified":1527749991,
+    "wof:name":"Quellon",
+    "wof:parent_id":102063115,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.623504,
+    -43.120281,
+    -73.623504,
+    -43.120281
+],
+  "geometry": {"coordinates":[-73.623504,-43.120281],"type":"Point"}
+}

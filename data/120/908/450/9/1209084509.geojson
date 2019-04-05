@@ -1,0 +1,63 @@
+{
+  "id": 1209084509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.54781,-35.76785,-72.54781,-35.76785",
+    "geom:latitude":-35.76785,
+    "geom:longitude":-72.54781,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"72.0",
+    "gn:admin3_code":"7202.0",
+    "gn:asciiname":"Rahue",
+    "gn:country_code":"CL",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3873854,
+    "gn:latitude":-35.76785,
+    "gn:longitude":-72.54781,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Rahue",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873854
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f8297195887dd55fb3050be7322d224b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209084509
+        }
+    ],
+    "wof:id":1209084509,
+    "wof:lastmodified":1536298231,
+    "wof:name":"Rahue",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.54781,
+    -35.76785,
+    -72.54781,
+    -35.76785
+],
+  "geometry": {"coordinates":[-72.54781,-35.76785],"type":"Point"}
+}

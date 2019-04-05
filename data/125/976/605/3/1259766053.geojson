@@ -1,0 +1,68 @@
+{
+  "id": 1259766053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.14977,-20.23679,-70.14977,-20.23679",
+    "geom:latitude":-20.23679,
+    "geom:longitude":-70.14977,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Cavancha",
+    "gn:country_code":"CL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896085,
+    "gn:latitude":-20.23679,
+    "gn:longitude":-70.14977,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Cavancha",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        102063145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896085
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2526334f20b2a75d90486b07f6139a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063145,
+            "locality_id":1259766053,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1259766053,
+    "wof:lastmodified":1536948612,
+    "wof:name":"Cavancha",
+    "wof:parent_id":102063145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.14976999999999,
+    -20.23679,
+    -70.14976999999999,
+    -20.23679
+],
+  "geometry": {"coordinates":[-70.14976999999999,-20.23679],"type":"Point"}
+}

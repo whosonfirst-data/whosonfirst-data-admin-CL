@@ -1,0 +1,69 @@
+{
+  "id": 1327228337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3022,-29.97072,-71.3022,-29.97072",
+    "geom:latitude":-29.97072,
+    "geom:longitude":-71.3022,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4102.0",
+    "gn:asciiname":"Cantera Baja",
+    "gn:country_code":"CL",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896876,
+    "gn:latitude":-29.97072,
+    "gn:longitude":-71.3022,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cantera Baja",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896876
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4e9693b65d17043a830807def6872bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063091,
+            "locality_id":1327228337,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1327228337,
+    "wof:lastmodified":1536975000,
+    "wof:name":"Cantera Baja",
+    "wof:parent_id":102063091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3022,
+    -29.97072,
+    -71.3022,
+    -29.97072
+],
+  "geometry": {"coordinates":[-71.3022,-29.97072],"type":"Point"}
+}

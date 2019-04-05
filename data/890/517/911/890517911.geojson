@@ -1,0 +1,71 @@
+{
+  "id": 890517911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44174,-33.03768,-71.44174,-33.03768",
+    "geom:latitude":-33.03768,
+    "geom:longitude":-71.44174,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"El Retiro",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        1108721747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3890557,
+        "gp:id":347650,
+        "qs:id":1059856,
+        "wk:page":"El Retiro"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056035,
+    "wof:geomhash":"ec267bdb54fdc164771afd624e18cbf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":1108721747,
+            "locality_id":890517911,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890517911,
+    "wof:lastmodified":1527751201,
+    "wof:name":"El Retiro",
+    "wof:parent_id":1108721747,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44174,
+    -33.03768,
+    -71.44174,
+    -33.03768
+],
+  "geometry": {"coordinates":[-71.44174,-33.03768],"type":"Point"}
+}

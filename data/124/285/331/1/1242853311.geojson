@@ -1,0 +1,71 @@
+{
+  "id": 1242853311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.03679,-41.96802,-74.03679,-41.96802",
+    "geom:latitude":-41.96802,
+    "geom:longitude":-74.03679,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:asciiname":"Pumillahue",
+    "gn:country_code":"CL",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874841,
+    "gn:latitude":-41.96802,
+    "gn:longitude":-74.03679,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Pumillahue",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pumillahue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874841
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4aa8c7c5c6cf71520e4601699c71b4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1242853311,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1242853311,
+    "wof:lastmodified":1537591110,
+    "wof:name":"Pumillahue",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.03679,
+    -41.96802,
+    -74.03679,
+    -41.96802
+],
+  "geometry": {"coordinates":[-74.03679,-41.96802],"type":"Point"}
+}

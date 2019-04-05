@@ -1,0 +1,72 @@
+{
+  "id": 1243547045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32034,-37.0923,-72.32034,-37.0923",
+    "geom:latitude":-37.0923,
+    "geom:longitude":-72.32034,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"83.0",
+    "gn:admin3_code":"8303.0",
+    "gn:asciiname":"Charrua",
+    "gn:country_code":"CL",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895368,
+    "gn:latitude":-37.0923,
+    "gn:longitude":-72.32034,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Charr\u00faa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charr\u00faa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895368
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3fe126b838fc3d4f84bc41958ef8de45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063151,
+            "locality_id":1243547045,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1243547045,
+    "wof:lastmodified":1537591159,
+    "wof:name":"Charrua",
+    "wof:parent_id":102063151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32034,
+    -37.0923,
+    -72.32034,
+    -37.0923
+],
+  "geometry": {"coordinates":[-72.32034,-37.0923],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293756739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88333,-20.33333,-68.88333,-20.33333",
+    "geom:latitude":-20.33333,
+    "geom:longitude":-68.88333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1405.0",
+    "gn:asciiname":"Guasco Lipez",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":3850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888344,
+    "gn:latitude":-20.33333,
+    "gn:longitude":-68.88333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Guasco L\u00edpez",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guasco de L\u00edpez",
+        "Guasco L\u00edpez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888344
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7a281bac2b2d81a0eee2199c1f094c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1293756739,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1293756739,
+    "wof:lastmodified":1537591141,
+    "wof:name":"Guasco Lipez",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88333,
+    -20.33333,
+    -68.88333,
+    -20.33333
+],
+  "geometry": {"coordinates":[-68.88333,-20.33333],"type":"Point"}
+}

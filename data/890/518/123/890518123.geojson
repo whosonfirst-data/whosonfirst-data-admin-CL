@@ -1,0 +1,109 @@
+{
+  "id": 890518123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.53542,-51.68996,-72.53542,-51.68996",
+    "geom:latitude":-51.68996,
+    "geom:longitude":-72.53542,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Puerto Bories"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Bories"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Bories"
+    ],
+    "qs:name":"Puerto Bories",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Magallanes y Antartica Chilena",
+    "qs:photos":392,
+    "qs:photos_1k":79,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":392,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":411,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030642,
+        "gp:id":350102,
+        "qs:id":1156065,
+        "wd:id":"Q6091979",
+        "wk:page":"Puerto Bories"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056050,
+    "wof:geomhash":"7def6b2fce78e38cfe134f03ba098c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":890518123,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":890518123,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":890518123,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":890518123,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":890518123,
+    "wof:lastmodified":1527758438,
+    "wof:name":"Puerto Bories",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53542,
+    -51.68996,
+    -72.53542,
+    -51.68996
+],
+  "geometry": {"coordinates":[-72.53542,-51.68996],"type":"Point"}
+}

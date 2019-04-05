@@ -1,0 +1,73 @@
+{
+  "id": 1327000927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.63572,-41.53418,-73.63572,-41.53418",
+    "geom:latitude":-41.53418,
+    "geom:longitude":-73.63572,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10106.0",
+    "gn:asciiname":"Cululil",
+    "gn:country_code":"CL",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3891523,
+    "gn:latitude":-41.53418,
+    "gn:longitude":-73.63572,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Cululil",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Culubil",
+        "El Cululil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3891523
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4526e3bd78dfed4c2071f4174fc5c24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1327000927,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1327000927,
+    "wof:lastmodified":1537591148,
+    "wof:name":"Cululil",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.63571999999998,
+    -41.53418,
+    -73.63571999999998,
+    -41.53418
+],
+  "geometry": {"coordinates":[-73.63571999999998,-41.53418],"type":"Point"}
+}

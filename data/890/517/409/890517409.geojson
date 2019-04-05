@@ -1,0 +1,67 @@
+{
+  "id": 890517409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.23538,-39.83892,-73.23538,-39.83892",
+    "geom:latitude":-39.83892,
+    "geom:longitude":-73.23538,
+    "gn:country":"CL",
+    "gn:fcode":"PPLX",
+    "gn:pop":950,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Villa Europa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682171,
+        102191577,
+        85633057,
+        102016837,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6458711,
+        "qs:id":625714
+    },
+    "wof:country":"CL",
+    "wof:created":1469056007,
+    "wof:geomhash":"76c0e070d2d178503961d53cf590db90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "locality_id":102016837,
+            "neighbourhood_id":890517409,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":890517409,
+    "wof:lastmodified":1505343906,
+    "wof:name":"Villa Europa",
+    "wof:parent_id":102016837,
+    "wof:placetype":"neighbourhood",
+    "wof:population":950,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.23538,
+    -39.83892,
+    -73.23538,
+    -39.83892
+],
+  "geometry": {"coordinates":[-73.23538000000001,-39.83892],"type":"Point"}
+}

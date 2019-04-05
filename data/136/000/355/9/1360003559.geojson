@@ -1,0 +1,69 @@
+{
+  "id": 1360003559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.08333,-32.83333,-70.08333,-32.83333",
+    "geom:latitude":-32.83333,
+    "geom:longitude":-70.08333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"5301.0",
+    "gn:asciiname":"Cancha Pelada",
+    "gn:country_code":"CL",
+    "gn:dem":3639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896998,
+    "gn:latitude":-32.83333,
+    "gn:longitude":-70.08333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Cancha Pelada",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896998
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9e4202b9785e525a9a426b489a09c8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063139,
+            "locality_id":1360003559,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1360003559,
+    "wof:lastmodified":1537060574,
+    "wof:name":"Cancha Pelada",
+    "wof:parent_id":102063139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.08333,
+    -32.83333,
+    -70.08333,
+    -32.83333
+],
+  "geometry": {"coordinates":[-70.08333,-32.83333],"type":"Point"}
+}

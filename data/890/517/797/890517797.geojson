@@ -1,0 +1,73 @@
+{
+  "id": 890517797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.05452,-34.68901,-72.05452,-34.68901",
+    "geom:latitude":-34.68901,
+    "geom:longitude":-72.05452,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Boyeruca",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3897979,
+        "gp:id":346895,
+        "qs:id":992300
+    },
+    "wof:country":"CL",
+    "wof:created":1469056025,
+    "wof:geomhash":"85e8a67c0ad1b5ae3720ff9bbd7d50eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":890517797,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":890517797,
+    "wof:lastmodified":1505343907,
+    "wof:name":"Boyeruca",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.05452,
+    -34.68901,
+    -72.05452,
+    -34.68901
+],
+  "geometry": {"coordinates":[-72.05452,-34.68901],"type":"Point"}
+}

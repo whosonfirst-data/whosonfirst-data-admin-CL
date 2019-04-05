@@ -1,0 +1,69 @@
+{
+  "id": 1360080409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98572,-36.73414,-71.98572,-36.73414",
+    "geom:latitude":-36.73414,
+    "geom:longitude":-71.98572,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"84.0",
+    "gn:admin3_code":"8411.0",
+    "gn:asciiname":"Chaul",
+    "gn:country_code":"CL",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895337,
+    "gn:latitude":-36.73414,
+    "gn:longitude":-71.98572,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cha\u00fal",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895337
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c019d6d26947252956f6f1c668e7fcf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "locality_id":1360080409,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1360080409,
+    "wof:lastmodified":1536952574,
+    "wof:name":"Chaul",
+    "wof:parent_id":102063109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98572,
+    -36.73414,
+    -71.98572,
+    -36.73414
+],
+  "geometry": {"coordinates":[-71.98572,-36.73414],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890517399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92362,-34.19705,-70.92362,-34.19705",
+    "geom:latitude":-34.19705,
+    "geom:longitude":-70.92362,
+    "gn:country":"CL",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Do\u00f1ihue",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261283,
+        "gp:id":26794194,
+        "qs:id":1246143,
+        "qs_pg:id":1018919,
+        "wd:id":"Q13035",
+        "wk:page":"Do\u00f1ihue"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056006,
+    "wof:geomhash":"03f2389f377d4059cef08d4458c69af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "localadmin_id":890517399,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890517399,
+    "wof:lastmodified":1527749992,
+    "wof:name":"Do\u00f1ihue",
+    "wof:parent_id":102063155,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92362,
+    -34.19705,
+    -70.92362,
+    -34.19705
+],
+  "geometry": {"coordinates":[-70.92362,-34.19705],"type":"Point"}
+}

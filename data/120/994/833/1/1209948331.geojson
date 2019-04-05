@@ -1,0 +1,76 @@
+{
+  "id": 1209948331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78736,-28.15776,-69.78736,-28.15776",
+    "geom:latitude":-28.15776,
+    "geom:longitude":-69.78736,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3103.0",
+    "gn:asciiname":"Carrizalillo Grande",
+    "gn:country_code":"CL",
+    "gn:dem":2008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896463,
+    "gn:latitude":-28.15776,
+    "gn:longitude":-69.78736,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Carrizalillo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carrizalillo Grande"
+    ],
+    "name:und_x_variant":[
+        "Carrizalillo",
+        "Carrizalillo Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896463
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0cb2a0946170a984ae7d84215818bbc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "locality_id":1209948331,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1209948331,
+    "wof:lastmodified":1537591163,
+    "wof:name":"Carrizalillo Grande",
+    "wof:parent_id":102063143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78735999999999,
+    -28.15776,
+    -69.78735999999999,
+    -28.15776
+],
+  "geometry": {"coordinates":[-69.78735999999999,-28.15776],"type":"Point"}
+}

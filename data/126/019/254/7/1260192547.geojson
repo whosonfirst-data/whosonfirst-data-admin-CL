@@ -1,0 +1,75 @@
+{
+  "id": 1260192547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65,-33.4,-71.65,-33.4",
+    "geom:latitude":-33.4,
+    "geom:longitude":-71.65,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5602.0",
+    "gn:asciiname":"Huallilemu",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3887783,
+    "gn:latitude":-33.4,
+    "gn:longitude":-71.65,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Huallilemu",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guallelemu",
+        "Hueyilemu",
+        "Huallilemu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887783
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"dc73470098d17d6e2ada15357adbe04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063167,
+            "locality_id":1260192547,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1260192547,
+    "wof:lastmodified":1537591140,
+    "wof:name":"Huallilemu",
+    "wof:parent_id":102063167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65,
+    -33.4,
+    -71.65,
+    -33.4
+],
+  "geometry": {"coordinates":[-71.65000000000001,-33.4],"type":"Point"}
+}

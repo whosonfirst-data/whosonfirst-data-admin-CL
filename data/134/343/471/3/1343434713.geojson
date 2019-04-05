@@ -1,0 +1,72 @@
+{
+  "id": 1343434713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.52849,-41.88447,-73.52849,-41.88447",
+    "geom:latitude":-41.88447,
+    "geom:longitude":-73.52849,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10202.0",
+    "gn:asciiname":"Manao",
+    "gn:country_code":"CL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3880750,
+    "gn:latitude":-41.88447,
+    "gn:longitude":-73.52849,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Manao",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Manao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3880750
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ffc2bab5b6799510f91c54595a3cf2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1343434713,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1343434713,
+    "wof:lastmodified":1537591122,
+    "wof:name":"Manao",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.52849,
+    -41.88447,
+    -73.52849,
+    -41.88447
+],
+  "geometry": {"coordinates":[-73.52849000000001,-41.88447],"type":"Point"}
+}

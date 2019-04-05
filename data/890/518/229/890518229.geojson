@@ -1,0 +1,76 @@
+{
+  "id": 890518229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.26976,-32.90279,-70.26976,-32.90279",
+    "geom:latitude":-32.90279,
+    "geom:longitude":-70.26976,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Guadia Vieja"
+    ],
+    "qs:name":"Guardia Vieja",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888357,
+        "gp:id":350245,
+        "qs:id":1047104
+    },
+    "wof:country":"CL",
+    "wof:created":1469056054,
+    "wof:geomhash":"8030acc620f9bf4d08caa4d7378bf43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063139,
+            "locality_id":890518229,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890518229,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Guardia Vieja",
+    "wof:parent_id":102063139,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.26976,
+    -32.90279,
+    -70.26976,
+    -32.90279
+],
+  "geometry": {"coordinates":[-70.26976000000001,-32.90279],"type":"Point"}
+}

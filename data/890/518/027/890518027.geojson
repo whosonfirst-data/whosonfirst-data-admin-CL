@@ -1,0 +1,69 @@
+{
+  "id": 890518027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.078796,-34.429142,-71.078796,-34.429142",
+    "geom:latitude":-34.429142,
+    "geom:longitude":-71.078796,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"San Vicente",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1284,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":196,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794207,
+        "qs:id":1110071,
+        "wk:page":"San Vicente"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056040,
+    "wof:geomhash":"df06bb321d8f6d07d32f014e2c9337c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "localadmin_id":890518027,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890518027,
+    "wof:lastmodified":1527751236,
+    "wof:name":"San Vicente",
+    "wof:parent_id":102063155,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.078796,
+    -34.429142,
+    -71.078796,
+    -34.429142
+],
+  "geometry": {"coordinates":[-71.078796,-34.429142],"type":"Point"}
+}

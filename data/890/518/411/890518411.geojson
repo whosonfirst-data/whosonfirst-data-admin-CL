@@ -1,0 +1,70 @@
+{
+  "id": 890518411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.66156,-22.557903,-69.66156,-22.557903",
+    "geom:latitude":-22.557903,
+    "geom:longitude":-69.66156,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mar\u00eda Elena",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Antofagasta",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":144,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":535,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794040,
+        "qs:id":114407,
+        "wd:id":"Q16923",
+        "wk:page":"Mar\u00eda Elena"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056064,
+    "wof:geomhash":"d0af47c8eb7f63fecddeededdf19e4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063093,
+            "localadmin_id":890518411,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":890518411,
+    "wof:lastmodified":1527751236,
+    "wof:name":"Mar\u00eda Elena",
+    "wof:parent_id":102063093,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.66156,
+    -22.557903,
+    -69.66156,
+    -22.557903
+],
+  "geometry": {"coordinates":[-69.66155999999999,-22.557903],"type":"Point"}
+}

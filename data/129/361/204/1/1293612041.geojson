@@ -1,0 +1,72 @@
+{
+  "id": 1293612041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.69827,-28.62259,-70.69827,-28.62259",
+    "geom:latitude":-28.62259,
+    "geom:longitude":-70.69827,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3301.0",
+    "gn:asciiname":"Imperial Bajo",
+    "gn:country_code":"CL",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3887313,
+    "gn:latitude":-28.62259,
+    "gn:longitude":-70.69827,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Imperial Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Imperial Bajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887313
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b3df7c29b65c29e0a85b63aedb96b4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1293612041,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1293612041,
+    "wof:lastmodified":1537591138,
+    "wof:name":"Imperial Bajo",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.69827,
+    -28.62259,
+    -70.69827,
+    -28.62259
+],
+  "geometry": {"coordinates":[-70.69826999999999,-28.62259],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344245025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07124,-34.83574,-71.07124,-34.83574",
+    "geom:latitude":-34.83574,
+    "geom:longitude":-71.07124,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"73.0",
+    "gn:admin3_code":"7308.0",
+    "gn:asciiname":"Montella",
+    "gn:country_code":"CL",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879440,
+    "gn:latitude":-34.83574,
+    "gn:longitude":-71.07124,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Montella",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monterilla",
+        "Monteria",
+        "Montella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879440
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"edf5f34459297a5c4de94e2a5fbaf8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":1344245025,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1344245025,
+    "wof:lastmodified":1537591119,
+    "wof:name":"Montella",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07124,
+    -34.83574,
+    -71.07124,
+    -34.83574
+],
+  "geometry": {"coordinates":[-71.07124,-34.83574],"type":"Point"}
+}

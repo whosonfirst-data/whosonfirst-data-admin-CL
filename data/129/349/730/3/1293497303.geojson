@@ -1,0 +1,69 @@
+{
+  "id": 1293497303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31506,-32.76425,-71.31506,-32.76425",
+    "geom:latitude":-32.76425,
+    "geom:longitude":-71.31506,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5105.0",
+    "gn:asciiname":"Los Maquis",
+    "gn:country_code":"CL",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3881804,
+    "gn:latitude":-32.76425,
+    "gn:longitude":-71.31506,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Los Maquis",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3881804
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c52150978848b4b5a053409a93a83a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063161,
+            "locality_id":1293497303,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1293497303,
+    "wof:lastmodified":1536773454,
+    "wof:name":"Los Maquis",
+    "wof:parent_id":102063161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31506,
+    -32.76425,
+    -71.31506,
+    -32.76425
+],
+  "geometry": {"coordinates":[-71.31506,-32.76425],"type":"Point"}
+}

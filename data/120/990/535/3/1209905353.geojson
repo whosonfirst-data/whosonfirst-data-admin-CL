@@ -1,0 +1,96 @@
+{
+  "id": 1209905353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.64103,-51.62754,-72.64103,-51.62754",
+    "geom:latitude":-51.62754,
+    "geom:longitude":-72.64103,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"12401.0",
+    "gn:asciiname":"Puerto Prat",
+    "gn:country_code":"CL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874946,
+    "gn:latitude":-51.62754,
+    "gn:longitude":-72.64103,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Puerto Prat",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Prat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874946
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"745129a7ac72d06ebf87cba30d7e02e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1209905353,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1209905353,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1209905353,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1209905353,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1209905353,
+    "wof:lastmodified":1537591111,
+    "wof:name":"Puerto Prat",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.64103,
+    -51.62754,
+    -72.64103,
+    -51.62754
+],
+  "geometry": {"coordinates":[-72.64103,-51.62754],"type":"Point"}
+}

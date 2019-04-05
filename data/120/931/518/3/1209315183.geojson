@@ -1,0 +1,66 @@
+{
+  "id": 1209315183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.01302,-38.42824,-72.01302,-38.42824",
+    "geom:latitude":-38.42824,
+    "geom:longitude":-72.01302,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"92.0",
+    "gn:admin3_code":"9203.0",
+    "gn:asciiname":"Rarirruca",
+    "gn:country_code":"CL",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3873686,
+    "gn:latitude":-38.42824,
+    "gn:longitude":-72.01302,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Rarirruca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rariruca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873686
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a99a60eb01dd96730a6945b5cf09e60b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209315183
+        }
+    ],
+    "wof:id":1209315183,
+    "wof:lastmodified":1537591107,
+    "wof:name":"Rarirruca",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.01302,
+    -38.42824,
+    -72.01302,
+    -38.42824
+],
+  "geometry": {"coordinates":[-72.01302,-38.42824],"type":"Point"}
+}

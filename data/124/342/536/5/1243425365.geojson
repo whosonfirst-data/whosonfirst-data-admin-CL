@@ -1,0 +1,72 @@
+{
+  "id": 1243425365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.18485,-41.27756,-73.18485,-41.27756",
+    "geom:latitude":-41.27756,
+    "geom:longitude":-73.18485,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10107.0",
+    "gn:asciiname":"Colonia Loncotoro",
+    "gn:country_code":"CL",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8047889,
+    "gn:latitude":-41.27756,
+    "gn:longitude":-73.18485,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Colonia Loncotoro",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Loncotoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047889
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f579825a94a35d444016e1260db5b4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1243425365,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1243425365,
+    "wof:lastmodified":1537591177,
+    "wof:name":"Colonia Loncotoro",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.18485,
+    -41.27756,
+    -73.18485,
+    -41.27756
+],
+  "geometry": {"coordinates":[-73.18485,-41.27756],"type":"Point"}
+}

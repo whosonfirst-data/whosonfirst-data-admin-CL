@@ -1,0 +1,66 @@
+{
+  "id": 890518007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.707969,-37.795135,-72.707969,-37.795135",
+    "geom:latitude":-37.795135,
+    "geom:longitude":-72.707969,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "qs:name":"Angol",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Araucania",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":390,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794062,
+        "qs:id":1110042
+    },
+    "wof:country":"CL",
+    "wof:created":1469056040,
+    "wof:geomhash":"4f74d628e44fe5244270bb66da6ed391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063101,
+            "localadmin_id":890518007,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":890518007,
+    "wof:lastmodified":1469056040,
+    "wof:name":"Angol",
+    "wof:parent_id":102063101,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.707969,
+    -37.795135,
+    -72.707969,
+    -37.795135
+],
+  "geometry": {"coordinates":[-72.70796900000001,-37.795135],"type":"Point"}
+}

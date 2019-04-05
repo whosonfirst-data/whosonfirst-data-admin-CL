@@ -1,0 +1,70 @@
+{
+  "id": 890517967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.900001,-33.75,-70.900001,-33.75",
+    "geom:latitude":-33.75,
+    "geom:longitude":-70.900001,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Isla de Maipo",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":353,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":551,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794311,
+        "qs:id":1086537,
+        "wd:id":"Q14445",
+        "wk:page":"Isla de Maipo"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056038,
+    "wof:geomhash":"149373eeb7c97fe659da3a6b66bbc922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063095,
+            "localadmin_id":890517967,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517967,
+    "wof:lastmodified":1527749997,
+    "wof:name":"Isla de Maipo",
+    "wof:parent_id":102063095,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.900001,
+    -33.75,
+    -70.900001,
+    -33.75
+],
+  "geometry": {"coordinates":[-70.900001,-33.75],"type":"Point"}
+}

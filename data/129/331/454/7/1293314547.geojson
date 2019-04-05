@@ -1,0 +1,69 @@
+{
+  "id": 1293314547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.81906,-37.49758,-71.81906,-37.49758",
+    "geom:latitude":-37.49758,
+    "geom:longitude":-71.81906,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"83.0",
+    "gn:admin3_code":"8309.0",
+    "gn:asciiname":"Canicura",
+    "gn:country_code":"CL",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896911,
+    "gn:latitude":-37.49758,
+    "gn:longitude":-71.81906,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ca\u00f1icura",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896911
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0504e6d9c9e67097c4cf1335e9a9d2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063151,
+            "locality_id":1293314547,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1293314547,
+    "wof:lastmodified":1537034904,
+    "wof:name":"Canicura",
+    "wof:parent_id":102063151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.81906,
+    -37.49758,
+    -71.81906,
+    -37.49758
+],
+  "geometry": {"coordinates":[-71.81905999999999,-37.49758],"type":"Point"}
+}

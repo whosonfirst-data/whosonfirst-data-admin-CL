@@ -1,0 +1,72 @@
+{
+  "id": 1209699349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.5,-41.6,-73.5,-41.6",
+    "geom:latitude":-41.6,
+    "geom:longitude":-73.5,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10108.0",
+    "gn:asciiname":"Cebadal",
+    "gn:country_code":"CL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896047,
+    "gn:latitude":-41.6,
+    "gn:longitude":-73.5,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Cebadal",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cebadal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896047
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c94a402c4d0bcd37e4251635b59253f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1209699349,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1209699349,
+    "wof:lastmodified":1537591162,
+    "wof:name":"Cebadal",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.5,
+    -41.6,
+    -73.5,
+    -41.6
+],
+  "geometry": {"coordinates":[-73.5,-41.6],"type":"Point"}
+}

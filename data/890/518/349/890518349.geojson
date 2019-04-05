@@ -1,0 +1,73 @@
+{
+  "id": 890518349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64633,-30.98384,-71.64633,-30.98384",
+    "geom:latitude":-30.98384,
+    "geom:longitude":-71.64633,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Maitencillo",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Coquimbo",
+    "qs:photos":126,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":126,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3880951,
+        "gp:id":350278,
+        "qs:id":216638
+    },
+    "wof:country":"CL",
+    "wof:created":1469056059,
+    "wof:geomhash":"dcade9e3870367ac511b4a3119396823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":890518349,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":890518349,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Maitencillo",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64633,
+    -30.98384,
+    -71.64633,
+    -30.98384
+],
+  "geometry": {"coordinates":[-71.64633000000001,-30.98384],"type":"Point"}
+}

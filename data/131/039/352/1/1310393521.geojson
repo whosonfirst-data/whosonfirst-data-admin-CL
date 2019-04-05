@@ -1,0 +1,69 @@
+{
+  "id": 1310393521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.62823,-35.10907,-71.62823,-35.10907",
+    "geom:latitude":-35.10907,
+    "geom:longitude":-71.62823,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"73.0",
+    "gn:admin3_code":"7307.0",
+    "gn:asciiname":"La Isla",
+    "gn:country_code":"CL",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885594,
+    "gn:latitude":-35.10907,
+    "gn:longitude":-71.62823,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Isla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885594
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6f88323cc9cd0090a71758d970bb3329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":1310393521,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1310393521,
+    "wof:lastmodified":1537075428,
+    "wof:name":"La Isla",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.62823,
+    -35.10907,
+    -71.62823,
+    -35.10907
+],
+  "geometry": {"coordinates":[-71.62823,-35.10907],"type":"Point"}
+}

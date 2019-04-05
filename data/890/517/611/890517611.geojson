@@ -1,0 +1,76 @@
+{
+  "id": 890517611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.33749,-29.96306,-71.33749,-29.96306",
+    "geom:latitude":-29.96306,
+    "geom:longitude":-71.33749,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Coquimbo",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Coquimbo",
+    "qs:photos":925,
+    "qs:photos_1k":187,
+    "qs:photos_9k":25,
+    "qs:photos_9r":14,
+    "qs:photos_all":5549,
+    "qs:photos_sr":10,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"wk",
+    "wd:latitude":"-29.95",
+    "wd:longitude":"-71.333333333",
+    "wd:population":200117,
+    "wd:wordcount":537,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794139,
+        "qs:id":1314586,
+        "wd:id":"Q3871",
+        "wk:page":"Coquimbo"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056017,
+    "wof:geomhash":"3ad3d3763c486db4b4f1d75cbf88ac58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063091,
+            "localadmin_id":890517611,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":890517611,
+    "wof:lastmodified":1527749993,
+    "wof:name":"Coquimbo",
+    "wof:parent_id":102063091,
+    "wof:placetype":"localadmin",
+    "wof:population":200117,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.33749,
+    -29.96306,
+    -71.33749,
+    -29.96306
+],
+  "geometry": {"coordinates":[-71.33749,-29.96306],"type":"Point"}
+}

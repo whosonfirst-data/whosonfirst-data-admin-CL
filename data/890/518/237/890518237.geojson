@@ -1,0 +1,73 @@
+{
+  "id": 890518237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38656,-38.46556,-72.38656,-38.46556",
+    "geom:latitude":-38.46556,
+    "geom:longitude":-72.38656,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Quill\u00e9n",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Araucania",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874135,
+        "gp:id":350344,
+        "qs:id":979715
+    },
+    "wof:country":"CL",
+    "wof:created":1469056055,
+    "wof:geomhash":"32e26fbb1beaf99c1bf3d7d15f8d5201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":890518237,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":890518237,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Quill\u00e9n",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38656,
+    -38.46556,
+    -72.38656,
+    -38.46556
+],
+  "geometry": {"coordinates":[-72.38656,-38.46556],"type":"Point"}
+}

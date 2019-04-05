@@ -1,0 +1,66 @@
+{
+  "id": 1209077097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.78109,-42.07535,-73.78109,-42.07535",
+    "geom:latitude":-42.07535,
+    "geom:longitude":-73.78109,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10202.0",
+    "gn:asciiname":"El Palomar",
+    "gn:country_code":"CL",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969594,
+    "gn:latitude":-42.07535,
+    "gn:longitude":-73.78109,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"El Palomar",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Palomar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969594
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b138ae5682ded368846d41f9b477343d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209077097
+        }
+    ],
+    "wof:id":1209077097,
+    "wof:lastmodified":1537591174,
+    "wof:name":"El Palomar",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.78109,
+    -42.07535,
+    -73.78109,
+    -42.07535
+],
+  "geometry": {"coordinates":[-73.78109000000001,-42.07535],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890518243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.044219,-39.643371,-72.044219,-39.643371",
+    "geom:latitude":-39.643371,
+    "geom:longitude":-72.044219,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Panguipulli",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Rios",
+    "qs:photos":305,
+    "qs:photos_1k":62,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":976,
+    "qs:photos_sr":5,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":647,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261354,
+        "gp:id":26794188,
+        "qs:id":1263720,
+        "qs_pg:id":1155742,
+        "wd:id":"Q51076",
+        "wk:page":"Panguipulli"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056055,
+    "wof:geomhash":"5a2c1177b49d2da4cbea794867166534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "localadmin_id":890518243,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":890518243,
+    "wof:lastmodified":1527751231,
+    "wof:name":"Panguipulli",
+    "wof:parent_id":102063183,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.044219,
+    -39.643371,
+    -72.044219,
+    -39.643371
+],
+  "geometry": {"coordinates":[-72.044219,-39.643371],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209839655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.95196,-38.79262,-72.95196,-38.79262",
+    "geom:latitude":-38.79262,
+    "geom:longitude":-72.95196,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9111.0",
+    "gn:asciiname":"Cancura",
+    "gn:country_code":"CL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896976,
+    "gn:latitude":-38.79262,
+    "gn:longitude":-72.95196,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cancura",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Reducci\u00f3n Cancura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896976
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"abdebe243410a0d2dc0aa13e317ffb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":1209839655,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1209839655,
+    "wof:lastmodified":1537591165,
+    "wof:name":"Cancura",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.95196,
+    -38.79262,
+    -72.95196,
+    -38.79262
+],
+  "geometry": {"coordinates":[-72.95196,-38.79262],"type":"Point"}
+}

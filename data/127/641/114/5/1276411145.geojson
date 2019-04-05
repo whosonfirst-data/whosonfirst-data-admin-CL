@@ -1,0 +1,72 @@
+{
+  "id": 1276411145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1991,-41.64498,-73.1991,-41.64498",
+    "geom:latitude":-41.64498,
+    "geom:longitude":-73.1991,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10102.0",
+    "gn:asciiname":"La Campana",
+    "gn:country_code":"CL",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8050558,
+    "gn:latitude":-41.64498,
+    "gn:longitude":-73.1991,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"La Campana",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Campana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8050558
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"aaffba0a10f7f8b2942614cc3a7ec0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1276411145,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1276411145,
+    "wof:lastmodified":1537591178,
+    "wof:name":"La Campana",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1991,
+    -41.64498,
+    -73.1991,
+    -41.64498
+],
+  "geometry": {"coordinates":[-73.1991,-41.64498],"type":"Point"}
+}

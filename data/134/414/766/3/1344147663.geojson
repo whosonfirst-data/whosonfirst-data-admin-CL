@@ -1,0 +1,73 @@
+{
+  "id": 1344147663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61373,-34.43519,-71.61373,-34.43519",
+    "geom:latitude":-34.43519,
+    "geom:longitude":-71.61373,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:admin3_code":"6204.0",
+    "gn:asciiname":"La Patagua",
+    "gn:country_code":"CL",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885087,
+    "gn:latitude":-34.43519,
+    "gn:longitude":-71.61373,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Patagua",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Pataguas",
+        "La Patagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885087
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3c129b174b73bd080fad0e8896f43fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "locality_id":1344147663,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1344147663,
+    "wof:lastmodified":1537591133,
+    "wof:name":"La Patagua",
+    "wof:parent_id":102063149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61373,
+    -34.43519000000001,
+    -71.61373,
+    -34.43519000000001
+],
+  "geometry": {"coordinates":[-71.61373,-34.43519000000001],"type":"Point"}
+}

@@ -1,0 +1,147 @@
+{
+  "id": 102016931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000317,
+    "geom:area_square_m":3119748.36918,
+    "geom:bbox":"-72.7572367157,-37.2437089158,-72.734706763,-37.2256947584",
+    "geom:latitude":-37.234702,
+    "geom:longitude":-72.745972,
+    "gn:latitude":-37.26393,
+    "gn:longitude":-72.72397,
+    "iso:country":"CL",
+    "lbl:latitude":-37.234702,
+    "lbl:longitude":-72.745972,
+    "mps:latitude":-37.234702,
+    "mps:longitude":-72.745972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:cat_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7f85\u68ee\u591a"
+    ],
+    "name:dut_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:eng_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:eus_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:fre_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:ger_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:ita_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ub85c\uc13c\ub3c4"
+    ],
+    "name:nan_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:nld_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:oci_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:por_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:ron_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:rum_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u043e\u0441\u0435\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:swe_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Rosendo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7f85\u68ee\u591a"
+    ],
+    "qs:a0":"Chile",
+    "qs:a1":"*Biobio",
+    "qs:a1r":"*",
+    "qs:a2":"Concepcion",
+    "qs:id":0,
+    "qs:la":"Santa Juana",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Rosendo",
+    "qs:loc_alt":"San Rosendo",
+    "qs:loc_lc":"3871715",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":372,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871715,
+        "gp:id":350138,
+        "qs:id":1210486,
+        "qs_pg:id":1210486,
+        "wd:id":"Q22137",
+        "wk:page":"San Rosendo"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2114a46517957b5430fb530ae5dc0a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "locality_id":102016931,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":102016931,
+    "wof:lastmodified":1553815716,
+    "wof:name":"San Rosendo",
+    "wof:parent_id":102063171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.75723671571996,
+    -37.24370891583138,
+    -72.7347067629893,
+    -37.22569475836521
+],
+  "geometry": {"coordinates":[[[-72.743510544301,-37.2434939638707],[-72.74570332858342,-37.24370891583138],[-72.74790643224176,-37.24357769063711],[-72.75003516156498,-37.24310533197044],[-72.75200768449193,-37.24230999753879],[-72.75374817936051,-37.24122226048716],[-72.75518975154073,-37.23988393313431],[-72.75627700543421,-37.23834645844373],[-72.75696817280368,-37.23666893130306],[-72.75723671571996,-37.23491582592726],[-72.75707234285814,-37.23315451696574],[-72.75648140062752,-37.23145268975654],[-72.75548662476947,-37.22987573933625],[-72.75412626265435,-37.22848425814269],[-72.75245260061411,-37.22733170883355],[-72.75052995333556,-37.22646237144889],[-72.74843219277236,-37.22590964354695],[-72.74623991146537,-37.22569475836521],[-72.74403732894935,-37.22582597002337],[-72.74190905959624,-37.22629823689964],[-72.73993686544097,-37.22709341526085],[-72.73819651809296,-37.22818095572236],[-72.73675488972356,-37.22951907589436],[-72.73566738448552,-37.23105636435488],[-72.734975808881,-37.23273375456802],[-72.7347067629893,-37.23448679316497],[-72.73487061470888,-37.2362481156626],[-72.73546109696929,-37.23795003466211],[-72.73645554405576,-37.23952714115275],[-72.7378157586504,-37.24091881893652],[-72.73948947687965,-37.24207157542651],[-72.74141237550273,-37.24294109904123],[-72.743510544301,-37.2434939638707]]],"type":"Polygon"}
+}

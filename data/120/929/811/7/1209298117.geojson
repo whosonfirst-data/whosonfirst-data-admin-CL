@@ -1,0 +1,65 @@
+{
+  "id": 1209298117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.93614,-52.25925,-68.93614,-52.25925",
+    "geom:latitude":-52.25925,
+    "geom:longitude":-68.93614,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Posesion",
+    "gn:country_code":"CL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329368,
+    "gn:latitude":-52.25925,
+    "gn:longitude":-68.93614,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Posesi\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Posesi\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329368
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f1f9f8dda222ce7bf34dddd6fcec0ecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209298117
+        }
+    ],
+    "wof:id":1209298117,
+    "wof:lastmodified":1537591186,
+    "wof:name":"Posesion",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.93614000000001,
+    -52.25925,
+    -68.93614000000001,
+    -52.25925
+],
+  "geometry": {"coordinates":[-68.93614000000001,-52.25925],"type":"Point"}
+}

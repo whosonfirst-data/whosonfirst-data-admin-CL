@@ -1,0 +1,96 @@
+{
+  "id": 1293877465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.34427,-51.25592,-72.34427,-51.25592",
+    "geom:latitude":-51.25592,
+    "geom:longitude":-72.34427,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:asciiname":"Cerro Castillo",
+    "gn:country_code":"CL",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11372089,
+    "gn:latitude":-51.25592,
+    "gn:longitude":-72.34427,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Cerro Castillo",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Castillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11372089,
+        "wk:page":"Cerro_Castillo,_Chile"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"70ce315fef06e23682d3a51622557a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1293877465,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1293877465,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1293877465,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1293877465,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1293877465,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Cerro Castillo",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.34427,
+    -51.25592,
+    -72.34427,
+    -51.25592
+],
+  "geometry": {"coordinates":[-72.34426999999999,-51.25592],"type":"Point"}
+}

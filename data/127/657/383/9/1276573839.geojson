@@ -1,0 +1,69 @@
+{
+  "id": 1276573839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.49491,-37.56146,-73.49491,-37.56146",
+    "geom:latitude":-37.56146,
+    "geom:longitude":-73.49491,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"82.0",
+    "gn:admin3_code":"8201.0",
+    "gn:asciiname":"Los Cambuchos",
+    "gn:country_code":"CL",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3882300,
+    "gn:latitude":-37.56146,
+    "gn:longitude":-73.49491,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Los Cambuchos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882300
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fc835ee432ecff4b27d078dc139a81e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063153,
+            "locality_id":1276573839,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1276573839,
+    "wof:lastmodified":1536954102,
+    "wof:name":"Los Cambuchos",
+    "wof:parent_id":102063153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.49491,
+    -37.56146,
+    -73.49491,
+    -37.56146
+],
+  "geometry": {"coordinates":[-73.49491,-37.56146],"type":"Point"}
+}

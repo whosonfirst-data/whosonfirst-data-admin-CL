@@ -1,0 +1,72 @@
+{
+  "id": 1327207685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.30484,-42.4214,-73.30484,-42.4214",
+    "geom:latitude":-42.4214,
+    "geom:longitude":-73.30484,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:asciiname":"Meulin",
+    "gn:country_code":"CL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879951,
+    "gn:latitude":-42.4214,
+    "gn:longitude":-73.30484,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Meul\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capilla Antigua",
+        "Meul\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879951
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fc993e6ee1ad1c61431eea6012b5083d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1327207685,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1327207685,
+    "wof:lastmodified":1537591120,
+    "wof:name":"Meulin",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.30484,
+    -42.4214,
+    -73.30484,
+    -42.4214
+],
+  "geometry": {"coordinates":[-73.30484,-42.4214],"type":"Point"}
+}

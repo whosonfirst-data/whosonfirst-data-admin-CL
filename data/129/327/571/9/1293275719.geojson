@@ -1,0 +1,68 @@
+{
+  "id": 1293275719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20946,-39.85935,-73.20946,-39.85935",
+    "geom:latitude":-39.85935,
+    "geom:longitude":-73.20946,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"141.0",
+    "gn:asciiname":"Paillao",
+    "gn:country_code":"CL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6459013,
+    "gn:latitude":-39.85935,
+    "gn:longitude":-73.20946,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Paillao",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6459013
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"06453342c1bd1e92a582f417346e1fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "locality_id":1293275719,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":1293275719,
+    "wof:lastmodified":1537089145,
+    "wof:name":"Paillao",
+    "wof:parent_id":102063183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20945999999998,
+    -39.85935,
+    -73.20945999999998,
+    -39.85935
+],
+  "geometry": {"coordinates":[-73.20945999999998,-39.85935],"type":"Point"}
+}

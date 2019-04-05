@@ -1,0 +1,74 @@
+{
+  "id": 1310300873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.91028,-34.5811,-70.91028,-34.5811",
+    "geom:latitude":-34.5811,
+    "geom:longitude":-70.91028,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"63.0",
+    "gn:admin3_code":"6301.0",
+    "gn:asciiname":"Roma",
+    "gn:country_code":"CL",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3872914,
+    "gn:latitude":-34.5811,
+    "gn:longitude":-70.91028,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Roma",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad de Roma",
+        "Roma",
+        "Roma Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3872914
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"603dd6aa6cb8df72e71dc9cc04e4331c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "locality_id":1310300873,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1310300873,
+    "wof:lastmodified":1537591105,
+    "wof:name":"Roma",
+    "wof:parent_id":102063157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.91028,
+    -34.5811,
+    -70.91028,
+    -34.5811
+],
+  "geometry": {"coordinates":[-70.91028,-34.5811],"type":"Point"}
+}

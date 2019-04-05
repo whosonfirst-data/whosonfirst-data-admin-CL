@@ -1,0 +1,79 @@
+{
+  "id": 890517481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.73254,-40.58442,-73.73254,-40.58442",
+    "geom:latitude":-40.58442,
+    "geom:longitude":-73.73254,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Caleta Mansa"
+    ],
+    "qs:name":"Bah\u00eda Mansa",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":159,
+    "qs:photos_1k":32,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":159,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3898982,
+        "gp:id":349977,
+        "qs:id":1200060,
+        "wd:id":"Q16837009",
+        "wk:page":"Bah\u00eda Mansa"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056010,
+    "wof:geomhash":"8ccc8bfe8bc1a2b8332dfcc102836022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063121,
+            "locality_id":890517481,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890517481,
+    "wof:lastmodified":1527751199,
+    "wof:name":"Bah\u00eda Mansa",
+    "wof:parent_id":102063121,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.73254,
+    -40.58442,
+    -73.73254,
+    -40.58442
+],
+  "geometry": {"coordinates":[-73.73254,-40.58442],"type":"Point"}
+}

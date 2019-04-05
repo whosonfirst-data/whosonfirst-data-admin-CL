@@ -1,0 +1,88 @@
+{
+  "id": 890517929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.601776,-40.687789,-72.601776,-40.687789",
+    "geom:latitude":-40.687789,
+    "geom:longitude":-72.601776,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Entre Lagos"
+    ],
+    "name:eng_x_preferred":[
+        "Entre Lagos"
+    ],
+    "name:fre_x_preferred":[
+        "Entre Lagos"
+    ],
+    "name:ger_x_preferred":[
+        "Entre Lagos"
+    ],
+    "name:ice_x_preferred":[
+        "Entre Lagos"
+    ],
+    "name:spa_x_preferred":[
+        "Entre Lagos"
+    ],
+    "qs:name":"Entre Lagos",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":350026,
+        "qs:id":1075312,
+        "wd:id":"Q985718",
+        "wk:page":"Entre Lagos"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056036,
+    "wof:geomhash":"1295c4245d75c94ac4b357809a66080b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063121,
+            "locality_id":890517929,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890517929,
+    "wof:lastmodified":1527751202,
+    "wof:name":"Entre Lagos",
+    "wof:parent_id":102063121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.601776,
+    -40.687789,
+    -72.601776,
+    -40.687789
+],
+  "geometry": {"coordinates":[-72.601776,-40.687789],"type":"Point"}
+}

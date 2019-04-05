@@ -1,0 +1,118 @@
+{
+  "id": 85764387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":20468514.988232,
+    "geom:bbox":"-71.616554,-33.604382,-71.616554,-33.604382",
+    "geom:latitude":-33.604382,
+    "geom:longitude":-71.616554,
+    "gn:latitude":-33.59599,
+    "gn:longitude":-71.60007,
+    "iso:country":"CL",
+    "lbl:latitude":-33.604382,
+    "lbl:longitude":-71.616554,
+    "mps:latitude":-33.601168,
+    "mps:longitude":-71.612251,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:spa_x_preferred":[
+        "Barrancas"
+    ],
+    "name:spa_x_variant":[
+        "Lo Gallardo"
+    ],
+    "name:unk_x_variant":[
+        "Lo Gallardo",
+        "Barrancas"
+    ],
+    "qs:gn_adm0_cc":"CL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3872395,
+    "qs:gn_nam_loc":"San Antonio, San Antonio, San Antonio, San Antonio Province, Valpara\u00edso, CL",
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Barrancas",
+    "qs:local_max":810,
+    "qs:local_sum":1988,
+    "qs:localhoods":3,
+    "qs:name":"Barrancas",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:name_adm2":"San Antonio",
+    "qs:name_lau":"San Antonio",
+    "qs:name_local":"San Antonio",
+    "qs:photo_max":252,
+    "qs:photo_sum":810,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":54,
+    "qs:woe_adm0":23424782,
+    "qs:woe_adm1":2345018,
+    "qs:woe_adm2":26794013,
+    "qs:woe_lau":26794345,
+    "qs:woe_local":349886,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":17,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        102016993,
+        102063167,
+        85682143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882697,
+        "gp:id":346868,
+        "qs:id":1262730,
+        "qs_pg:id":1262730,
+        "wd:id":"Q4863231"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d315159e53fcdec812c98c3a2c57fa96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063167,
+            "locality_id":102016993,
+            "neighbourhood_id":85764387,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":85764387,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858896,
+    "wof:name":"Barrancas",
+    "wof:parent_id":102016993,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.616554,
+    -33.604382,
+    -71.616554,
+    -33.604382
+],
+  "geometry": {"coordinates":[-71.61655399999999,-33.604382],"type":"Point"}
+}

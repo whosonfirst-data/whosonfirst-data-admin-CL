@@ -1,0 +1,70 @@
+{
+  "id": 890517535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.150001,-33.408516,-71.150001,-33.408516",
+    "geom:latitude":-33.408516,
+    "geom:longitude":-71.150001,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Curacav\u00ed",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":372,
+    "qs:photos_1k":75,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":703,
+    "qs:photos_sr":6,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":879,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794274,
+        "qs:id":1263730,
+        "wd:id":"Q3885",
+        "wk:page":"Curacav\u00ed"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056013,
+    "wof:geomhash":"aa965067909780ac44f5a79465c0f7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063083,
+            "localadmin_id":890517535,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517535,
+    "wof:lastmodified":1527749992,
+    "wof:name":"Curacav\u00ed",
+    "wof:parent_id":102063083,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.150001,
+    -33.408516,
+    -71.150001,
+    -33.408516
+],
+  "geometry": {"coordinates":[-71.150001,-33.408516],"type":"Point"}
+}

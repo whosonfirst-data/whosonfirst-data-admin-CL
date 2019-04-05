@@ -1,0 +1,63 @@
+{
+  "id": 890517685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.66667,-33.33333,-70.66667,-33.33333",
+    "geom:latitude":-33.33333,
+    "geom:longitude":-70.66667,
+    "gn:country":"CL",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Provincia de Santiago",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871332,
+        "qs:id":1032366
+    },
+    "wof:country":"CL",
+    "wof:created":1469056020,
+    "wof:geomhash":"4c14ca786d16b1111cb7835043e0ffba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517685,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517685,
+    "wof:lastmodified":1505343907,
+    "wof:name":"Provincia de Santiago",
+    "wof:parent_id":85682207,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.66667,
+    -33.33333,
+    -70.66667,
+    -33.33333
+],
+  "geometry": {"coordinates":[-70.66667,-33.33333],"type":"Point"}
+}

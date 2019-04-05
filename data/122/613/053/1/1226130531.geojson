@@ -1,0 +1,69 @@
+{
+  "id": 1226130531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.90853,-34.98704,-70.90853,-34.98704",
+    "geom:latitude":-34.98704,
+    "geom:longitude":-70.90853,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"73.0",
+    "gn:admin3_code":"7306.0",
+    "gn:asciiname":"Penon",
+    "gn:country_code":"CL",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3876633,
+    "gn:latitude":-34.98704,
+    "gn:longitude":-70.90853,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pe\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3876633
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4ea98e395a71a6984092542e5d8e5c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":1226130531,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1226130531,
+    "wof:lastmodified":1537096426,
+    "wof:name":"Penon",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.90853,
+    -34.98704,
+    -70.90853,
+    -34.98704
+],
+  "geometry": {"coordinates":[-70.90853,-34.98704],"type":"Point"}
+}

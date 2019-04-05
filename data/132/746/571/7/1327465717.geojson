@@ -1,0 +1,72 @@
+{
+  "id": 1327465717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.12619,-27.81405,-70.12619,-27.81405",
+    "geom:latitude":-27.81405,
+    "geom:longitude":-70.12619,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3103.0",
+    "gn:asciiname":"La Puerta",
+    "gn:country_code":"CL",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3884895,
+    "gn:latitude":-27.81405,
+    "gn:longitude":-70.12619,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"La Puerta",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Puerta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3884895
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"00965924bd29f916a79b1416cfb9afa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "locality_id":1327465717,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1327465717,
+    "wof:lastmodified":1537591132,
+    "wof:name":"La Puerta",
+    "wof:parent_id":102063143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.12619000000001,
+    -27.81405,
+    -70.12619000000001,
+    -27.81405
+],
+  "geometry": {"coordinates":[-70.12619000000001,-27.81405],"type":"Point"}
+}

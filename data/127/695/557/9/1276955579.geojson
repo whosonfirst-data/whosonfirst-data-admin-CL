@@ -1,0 +1,69 @@
+{
+  "id": 1276955579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.70806,-33.92726,-70.70806,-33.92726",
+    "geom:latitude":-33.92726,
+    "geom:longitude":-70.70806,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"134.0",
+    "gn:admin3_code":"13404.0",
+    "gn:asciiname":"Angostura",
+    "gn:country_code":"CL",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3899611,
+    "gn:latitude":-33.92726,
+    "gn:longitude":-70.70806,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Angostura",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3899611
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3273f74ed9c20c3a6b21267b48e162c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":1276955579,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1276955579,
+    "wof:lastmodified":1536940588,
+    "wof:name":"Angostura",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.70806,
+    -33.92726,
+    -70.70806,
+    -33.92726
+],
+  "geometry": {"coordinates":[-70.70806,-33.92726],"type":"Point"}
+}

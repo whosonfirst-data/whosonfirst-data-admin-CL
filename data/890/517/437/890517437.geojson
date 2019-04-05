@@ -1,0 +1,63 @@
+{
+  "id": 890517437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.54665,-33.67921,-70.54665,-33.67921",
+    "geom:latitude":-33.67921,
+    "geom:longitude":-70.54665,
+    "gn:country":"CL",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Provincia de Cordillera",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181716,
+        "qs:id":904450
+    },
+    "wof:country":"CL",
+    "wof:created":1469056008,
+    "wof:geomhash":"c7804b05485700b396e397a9bb0ac035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517437,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517437,
+    "wof:lastmodified":1505343906,
+    "wof:name":"Provincia de Cordillera",
+    "wof:parent_id":85682207,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.54665,
+    -33.67921,
+    -70.54665,
+    -33.67921
+],
+  "geometry": {"coordinates":[-70.54665,-33.67921],"type":"Point"}
+}

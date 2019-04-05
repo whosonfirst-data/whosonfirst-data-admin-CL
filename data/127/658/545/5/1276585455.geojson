@@ -1,0 +1,72 @@
+{
+  "id": 1276585455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1663,-38.36938,-72.1663,-38.36938",
+    "geom:latitude":-38.36938,
+    "geom:longitude":-72.1663,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"92.0",
+    "gn:admin3_code":"9211.0",
+    "gn:asciiname":"Selva Oscura",
+    "gn:country_code":"CL",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871033,
+    "gn:latitude":-38.36938,
+    "gn:longitude":-72.1663,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Selva Oscura",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Selva Oscura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871033
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f3511777f3adca267ffe6f8473031168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063101,
+            "locality_id":1276585455,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1276585455,
+    "wof:lastmodified":1537591103,
+    "wof:name":"Selva Oscura",
+    "wof:parent_id":102063101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1663,
+    -38.36938,
+    -72.1663,
+    -38.36938
+],
+  "geometry": {"coordinates":[-72.16630000000001,-38.36938],"type":"Point"}
+}

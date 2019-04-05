@@ -1,0 +1,74 @@
+{
+  "id": 890518157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.683296,-33.201206,-70.683296,-33.201206",
+    "geom:latitude":-33.201206,
+    "geom:longitude":-70.683296,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Colina",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":76,
+    "qs:photos_1k":15,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":495,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261384,
+        "gp:id":26794263,
+        "qs:id":359227,
+        "qs_pg:id":1155751,
+        "wk:page":"Colina"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056051,
+    "wof:geomhash":"f23a757dd15a7850fd8087d8fcadb7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063173,
+            "localadmin_id":890518157,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890518157,
+    "wof:lastmodified":1527751229,
+    "wof:name":"Colina",
+    "wof:parent_id":102063173,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.683296,
+    -33.201206,
+    -70.683296,
+    -33.201206
+],
+  "geometry": {"coordinates":[-70.683296,-33.201206],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293672993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43663,-53.30344,-70.43663,-53.30344",
+    "geom:latitude":-53.30344,
+    "geom:longitude":-70.43663,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:asciiname":"Bahia Chilota",
+    "gn:country_code":"CL",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358101,
+    "gn:latitude":-53.30344,
+    "gn:longitude":-70.43663,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Bah\u00eda Chilota",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bah\u00eda Chilota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358101
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"498524a9bef10c193298054e84f423ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1293672993,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1293672993,
+    "wof:lastmodified":1537591187,
+    "wof:name":"Bahia Chilota",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43663000000002,
+    -53.30344,
+    -70.43663000000002,
+    -53.30344
+],
+  "geometry": {"coordinates":[-70.43663000000002,-53.30344],"type":"Point"}
+}

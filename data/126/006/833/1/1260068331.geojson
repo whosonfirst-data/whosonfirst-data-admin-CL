@@ -1,0 +1,73 @@
+{
+  "id": 1260068331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.5159,-35.6703,-72.5159,-35.6703",
+    "geom:latitude":-35.6703,
+    "geom:longitude":-72.5159,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"72.0",
+    "gn:admin3_code":"7202.0",
+    "gn:asciiname":"Carreras Cortas",
+    "gn:country_code":"CL",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896526,
+    "gn:latitude":-35.6703,
+    "gn:longitude":-72.5159,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Carreras Cortas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrera",
+        "Carreras Cortas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896526
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fd8b6935cca70ad7da144596ccbb1659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063129,
+            "locality_id":1260068331,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1260068331,
+    "wof:lastmodified":1537591163,
+    "wof:name":"Carreras Cortas",
+    "wof:parent_id":102063129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.5159,
+    -35.6703,
+    -72.5159,
+    -35.6703
+],
+  "geometry": {"coordinates":[-72.5159,-35.6703],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890518453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74629,-30.33204,-70.74629,-30.33204",
+    "geom:latitude":-30.33204,
+    "geom:longitude":-70.74629,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Cer\u00f3n"
+    ],
+    "qs:name":"Ser\u00f3n",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Coquimbo",
+    "qs:photos":54,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":54,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871001,
+        "gp:id":349559,
+        "qs:id":261058,
+        "wk:page":"Ser\u00f3n"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056065,
+    "wof:geomhash":"50880f96765e151282e5bf4f36ea2bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":890518453,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":890518453,
+    "wof:lastmodified":1527751232,
+    "wof:name":"Ser\u00f3n",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74629,
+    -30.33204,
+    -70.74629,
+    -30.33204
+],
+  "geometry": {"coordinates":[-70.74629,-30.33204],"type":"Point"}
+}

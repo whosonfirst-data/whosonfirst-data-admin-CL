@@ -1,0 +1,69 @@
+{
+  "id": 1226741389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.83333,-29.25,-70.83333,-29.25",
+    "geom:latitude":-29.25,
+    "geom:longitude":-70.83333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4104.0",
+    "gn:asciiname":"Palo Blanco",
+    "gn:country_code":"CL",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877571,
+    "gn:latitude":-29.25,
+    "gn:longitude":-70.83333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Palo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877571
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f5a055ca9f525e0f463dc1a6b5062580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063091,
+            "locality_id":1226741389,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1226741389,
+    "wof:lastmodified":1536722179,
+    "wof:name":"Palo Blanco",
+    "wof:parent_id":102063091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.83333,
+    -29.25,
+    -70.83333,
+    -29.25
+],
+  "geometry": {"coordinates":[-70.83333,-29.25],"type":"Point"}
+}

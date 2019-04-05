@@ -1,0 +1,71 @@
+{
+  "id": 1226313733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.22154,-41.22276,-73.22154,-41.22276",
+    "geom:latitude":-41.22276,
+    "geom:longitude":-73.22154,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"Colegual",
+    "gn:country_code":"CL",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308873,
+    "gn:latitude":-41.22276,
+    "gn:longitude":-73.22154,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Colegual",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colegual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308873
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ef483e3875ad70a701fdac46f3243dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1226313733,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226313733,
+    "wof:lastmodified":1537591179,
+    "wof:name":"Colegual",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.22154,
+    -41.22276,
+    -73.22154,
+    -41.22276
+],
+  "geometry": {"coordinates":[-73.22154,-41.22276],"type":"Point"}
+}

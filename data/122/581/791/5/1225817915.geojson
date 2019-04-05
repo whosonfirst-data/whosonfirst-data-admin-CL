@@ -1,0 +1,75 @@
+{
+  "id": 1225817915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45266,-17.71136,-69.45266,-17.71136",
+    "geom:latitude":-17.71136,
+    "geom:longitude":-69.45266,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15202.0",
+    "gn:asciiname":"Guallancallani",
+    "gn:country_code":"CL",
+    "gn:dem":4250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888541,
+    "gn:latitude":-17.71136,
+    "gn:longitude":-69.45266,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Guallancallani",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guallancallani"
+    ],
+    "name:und_x_variant":[
+        "Guallanca Llani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888541
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"dbeafbfa94d763fb5367b3b9702fc8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1225817915,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1225817915,
+    "wof:lastmodified":1537591143,
+    "wof:name":"Guallancallani",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45266,
+    -17.71136,
+    -69.45266,
+    -17.71136
+],
+  "geometry": {"coordinates":[-69.45265999999999,-17.71136],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276774823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.2342,-22.95286,-68.2342,-22.95286",
+    "geom:latitude":-22.95286,
+    "geom:longitude":-68.2342,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2203.0",
+    "gn:asciiname":"Collo",
+    "gn:country_code":"CL",
+    "gn:dem":2401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3894175,
+    "gn:latitude":-22.95286,
+    "gn:longitude":-68.2342,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Collo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3894175
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"af7cb26e58c8e7da9611cc9d87e51d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063131,
+            "locality_id":1276774823,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1276774823,
+    "wof:lastmodified":1536684209,
+    "wof:name":"Collo",
+    "wof:parent_id":102063131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.2342,
+    -22.95286,
+    -68.2342,
+    -22.95286
+],
+  "geometry": {"coordinates":[-68.2342,-22.95286],"type":"Point"}
+}

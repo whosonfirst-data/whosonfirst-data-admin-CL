@@ -1,0 +1,100 @@
+{
+  "id": 102063125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":319013.606101,
+    "geom:bbox":"-80.087975869,-26.3125899665,-80.0819637032,-26.3048745149",
+    "geom:latitude":-26.309338,
+    "geom:longitude":-80.085217,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "lbl:latitude":-26.309383,
+    "lbl:longitude":-80.085217,
+    "meso:admin_1":"NO DATA",
+    "meso:gadm_admin":"\u00edsla de Pascua",
+    "meso:gadm_hasc2":"CL.VS.IP",
+    "meso:gaul_admin":"NO DATA",
+    "meso:local_id":"-9999",
+    "meso:mps_x":-80.085217,
+    "meso:mps_y":-26.309383,
+    "meso:name_local":"NO DATA",
+    "meso:pop":0,
+    "meso:source":"Chilean National Library of Congress",
+    "mps:latitude":-27.116456,
+    "mps:longitude":-109.361671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_variant":[
+        "\u00edsla de Pascua"
+    ],
+    "qs:a0":"Chile",
+    "qs:a1":"DE VALPARAISO",
+    "qs:a2":"ISLA DE PASCUA",
+    "qs:adm0":"Chile",
+    "qs:adm0_a3":"CHL",
+    "qs:level":"adm2",
+    "qs:name":"Isla de Pascua",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":9429,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":65,
+    "qs:photos_9r":18,
+    "qs:photos_all":14742,
+    "qs:photos_sr":25,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:source":"GlobalMap",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"meso",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28358162,
+        "hasc:id":"CL.VS.IP",
+        "qs:id":579646
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"1066895e56364eb35cdf60c5ad5a4925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063125,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":102063125,
+    "wof:lastmodified":1536614061,
+    "wof:name":"\u00edsla de Pascua",
+    "wof:parent_id":85682143,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:shortcode":"IP",
+    "wof:superseded_by":[
+        1108786421
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.08797586903123,
+    -26.31258996648561,
+    -80.08196370322412,
+    -26.30487451491122
+],
+  "geometry": {"coordinates":[[[[-80.08771881710253,-26.30980381843193],[-80.08725598674097,-26.3091239125613],[-80.08713039493591,-26.30782081841737],[-80.08697056316092,-26.30616233300759],[-80.0861992273272,-26.30502914203616],[-80.08512491049585,-26.30487451491122],[-80.08443900889323,-26.30600241455119],[-80.08343867106719,-26.30799042662766],[-80.08298690836611,-26.3101742269458],[-80.08196370322412,-26.31192531848997],[-80.08253514365241,-26.31235803092827],[-80.08308375644363,-26.31255381011551],[-80.08414673800978,-26.31258996648561],[-80.08519829874581,-26.31250765107358],[-80.08663276844246,-26.31227599224243],[-80.08797586903123,-26.31109661766946],[-80.08771881710253,-26.30980381843193]]]],"type":"MultiPolygon"}
+}

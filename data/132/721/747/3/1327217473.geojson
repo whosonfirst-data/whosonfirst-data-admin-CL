@@ -1,0 +1,73 @@
+{
+  "id": 1327217473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.18581,-52.26955,-71.18581,-52.26955",
+    "geom:latitude":-52.26955,
+    "geom:longitude":-71.18581,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12102.0",
+    "gn:asciiname":"Bombalot",
+    "gn:country_code":"CL",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3898099,
+    "gn:latitude":-52.26955,
+    "gn:longitude":-71.18581,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Bombalot",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1ad\u00f3n Bombalot",
+        "Bombalot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3898099
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"85e68f549576c4f8aaed3a7f5d3a9845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1327217473,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1327217473,
+    "wof:lastmodified":1537591167,
+    "wof:name":"Bombalot",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18581,
+    -52.26955,
+    -71.18581,
+    -52.26955
+],
+  "geometry": {"coordinates":[-71.18581,-52.26955],"type":"Point"}
+}

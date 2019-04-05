@@ -1,0 +1,90 @@
+{
+  "id": 102018023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":165612.188395,
+    "geom:bbox":"-71.6901591431,-33.4458440746,-71.6821708505,-33.4372706325",
+    "geom:latitude":-33.441248,
+    "geom:longitude":-71.686129,
+    "iso:country":"CL",
+    "lbl:latitude":-33.442352,
+    "lbl:longitude":-71.687174,
+    "mps:latitude":-33.442352,
+    "mps:longitude":-71.687174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Isla Negra"
+    ],
+    "name:dut_x_preferred":[
+        "Isla Negra"
+    ],
+    "name:eng_x_preferred":[
+        "Isla Negra"
+    ],
+    "name:por_x_preferred":[
+        "Isla Negra"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Negra"
+    ],
+    "name:swe_x_preferred":[
+        "Isla Negra"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Isla Negra",
+    "qs:loc_lc":"7280021",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7280021,
+        "gp:id":347698,
+        "wd:id":"Q6081486"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9c1fe0c75bca38115259f2f72f1c4520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063167,
+            "locality_id":102018023,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":102018023,
+    "wof:lastmodified":1527637576,
+    "wof:name":"Isla Negra",
+    "wof:parent_id":102063167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.69015914307163,
+    -33.44584407455113,
+    -71.68217085049008,
+    -33.43727063252673
+],
+  "geometry": {"coordinates":[[[[-71.68579101559999,-33.44060944369996],[-71.68579101559999,-33.44270319752831],[-71.69015914307163,-33.44584407455113],[-71.68753821045561,-33.44060944370004],[-71.68579101559999,-33.44060944369996]]],[[[-71.68579101559999,-33.44060944369996],[-71.68579101559999,-33.43946348320004],[-71.68579101559999,-33.43831750750002],[-71.68441772459995,-33.43831750750002],[-71.68304443360002,-33.43831750750002],[-71.68304443360002,-33.43946348320004],[-71.68304443360002,-33.44060944369996],[-71.68441772459995,-33.44060944369996],[-71.68579101559999,-33.44060944369996]]],[[[-71.68304443360002,-33.43831750750002],[-71.68304443359992,-33.43761958350213],[-71.68217085049008,-33.43727063252673],[-71.68246204331868,-33.43831750750002],[-71.68304443360002,-33.43831750750002]]]],"type":"MultiPolygon"}
+}

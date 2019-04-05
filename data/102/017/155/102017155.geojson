@@ -1,0 +1,107 @@
+{
+  "id": 102017155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000369,
+    "geom:area_square_m":3113637.544601,
+    "geom:bbox":"-72.8360271297,-47.0379425051,-72.8097249999,-47.0199580787",
+    "geom:latitude":-47.02895,
+    "geom:longitude":-72.822876,
+    "gn:population":300,
+    "iso:country":"CL",
+    "lbl:latitude":-47.028951,
+    "lbl:longitude":-72.822876,
+    "mps:latitude":-47.028951,
+    "mps:longitude":-72.822876,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Puerto Bertrand"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Bertrand"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Bertrand"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Bertrand"
+    ],
+    "name:spa_x_variant":[
+        "Pto Bertrand",
+        "Pto. Bertrand"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Bertrand"
+    ],
+    "qs:a0":"Chile",
+    "qs:a1":"*Aisen del General Carlos Ibanez Del Campo",
+    "qs:a1r":"*",
+    "qs:a2":"General Carrera",
+    "qs:id":0,
+    "qs:la":"Chile Chico",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Puerto Bertrand",
+    "qs:loc_alt":"Puerto Bertrand",
+    "qs:loc_lc":"3874990",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06b17b16-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3874990,
+        "gp:id":350101,
+        "qs:id":1047074,
+        "qs_pg:id":1047074,
+        "wd:id":"Q6091969"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4098cb955d79d22d5e947621909d69a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063127,
+            "locality_id":102017155,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":102017155,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1513937836,
+    "wof:name":"Puerto Bertrand",
+    "wof:parent_id":102063127,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.8360271296568,
+    -47.0379425050925,
+    -72.8097249998917,
+    -47.01995807872206
+],
+  "geometry": {"coordinates":[[[-72.81995103991909,-47.03772088053966],[-72.82251007175637,-47.0379425050925],[-72.82508317515257,-47.0378185071001],[-72.82757141836441,-47.0373536532684],[-72.82987913668671,-47.03656581544089],[-72.83191761533038,-47.03548528260924],[-72.83360850332231,-47.03415359496961],[-72.83488682652364,-47.03262194513029],[-72.83570348367159,-47.03094920828002],[-72.8360271296568,-47.02919967740323],[-72.8358453742221,-47.02744059091661],[-72.83516525091341,-47.02573954798672],[-72.83401293935853,-47.02416191096801],[-72.83243275267586,-47.02276829474887],[-72.83048542991912,-47.02161223930701],[-72.82824579987957,-47.02073815461971],[-72.82579990633357,-47.02017961653718],[-72.82324170507411,-47.01995807872206],[-72.82066945910482,-47.02008204981642],[-72.81818196963353,-47.02054676720917],[-72.81587478661521,-47.02133437982847],[-72.81383654334363,-47.02241463296857],[-72.81214555495885,-47.02374602901372],[-72.8108668108835,-47.02527741974838],[-72.81004947645474,-47.02694996942998],[-72.8097249998917,-47.02869941356904],[-72.80990589789947,-47.03045852695369],[-72.81058526746772,-47.03215970632245],[-72.81173704371872,-47.03373756854927],[-72.81331699502911,-47.03513146446006],[-72.81526441817861,-47.03628781149641],[-72.81750446909217,-47.03716215528835],[-72.81995103991909,-47.03772088053966]]],"type":"Polygon"}
+}

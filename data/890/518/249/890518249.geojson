@@ -1,0 +1,70 @@
+{
+  "id": 890518249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.673774,-38.661654,-71.673774,-38.661654",
+    "geom:latitude":-38.661654,
+    "geom:longitude":-71.673774,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Los Sauces",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Araucania",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":262,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794067,
+        "qs:id":1294496,
+        "wd:id":"Q16907",
+        "wk:page":"Los Sauces"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056055,
+    "wof:geomhash":"f60d51ff96f86c5b2425259024178e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "localadmin_id":890518249,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":890518249,
+    "wof:lastmodified":1527751236,
+    "wof:name":"Los Sauces",
+    "wof:parent_id":102063107,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.673774,
+    -38.661654,
+    -71.673774,
+    -38.661654
+],
+  "geometry": {"coordinates":[-71.67377399999999,-38.661654],"type":"Point"}
+}

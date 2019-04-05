@@ -1,0 +1,114 @@
+{
+  "id": 85764467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":41014849.076773,
+    "geom:bbox":"-71.633381,-33.037519,-71.633381,-33.037519",
+    "geom:latitude":-33.037519,
+    "geom:longitude":-71.633381,
+    "gn:latitude":-33.03553,
+    "gn:longitude":-71.64182,
+    "iso:country":"CL",
+    "lbl:latitude":-33.037519,
+    "lbl:longitude":-71.633381,
+    "mps:latitude":-33.033706,
+    "mps:longitude":-71.649762,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Playa Ancha"
+    ],
+    "name:spa_x_variant":[
+        "Cerro Playa Ancha"
+    ],
+    "name:unk_x_variant":[
+        "Cerro Playa Ancha",
+        "Playa Ancha"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Playa Ancha",
+    "qs:local_max":14219,
+    "qs:local_sum":41999,
+    "qs:localhoods":9,
+    "qs:name":"Playa Ancha",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:name_adm2":"Valparaiso",
+    "qs:name_lau":"Valparaiso",
+    "qs:name_local":"Valpara\u00edso",
+    "qs:photo_max":883,
+    "qs:photo_sum":14219,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":154,
+    "qs:woe_adm0":23424782,
+    "qs:woe_adm1":2345018,
+    "qs:woe_adm2":26794022,
+    "qs:woe_lau":26794357,
+    "qs:woe_local":349861,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        102016833,
+        102063161,
+        85682143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875654,
+        "gp:id":348986,
+        "qs:id":1026471,
+        "qs_pg:id":1026471
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d99ef8b5f42890439a0bdde89b8a9f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063161,
+            "locality_id":102016833,
+            "neighbourhood_id":85764467,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":85764467,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858900,
+    "wof:name":"Playa Ancha",
+    "wof:parent_id":102016833,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.633381,
+    -33.037519,
+    -71.633381,
+    -33.037519
+],
+  "geometry": {"coordinates":[-71.633381,-33.037519],"type":"Point"}
+}

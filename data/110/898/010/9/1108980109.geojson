@@ -1,0 +1,161 @@
+{
+  "id": 1108980109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68333,-33.55,-70.68333,-33.55",
+    "geom:latitude":-33.55,
+    "geom:longitude":-70.68333,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-33.55,
+    "lbl:longitude":-70.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:cat_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u897f\u65af\u7279\u7d0d"
+    ],
+    "name:cze_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:dut_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:eng_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:fre_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:ger_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:ita_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc2dc\uc2a4\ud14c\ub974\ub098"
+    ],
+    "name:nan_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:nno_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:nob_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:oci_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:pol_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:por_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:rum_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0421\u0438\u0441\u0442\u0435\u0440\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0421\u0438\u0441\u0442\u0435\u0440\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Cisterna"
+    ],
+    "name:unk_x_variant":[
+        "Cisterna"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0633\u06cc\u0633\u0679\u06cc\u0631\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u897f\u65af\u7279\u7d0d"
+    ],
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3886243,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Cisterna",
+    "qs_pg:name_adm0":"Chile",
+    "qs_pg:name_adm1":"Santiago",
+    "qs_pg:photos":978,
+    "qs_pg:photos_1k":198,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":978,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1141857,
+    "qs_pg:qs_pg_placetype":"locality_gp_neighbourhood_gn",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424782,
+    "qs_pg:woe_id":347983,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424782,
+    "woe:name_adm0":"Chile",
+    "woe:name_adm1":"Santiago",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886243,
+        "qs_pg:id":1141857,
+        "wd:id":"Q14456",
+        "woe:id":347983
+    },
+    "wof:country":"CL",
+    "wof:created":1496793282,
+    "wof:geomhash":"bcd032a199045c42b31fc6afa5e852e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "locality_id":1108980109,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1108980109,
+    "wof:lastmodified":1513937193,
+    "wof:name":"La Cisterna",
+    "wof:parent_id":102063117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68333,
+    -33.55,
+    -70.68333,
+    -33.55
+],
+  "geometry": {"coordinates":[-70.68333,-33.55],"type":"Point"}
+}

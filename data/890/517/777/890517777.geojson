@@ -1,0 +1,75 @@
+{
+  "id": 890517777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.71998,-40.24625,-73.71998,-40.24625",
+    "geom:latitude":-40.24625,
+    "geom:longitude":-73.71998,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"La Barra",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Rios",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886503,
+        "gp:id":350048,
+        "qs:id":972910,
+        "wk:page":"La Barra"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056024,
+    "wof:geomhash":"73ffa01a346f490e775c674f35679f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063189,
+            "locality_id":890517777,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":890517777,
+    "wof:lastmodified":1527749996,
+    "wof:name":"La Barra",
+    "wof:parent_id":102063189,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.71998,
+    -40.24625,
+    -73.71998,
+    -40.24625
+],
+  "geometry": {"coordinates":[-73.71998000000001,-40.24625],"type":"Point"}
+}

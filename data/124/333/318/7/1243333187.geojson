@@ -1,0 +1,73 @@
+{
+  "id": 1243333187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6596,-17.99336,-69.6596,-17.99336",
+    "geom:latitude":-17.99336,
+    "geom:longitude":-69.6596,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15202.0",
+    "gn:asciiname":"Coronel Alcerreca",
+    "gn:country_code":"CL",
+    "gn:dem":3925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893526,
+    "gn:latitude":-17.99336,
+    "gn:longitude":-69.6596,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Coronel Alc\u00e9rreca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coronel Alc\u00e9rreca",
+        "Alc\u00e9rreca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893526
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"001092411e834fea448c9fd38611bfef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1243333187,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1243333187,
+    "wof:lastmodified":1537591154,
+    "wof:name":"Coronel Alcerreca",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.6596,
+    -17.99336,
+    -69.6596,
+    -17.99336
+],
+  "geometry": {"coordinates":[-69.6596,-17.99336],"type":"Point"}
+}

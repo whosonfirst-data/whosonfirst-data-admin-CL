@@ -1,0 +1,130 @@
+{
+  "id": 890517921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.20111,-32.73689,-71.20111,-32.73689",
+    "geom:latitude":-32.73689,
+    "geom:longitude":-71.20111,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Nogales"
+    ],
+    "name:cat_x_preferred":[
+        "Nogales"
+    ],
+    "name:chi_x_preferred":[
+        "\u8afe\u52a0\u840a\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Nogales"
+    ],
+    "name:eng_x_preferred":[
+        "Nogales"
+    ],
+    "name:fre_x_preferred":[
+        "Nogales"
+    ],
+    "name:ita_x_preferred":[
+        "Nogales"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\uac08\ub808\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Nogalesas"
+    ],
+    "name:nan_x_preferred":[
+        "Nogales"
+    ],
+    "name:oci_x_preferred":[
+        "Nogales"
+    ],
+    "name:por_x_preferred":[
+        "Nogales"
+    ],
+    "name:rum_x_preferred":[
+        "Nogales"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0433\u0430\u043b\u0435\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Nogales"
+    ],
+    "name:spa_x_preferred":[
+        "Nogales"
+    ],
+    "name:swe_x_preferred":[
+        "Nogales"
+    ],
+    "name:unk_x_variant":[
+        "Nogales"
+    ],
+    "qs:name":"Los Nogales",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":446,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3881682,
+        "gp:id":348516,
+        "qs:id":1071764,
+        "wd:id":"Q51049",
+        "wk:page":"Los Nogales"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056035,
+    "wof:geomhash":"a3d04bbf14696f96db616d8ddbcbdad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063103,
+            "locality_id":890517921,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890517921,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Los Nogales",
+    "wof:parent_id":102063103,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.20111,
+    -32.73689,
+    -71.20111,
+    -32.73689
+],
+  "geometry": {"coordinates":[-71.20111,-32.73689],"type":"Point"}
+}

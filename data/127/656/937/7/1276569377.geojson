@@ -1,0 +1,71 @@
+{
+  "id": 1276569377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.93805,-53.59323,-70.93805,-53.59323",
+    "geom:latitude":-53.59323,
+    "geom:longitude":-70.93805,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Fuerte Bulnes",
+    "gn:country_code":"CL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358128,
+    "gn:latitude":-53.59323,
+    "gn:longitude":-70.93805,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Fuerte Bulnes",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fuerte Bulnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358128
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4233d5d4385932547a2fb71d0ed7387f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1276569377,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1276569377,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Fuerte Bulnes",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.93805,
+    -53.59323000000001,
+    -70.93805,
+    -53.59323000000001
+],
+  "geometry": {"coordinates":[-70.93805,-53.59323000000001],"type":"Point"}
+}

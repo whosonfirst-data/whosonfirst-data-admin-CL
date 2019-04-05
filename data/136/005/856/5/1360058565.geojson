@@ -1,0 +1,69 @@
+{
+  "id": 1360058565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.79444,-20.20833,-69.79444,-20.20833",
+    "geom:latitude":-20.20833,
+    "geom:longitude":-69.79444,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1401.0",
+    "gn:asciiname":"Humberstone and Santa Laura Saltpeter Works",
+    "gn:country_code":"CL",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6941961,
+    "gn:latitude":-20.20833,
+    "gn:longitude":-69.79444,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Humberstone and Santa Laura Saltpeter Works",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6941961
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0374c125ada3b998ee7bf7df46ea93e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1360058565,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1360058565,
+    "wof:lastmodified":1536983297,
+    "wof:name":"Humberstone and Santa Laura Saltpeter Works",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.79444000000001,
+    -20.20833,
+    -69.79444000000001,
+    -20.20833
+],
+  "geometry": {"coordinates":[-69.79444000000001,-20.20833],"type":"Point"}
+}

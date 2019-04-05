@@ -1,0 +1,70 @@
+{
+  "id": 890517583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.4830645,-25.406376,-70.4830645,-25.406376",
+    "geom:latitude":-25.406376,
+    "geom:longitude":-70.483064,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taltal",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Antofagasta",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":405,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":937,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794036,
+        "qs:id":1313006,
+        "wd:id":"Q188049",
+        "wk:page":"Taltal"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056015,
+    "wof:geomhash":"657abfb126edff9e7dfac79a203a371c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "localadmin_id":890517583,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":890517583,
+    "wof:lastmodified":1527751203,
+    "wof:name":"Taltal",
+    "wof:parent_id":102063073,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.4830645,
+    -25.406376,
+    -70.4830645,
+    -25.406376
+],
+  "geometry": {"coordinates":[-70.4830645,-25.406376],"type":"Point"}
+}

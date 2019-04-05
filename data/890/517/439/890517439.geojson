@@ -1,0 +1,63 @@
+{
+  "id": 890517439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.8165,-33.1594,-70.8165,-33.1594",
+    "geom:latitude":-33.1594,
+    "geom:longitude":-70.8165,
+    "gn:country":"CL",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Provincia de Chacabuco",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181717,
+        "qs:id":1246111
+    },
+    "wof:country":"CL",
+    "wof:created":1469056009,
+    "wof:geomhash":"4eaf8f3ffdb447238e539c6745e4f20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517439,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517439,
+    "wof:lastmodified":1505343906,
+    "wof:name":"Provincia de Chacabuco",
+    "wof:parent_id":85682207,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.8165,
+    -33.1594,
+    -70.8165,
+    -33.1594
+],
+  "geometry": {"coordinates":[-70.8165,-33.1594],"type":"Point"}
+}

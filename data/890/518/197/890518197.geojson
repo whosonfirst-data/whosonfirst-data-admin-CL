@@ -1,0 +1,67 @@
+{
+  "id": 890518197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.00628,-34.39666,-72.00628,-34.39666",
+    "geom:latitude":-34.39666,
+    "geom:longitude":-72.00628,
+    "gn:country":"CL",
+    "gn:fcode":"PPLX",
+    "gn:pop":231,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Los Navegantes",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682165,
+        102191577,
+        85633057,
+        102017215,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8379385,
+        "qs:id":110024
+    },
+    "wof:country":"CL",
+    "wof:created":1469056053,
+    "wof:geomhash":"c4b29ac40c116d6ee47749f092472218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "locality_id":102017215,
+            "neighbourhood_id":890518197,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890518197,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Los Navegantes",
+    "wof:parent_id":102017215,
+    "wof:placetype":"neighbourhood",
+    "wof:population":231,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.00628,
+    -34.39666,
+    -72.00628,
+    -34.39666
+],
+  "geometry": {"coordinates":[-72.00628,-34.39666],"type":"Point"}
+}

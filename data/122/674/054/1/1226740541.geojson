@@ -1,0 +1,73 @@
+{
+  "id": 1226740541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.86667,-34.1,-71.86667,-34.1",
+    "geom:latitude":-34.1,
+    "geom:longitude":-71.86667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:admin3_code":"6205.0",
+    "gn:asciiname":"Valle Negro",
+    "gn:country_code":"CL",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868629,
+    "gn:latitude":-34.1,
+    "gn:longitude":-71.86667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Valle Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Valle",
+        "Valle Negro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868629
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"52a47e9f1983e4a4855c4d40c6a36ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "locality_id":1226740541,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1226740541,
+    "wof:lastmodified":1537591099,
+    "wof:name":"Valle Negro",
+    "wof:parent_id":102063149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.86667,
+    -34.1,
+    -71.86667,
+    -34.1
+],
+  "geometry": {"coordinates":[-71.86667,-34.1],"type":"Point"}
+}

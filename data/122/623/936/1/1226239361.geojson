@@ -1,0 +1,72 @@
+{
+  "id": 1226239361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.87802,-33.99262,-71.87802,-33.99262",
+    "geom:latitude":-33.99262,
+    "geom:longitude":-71.87802,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"El Guanaco",
+    "gn:country_code":"CL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3891304,
+    "gn:latitude":-33.99262,
+    "gn:longitude":-71.87802,
+    "gn:modification_date":"2018-06-14",
+    "gn:name":"El Guanaco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanaco",
+        "El Guanaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3891304
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6c5c02f377b316b76e802ad12ff1ad3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "locality_id":1226239361,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1226239361,
+    "wof:lastmodified":1537591147,
+    "wof:name":"El Guanaco",
+    "wof:parent_id":102063149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.87801999999998,
+    -33.99262,
+    -71.87801999999998,
+    -33.99262
+],
+  "geometry": {"coordinates":[-71.87801999999998,-33.99262],"type":"Point"}
+}

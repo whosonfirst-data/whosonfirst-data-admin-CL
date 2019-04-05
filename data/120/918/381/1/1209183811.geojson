@@ -1,0 +1,63 @@
+{
+  "id": 1209183811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.3,-18.05,-69.3,-18.05",
+    "geom:latitude":-18.05,
+    "geom:longitude":-69.3,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Calaballune",
+    "gn:country_code":"CL",
+    "gn:dem":4475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3897374,
+    "gn:latitude":-18.05,
+    "gn:longitude":-69.3,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Calaballune",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3897374
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6490b0bf44c236ed1f899bd82a59375f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209183811
+        }
+    ],
+    "wof:id":1209183811,
+    "wof:lastmodified":1536295168,
+    "wof:name":"Calaballune",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.3,
+    -18.05,
+    -69.3,
+    -18.05
+],
+  "geometry": {"coordinates":[-69.3,-18.05],"type":"Point"}
+}

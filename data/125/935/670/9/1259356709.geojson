@@ -1,0 +1,72 @@
+{
+  "id": 1259356709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.2054,-41.72936,-73.2054,-41.72936",
+    "geom:latitude":-41.72936,
+    "geom:longitude":-73.2054,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10102.0",
+    "gn:asciiname":"Daitao",
+    "gn:country_code":"CL",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8050188,
+    "gn:latitude":-41.72936,
+    "gn:longitude":-73.2054,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Daitao",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Daitao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8050188
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"68b6fb99629375a36288d6c81b090c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1259356709,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1259356709,
+    "wof:lastmodified":1537591178,
+    "wof:name":"Daitao",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.2054,
+    -41.72936,
+    -73.2054,
+    -41.72936
+],
+  "geometry": {"coordinates":[-73.2054,-41.72936],"type":"Point"}
+}

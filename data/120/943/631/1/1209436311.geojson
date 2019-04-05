@@ -1,0 +1,67 @@
+{
+  "id": 1209436311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.27553,-30.31672,-70.27553,-30.31672",
+    "geom:latitude":-30.31672,
+    "geom:longitude":-70.27553,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4105.0",
+    "gn:asciiname":"Corral Munoz",
+    "gn:country_code":"CL",
+    "gn:dem":2801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893476,
+    "gn:latitude":-30.31672,
+    "gn:longitude":-70.27553,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Corral Mu\u00f1oz",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corral de Mu\u00f1oz",
+        "Corral Mu\u00f1oz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893476
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a8fd5379e19dab9415b9d9e0f761a233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209436311
+        }
+    ],
+    "wof:id":1209436311,
+    "wof:lastmodified":1537591154,
+    "wof:name":"Corral Munoz",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27553,
+    -30.31672,
+    -70.27553,
+    -30.31672
+],
+  "geometry": {"coordinates":[-70.27553,-30.31672],"type":"Point"}
+}

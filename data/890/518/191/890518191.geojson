@@ -1,0 +1,76 @@
+{
+  "id": 890518191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63563,-20.62198,-69.63563,-20.62198",
+    "geom:latitude":-20.62198,
+    "geom:longitude":-69.63563,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pintados",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Tarapaca",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":692,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875891,
+        "gp:id":350093,
+        "qs:id":150599,
+        "wd:id":"Q7196506",
+        "wk:page":"Pintados"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056052,
+    "wof:geomhash":"54ebf8626a2cb922a001b54d84b83e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":890518191,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":890518191,
+    "wof:lastmodified":1527751234,
+    "wof:name":"Pintados",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63563,
+    -20.62198,
+    -69.63563,
+    -20.62198
+],
+  "geometry": {"coordinates":[-69.63563000000001,-20.62198],"type":"Point"}
+}

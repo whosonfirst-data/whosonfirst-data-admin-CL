@@ -1,0 +1,69 @@
+{
+  "id": 1259497693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.18333,-33.18333,-71.18333,-33.18333",
+    "geom:latitude":-33.18333,
+    "geom:longitude":-71.18333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"58.0",
+    "gn:admin3_code":"5801.0",
+    "gn:asciiname":"Las Canales",
+    "gn:country_code":"CL",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3884554,
+    "gn:latitude":-33.18333,
+    "gn:longitude":-71.18333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Las Canales",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        1108721747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3884554
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"bad0324fab4aab377ed3137b9e859c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":1108721747,
+            "locality_id":1259497693,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1259497693,
+    "wof:lastmodified":1536837288,
+    "wof:name":"Las Canales",
+    "wof:parent_id":1108721747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18333,
+    -33.18333,
+    -71.18333,
+    -33.18333
+],
+  "geometry": {"coordinates":[-71.18333,-33.18333],"type":"Point"}
+}

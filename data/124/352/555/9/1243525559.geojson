@@ -1,0 +1,71 @@
+{
+  "id": 1243525559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.08265,-41.32559,-73.08265,-41.32559",
+    "geom:latitude":-41.32559,
+    "geom:longitude":-73.08265,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"Nueva Braunau",
+    "gn:country_code":"CL",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308881,
+    "gn:latitude":-41.32559,
+    "gn:longitude":-73.08265,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Nueva Braunau",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Braunau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308881
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"5e6ca6c7d5a8321c44834f399dcbf0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1243525559,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1243525559,
+    "wof:lastmodified":1537591179,
+    "wof:name":"Nueva Braunau",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08265,
+    -41.32559000000001,
+    -73.08265,
+    -41.32559000000001
+],
+  "geometry": {"coordinates":[-73.08265,-41.32559000000001],"type":"Point"}
+}

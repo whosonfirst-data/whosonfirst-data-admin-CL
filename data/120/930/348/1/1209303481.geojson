@@ -1,0 +1,65 @@
+{
+  "id": 1209303481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.87454,-50.97316,-72.87454,-50.97316",
+    "geom:latitude":-50.97316,
+    "geom:longitude":-72.87454,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:asciiname":"Ascencio",
+    "gn:country_code":"CL",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11405474,
+    "gn:latitude":-50.97316,
+    "gn:longitude":-72.87454,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Ascencio",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ascencio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11405474
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8573fcdbe37ea0fd8f6974410b4bef55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209303481
+        }
+    ],
+    "wof:id":1209303481,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Ascencio",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.87454,
+    -50.97316,
+    -72.87454,
+    -50.97316
+],
+  "geometry": {"coordinates":[-72.87454,-50.97316],"type":"Point"}
+}

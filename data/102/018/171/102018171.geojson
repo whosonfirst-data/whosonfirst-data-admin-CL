@@ -1,0 +1,133 @@
+{
+  "id": 102018171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000314,
+    "geom:area_square_m":3118736.120841,
+    "geom:bbox":"-72.3067084592,-36.6642042526,-72.2843561339,-36.6461944829",
+    "geom:latitude":-36.655199,
+    "geom:longitude":-72.295532,
+    "iso:country":"CL",
+    "lbl:latitude":-36.655199,
+    "lbl:longitude":-72.295532,
+    "mps:latitude":-36.655199,
+    "mps:longitude":-72.295532,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0644\u0627\u0646 \u0641\u064a\u062c\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7ilyan Vyexo"
+    ],
+    "name:baq_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:cat_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:chi_x_preferred":[
+        "\u5947\u826f\u7dad\u8036\u970d"
+    ],
+    "name:dut_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:eng_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:fre_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:ger_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:glg_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:ita_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\uc580\ube44\uc5d0\ud638"
+    ],
+    "name:nan_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:oci_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u06cc\u0644\u0627\u0646 \u0648\u06cc\u062c\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:rum_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043b\u044c\u044f\u043d-\u0412\u044c\u0435\u0445\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Chill\u00e1n Viejo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u0459\u0430\u043d \u0412\u0435\u0445\u043e"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Chill\u00e1n Viejo",
+    "qs:loc_lc":"8261339",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":630,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261339,
+        "gp:id":349373,
+        "qs:id":904480,
+        "wd:id":"Q3779"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9458c66f47faa6a4a2067fbc94abc328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "locality_id":102018171,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":102018171,
+    "wof:lastmodified":1527637585,
+    "wof:name":"Chill\u00e1n Viejo",
+    "wof:parent_id":102063109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.30670845919875,
+    -36.66420425264349,
+    -72.28435613391338,
+    -36.64619448293478
+],
+  "geometry": {"coordinates":[[[-72.29304243429023,-36.66398164907263],[-72.29521698269664,-36.66420425264349],[-72.29740365371654,-36.66408076428058],[-72.29951838590723,-36.66361593000356],[-72.30147988558423,-36.66282761796933],[-72.3032127548087,-36.66174613107142],[-72.30465039172114,-36.66041304112046],[-72.3057375513321,-36.65887958960634],[-72.30643246815885,-36.65720471675083],[-72.30670845919875,-36.65545279486317],[-72.30655494595004,-36.65369115334926],[-72.30597785672308,-36.65198749066732],[-72.30499939442203,-36.65040727278259],[-72.30365717939071,-36.64901121808399],[-72.30200280085771,-36.64785296530444],[-72.30009983307588,-36.64697701386852],[-72.29802139259482,-36.64641701556604],[-72.29584733047852,-36.64619448293478],[-72.29366116705765,-36.64631796374498],[-72.2915468864976,-36.64678271312671],[-72.28958571372613,-36.64757087584758],[-72.28785299691378,-36.64865217174582],[-72.28641531471641,-36.64998505808854],[-72.28532791901804,-36.65151832438345],[-72.2846326112433,-36.65319305860684],[-72.28435613391338,-36.65494490955479],[-72.28450913956304,-36.6567065586215],[-72.28508577715938,-36.65841030619874],[-72.28606391255491,-36.65999067339673],[-72.28740597517417,-36.66138691909509],[-72.28906039899192,-36.66254537548279],[-72.29096360286127,-36.66342151213793],[-72.29304243429023,-36.66398164907263]]],"type":"Polygon"}
+}

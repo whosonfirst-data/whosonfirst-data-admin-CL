@@ -1,0 +1,67 @@
+{
+  "id": 1209586027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.71833,-18.97732,-69.71833,-18.97732",
+    "geom:latitude":-18.97732,
+    "geom:longitude":-69.71833,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"151.0",
+    "gn:asciiname":"Guancarane",
+    "gn:country_code":"CL",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888444,
+    "gn:latitude":-18.97732,
+    "gn:longitude":-69.71833,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Guancarane",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanacarane",
+        "Huancarane",
+        "Guancarane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888444
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"43cd5765c979c187bdc80b1c1e57f2b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209586027
+        }
+    ],
+    "wof:id":1209586027,
+    "wof:lastmodified":1537591142,
+    "wof:name":"Guancarane",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.71833000000001,
+    -18.97732,
+    -69.71833000000001,
+    -18.97732
+],
+  "geometry": {"coordinates":[-69.71833000000001,-18.97732],"type":"Point"}
+}

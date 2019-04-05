@@ -1,0 +1,63 @@
+{
+  "id": 1209098775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.60018,-36.7587,-72.60018,-36.7587",
+    "geom:latitude":-36.7587,
+    "geom:longitude":-72.60018,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8104.0",
+    "gn:asciiname":"Coyanco",
+    "gn:country_code":"CL",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893326,
+    "gn:latitude":-36.7587,
+    "gn:longitude":-72.60018,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Coyanco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893326
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"03307000b930f4986be7ed5081c48087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209098775
+        }
+    ],
+    "wof:id":1209098775,
+    "wof:lastmodified":1536297801,
+    "wof:name":"Coyanco",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.60018000000002,
+    -36.7587,
+    -72.60018000000002,
+    -36.7587
+],
+  "geometry": {"coordinates":[-72.60018000000002,-36.7587],"type":"Point"}
+}

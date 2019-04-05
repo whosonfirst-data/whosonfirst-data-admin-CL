@@ -1,0 +1,75 @@
+{
+  "id": 1209736977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07943,-31.95863,-71.07943,-31.95863",
+    "geom:latitude":-31.95863,
+    "geom:longitude":-71.07943,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4203.0",
+    "gn:asciiname":"Ramadilla",
+    "gn:country_code":"CL",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3873810,
+    "gn:latitude":-31.95863,
+    "gn:longitude":-71.07943,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ramadilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ramadilla"
+    ],
+    "name:und_x_variant":[
+        "Ramadillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873810
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"74187572b7cadfe750a39a623b0b8a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063179,
+            "locality_id":1209736977,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1209736977,
+    "wof:lastmodified":1537591108,
+    "wof:name":"Ramadilla",
+    "wof:parent_id":102063179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07943,
+    -31.95863,
+    -71.07943,
+    -31.95863
+],
+  "geometry": {"coordinates":[-71.07943,-31.95863],"type":"Point"}
+}

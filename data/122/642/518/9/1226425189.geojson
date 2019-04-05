@@ -1,0 +1,68 @@
+{
+  "id": 1226425189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.5705,-19.61716,-68.5705,-19.61716",
+    "geom:latitude":-19.61716,
+    "geom:longitude":-68.5705,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Tillujaya",
+    "gn:country_code":"CL",
+    "gn:dem":3994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3869831,
+    "gn:latitude":-19.61716,
+    "gn:longitude":-68.5705,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Tillujaya",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869831
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"eec10b01f6d1498e3ea133040db0e945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1226425189,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226425189,
+    "wof:lastmodified":1536675098,
+    "wof:name":"Tillujaya",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.5705,
+    -19.61716,
+    -68.5705,
+    -19.61716
+],
+  "geometry": {"coordinates":[-68.5705,-19.61716],"type":"Point"}
+}

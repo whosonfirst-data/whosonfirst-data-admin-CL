@@ -1,0 +1,73 @@
+{
+  "id": 1327139173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07598,-29.002,-71.07598,-29.002",
+    "geom:latitude":-29.002,
+    "geom:longitude":-71.07598,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3303.0",
+    "gn:asciiname":"Almireses",
+    "gn:country_code":"CL",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900030,
+    "gn:latitude":-29.002,
+    "gn:longitude":-71.07598,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Almireses",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mineral de Almireces",
+        "Almireses"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900030
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ab36f5a072cb42db18980eed549c43f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1327139173,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1327139173,
+    "wof:lastmodified":1537591171,
+    "wof:name":"Almireses",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07598,
+    -29.002,
+    -71.07598,
+    -29.002
+],
+  "geometry": {"coordinates":[-71.07598,-29.002],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1360179805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.03776,-36.76811,-73.03776,-36.76811",
+    "geom:latitude":-36.76811,
+    "geom:longitude":-73.03776,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8107.0",
+    "gn:asciiname":"El Rosal",
+    "gn:country_code":"CL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3890483,
+    "gn:latitude":-36.76811,
+    "gn:longitude":-73.03776,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Rosal",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3890483
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ab0da4d1ea2bdb25d029c6b05114acc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "locality_id":1360179805,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1360179805,
+    "wof:lastmodified":1536808679,
+    "wof:name":"El Rosal",
+    "wof:parent_id":102063171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.03775999999998,
+    -36.76811,
+    -73.03775999999998,
+    -36.76811
+],
+  "geometry": {"coordinates":[-73.03775999999998,-36.76811],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243370953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.27018,-22.14643,-68.27018,-22.14643",
+    "geom:latitude":-22.14643,
+    "geom:longitude":-68.27018,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2201.0",
+    "gn:asciiname":"Paniri",
+    "gn:country_code":"CL",
+    "gn:dem":3276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877334,
+    "gn:latitude":-22.14643,
+    "gn:longitude":-68.27018,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Paniri",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paniri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877334
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9f4c90a5c7a68e29fe02c7392d97c004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063131,
+            "locality_id":1243370953,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1243370953,
+    "wof:lastmodified":1537591115,
+    "wof:name":"Paniri",
+    "wof:parent_id":102063131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.27018000000001,
+    -22.14643,
+    -68.27018000000001,
+    -22.14643
+],
+  "geometry": {"coordinates":[-68.27018000000001,-22.14643],"type":"Point"}
+}

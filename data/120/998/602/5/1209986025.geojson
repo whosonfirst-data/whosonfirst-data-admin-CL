@@ -1,0 +1,69 @@
+{
+  "id": 1209986025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.94997,-18.38809,-69.94997,-18.38809",
+    "geom:latitude":-18.38809,
+    "geom:longitude":-69.94997,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"151.0",
+    "gn:admin3_code":"15101.0",
+    "gn:asciiname":"Taipimarca",
+    "gn:country_code":"CL",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870324,
+    "gn:latitude":-18.38809,
+    "gn:longitude":-69.94997,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Taipimarca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870324
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b738d481ae956cfc6c6d1f3f9e0e9ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063165,
+            "locality_id":1209986025,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1209986025,
+    "wof:lastmodified":1536388566,
+    "wof:name":"Taipimarca",
+    "wof:parent_id":102063165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.94997,
+    -18.38809,
+    -69.94997,
+    -18.38809
+],
+  "geometry": {"coordinates":[-69.94996999999999,-18.38809],"type":"Point"}
+}

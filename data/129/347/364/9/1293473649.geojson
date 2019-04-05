@@ -1,0 +1,75 @@
+{
+  "id": 1293473649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1046,-52.97754,-70.1046,-52.97754",
+    "geom:latitude":-52.97754,
+    "geom:longitude":-70.1046,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:admin3_code":"12302.0",
+    "gn:asciiname":"Miriam Cecilia",
+    "gn:country_code":"CL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871239,
+    "gn:latitude":-52.97754,
+    "gn:longitude":-70.1046,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Miriam Cecilia",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Miriam Cecilia"
+    ],
+    "name:und_x_variant":[
+        "Estancia Sarita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871239
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ca4435ccb6351aaa53e3dec792afed83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1293473649,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1293473649,
+    "wof:lastmodified":1537591103,
+    "wof:name":"Miriam Cecilia",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1046,
+    -52.97754000000001,
+    -70.1046,
+    -52.97754000000001
+],
+  "geometry": {"coordinates":[-70.1046,-52.97754000000001],"type":"Point"}
+}

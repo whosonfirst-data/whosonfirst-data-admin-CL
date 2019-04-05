@@ -1,0 +1,75 @@
+{
+  "id": 1259353273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.2048,-20.02147,-69.2048,-20.02147",
+    "geom:latitude":-20.02147,
+    "geom:longitude":-69.2048,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1404.0",
+    "gn:asciiname":"Iquinca",
+    "gn:country_code":"CL",
+    "gn:dem":2673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874052,
+    "gn:latitude":-20.02147,
+    "gn:longitude":-69.2048,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Iquinca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Iquinca"
+    ],
+    "name:und_x_variant":[
+        "Quinca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874052
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"682f688b243eafeebc4539d845a2f31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1259353273,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1259353273,
+    "wof:lastmodified":1537591108,
+    "wof:name":"Iquinca",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.2048,
+    -20.02147,
+    -69.2048,
+    -20.02147
+],
+  "geometry": {"coordinates":[-69.20480000000001,-20.02147],"type":"Point"}
+}

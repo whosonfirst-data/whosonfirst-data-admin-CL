@@ -1,0 +1,72 @@
+{
+  "id": 1360308147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.90148,-28.53753,-70.90148,-28.53753",
+    "geom:latitude":-28.53753,
+    "geom:longitude":-70.90148,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3301.0",
+    "gn:asciiname":"Longomilla",
+    "gn:country_code":"CL",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3882549,
+    "gn:latitude":-28.53753,
+    "gn:longitude":-70.90148,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Longomilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Longomilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882549
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7541e14d1c566e6ff61ef470a5ceb342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1360308147,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1360308147,
+    "wof:lastmodified":1537591126,
+    "wof:name":"Longomilla",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.90148,
+    -28.53753,
+    -70.90148,
+    -28.53753
+],
+  "geometry": {"coordinates":[-70.90148000000001,-28.53753],"type":"Point"}
+}

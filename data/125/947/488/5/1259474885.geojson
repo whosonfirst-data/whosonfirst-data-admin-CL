@@ -1,0 +1,69 @@
+{
+  "id": 1259474885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.78068,-30.91132,-70.78068,-30.91132",
+    "geom:latitude":-30.91132,
+    "geom:longitude":-70.78068,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4303.0",
+    "gn:asciiname":"Vado Hondo",
+    "gn:country_code":"CL",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868728,
+    "gn:latitude":-30.91132,
+    "gn:longitude":-70.78068,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Vado Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868728
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0d7c6a5e8c4c13d7757181c9718e8ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1259474885,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1259474885,
+    "wof:lastmodified":1536870124,
+    "wof:name":"Vado Hondo",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.78068,
+    -30.91132,
+    -70.78068,
+    -30.91132
+],
+  "geometry": {"coordinates":[-70.78068,-30.91132],"type":"Point"}
+}

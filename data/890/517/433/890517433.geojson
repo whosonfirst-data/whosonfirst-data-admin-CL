@@ -1,0 +1,70 @@
+{
+  "id": 890517433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.167816,-34.885508,-72.167816,-34.885508",
+    "geom:latitude":-34.885508,
+    "geom:longitude":-72.167816,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Vichuqu\u00e9n",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Maule",
+    "qs:photos":180,
+    "qs:photos_1k":36,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":898,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":307,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794244,
+        "qs:id":1263725,
+        "wd:id":"Q200992",
+        "wk:page":"Vichuqu\u00e9n"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056008,
+    "wof:geomhash":"b3fa0600ca2dea226993bd2e94ec542e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "localadmin_id":890517433,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":890517433,
+    "wof:lastmodified":1527751201,
+    "wof:name":"Vichuqu\u00e9n",
+    "wof:parent_id":102063147,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.167816,
+    -34.885508,
+    -72.167816,
+    -34.885508
+],
+  "geometry": {"coordinates":[-72.167816,-34.885508],"type":"Point"}
+}

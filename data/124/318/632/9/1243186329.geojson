@@ -1,0 +1,73 @@
+{
+  "id": 1243186329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.33047,-32.7584,-71.33047,-32.7584",
+    "geom:latitude":-32.7584,
+    "geom:longitude":-71.33047,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5105.0",
+    "gn:asciiname":"Pucalan",
+    "gn:country_code":"CL",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3875111,
+    "gn:latitude":-32.7584,
+    "gn:longitude":-71.33047,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pucal\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casas de Pucalan",
+        "Pucal\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875111
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c1753b3383ff9c36ad6d2f185de88b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063161,
+            "locality_id":1243186329,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1243186329,
+    "wof:lastmodified":1537591112,
+    "wof:name":"Pucalan",
+    "wof:parent_id":102063161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.33046999999998,
+    -32.7584,
+    -71.33046999999998,
+    -32.7584
+],
+  "geometry": {"coordinates":[-71.33046999999998,-32.7584],"type":"Point"}
+}

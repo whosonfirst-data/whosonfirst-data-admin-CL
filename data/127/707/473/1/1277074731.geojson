@@ -1,0 +1,73 @@
+{
+  "id": 1277074731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.69876,-38.46678,-71.69876,-38.46678",
+    "geom:latitude":-38.46678,
+    "geom:longitude":-71.69876,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"92.0",
+    "gn:admin3_code":"9203.0",
+    "gn:asciiname":"Manzanar",
+    "gn:country_code":"CL",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3880633,
+    "gn:latitude":-38.46678,
+    "gn:longitude":-71.69876,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Manzanar",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manzanares",
+        "Manzanar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3880633
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9c43e33cd32a7fe6df9b182a2ee7a7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063101,
+            "locality_id":1277074731,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1277074731,
+    "wof:lastmodified":1537591122,
+    "wof:name":"Manzanar",
+    "wof:parent_id":102063101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.69876,
+    -38.46678,
+    -71.69876,
+    -38.46678
+],
+  "geometry": {"coordinates":[-71.69875999999999,-38.46678],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226826209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06111,-33.82302,-70.06111,-33.82302",
+    "geom:latitude":-33.82302,
+    "geom:longitude":-70.06111,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"132.0",
+    "gn:asciiname":"Villa del Valle",
+    "gn:country_code":"CL",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369114,
+    "gn:latitude":-33.82302,
+    "gn:longitude":-70.06111,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Villa del Valle",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa del Valle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369114
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"675b948c2abf7a428fcddb012f7ba280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063137,
+            "locality_id":1226826209,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1226826209,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Villa del Valle",
+    "wof:parent_id":102063137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06111,
+    -33.82302,
+    -70.06111,
+    -33.82302
+],
+  "geometry": {"coordinates":[-70.06111,-33.82302],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226225001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.14038,-20.43896,-69.14038,-20.43896",
+    "geom:latitude":-20.43896,
+    "geom:longitude":-69.14038,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1405.0",
+    "gn:asciiname":"Tambillo",
+    "gn:country_code":"CL",
+    "gn:dem":2748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870214,
+    "gn:latitude":-20.43896,
+    "gn:longitude":-69.14038,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Tambillo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870214
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d0f5f11a7b50eadb8bd6b33ced5313e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1226225001,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1226225001,
+    "wof:lastmodified":1536963420,
+    "wof:name":"Tambillo",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.14038000000001,
+    -20.43896,
+    -69.14038000000001,
+    -20.43896
+],
+  "geometry": {"coordinates":[-69.14038000000001,-20.43896],"type":"Point"}
+}

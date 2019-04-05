@@ -1,0 +1,71 @@
+{
+  "id": 1343583925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78905,-27.54542,-69.78905,-27.54542",
+    "geom:latitude":-27.54542,
+    "geom:longitude":-69.78905,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Finca Carrizo",
+    "gn:country_code":"CL",
+    "gn:dem":2302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11193467,
+    "gn:latitude":-27.54542,
+    "gn:longitude":-69.78905,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Finca Carrizo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Finca Carrizo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193467
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"1561aad06ba472445dbc650acdfb1892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "locality_id":1343583925,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1343583925,
+    "wof:lastmodified":1537591182,
+    "wof:name":"Finca Carrizo",
+    "wof:parent_id":102063143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78905,
+    -27.54542,
+    -69.78905,
+    -27.54542
+],
+  "geometry": {"coordinates":[-69.78905,-27.54542],"type":"Point"}
+}

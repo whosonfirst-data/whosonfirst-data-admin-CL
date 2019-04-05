@@ -1,0 +1,70 @@
+{
+  "id": 1259867703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.54838,-35.74656,-71.54838,-35.74656",
+    "geom:latitude":-35.74656,
+    "geom:longitude":-71.54838,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"74.0",
+    "gn:admin3_code":"7408.0",
+    "gn:asciiname":"Abranquil",
+    "gn:country_code":"CL",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900742,
+    "gn:latitude":-35.74656,
+    "gn:longitude":-71.54838,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Abranquil",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900742,
+        "wk:page":"Abr%C3%A1nquil"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2db25559b32b9659829a169d649ba6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063097,
+            "locality_id":1259867703,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1259867703,
+    "wof:lastmodified":1537489503,
+    "wof:name":"Abranquil",
+    "wof:parent_id":102063097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.54838000000002,
+    -35.74655999999999,
+    -71.54838000000002,
+    -35.74655999999999
+],
+  "geometry": {"coordinates":[-71.54838000000002,-35.74655999999999],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226630063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.43274,-52.62597,-69.43274,-52.62597",
+    "geom:latitude":-52.62597,
+    "geom:longitude":-69.43274,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:admin3_code":"12302.0",
+    "gn:asciiname":"Manantiales",
+    "gn:country_code":"CL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3880763,
+    "gn:latitude":-52.62597,
+    "gn:longitude":-69.43274,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Manantiales",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campo Cerro Manantiales",
+        "Cerro Manantiales",
+        "Manantiales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3880763
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"72e37e676682ea120fcf2d71d6cc602d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1226630063,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1226630063,
+    "wof:lastmodified":1537591122,
+    "wof:name":"Manantiales",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.43274,
+    -52.62597,
+    -69.43274,
+    -52.62597
+],
+  "geometry": {"coordinates":[-69.43274,-52.62597],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309787947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.13536,-18.31075,-69.13536,-18.31075",
+    "geom:latitude":-18.31075,
+    "geom:longitude":-69.13536,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Chungara",
+    "gn:country_code":"CL",
+    "gn:dem":4602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3894716,
+    "gn:latitude":-18.31075,
+    "gn:longitude":-69.13536,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Chung\u00e1ra",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chung\u00e1ra"
+    ],
+    "name:und_x_variant":[
+        "Chungar\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3894716
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7a9d6927f88ebf6159de1237dbd542d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1309787947,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1309787947,
+    "wof:lastmodified":1537591157,
+    "wof:name":"Chungara",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.13535999999999,
+    -18.31075,
+    -69.13535999999999,
+    -18.31075
+],
+  "geometry": {"coordinates":[-69.13535999999999,-18.31075],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276624963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.93061,-19.08554,-68.93061,-19.08554",
+    "geom:latitude":-19.08554,
+    "geom:longitude":-68.93061,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1403.0",
+    "gn:asciiname":"Vilacollo",
+    "gn:country_code":"CL",
+    "gn:dem":4262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877210,
+    "gn:latitude":-19.08554,
+    "gn:longitude":-68.93061,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Vilacollo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vilacollo"
+    ],
+    "name:spa_x_variant":[
+        "Parajalla"
+    ],
+    "name:und_x_variant":[
+        "Parajalla Vilacollo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877210
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d9acc2a84b062703dd7b098549ae34ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1276624963,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1276624963,
+    "wof:lastmodified":1537591115,
+    "wof:name":"Vilacollo",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.93061,
+    -19.08554,
+    -68.93061,
+    -19.08554
+],
+  "geometry": {"coordinates":[-68.93061,-19.08554],"type":"Point"}
+}

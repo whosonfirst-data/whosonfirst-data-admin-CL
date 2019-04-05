@@ -1,0 +1,63 @@
+{
+  "id": 1209207983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7322,-34.68268,-71.7322,-34.68268",
+    "geom:latitude":-34.68268,
+    "geom:longitude":-71.7322,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"63.0",
+    "gn:admin3_code":"6309.0",
+    "gn:asciiname":"Vichuquencito",
+    "gn:country_code":"CL",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868336,
+    "gn:latitude":-34.68268,
+    "gn:longitude":-71.7322,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Vichuquencito",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868336
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"355a7575e68545d6c5d2a8ffd64adb46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209207983
+        }
+    ],
+    "wof:id":1209207983,
+    "wof:lastmodified":1536294388,
+    "wof:name":"Vichuquencito",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7322,
+    -34.68268,
+    -71.7322,
+    -34.68268
+],
+  "geometry": {"coordinates":[-71.73220000000001,-34.68268],"type":"Point"}
+}

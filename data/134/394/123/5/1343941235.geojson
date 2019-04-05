@@ -1,0 +1,72 @@
+{
+  "id": 1343941235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.80003,-41.37961,-72.80003,-41.37961",
+    "geom:latitude":-41.37961,
+    "geom:longitude":-72.80003,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Las Marcas",
+    "gn:country_code":"CL",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8048083,
+    "gn:latitude":-41.37961,
+    "gn:longitude":-72.80003,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Las Marcas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Marcas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048083
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2a1c7c0881cb8022af3f41c3b5e484ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1343941235,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1343941235,
+    "wof:lastmodified":1537591178,
+    "wof:name":"Las Marcas",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.80003,
+    -41.37961,
+    -72.80003,
+    -41.37961
+],
+  "geometry": {"coordinates":[-72.80003000000001,-41.37961],"type":"Point"}
+}

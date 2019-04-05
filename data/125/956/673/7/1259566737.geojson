@@ -1,0 +1,72 @@
+{
+  "id": 1259566737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.07047,-41.664,-73.07047,-41.664",
+    "geom:latitude":-41.664,
+    "geom:longitude":-73.07047,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"El Tique",
+    "gn:country_code":"CL",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8050561,
+    "gn:latitude":-41.664,
+    "gn:longitude":-73.07047,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"El Tique",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tique"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8050561
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d46d01735c7a6e580b2b85d9203d0600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1259566737,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1259566737,
+    "wof:lastmodified":1537591178,
+    "wof:name":"El Tique",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.07047,
+    -41.664,
+    -73.07047,
+    -41.664
+],
+  "geometry": {"coordinates":[-73.07047,-41.664],"type":"Point"}
+}

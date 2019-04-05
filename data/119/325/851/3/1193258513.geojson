@@ -1,0 +1,69 @@
+{
+  "id": 1193258513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.37882,-33.38684,-70.37882,-33.38684",
+    "geom:latitude":-33.38684,
+    "geom:longitude":-70.37882,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"131.0",
+    "gn:admin3_code":"13115.0",
+    "gn:asciiname":"Tollo",
+    "gn:country_code":"CL",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3869681,
+    "gn:latitude":-33.38684,
+    "gn:longitude":-70.37882,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tollo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869681
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"febe35270d9f0b3898cec65ea521862e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "locality_id":1193258513,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1193258513,
+    "wof:lastmodified":1536383414,
+    "wof:name":"Tollo",
+    "wof:parent_id":102063117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.37881999999998,
+    -33.38684,
+    -70.37881999999998,
+    -33.38684
+],
+  "geometry": {"coordinates":[-70.37881999999998,-33.38684],"type":"Point"}
+}

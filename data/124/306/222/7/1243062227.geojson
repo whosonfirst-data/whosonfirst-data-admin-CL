@@ -1,0 +1,69 @@
+{
+  "id": 1243062227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.39252,-30.82665,-71.39252,-30.82665",
+    "geom:latitude":-30.82665,
+    "geom:longitude":-71.39252,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4301.0",
+    "gn:asciiname":"Rincon Grande de La Calera",
+    "gn:country_code":"CL",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3873182,
+    "gn:latitude":-30.82665,
+    "gn:longitude":-71.39252,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Rinc\u00f3n Grande de La Calera",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873182
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"59a45cca99edd60f8552ab097a436297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1243062227,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1243062227,
+    "wof:lastmodified":1536861016,
+    "wof:name":"Rincon Grande de La Calera",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.39251999999998,
+    -30.82665,
+    -71.39251999999998,
+    -30.82665
+],
+  "geometry": {"coordinates":[-71.39251999999998,-30.82665],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293667967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05,-41.51667,-73.05,-41.51667",
+    "geom:latitude":-41.51667,
+    "geom:longitude":-73.05,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Molinos",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879584,
+    "gn:latitude":-41.51667,
+    "gn:longitude":-73.05,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Molinos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinquio",
+        "Molinos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879584
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9f9d1171a9498761b4d8b80e463303c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1293667967,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1293667967,
+    "wof:lastmodified":1537591119,
+    "wof:name":"Molinos",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05,
+    -41.51667,
+    -73.05,
+    -41.51667
+],
+  "geometry": {"coordinates":[-73.05,-41.51667],"type":"Point"}
+}

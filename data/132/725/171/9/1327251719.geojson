@@ -1,0 +1,72 @@
+{
+  "id": 1327251719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53145,-52.28964,-70.53145,-52.28964",
+    "geom:latitude":-52.28964,
+    "geom:longitude":-70.53145,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12104.0",
+    "gn:asciiname":"Seccion La Vega",
+    "gn:country_code":"CL",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871073,
+    "gn:latitude":-52.28964,
+    "gn:longitude":-70.53145,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Secci\u00f3n La Vega",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Secci\u00f3n La Vega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871073
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6d0a1acb35e0215543e20f4cdc4e2670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1327251719,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1327251719,
+    "wof:lastmodified":1537591103,
+    "wof:name":"Seccion La Vega",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53145,
+    -52.28964000000001,
+    -70.53145,
+    -52.28964000000001
+],
+  "geometry": {"coordinates":[-70.53145000000001,-52.28964000000001],"type":"Point"}
+}

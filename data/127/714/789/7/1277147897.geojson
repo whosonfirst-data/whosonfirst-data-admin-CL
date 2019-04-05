@@ -1,0 +1,72 @@
+{
+  "id": 1277147897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.82226,-42.55827,-72.82226,-42.55827",
+    "geom:latitude":-42.55827,
+    "geom:longitude":-72.82226,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10401.0",
+    "gn:asciiname":"Casa de Pesca",
+    "gn:country_code":"CL",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969644,
+    "gn:latitude":-42.55827,
+    "gn:longitude":-72.82226,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Casa de Pesca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Casa de Pesca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969644
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e3e08e9ab62320574377030e8fd9bf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":1277147897,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1277147897,
+    "wof:lastmodified":1537591174,
+    "wof:name":"Casa de Pesca",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.82226,
+    -42.55827,
+    -72.82226,
+    -42.55827
+],
+  "geometry": {"coordinates":[-72.82226,-42.55827],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327002569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.32495,-17.87042,-69.32495,-17.87042",
+    "geom:latitude":-17.87042,
+    "geom:longitude":-69.32495,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15202.0",
+    "gn:asciiname":"Ancopujo",
+    "gn:country_code":"CL",
+    "gn:dem":4191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3899701,
+    "gn:latitude":-17.87042,
+    "gn:longitude":-69.32495,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Ancopujo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ancopujo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3899701
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8859cb12417faa774d1a0b6907b32556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1327002569,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1327002569,
+    "wof:lastmodified":1537591170,
+    "wof:name":"Ancopujo",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.32495,
+    -17.87042000000001,
+    -69.32495,
+    -17.87042000000001
+],
+  "geometry": {"coordinates":[-69.32495,-17.87042000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326732065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.94059,-22.51066,-68.94059,-22.51066",
+    "geom:latitude":-22.51066,
+    "geom:longitude":-68.94059,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2201.0",
+    "gn:asciiname":"Dupont",
+    "gn:country_code":"CL",
+    "gn:dem":2241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3892138,
+    "gn:latitude":-22.51066,
+    "gn:longitude":-68.94059,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Dupont",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Dupont",
+        "Dupont Empleados",
+        "Dupont Obreros",
+        "Dupont Americano",
+        "Dupont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3892138
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ee29129469e6666ce52cad2ec2d6e0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063131,
+            "locality_id":1326732065,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1326732065,
+    "wof:lastmodified":1537591151,
+    "wof:name":"Dupont",
+    "wof:parent_id":102063131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.94059,
+    -22.51066,
+    -68.94059,
+    -22.51066
+],
+  "geometry": {"coordinates":[-68.94059,-22.51066],"type":"Point"}
+}

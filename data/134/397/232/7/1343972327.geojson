@@ -1,0 +1,73 @@
+{
+  "id": 1343972327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.38361,-32.9175,-71.38361,-32.9175",
+    "geom:latitude":-32.9175,
+    "geom:longitude":-71.38361,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5501.0",
+    "gn:asciiname":"El Manzanar",
+    "gn:country_code":"CL",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3891100,
+    "gn:latitude":-32.9175,
+    "gn:longitude":-71.38361,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Manzanar",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manzanar",
+        "El Manzanar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3891100
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a2c0db40bebe7c65c5086d917c2076c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063103,
+            "locality_id":1343972327,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1343972327,
+    "wof:lastmodified":1537591147,
+    "wof:name":"El Manzanar",
+    "wof:parent_id":102063103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38361,
+    -32.9175,
+    -71.38361,
+    -32.9175
+],
+  "geometry": {"coordinates":[-71.38361,-32.9175],"type":"Point"}
+}

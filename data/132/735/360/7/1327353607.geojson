@@ -1,0 +1,73 @@
+{
+  "id": 1327353607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.84174,-34.07644,-71.84174,-34.07644",
+    "geom:latitude":-34.07644,
+    "geom:longitude":-71.84174,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:admin3_code":"6205.0",
+    "gn:asciiname":"Pullingue",
+    "gn:country_code":"CL",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874870,
+    "gn:latitude":-34.07644,
+    "gn:longitude":-71.84174,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pullingue",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Fullinque",
+        "Pullingue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874870
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"57f6a92a270b4687c82b7217d2ab5e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "locality_id":1327353607,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1327353607,
+    "wof:lastmodified":1537591110,
+    "wof:name":"Pullingue",
+    "wof:parent_id":102063149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.84174,
+    -34.07644000000001,
+    -71.84174,
+    -34.07644000000001
+],
+  "geometry": {"coordinates":[-71.84174,-34.07644000000001],"type":"Point"}
+}

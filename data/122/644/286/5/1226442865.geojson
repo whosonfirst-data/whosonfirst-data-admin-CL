@@ -1,0 +1,72 @@
+{
+  "id": 1226442865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.45379,-38.63565,-72.45379,-38.63565",
+    "geom:latitude":-38.63565,
+    "geom:longitude":-72.45379,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9108.0",
+    "gn:asciiname":"Pillanlelbun",
+    "gn:country_code":"CL",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3875986,
+    "gn:latitude":-38.63565,
+    "gn:longitude":-72.45379,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pillanlelbun",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pillanlelb\u00fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875986
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2297ffca13b06bea9d633a693f1ed3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":1226442865,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1226442865,
+    "wof:lastmodified":1537591113,
+    "wof:name":"Pillanlelbun",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.45379,
+    -38.63565,
+    -72.45379,
+    -38.63565
+],
+  "geometry": {"coordinates":[-72.45379,-38.63565],"type":"Point"}
+}

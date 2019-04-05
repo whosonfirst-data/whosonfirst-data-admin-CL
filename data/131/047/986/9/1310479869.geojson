@@ -1,0 +1,73 @@
+{
+  "id": 1310479869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.90332,-35.82458,-71.90332,-35.82458",
+    "geom:latitude":-35.82458,
+    "geom:longitude":-71.90332,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"74.0",
+    "gn:admin3_code":"7406.0",
+    "gn:asciiname":"Calivoro",
+    "gn:country_code":"CL",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3897263,
+    "gn:latitude":-35.82458,
+    "gn:longitude":-71.90332,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Calivoro",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caliboro",
+        "Calivoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3897263
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"5dca389a3089e0a13b0c59fc208bace9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063097,
+            "locality_id":1310479869,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1310479869,
+    "wof:lastmodified":1537591165,
+    "wof:name":"Calivoro",
+    "wof:parent_id":102063097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.90332,
+    -35.82458,
+    -71.90332,
+    -35.82458
+],
+  "geometry": {"coordinates":[-71.90331999999999,-35.82458],"type":"Point"}
+}

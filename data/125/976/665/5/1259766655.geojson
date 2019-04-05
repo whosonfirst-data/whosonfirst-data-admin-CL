@@ -1,0 +1,69 @@
+{
+  "id": 1259766655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.39472,-42.16806,-73.39472,-42.16806",
+    "geom:latitude":-42.16806,
+    "geom:longitude":-73.39472,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10209.0",
+    "gn:asciiname":"Punie",
+    "gn:country_code":"CL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949977,
+    "gn:latitude":-42.16806,
+    "gn:longitude":-73.39472,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Punie",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949977
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"88c16e8e13f8d84a6bb11f14ce4b7682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1259766655,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1259766655,
+    "wof:lastmodified":1536947760,
+    "wof:name":"Punie",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.39471999999998,
+    -42.16806,
+    -73.39471999999998,
+    -42.16806
+],
+  "geometry": {"coordinates":[-73.39471999999998,-42.16806],"type":"Point"}
+}

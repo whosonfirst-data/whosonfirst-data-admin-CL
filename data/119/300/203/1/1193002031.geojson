@@ -1,0 +1,74 @@
+{
+  "id": 1193002031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1407,-52.88999,-70.1407,-52.88999",
+    "geom:latitude":-52.88999,
+    "geom:longitude":-70.1407,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:admin3_code":"12302.0",
+    "gn:asciiname":"Caleta Clarencia",
+    "gn:country_code":"CL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3897293,
+    "gn:latitude":-52.88999,
+    "gn:longitude":-70.1407,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Caleta Clarencia",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clarencia",
+        "Clarencia Enap",
+        "Caleta Clarencia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3897293
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d58d624dc0da701826827ff7fa2d2ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1193002031,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1193002031,
+    "wof:lastmodified":1537591166,
+    "wof:name":"Caleta Clarencia",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1407,
+    -52.88999,
+    -70.1407,
+    -52.88999
+],
+  "geometry": {"coordinates":[-70.1407,-52.88999],"type":"Point"}
+}

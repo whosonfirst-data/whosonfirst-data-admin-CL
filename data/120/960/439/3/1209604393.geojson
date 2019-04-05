@@ -1,0 +1,62 @@
+{
+  "id": 1209604393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.81431,-54.83528,-68.81431,-54.83528",
+    "geom:latitude":-54.83528,
+    "geom:longitude":-68.81431,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"122.0",
+    "gn:asciiname":"Galpones",
+    "gn:country_code":"CL",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3889155,
+    "gn:latitude":-54.83528,
+    "gn:longitude":-68.81431,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Galpones",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3889155
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"1c4dcf29ed6cf3b7d54b8f15dec14378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209604393
+        }
+    ],
+    "wof:id":1209604393,
+    "wof:lastmodified":1536282061,
+    "wof:name":"Galpones",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.81430999999999,
+    -54.83528,
+    -68.81430999999999,
+    -54.83528
+],
+  "geometry": {"coordinates":[-68.81430999999999,-54.83528],"type":"Point"}
+}

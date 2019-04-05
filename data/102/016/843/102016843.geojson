@@ -1,0 +1,90 @@
+{
+  "id": 102016843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":944945.252917,
+    "geom:bbox":"-71.8286132812,-37.2827946491,-71.8176269531,-37.27405281",
+    "geom:latitude":-37.278424,
+    "geom:longitude":-71.82312,
+    "gn:latitude":-37.27597,
+    "gn:longitude":-71.83578,
+    "iso:country":"CL",
+    "lbl:latitude":-37.278424,
+    "lbl:longitude":-71.82312,
+    "mps:latitude":-37.278424,
+    "mps:longitude":-71.82312,
+    "mz:hierarchy_label":1,
+    "name:spa_x_colloquial":[
+        "Trupan"
+    ],
+    "name:spa_x_preferred":[
+        "Trup\u00e1n"
+    ],
+    "qs:a0":"Chile",
+    "qs:a1":"*Biobio",
+    "qs:a1r":"*",
+    "qs:a2":"Biobio",
+    "qs:id":0,
+    "qs:la":"Tucapel",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Trup\u00e1n",
+    "qs:loc_alt":"Trup\u00e1n",
+    "qs:loc_lc":"3869002",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06b14600-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3869002,
+        "gp:id":349729,
+        "qs:id":1159350,
+        "qs_pg:id":1159350
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"1943ba29617bf9f6a36e565b4a66682d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063151,
+            "locality_id":102016843,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":102016843,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1497290195,
+    "wof:name":"Trup\u00e1n",
+    "wof:parent_id":102063151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.8286132812,
+    -37.2827946491,
+    -71.8176269531,
+    -37.27405281
+],
+  "geometry": {"coordinates":[[[-71.82861328120001,-37.2827946491],[-71.82861328120001,-37.27405281],[-71.8176269531,-37.27405281],[-71.8176269531,-37.2827946491],[-71.82861328120001,-37.2827946491]]],"type":"Polygon"}
+}

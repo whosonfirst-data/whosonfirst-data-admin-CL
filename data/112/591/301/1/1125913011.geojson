@@ -1,0 +1,94 @@
+{
+  "id": 1125913011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24366,-36.60928,-72.24366,-36.60928",
+    "geom:latitude":-36.60928,
+    "geom:longitude":-72.24366,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-36.60928,
+    "lbl:longitude":-72.24366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "El Guape"
+    ],
+    "name:spa_x_preferred":[
+        "El Guape"
+    ],
+    "name:unk_x_variant":[
+        "Huape"
+    ],
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3891296,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Guape",
+    "qs_pg:name_adm0":"Chile",
+    "qs_pg:name_adm1":"Biobio",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":180600,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424782,
+    "qs_pg:woe_id":347543,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424782,
+    "woe:name_adm0":"Chile",
+    "woe:name_adm1":"Biobio",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3891296,
+        "gp:id":347543,
+        "qs_pg:id":180600,
+        "wd:id":"Q18590728"
+    },
+    "wof:country":"CL",
+    "wof:created":1497296204,
+    "wof:geomhash":"33a0570b73c5f09e257ceaf9ab335c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "locality_id":1125913011,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1125913011,
+    "wof:lastmodified":1513937130,
+    "wof:name":"El Guape",
+    "wof:parent_id":102063109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24366,
+    -36.60928,
+    -72.24366,
+    -36.60928
+],
+  "geometry": {"coordinates":[-72.24366000000001,-36.60928],"type":"Point"}
+}

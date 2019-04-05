@@ -1,0 +1,68 @@
+{
+  "id": 1242572189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.38909,-30.00098,-71.38909,-30.00098",
+    "geom:latitude":-30.00098,
+    "geom:longitude":-71.38909,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"41.0",
+    "gn:asciiname":"Panul",
+    "gn:country_code":"CL",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877282,
+    "gn:latitude":-30.00098,
+    "gn:longitude":-71.38909,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Panul",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877282
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"42334f0d256a67b1fd3704cc12d1074c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063091,
+            "locality_id":1242572189,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1242572189,
+    "wof:lastmodified":1537068498,
+    "wof:name":"Panul",
+    "wof:parent_id":102063091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38909,
+    -30.00098,
+    -71.38909,
+    -30.00098
+],
+  "geometry": {"coordinates":[-71.38909,-30.00098],"type":"Point"}
+}

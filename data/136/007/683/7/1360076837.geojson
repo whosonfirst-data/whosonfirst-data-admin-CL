@@ -1,0 +1,69 @@
+{
+  "id": 1360076837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.88409,-30.40661,-70.88409,-30.40661",
+    "geom:latitude":-30.40661,
+    "geom:longitude":-70.88409,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4305.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"CL",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871831,
+    "gn:latitude":-30.40661,
+    "gn:longitude":-70.88409,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871831
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"780149995ce990fe039e01135c76c3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1360076837,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1360076837,
+    "wof:lastmodified":1536957645,
+    "wof:name":"San Pedro",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.88409,
+    -30.40661,
+    -70.88409,
+    -30.40661
+],
+  "geometry": {"coordinates":[-70.88409,-30.40661],"type":"Point"}
+}

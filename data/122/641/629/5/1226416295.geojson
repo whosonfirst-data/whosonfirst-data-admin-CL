@@ -1,0 +1,72 @@
+{
+  "id": 1226416295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.97079,-41.33019,-72.97079,-41.33019",
+    "geom:latitude":-41.33019,
+    "geom:longitude":-72.97079,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10109.0",
+    "gn:asciiname":"Puerto Chico",
+    "gn:country_code":"CL",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874983,
+    "gn:latitude":-41.33019,
+    "gn:longitude":-72.97079,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Puerto Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874983
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7851b48716f2821012521b0f986f6b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1226416295,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226416295,
+    "wof:lastmodified":1537591111,
+    "wof:name":"Puerto Chico",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.97079000000002,
+    -41.33019,
+    -72.97079000000002,
+    -41.33019
+],
+  "geometry": {"coordinates":[-72.97079000000002,-41.33019],"type":"Point"}
+}

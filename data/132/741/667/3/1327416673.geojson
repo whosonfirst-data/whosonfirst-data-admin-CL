@@ -1,0 +1,72 @@
+{
+  "id": 1327416673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.41224,-19.86321,-69.41224,-19.86321",
+    "geom:latitude":-19.86321,
+    "geom:longitude":-69.41224,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1404.0",
+    "gn:asciiname":"Chanar",
+    "gn:country_code":"CL",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895571,
+    "gn:latitude":-19.86321,
+    "gn:longitude":-69.41224,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Cha\u00f1ar",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cha\u00f1ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895571
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"21286eb9e9bcfc717c57a1d1ce7ea6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1327416673,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1327416673,
+    "wof:lastmodified":1537591160,
+    "wof:name":"Chanar",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.41224,
+    -19.86321,
+    -69.41224,
+    -19.86321
+],
+  "geometry": {"coordinates":[-69.41224,-19.86321],"type":"Point"}
+}

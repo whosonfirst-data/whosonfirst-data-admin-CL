@@ -1,0 +1,69 @@
+{
+  "id": 1343846221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.06667,-34.76667,-72.06667,-34.76667",
+    "geom:latitude":-34.76667,
+    "geom:longitude":-72.06667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"73.0",
+    "gn:admin3_code":"7309.0",
+    "gn:asciiname":"Las Conchas",
+    "gn:country_code":"CL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3884452,
+    "gn:latitude":-34.76667,
+    "gn:longitude":-72.06667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Las Conchas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3884452
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"931cdee04bff674fbb83461a94a67f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":1343846221,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1343846221,
+    "wof:lastmodified":1536687187,
+    "wof:name":"Las Conchas",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.06667,
+    -34.76667,
+    -72.06667,
+    -34.76667
+],
+  "geometry": {"coordinates":[-72.06667,-34.76667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360281403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.9507,-53.32241,-68.9507,-53.32241",
+    "geom:latitude":-53.32241,
+    "geom:longitude":-68.9507,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:admin3_code":"12301.0",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"CL",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871927,
+    "gn:latitude":-53.32241,
+    "gn:longitude":-68.9507,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casa San Martin",
+        "San Mart\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871927
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3edce62d3ad04b204f5077b640400cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1360281403,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1360281403,
+    "wof:lastmodified":1537591104,
+    "wof:name":"San Martin",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.9507,
+    -53.32241,
+    -68.9507,
+    -53.32241
+],
+  "geometry": {"coordinates":[-68.9507,-53.32241],"type":"Point"}
+}

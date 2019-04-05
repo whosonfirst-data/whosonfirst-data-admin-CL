@@ -1,0 +1,72 @@
+{
+  "id": 1243560435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.96904,-38.90213,-72.96904,-38.90213",
+    "geom:latitude":-38.90213,
+    "geom:longitude":-72.96904,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9117.0",
+    "gn:asciiname":"Quilimanzano",
+    "gn:country_code":"CL",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874203,
+    "gn:latitude":-38.90213,
+    "gn:longitude":-72.96904,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Quilimanzano",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quilimanzano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874203
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8f20290befe355ecec9ae074bdfc3fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":1243560435,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1243560435,
+    "wof:lastmodified":1537591108,
+    "wof:name":"Quilimanzano",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.96904,
+    -38.90213,
+    -72.96904,
+    -38.90213
+],
+  "geometry": {"coordinates":[-72.96904000000001,-38.90213],"type":"Point"}
+}

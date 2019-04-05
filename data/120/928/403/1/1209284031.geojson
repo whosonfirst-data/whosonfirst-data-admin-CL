@@ -1,0 +1,67 @@
+{
+  "id": 1209284031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.11294,-18.55914,-69.11294,-18.55914",
+    "geom:latitude":-18.55914,
+    "geom:longitude":-69.11294,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Uncaliri",
+    "gn:country_code":"CL",
+    "gn:dem":4141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868809,
+    "gn:latitude":-18.55914,
+    "gn:longitude":-69.11294,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Uncaliri",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uncalliri",
+        "Uncaliri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868809
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"aa4db0dd0018cee536deb271a3185c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209284031
+        }
+    ],
+    "wof:id":1209284031,
+    "wof:lastmodified":1537591100,
+    "wof:name":"Uncaliri",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.11294000000001,
+    -18.55914,
+    -69.11294000000001,
+    -18.55914
+],
+  "geometry": {"coordinates":[-69.11294000000001,-18.55914],"type":"Point"}
+}

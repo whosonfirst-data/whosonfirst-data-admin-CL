@@ -1,0 +1,73 @@
+{
+  "id": 1226234923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.29937,-36.62649,-72.29937,-36.62649",
+    "geom:latitude":-36.62649,
+    "geom:longitude":-72.29937,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"84.0",
+    "gn:admin3_code":"8401.0",
+    "gn:asciiname":"Vista Bella",
+    "gn:country_code":"CL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868056,
+    "gn:latitude":-36.62649,
+    "gn:longitude":-72.29937,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Vista Bella",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bellavista",
+        "Vista Bella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868056
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2d27c49e6cde8c6eccae7df9632c7a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "locality_id":1226234923,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1226234923,
+    "wof:lastmodified":1537591099,
+    "wof:name":"Vista Bella",
+    "wof:parent_id":102063109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.29937,
+    -36.62649,
+    -72.29937,
+    -36.62649
+],
+  "geometry": {"coordinates":[-72.29937,-36.62649],"type":"Point"}
+}

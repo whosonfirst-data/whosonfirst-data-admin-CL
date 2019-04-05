@@ -1,0 +1,71 @@
+{
+  "id": 1310706607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.38682,-27.25628,-70.38682,-27.25628",
+    "geom:latitude":-27.25628,
+    "geom:longitude":-70.38682,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Cerro Iman",
+    "gn:country_code":"CL",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11193461,
+    "gn:latitude":-27.25628,
+    "gn:longitude":-70.38682,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Cerro Im\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Im\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193461
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"30f85a9c4f4b0189c14f7f784200d83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "locality_id":1310706607,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1310706607,
+    "wof:lastmodified":1537591182,
+    "wof:name":"Cerro Iman",
+    "wof:parent_id":102063143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.38682,
+    -27.25628,
+    -70.38682,
+    -27.25628
+],
+  "geometry": {"coordinates":[-70.38682,-27.25628],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 890517445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.35053,-27.11124,-109.35053,-27.11124",
+    "geom:latitude":-27.11124,
+    "geom:longitude":-109.35053,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":4000,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u041e\u0441\u0442\u0440\u043e\u0432 \u041f\u0430\u0441\u0445\u0438",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108786421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6930873,
+        "gp:id":12523131,
+        "qs:id":105827
+    },
+    "wof:country":"CL",
+    "wof:created":1469056009,
+    "wof:geomhash":"85d65af569afc7f4fb4065fc3e5bca8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":1108786421,
+            "locality_id":890517445,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890517445,
+    "wof:lastmodified":1505343906,
+    "wof:name":"\u041e\u0441\u0442\u0440\u043e\u0432 \u041f\u0430\u0441\u0445\u0438",
+    "wof:parent_id":1108786421,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.35053,
+    -27.11124,
+    -109.35053,
+    -27.11124
+],
+  "geometry": {"coordinates":[-109.35053000000001,-27.11124],"type":"Point"}
+}

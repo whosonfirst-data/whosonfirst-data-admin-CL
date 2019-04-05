@@ -1,0 +1,82 @@
+{
+  "id": 890518085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.57237,-33.37994,-70.57237,-33.37994",
+    "geom:latitude":-33.37994,
+    "geom:longitude":-70.57237,
+    "gn:country":"CL",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lad_x_preferred":[
+        "Vitakura"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0442\u0430\u043a\u0443\u0440\u0430"
+    ],
+    "qs:name":"Vitacura",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":223,
+    "qs:photos_1k":45,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1621,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":733,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261380,
+        "gp:id":26794309,
+        "qs:id":61410,
+        "wd:id":"Q201036",
+        "wk:page":"Vitacura"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056043,
+    "wof:geomhash":"3acbbe330c3bb2697711638876103f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "localadmin_id":890518085,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890518085,
+    "wof:lastmodified":1527751231,
+    "wof:name":"Vitacura",
+    "wof:parent_id":102063117,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.57237,
+    -33.37994,
+    -70.57237,
+    -33.37994
+],
+  "geometry": {"coordinates":[-70.57237000000001,-33.37994],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360157935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.60245,-19.09465,-69.60245,-19.09465",
+    "geom:latitude":-19.09465,
+    "geom:longitude":-69.60245,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1404.0",
+    "gn:asciiname":"Minita",
+    "gn:country_code":"CL",
+    "gn:dem":2339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879761,
+    "gn:latitude":-19.09465,
+    "gn:longitude":-69.60245,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Mi\u00f1ita",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mi\u00f1ita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879761
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7570dc08930e4417d8e352cdb11396fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1360157935,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1360157935,
+    "wof:lastmodified":1537591120,
+    "wof:name":"Minita",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.60245,
+    -19.09465,
+    -69.60245,
+    -19.09465
+],
+  "geometry": {"coordinates":[-69.60245,-19.09465],"type":"Point"}
+}

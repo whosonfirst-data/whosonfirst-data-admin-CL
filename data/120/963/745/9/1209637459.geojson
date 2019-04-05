@@ -1,0 +1,62 @@
+{
+  "id": 1209637459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.26648,-36.24972,-72.26648,-36.24972",
+    "geom:latitude":-36.24972,
+    "geom:longitude":-72.26648,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Vilquico",
+    "gn:country_code":"CL",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868134,
+    "gn:latitude":-36.24972,
+    "gn:longitude":-72.26648,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Vilquico",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868134
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3f593e522149958cc063f38ed67c76c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209637459
+        }
+    ],
+    "wof:id":1209637459,
+    "wof:lastmodified":1536280996,
+    "wof:name":"Vilquico",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.26648,
+    -36.24972,
+    -72.26648,
+    -36.24972
+],
+  "geometry": {"coordinates":[-72.26648,-36.24972],"type":"Point"}
+}

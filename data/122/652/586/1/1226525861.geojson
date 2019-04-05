@@ -1,0 +1,69 @@
+{
+  "id": 1226525861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.68105,-41.38322,-72.68105,-41.38322",
+    "geom:latitude":-41.38322,
+    "geom:longitude":-72.68105,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Asentamiento Chepa",
+    "gn:country_code":"CL",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8048528,
+    "gn:latitude":-41.38322,
+    "gn:longitude":-72.68105,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Asentamiento Chepa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048528
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"23bfa17f68de8fd2ce93664bd2acded6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1226525861,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226525861,
+    "wof:lastmodified":1537025617,
+    "wof:name":"Asentamiento Chepa",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.68105,
+    -41.38322,
+    -72.68105,
+    -41.38322
+],
+  "geometry": {"coordinates":[-72.68105,-41.38322],"type":"Point"}
+}

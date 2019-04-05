@@ -1,0 +1,69 @@
+{
+  "id": 1310603015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.44881,-25.28362,-70.44881,-25.28362",
+    "geom:latitude":-25.28362,
+    "geom:longitude":-70.44881,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2104.0",
+    "gn:asciiname":"Cascabeles",
+    "gn:country_code":"CL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896328,
+    "gn:latitude":-25.28362,
+    "gn:longitude":-70.44881,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cascabeles",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896328
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a49bbb5fad067c254187cc03f14fd502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "locality_id":1310603015,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1310603015,
+    "wof:lastmodified":1536776842,
+    "wof:name":"Cascabeles",
+    "wof:parent_id":102063073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.44881,
+    -25.28362000000001,
+    -70.44881,
+    -25.28362000000001
+],
+  "geometry": {"coordinates":[-70.44880999999999,-25.28362000000001],"type":"Point"}
+}

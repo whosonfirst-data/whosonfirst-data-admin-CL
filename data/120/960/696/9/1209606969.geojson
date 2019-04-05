@@ -1,0 +1,63 @@
+{
+  "id": 1209606969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.85055,-30.448,-70.85055,-30.448",
+    "geom:latitude":-30.448,
+    "geom:longitude":-70.85055,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4305.0",
+    "gn:asciiname":"La Huerta",
+    "gn:country_code":"CL",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885629,
+    "gn:latitude":-30.448,
+    "gn:longitude":-70.85055,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Huerta",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885629
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"1f163c837c4787087154579ccfa41080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209606969
+        }
+    ],
+    "wof:id":1209606969,
+    "wof:lastmodified":1536281979,
+    "wof:name":"La Huerta",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.85055,
+    -30.448,
+    -70.85055,
+    -30.448
+],
+  "geometry": {"coordinates":[-70.85055,-30.448],"type":"Point"}
+}

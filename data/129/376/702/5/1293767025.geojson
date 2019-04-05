@@ -1,0 +1,71 @@
+{
+  "id": 1293767025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6976,-41.60098,-72.6976,-41.60098",
+    "geom:latitude":-41.60098,
+    "geom:longitude":-72.6976,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"Chaula",
+    "gn:country_code":"CL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8308917,
+    "gn:latitude":-41.60098,
+    "gn:longitude":-72.6976,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Chaula",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chaula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308917
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"cb0f80eb822d45f3d1ecc7d842d5773e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1293767025,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1293767025,
+    "wof:lastmodified":1537591180,
+    "wof:name":"Chaula",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6976,
+    -41.60098,
+    -72.6976,
+    -41.60098
+],
+  "geometry": {"coordinates":[-72.69759999999999,-41.60098],"type":"Point"}
+}

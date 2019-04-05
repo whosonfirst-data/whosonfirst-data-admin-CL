@@ -1,0 +1,91 @@
+{
+  "id": 890518067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.23954,-33.78211,-70.23954,-33.78211",
+    "geom:latitude":-33.78211,
+    "geom:longitude":-70.23954,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:dut_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:eng_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:glg_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:spa_x_preferred":[
+        "San Gabriel"
+    ],
+    "qs:name":"San Gabriel",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":303,
+    "qs:photos_1k":61,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":303,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3872202,
+        "gp:id":349423,
+        "qs:id":1114232,
+        "wd:id":"Q6118816",
+        "wk:page":"San Gabriel"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056042,
+    "wof:geomhash":"3065b8b7353584452a66e53caf6aa1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063137,
+            "locality_id":890518067,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890518067,
+    "wof:lastmodified":1527758437,
+    "wof:name":"San Gabriel",
+    "wof:parent_id":102063137,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.23954,
+    -33.78211,
+    -70.23954,
+    -33.78211
+],
+  "geometry": {"coordinates":[-70.23954000000001,-33.78211],"type":"Point"}
+}

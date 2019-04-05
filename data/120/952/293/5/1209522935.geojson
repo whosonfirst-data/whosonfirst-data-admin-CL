@@ -1,0 +1,67 @@
+{
+  "id": 1209522935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.82909,-24.05635,-69.82909,-24.05635",
+    "geom:latitude":-24.05635,
+    "geom:longitude":-69.82909,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2101.0",
+    "gn:asciiname":"Oficina Yugoslavia",
+    "gn:country_code":"CL",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3878170,
+    "gn:latitude":-24.05635,
+    "gn:longitude":-69.82909,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Oficina Yugoslavia",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blanca Rosa",
+        "Oficina Yugoslavia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3878170
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"455baf9c4bd440e1347e26f758fbc294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209522935
+        }
+    ],
+    "wof:id":1209522935,
+    "wof:lastmodified":1537591117,
+    "wof:name":"Oficina Yugoslavia",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.82909000000001,
+    -24.05635,
+    -69.82909000000001,
+    -24.05635
+],
+  "geometry": {"coordinates":[-69.82909000000001,-24.05635],"type":"Point"}
+}

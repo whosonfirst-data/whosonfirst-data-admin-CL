@@ -1,0 +1,73 @@
+{
+  "id": 1209899887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.27775,-52.23526,-70.27775,-52.23526",
+    "geom:latitude":-52.23526,
+    "geom:longitude":-70.27775,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12104.0",
+    "gn:asciiname":"Seccion Ciaike",
+    "gn:country_code":"CL",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871078,
+    "gn:latitude":-52.23526,
+    "gn:longitude":-70.27775,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Secci\u00f3n Ciaike",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciaike",
+        "Secci\u00f3n Ciaike"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871078
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"20f254537a3860685864777909071d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1209899887,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1209899887,
+    "wof:lastmodified":1537591103,
+    "wof:name":"Seccion Ciaike",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27775,
+    -52.23526,
+    -70.27775,
+    -52.23526
+],
+  "geometry": {"coordinates":[-70.27775,-52.23526],"type":"Point"}
+}

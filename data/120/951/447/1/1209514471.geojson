@@ -1,0 +1,66 @@
+{
+  "id": 1209514471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87857,-28.2982,-70.87857,-28.2982",
+    "geom:latitude":-28.2982,
+    "geom:longitude":-70.87857,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3304.0",
+    "gn:asciiname":"Planta Concentradora Astillas",
+    "gn:country_code":"CL",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3875671,
+    "gn:latitude":-28.2982,
+    "gn:longitude":-70.87857,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Planta Concentradora Astillas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Planta Concentradora Astillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875671
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e5b35d3730e893eba9f49aad165c03a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209514471
+        }
+    ],
+    "wof:id":1209514471,
+    "wof:lastmodified":1537591112,
+    "wof:name":"Planta Concentradora Astillas",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87857,
+    -28.2982,
+    -70.87857,
+    -28.2982
+],
+  "geometry": {"coordinates":[-70.87857,-28.2982],"type":"Point"}
+}

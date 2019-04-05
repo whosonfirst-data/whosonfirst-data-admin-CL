@@ -1,0 +1,69 @@
+{
+  "id": 1326912501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.72492,-17.77263,-69.72492,-17.77263",
+    "geom:latitude":-17.77263,
+    "geom:longitude":-69.72492,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15202.0",
+    "gn:asciiname":"Tacora",
+    "gn:country_code":"CL",
+    "gn:dem":4088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870352,
+    "gn:latitude":-17.77263,
+    "gn:longitude":-69.72492,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Tacora",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870352
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4e086be4305ece820f49b08bc77aa6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1326912501,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1326912501,
+    "wof:lastmodified":1536934014,
+    "wof:name":"Tacora",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.72492,
+    -17.77263,
+    -69.72492,
+    -17.77263
+],
+  "geometry": {"coordinates":[-69.72492,-17.77263],"type":"Point"}
+}

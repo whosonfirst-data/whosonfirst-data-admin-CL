@@ -1,0 +1,69 @@
+{
+  "id": 1344164581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.06915,-22.05001,-68.06915,-22.05001",
+    "geom:latitude":-22.05001,
+    "geom:longitude":-68.06915,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2201.0",
+    "gn:asciiname":"Cabana",
+    "gn:country_code":"CL",
+    "gn:dem":3995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3897621,
+    "gn:latitude":-22.05001,
+    "gn:longitude":-68.06915,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cabana",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3897621
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d7e202e5418173e2db38d055748c02ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063131,
+            "locality_id":1344164581,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1344164581,
+    "wof:lastmodified":1536725662,
+    "wof:name":"Cabana",
+    "wof:parent_id":102063131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.06915,
+    -22.05001,
+    -68.06915,
+    -22.05001
+],
+  "geometry": {"coordinates":[-68.06914999999999,-22.05001],"type":"Point"}
+}

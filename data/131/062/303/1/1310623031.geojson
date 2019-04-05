@@ -1,0 +1,69 @@
+{
+  "id": 1310623031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.35256,-37.40568,-73.35256,-37.40568",
+    "geom:latitude":-37.40568,
+    "geom:longitude":-73.35256,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"82.0",
+    "gn:admin3_code":"8205.0",
+    "gn:asciiname":"Colico Norte",
+    "gn:country_code":"CL",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3894271,
+    "gn:latitude":-37.40568,
+    "gn:longitude":-73.35256,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Colico Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3894271
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"13e1a56c53d588f3ec986de9b7330a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063153,
+            "locality_id":1310623031,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1310623031,
+    "wof:lastmodified":1536747214,
+    "wof:name":"Colico Norte",
+    "wof:parent_id":102063153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.35256,
+    -37.40568,
+    -73.35256,
+    -37.40568
+],
+  "geometry": {"coordinates":[-73.35256,-37.40568],"type":"Point"}
+}

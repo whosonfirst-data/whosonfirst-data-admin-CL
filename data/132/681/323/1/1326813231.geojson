@@ -1,0 +1,68 @@
+{
+  "id": 1326813231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.69468,-18.9688,-69.69468,-18.9688",
+    "geom:latitude":-18.9688,
+    "geom:longitude":-69.69468,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"151.0",
+    "gn:asciiname":"Putaralla",
+    "gn:country_code":"CL",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874559,
+    "gn:latitude":-18.9688,
+    "gn:longitude":-69.69468,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Putaralla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874559
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d3ebf9d9725de405c9e0e268fd6a414a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1326813231,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1326813231,
+    "wof:lastmodified":1537073096,
+    "wof:name":"Putaralla",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.69468,
+    -18.9688,
+    -69.69468,
+    -18.9688
+],
+  "geometry": {"coordinates":[-69.69468000000001,-18.9688],"type":"Point"}
+}

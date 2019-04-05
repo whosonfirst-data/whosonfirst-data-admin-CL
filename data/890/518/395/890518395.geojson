@@ -1,0 +1,70 @@
+{
+  "id": 890518395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.496744,-30.097269,-70.496744,-30.097269",
+    "geom:latitude":-30.097269,
+    "geom:longitude":-70.496744,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Paihuano",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Coquimbo",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":875,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":211,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794142,
+        "qs:id":232480,
+        "wd:id":"Q51064",
+        "wk:page":"Paiguano"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056062,
+    "wof:geomhash":"fee9b40bb6316e8f83528b7877f797dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063091,
+            "localadmin_id":890518395,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":890518395,
+    "wof:lastmodified":1527751234,
+    "wof:name":"Paihuano",
+    "wof:parent_id":102063091,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.496744,
+    -30.097269,
+    -70.496744,
+    -30.097269
+],
+  "geometry": {"coordinates":[-70.49674400000001,-30.097269],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209624033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.91856,-45.80834,-71.91856,-45.80834",
+    "geom:latitude":-45.80834,
+    "geom:longitude":-71.91856,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11101.0",
+    "gn:asciiname":"El Blanco",
+    "gn:country_code":"CL",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3898195,
+    "gn:latitude":-45.80834,
+    "gn:longitude":-71.91856,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"El Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3898195
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"285d50704bcf8be55e388402c3f88ae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209624033
+        }
+    ],
+    "wof:id":1209624033,
+    "wof:lastmodified":1536281417,
+    "wof:name":"El Blanco",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.91856,
+    -45.80834,
+    -71.91856,
+    -45.80834
+],
+  "geometry": {"coordinates":[-71.91856,-45.80834],"type":"Point"}
+}

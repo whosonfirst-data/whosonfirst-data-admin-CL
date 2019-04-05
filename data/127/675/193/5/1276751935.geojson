@@ -1,0 +1,73 @@
+{
+  "id": 1276751935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.10255,-35.03042,-72.10255,-35.03042",
+    "geom:latitude":-35.03042,
+    "geom:longitude":-72.10255,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"73.0",
+    "gn:admin3_code":"7303.0",
+    "gn:asciiname":"Comunidad El Guapi",
+    "gn:country_code":"CL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893922,
+    "gn:latitude":-35.03042,
+    "gn:longitude":-72.10255,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad El Guapi",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huapi",
+        "Comunidad El Guapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893922
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a1a2cbeec441244f9fd27d37583516ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":1276751935,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1276751935,
+    "wof:lastmodified":1537591155,
+    "wof:name":"Comunidad El Guapi",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.10255,
+    -35.03042,
+    -72.10255,
+    -35.03042
+],
+  "geometry": {"coordinates":[-72.10254999999999,-35.03042],"type":"Point"}
+}

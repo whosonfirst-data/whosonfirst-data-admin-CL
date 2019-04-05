@@ -1,0 +1,70 @@
+{
+  "id": 890517515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.658368,-35.426336,-71.658368,-35.426336",
+    "geom:latitude":-35.426336,
+    "geom:longitude":-71.658368,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Talca",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Maule",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5019,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":618,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794262,
+        "qs:id":572611,
+        "wd:id":"Q4469",
+        "wk:page":"Talca"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056012,
+    "wof:geomhash":"8e3460a39d1c93b32be51da5dd4b0566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "localadmin_id":890517515,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":890517515,
+    "wof:lastmodified":1527751203,
+    "wof:name":"Talca",
+    "wof:parent_id":102063111,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.658368,
+    -35.426336,
+    -71.658368,
+    -35.426336
+],
+  "geometry": {"coordinates":[-71.658368,-35.426336],"type":"Point"}
+}

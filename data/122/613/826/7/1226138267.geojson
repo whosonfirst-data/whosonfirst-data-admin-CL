@@ -1,0 +1,77 @@
+{
+  "id": 1226138267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.20063,-52.59841,-71.20063,-52.59841",
+    "geom:latitude":-52.59841,
+    "geom:longitude":-71.20063,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12102.0",
+    "gn:asciiname":"Carpa El Manzano",
+    "gn:country_code":"CL",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896555,
+    "gn:latitude":-52.59841,
+    "gn:longitude":-71.20063,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Carpa El Manzano",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carpa El Manzano"
+    ],
+    "name:und_x_variant":[
+        "Carpa",
+        "Carpa Manzano",
+        "Hotel Carpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896555
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"1c21df2f0ddd08e7e1608e738fde7b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1226138267,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1226138267,
+    "wof:lastmodified":1537591164,
+    "wof:name":"Carpa El Manzano",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.20063,
+    -52.59841,
+    -71.20063,
+    -52.59841
+],
+  "geometry": {"coordinates":[-71.20063,-52.59841],"type":"Point"}
+}

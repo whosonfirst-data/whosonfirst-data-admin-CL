@@ -1,0 +1,65 @@
+{
+  "id": 890517741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.447006,-32.504314,-71.447006,-32.504314",
+    "geom:latitude":-32.504314,
+    "geom:longitude":-71.447006,
+    "gn:country":"CL",
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Papudo",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":184,
+    "qs:photos_1k":37,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":638,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":253,
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794331,
+        "qs:id":430240,
+        "wd:id":"Q51079",
+        "wk:page":"Papudo"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056022,
+    "wof:geomhash":"0be377681b0e4eaaae842311ef99cee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "localadmin_id":890517741
+        }
+    ],
+    "wof:id":890517741,
+    "wof:lastmodified":1527749996,
+    "wof:name":"Papudo",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.447006,
+    -32.504314,
+    -71.447006,
+    -32.504314
+],
+  "geometry": {"coordinates":[-71.447006,-32.504314],"type":"Point"}
+}

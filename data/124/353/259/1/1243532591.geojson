@@ -1,0 +1,69 @@
+{
+  "id": 1243532591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.54957,-35.90553,-72.54957,-35.90553",
+    "geom:latitude":-35.90553,
+    "geom:longitude":-72.54957,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"72.0",
+    "gn:admin3_code":"7203.0",
+    "gn:asciiname":"Las Quilas",
+    "gn:country_code":"CL",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3883972,
+    "gn:latitude":-35.90553,
+    "gn:longitude":-72.54957,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Las Quilas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883972
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2cb73087c099b8745845c7031fc46916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063129,
+            "locality_id":1243532591,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1243532591,
+    "wof:lastmodified":1536681392,
+    "wof:name":"Las Quilas",
+    "wof:parent_id":102063129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.54956999999997,
+    -35.90553,
+    -72.54956999999997,
+    -35.90553
+],
+  "geometry": {"coordinates":[-72.54956999999997,-35.90553],"type":"Point"}
+}

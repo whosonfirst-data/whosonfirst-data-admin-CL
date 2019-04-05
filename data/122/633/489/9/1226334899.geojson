@@ -1,0 +1,73 @@
+{
+  "id": 1226334899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.90757,-37.16126,-72.90757,-37.16126",
+    "geom:latitude":-37.16126,
+    "geom:longitude":-72.90757,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8105.0",
+    "gn:asciiname":"Talcamavida",
+    "gn:country_code":"CL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870277,
+    "gn:latitude":-37.16126,
+    "gn:longitude":-72.90757,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Talcam\u00e1vida",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talcam\u00e1vida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870277,
+        "wk:page":"Talcam%C3%A1vida"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"eb6432505076a50788fff5987f8f769b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "locality_id":1226334899,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1226334899,
+    "wof:lastmodified":1537591102,
+    "wof:name":"Talcamavida",
+    "wof:parent_id":102063171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.90756999999998,
+    -37.16126,
+    -72.90756999999998,
+    -37.16126
+],
+  "geometry": {"coordinates":[-72.90756999999998,-37.16126],"type":"Point"}
+}

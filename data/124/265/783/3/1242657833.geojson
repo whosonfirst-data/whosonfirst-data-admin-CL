@@ -1,0 +1,74 @@
+{
+  "id": 1242657833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1,-33.7,-71.1,-33.7",
+    "geom:latitude":-33.7,
+    "geom:longitude":-71.1,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"136.0",
+    "gn:admin3_code":"13602.0",
+    "gn:asciiname":"Chinigue",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895005,
+    "gn:latitude":-33.7,
+    "gn:longitude":-71.1,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Chi\u00f1ig\u00fce",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chi\u00f1ihue",
+        "Chi\u00f1ig\u00fce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895005
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d1dfb2c2953aca9f0ff2b53d48bd801b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063095,
+            "locality_id":1242657833,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1242657833,
+    "wof:lastmodified":1537591158,
+    "wof:name":"Chinigue",
+    "wof:parent_id":102063095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1,
+    -33.7,
+    -71.1,
+    -33.7
+],
+  "geometry": {"coordinates":[-71.09999999999999,-33.7],"type":"Point"}
+}

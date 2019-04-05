@@ -1,0 +1,73 @@
+{
+  "id": 890518309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71978,-40.02788,-71.71978,-40.02788",
+    "geom:latitude":-40.02788,
+    "geom:longitude":-71.71978,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pirehueico",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Rios",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875818,
+        "gp:id":350094,
+        "qs:id":1317622
+    },
+    "wof:country":"CL",
+    "wof:created":1469056057,
+    "wof:geomhash":"fb14c26c8fdd5575ba84899585bb25db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "locality_id":890518309,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":890518309,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Pirehueico",
+    "wof:parent_id":102063183,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71978,
+    -40.02788,
+    -71.71978,
+    -40.02788
+],
+  "geometry": {"coordinates":[-71.71978,-40.02788],"type":"Point"}
+}

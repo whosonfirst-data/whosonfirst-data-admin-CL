@@ -1,0 +1,73 @@
+{
+  "id": 890517833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.20026,-34.93527,-71.20026,-34.93527",
+    "geom:latitude":-34.93527,
+    "geom:longitude":-71.20026,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Sarmiento",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Maule",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871232,
+        "gp:id":349547,
+        "qs:id":1013445,
+        "wk:page":"Sarmiento"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056026,
+    "wof:geomhash":"3a120eb02d70bcd449cb51cd2ea5d722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":890517833,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":890517833,
+    "wof:lastmodified":1527749994,
+    "wof:name":"Sarmiento",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.20026,
+    -34.93527,
+    -71.20026,
+    -34.93527
+],
+  "geometry": {"coordinates":[-71.20026,-34.93527],"type":"Point"}
+}

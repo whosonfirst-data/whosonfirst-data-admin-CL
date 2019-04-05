@@ -1,0 +1,95 @@
+{
+  "id": 1293508029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.53674,-51.28938,-72.53674,-51.28938",
+    "geom:latitude":-51.28938,
+    "geom:longitude":-72.53674,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:asciiname":"Seccion Kark",
+    "gn:country_code":"CL",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11372005,
+    "gn:latitude":-51.28938,
+    "gn:longitude":-72.53674,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Seccion Kark",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Seccion Kark"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11372005
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"1e26162310df448a6883a9d8639c41a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1293508029,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1293508029,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1293508029,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1293508029,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1293508029,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Seccion Kark",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53674000000002,
+    -51.28938,
+    -72.53674000000002,
+    -51.28938
+],
+  "geometry": {"coordinates":[-72.53674000000002,-51.28938],"type":"Point"}
+}

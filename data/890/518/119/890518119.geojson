@@ -1,0 +1,75 @@
+{
+  "id": 890518119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92978,-33.0959,-70.92978,-33.0959",
+    "geom:latitude":-33.0959,
+    "geom:longitude":-70.92978,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"El Sauce",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3890393,
+        "gp:id":347690,
+        "qs:id":1156033,
+        "wk:page":"El Sauce"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056049,
+    "wof:geomhash":"9e5dd0ca4685923bc6821320745c2904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063173,
+            "locality_id":890518119,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890518119,
+    "wof:lastmodified":1527751233,
+    "wof:name":"El Sauce",
+    "wof:parent_id":102063173,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92978,
+    -33.0959,
+    -70.92978,
+    -33.0959
+],
+  "geometry": {"coordinates":[-70.92977999999999,-33.0959],"type":"Point"}
+}

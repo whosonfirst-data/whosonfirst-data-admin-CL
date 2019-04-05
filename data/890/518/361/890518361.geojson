@@ -1,0 +1,70 @@
+{
+  "id": 890518361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.259764,-32.448723,-71.259764,-32.448723",
+    "geom:latitude":-32.448723,
+    "geom:longitude":-71.259764,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"La Ligua",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":495,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":196,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794330,
+        "qs:id":221559,
+        "wd:id":"Q14463",
+        "wk:page":"La Ligua"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056061,
+    "wof:geomhash":"5d45adb7ce1beea90452dec5b29d4afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063077,
+            "localadmin_id":890518361,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890518361,
+    "wof:lastmodified":1527751233,
+    "wof:name":"La Ligua",
+    "wof:parent_id":102063077,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.259764,
+    -32.448723,
+    -71.259764,
+    -32.448723
+],
+  "geometry": {"coordinates":[-71.259764,-32.448723],"type":"Point"}
+}

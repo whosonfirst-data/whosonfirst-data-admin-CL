@@ -1,0 +1,75 @@
+{
+  "id": 1327333973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.08019,-39.00802,-72.08019,-39.00802",
+    "geom:latitude":-39.00802,
+    "geom:longitude":-72.08019,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9103.0",
+    "gn:asciiname":"Reduccion Quechereguas",
+    "gn:country_code":"CL",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874468,
+    "gn:latitude":-39.00802,
+    "gn:longitude":-72.08019,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Reducci\u00f3n Quechereguas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Reducci\u00f3n Quechereguas"
+    ],
+    "name:und_x_variant":[
+        "Quechereguas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874468
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9e51ca7ec6dcf8b77ca16d1cb044bad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":1327333973,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1327333973,
+    "wof:lastmodified":1537591109,
+    "wof:name":"Reduccion Quechereguas",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.08019,
+    -39.00802,
+    -72.08019,
+    -39.00802
+],
+  "geometry": {"coordinates":[-72.08019,-39.00802],"type":"Point"}
+}

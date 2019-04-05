@@ -1,0 +1,69 @@
+{
+  "id": 1309715425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.95471,-43.77402,-72.95471,-43.77402",
+    "geom:latitude":-43.77402,
+    "geom:longitude":-72.95471,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11202.0",
+    "gn:asciiname":"Marin Balmaceda",
+    "gn:country_code":"CL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969662,
+    "gn:latitude":-43.77402,
+    "gn:longitude":-72.95471,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Mar\u00edn Balmaceda",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969662
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2b5f7419319b270f7bc2a1705515e012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063187,
+            "locality_id":1309715425,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":1309715425,
+    "wof:lastmodified":1537058830,
+    "wof:name":"Marin Balmaceda",
+    "wof:parent_id":102063187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.95470999999998,
+    -43.77402,
+    -72.95470999999998,
+    -43.77402
+],
+  "geometry": {"coordinates":[-72.95470999999998,-43.77402],"type":"Point"}
+}

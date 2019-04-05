@@ -1,0 +1,72 @@
+{
+  "id": 1326703433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8814,-19.79355,-68.8814,-19.79355",
+    "geom:latitude":-19.79355,
+    "geom:longitude":-68.8814,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1405.0",
+    "gn:asciiname":"Pucapucone",
+    "gn:country_code":"CL",
+    "gn:dem":4199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3875105,
+    "gn:latitude":-19.79355,
+    "gn:longitude":-68.8814,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Pucapucone",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pucapucone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875105
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"83c958dc3c9233ac39ce96099f6f09bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1326703433,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1326703433,
+    "wof:lastmodified":1537591112,
+    "wof:name":"Pucapucone",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8814,
+    -19.79355,
+    -68.8814,
+    -19.79355
+],
+  "geometry": {"coordinates":[-68.8814,-19.79355],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209611991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.82358,-33.96009,-71.82358,-33.96009",
+    "geom:latitude":-33.96009,
+    "geom:longitude":-71.82358,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:admin3_code":"6205.0",
+    "gn:asciiname":"Los Quenes",
+    "gn:country_code":"CL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3881483,
+    "gn:latitude":-33.96009,
+    "gn:longitude":-71.82358,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Los Que\u00f1es",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3881483
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8e4f3388b467046bea1075ef6bc5091d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209611991
+        }
+    ],
+    "wof:id":1209611991,
+    "wof:lastmodified":1536281817,
+    "wof:name":"Los Quenes",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82358,
+    -33.96009,
+    -71.82358,
+    -33.96009
+],
+  "geometry": {"coordinates":[-71.82358000000001,-33.96009],"type":"Point"}
+}

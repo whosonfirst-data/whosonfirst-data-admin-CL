@@ -1,0 +1,72 @@
+{
+  "id": 1209789439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.94511,-41.4236,-72.94511,-41.4236",
+    "geom:latitude":-41.4236,
+    "geom:longitude":-72.94511,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Santa Teresa",
+    "gn:country_code":"CL",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8048117,
+    "gn:latitude":-41.4236,
+    "gn:longitude":-72.94511,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Santa Teresa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Teresa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048117
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"49afda5a6279ecc31e67186c44a0e4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1209789439,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1209789439,
+    "wof:lastmodified":1537591178,
+    "wof:name":"Santa Teresa",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.94511,
+    -41.4236,
+    -72.94511,
+    -41.4236
+],
+  "geometry": {"coordinates":[-72.94511,-41.4236],"type":"Point"}
+}

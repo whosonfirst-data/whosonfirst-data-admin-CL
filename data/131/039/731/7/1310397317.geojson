@@ -1,0 +1,71 @@
+{
+  "id": 1310397317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92266,-31.10312,-70.92266,-31.10312",
+    "geom:latitude":-31.10312,
+    "geom:longitude":-70.92266,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Chineo",
+    "gn:country_code":"CL",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230072,
+    "gn:latitude":-31.10312,
+    "gn:longitude":-70.92266,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Chineo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chineo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230072
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"344a7ff8192343801a0f29654c3a1f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1310397317,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1310397317,
+    "wof:lastmodified":1537591183,
+    "wof:name":"Chineo",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92266,
+    -31.10312,
+    -70.92266,
+    -31.10312
+],
+  "geometry": {"coordinates":[-70.92265999999999,-31.10312],"type":"Point"}
+}

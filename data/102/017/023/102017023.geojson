@@ -1,0 +1,123 @@
+{
+  "id": 102017023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":242661.03069,
+    "geom:bbox":"-70.6915283203,-32.8472886647,-70.6860351562,-32.842673632",
+    "geom:latitude":-32.844902,
+    "geom:longitude":-70.688889,
+    "iso:country":"CL",
+    "lbl:latitude":-32.844982,
+    "lbl:longitude":-70.689292,
+    "mps:latitude":-32.844982,
+    "mps:longitude":-70.689292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Rinconada"
+    ],
+    "name:cat_x_preferred":[
+        "Rinconada"
+    ],
+    "name:chi_x_preferred":[
+        "\u6797\u79d1\u7d0d\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "Rinconada"
+    ],
+    "name:eng_x_preferred":[
+        "Rinconada"
+    ],
+    "name:fre_x_preferred":[
+        "Rinconada"
+    ],
+    "name:ita_x_preferred":[
+        "Rinconada"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c1\ucf54\ub098\ub2e4"
+    ],
+    "name:nan_x_preferred":[
+        "Rinconada"
+    ],
+    "name:oci_x_preferred":[
+        "Rinconada"
+    ],
+    "name:por_x_preferred":[
+        "Rinconada"
+    ],
+    "name:rum_x_preferred":[
+        "Rinconada"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043d\u043a\u043e\u043d\u0430\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rinconada"
+    ],
+    "qs:a0":"Chile",
+    "qs:a1":"*Valpara\u00edso",
+    "qs:a1r":"*",
+    "qs:a2":"Los Andes",
+    "qs:id":0,
+    "qs:la":"Rinconada",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rinconada de los Andes",
+    "qs:loc_alt":"Rinconada de Los Andes",
+    "qs:loc_lc":"3873249",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873249,
+        "gp:id":349339,
+        "qs:id":1159353,
+        "qs_pg:id":1159353,
+        "wd:id":"Q56123",
+        "wk:page":"Rinconada"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3933824239c0bfc69d466e6c1d21b2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063139,
+            "locality_id":102017023,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":102017023,
+    "wof:lastmodified":1513937875,
+    "wof:name":"Rinconada de los Andes",
+    "wof:parent_id":102063139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.69152832029995,
+    -32.84728866470004,
+    -70.6860351562,
+    -32.84267363200004
+],
+  "geometry": {"coordinates":[[[-70.68603515620001,-32.84267363200004],[-70.68603515620001,-32.84498117830004],[-70.68603515620001,-32.84613492899999],[-70.68740844729996,-32.84613492899999],[-70.68740844729996,-32.84728866470004],[-70.68878173829998,-32.84728866470004],[-70.69152832029995,-32.84728866470004],[-70.69152832029995,-32.84498117830004],[-70.69152832029995,-32.84310617325503],[-70.69143745729066,-32.84278172122348],[-70.69042761653999,-32.8430221134973],[-70.68954926143161,-32.84267363200004],[-70.68878173829998,-32.84267363200004],[-70.68603515620001,-32.84267363200004]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310288833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.93176,-53.08338,-70.93176,-53.08338",
+    "geom:latitude":-53.08338,
+    "geom:longitude":-70.93176,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Tres Puentes",
+    "gn:country_code":"CL",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3869155,
+    "gn:latitude":-53.08338,
+    "gn:longitude":-70.93176,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Tres Puentes",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869155
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"45f8b5213f51e5a6acd04d96a5647ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1310288833,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1310288833,
+    "wof:lastmodified":1536732252,
+    "wof:name":"Tres Puentes",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.93176,
+    -53.08338000000001,
+    -70.93176,
+    -53.08338000000001
+],
+  "geometry": {"coordinates":[-70.93176,-53.08338000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260204755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.22833,-30.45274,-71.22833,-30.45274",
+    "geom:latitude":-30.45274,
+    "geom:longitude":-71.22833,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4301.0",
+    "gn:asciiname":"Panulcillo",
+    "gn:country_code":"CL",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877270,
+    "gn:latitude":-30.45274,
+    "gn:longitude":-71.22833,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Panulcillo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panucillo",
+        "Panulcillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877270
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"07d4720121e3aeedfc9d23994ad55d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1260204755,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1260204755,
+    "wof:lastmodified":1537591115,
+    "wof:name":"Panulcillo",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.22833,
+    -30.45274,
+    -71.22833,
+    -30.45274
+],
+  "geometry": {"coordinates":[-71.22833,-30.45274],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890517653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.80105,-36.09158,-71.80105,-36.09158",
+    "geom:latitude":-36.09158,
+    "geom:longitude":-71.80105,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Copihue",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Maule",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893650,
+        "gp:id":347335,
+        "qs:id":299309
+    },
+    "wof:country":"CL",
+    "wof:created":1469056019,
+    "wof:geomhash":"ef0110bf194e58510c126a19e698a2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063097,
+            "locality_id":890517653,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":890517653,
+    "wof:lastmodified":1505343906,
+    "wof:name":"Copihue",
+    "wof:parent_id":102063097,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.80105,
+    -36.09158,
+    -71.80105,
+    -36.09158
+],
+  "geometry": {"coordinates":[-71.80105,-36.09158],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 890517835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.85627,-33.71103,-70.85627,-33.71103",
+    "geom:latitude":-33.71103,
+    "geom:longitude":-70.85627,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lonqu\u00e9n"
+    ],
+    "name:eng_x_preferred":[
+        "Lonqu\u00e9n"
+    ],
+    "name:spa_x_preferred":[
+        "Lonqu\u00e9n"
+    ],
+    "qs:name":"Lonqu\u00e9n",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":64,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":348,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882537,
+        "gp:id":348418,
+        "qs:id":1013811,
+        "wd:id":"Q945395",
+        "wk:page":"Lonqu\u00e9n"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056027,
+    "wof:geomhash":"6e9623f5a319fa82348b5d439428c5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063095,
+            "locality_id":890517835,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517835,
+    "wof:lastmodified":1527749994,
+    "wof:name":"Lonqu\u00e9n",
+    "wof:parent_id":102063095,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.85627,
+    -33.71103,
+    -70.85627,
+    -33.71103
+],
+  "geometry": {"coordinates":[-70.85626999999999,-33.71103],"type":"Point"}
+}

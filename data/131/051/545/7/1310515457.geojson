@@ -1,0 +1,69 @@
+{
+  "id": 1310515457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.40015,-33.31791,-71.40015,-33.31791",
+    "geom:latitude":-33.31791,
+    "geom:longitude":-71.40015,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5102.0",
+    "gn:asciiname":"Casa Blanca",
+    "gn:country_code":"CL",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8030244,
+    "gn:latitude":-33.31791,
+    "gn:longitude":-71.40015,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Casa Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030244
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2dc370dc8a4c8b7256d03adb30dcf1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063161,
+            "locality_id":1310515457,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1310515457,
+    "wof:lastmodified":1536902561,
+    "wof:name":"Casa Blanca",
+    "wof:parent_id":102063161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.40015,
+    -33.31791,
+    -71.40015,
+    -33.31791
+],
+  "geometry": {"coordinates":[-71.40015,-33.31791],"type":"Point"}
+}

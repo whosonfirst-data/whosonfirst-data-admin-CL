@@ -1,0 +1,72 @@
+{
+  "id": 1259958695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.15188,-41.659,-73.15188,-41.659",
+    "geom:latitude":-41.659,
+    "geom:longitude":-73.15188,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10102.0",
+    "gn:asciiname":"Putenio",
+    "gn:country_code":"CL",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8049596,
+    "gn:latitude":-41.659,
+    "gn:longitude":-73.15188,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Puten\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puten\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049596
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"983d7a415f886073622966efc638bd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1259958695,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1259958695,
+    "wof:lastmodified":1537591178,
+    "wof:name":"Putenio",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15188,
+    -41.659,
+    -73.15188,
+    -41.659
+],
+  "geometry": {"coordinates":[-73.15188000000001,-41.659],"type":"Point"}
+}

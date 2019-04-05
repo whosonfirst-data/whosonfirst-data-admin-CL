@@ -1,0 +1,73 @@
+{
+  "id": 1344120459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.78763,-40.41874,-72.78763,-40.41874",
+    "geom:latitude":-40.41874,
+    "geom:longitude":-72.78763,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"14204.0",
+    "gn:asciiname":"Crucero",
+    "gn:country_code":"CL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3891536,
+    "gn:latitude":-40.41874,
+    "gn:longitude":-72.78763,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Crucero",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Crucero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3891536,
+        "wk:page":"Crucero"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"5915536483eba835790540e22351ec19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063189,
+            "locality_id":1344120459,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":1344120459,
+    "wof:lastmodified":1537591148,
+    "wof:name":"Crucero",
+    "wof:parent_id":102063189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.78763000000002,
+    -40.41874,
+    -72.78763000000002,
+    -40.41874
+],
+  "geometry": {"coordinates":[-72.78763000000002,-40.41874],"type":"Point"}
+}

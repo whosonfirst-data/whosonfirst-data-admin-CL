@@ -1,0 +1,73 @@
+{
+  "id": 1293302257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.73137,-32.61981,-70.73137,-32.61981",
+    "geom:latitude":-32.61981,
+    "geom:longitude":-70.73137,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5705.0",
+    "gn:asciiname":"Granalla",
+    "gn:country_code":"CL",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888844,
+    "gn:latitude":-32.61981,
+    "gn:longitude":-70.73137,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Granalla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Granallas",
+        "Granalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888844
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3c4cc7cc11dbc326485bfe0a6f14237c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063099,
+            "locality_id":1293302257,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1293302257,
+    "wof:lastmodified":1537591143,
+    "wof:name":"Granalla",
+    "wof:parent_id":102063099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.73137,
+    -32.61981,
+    -70.73137,
+    -32.61981
+],
+  "geometry": {"coordinates":[-70.73137,-32.61981],"type":"Point"}
+}

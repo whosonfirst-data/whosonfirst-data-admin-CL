@@ -1,0 +1,75 @@
+{
+  "id": 890517953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.841732,-27.077468,-70.841732,-27.077468",
+    "geom:latitude":-27.077468,
+    "geom:longitude":-70.841732,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Caldera",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Atacama",
+    "qs:photos":92,
+    "qs:photos_1k":19,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1616,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":2697,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261223,
+        "gp:id":26794076,
+        "qs:id":1080142,
+        "qs_pg:id":1155738,
+        "wd:id":"Q159954",
+        "wk:page":"Caldera"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056037,
+    "wof:geomhash":"990ab90fc4b41842f8b8a0faf2aa7600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "localadmin_id":890517953,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":890517953,
+    "wof:lastmodified":1527749991,
+    "wof:name":"Caldera",
+    "wof:parent_id":102063143,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.841732,
+    -27.077468,
+    -70.841732,
+    -27.077468
+],
+  "geometry": {"coordinates":[-70.84173199999999,-27.077468],"type":"Point"}
+}

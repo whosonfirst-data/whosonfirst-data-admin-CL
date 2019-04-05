@@ -1,0 +1,75 @@
+{
+  "id": 890518367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16118,-32.799999,-71.16118,-32.799999",
+    "geom:latitude":-32.799999,
+    "geom:longitude":-71.16118,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Hijuelas",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":587,
+    "qs:photos_1k":119,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":665,
+    "qs:photos_sr":8,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":391,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261442,
+        "gp:id":26794335,
+        "qs:id":221561,
+        "qs_pg:id":381588,
+        "wd:id":"Q13071",
+        "wk:page":"Hijuelas"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056061,
+    "wof:geomhash":"1cbae8a9c64abab82c919cd808e6cfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063103,
+            "localadmin_id":890518367,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890518367,
+    "wof:lastmodified":1527751234,
+    "wof:name":"Hijuelas",
+    "wof:parent_id":102063103,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16118,
+    -32.799999,
+    -71.16118,
+    -32.799999
+],
+  "geometry": {"coordinates":[-71.16118,-32.799999],"type":"Point"}
+}

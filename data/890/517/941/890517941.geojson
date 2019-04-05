@@ -1,0 +1,66 @@
+{
+  "id": 890517941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.315029,-37.935262,-73.315029,-37.935262",
+    "geom:latitude":-37.935262,
+    "geom:longitude":-73.315029,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "qs:name":"Los Notros",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Biobio",
+    "qs:photos":146,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":350271,
+        "qs:id":1075354
+    },
+    "wof:country":"CL",
+    "wof:created":1469056036,
+    "wof:geomhash":"1ec2ad8ce0bf5bc80d94c6d4692c03c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063153,
+            "locality_id":890517941,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":890517941,
+    "wof:lastmodified":1469056036,
+    "wof:name":"Los Notros",
+    "wof:parent_id":102063153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.315029,
+    -37.935262,
+    -73.315029,
+    -37.935262
+],
+  "geometry": {"coordinates":[-73.315029,-37.935262],"type":"Point"}
+}

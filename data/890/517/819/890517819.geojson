@@ -1,0 +1,124 @@
+{
+  "id": 890517819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07751,-34.43858,-71.07751,-34.43858",
+    "geom:latitude":-34.43858,
+    "geom:longitude":-71.07751,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u043d-\u0412\u0438\u0441\u0435\u043d\u0442\u0435-\u0434\u0435-\u0422\u0430\u0433\u0443\u0430"
+    ],
+    "name:baq_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7dad\u68ee\u7279\u5fb7\u5854\u74dc\u5854\u74dc"
+    ],
+    "name:dut_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:eng_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:fre_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:ita_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d3\u30bb\u30f3\u30c6\u30fb\u30c7\u30fb\u30bf\u30b0\u30a2\u30bf\u30b0\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ube44\uc13c\ud14c \ub370 \ud0c0\uacfc\ud0c0\uacfc"
+    ],
+    "name:nan_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:por_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:rum_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0412\u0438\u0441\u0435\u043d\u0442\u0435-\u0434\u0435-\u0422\u0430\u0433\u0443\u0430-\u0422\u0430\u0433\u0443\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:spa_x_preferred":[
+        "San Vicente de Tagua Tagua"
+    ],
+    "name:unk_x_variant":[
+        "San Vicente"
+    ],
+    "qs:name":"San Vicente de Taguatagua",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":401,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871276,
+        "gp:id":349964,
+        "qs:id":992318,
+        "wd:id":"Q187936",
+        "wk:page":"San Vicente de Tagua Tagua"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056026,
+    "wof:geomhash":"c4bd365828f4b0b6b642fff533485c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":890517819,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890517819,
+    "wof:lastmodified":1527749993,
+    "wof:name":"San Vicente de Taguatagua",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07751,
+    -34.43858,
+    -71.07751,
+    -34.43858
+],
+  "geometry": {"coordinates":[-71.07751,-34.43858],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277073731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.37043,-28.81702,-70.37043,-28.81702",
+    "geom:latitude":-28.81702,
+    "geom:longitude":-70.37043,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3302.0",
+    "gn:asciiname":"La Marquesa",
+    "gn:country_code":"CL",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885381,
+    "gn:latitude":-28.81702,
+    "gn:longitude":-70.37043,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Marquesa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marquesa",
+        "Marquesas",
+        "Marquezas",
+        "La Marquesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885381
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b8d042f2ad4bf6d019cc54e2c04873e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1277073731,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1277073731,
+    "wof:lastmodified":1537591134,
+    "wof:name":"La Marquesa",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.37043,
+    -28.81702,
+    -70.37043,
+    -28.81702
+],
+  "geometry": {"coordinates":[-70.37043,-28.81702],"type":"Point"}
+}

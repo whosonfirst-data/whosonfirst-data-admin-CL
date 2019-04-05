@@ -1,0 +1,70 @@
+{
+  "id": 1260294515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.45182,-32.57937,-71.45182,-32.57937",
+    "geom:latitude":-32.57937,
+    "geom:longitude":-71.45182,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"54.0",
+    "gn:admin3_code":"5405.0",
+    "gn:asciiname":"Cachagua",
+    "gn:country_code":"CL",
+    "gn:dem":60,
+    "gn:elevation":"35.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618026,
+    "gn:latitude":-32.57937,
+    "gn:longitude":-71.45182,
+    "gn:modification_date":"2013-04-25",
+    "gn:name":"Cachagua",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618026
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8f11397c092bcd42b3409614d88f485b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063077,
+            "locality_id":1260294515,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1260294515,
+    "wof:lastmodified":1536697244,
+    "wof:name":"Cachagua",
+    "wof:parent_id":102063077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.45182,
+    -32.57937,
+    -71.45182,
+    -32.57937
+],
+  "geometry": {"coordinates":[-71.45182,-32.57937],"type":"Point"}
+}

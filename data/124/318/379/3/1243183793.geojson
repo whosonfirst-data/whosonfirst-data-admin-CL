@@ -1,0 +1,69 @@
+{
+  "id": 1243183793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.79086,-24.05505,-69.79086,-24.05505",
+    "geom:latitude":-24.05505,
+    "geom:longitude":-69.79086,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2101.0",
+    "gn:asciiname":"Oficina Oriente",
+    "gn:country_code":"CL",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3878247,
+    "gn:latitude":-24.05505,
+    "gn:longitude":-69.79086,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Oficina Oriente",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3878247
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0c84431d62937f758eb4ef3943a77044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "locality_id":1243183793,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1243183793,
+    "wof:lastmodified":1536687203,
+    "wof:name":"Oficina Oriente",
+    "wof:parent_id":102063073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.79086,
+    -24.05505,
+    -69.79086,
+    -24.05505
+],
+  "geometry": {"coordinates":[-69.79086,-24.05505],"type":"Point"}
+}

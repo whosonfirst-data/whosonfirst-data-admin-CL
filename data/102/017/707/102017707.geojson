@@ -1,0 +1,78 @@
+{
+  "id": 102017707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":1007543.80058,
+    "geom:bbox":"-70.6764679718,-32.7981981214,-70.6634615287,-32.787274527",
+    "geom:latitude":-32.791938,
+    "geom:longitude":-70.669967,
+    "iso:country":"CL",
+    "lbl:latitude":-32.791102,
+    "lbl:longitude":-70.671377,
+    "mps:latitude":-32.791102,
+    "mps:longitude":-70.671377,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Chile",
+    "qs:a1":"*Valpara\u00edso",
+    "qs:a1r":"*",
+    "qs:a2":"San Felipe de Aconcagua",
+    "qs:id":0,
+    "qs:la":"San Felipe",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Curim\u00f3n",
+    "qs:loc_alt":"Curim\u00f3n",
+    "qs:loc_lc":"3892853",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3892853,
+        "gp:id":347407,
+        "qs:id":180598,
+        "qs_pg:id":180598
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a4b0418d38e1b99a8d34bb3edf64f91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063099,
+            "locality_id":102017707,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":102017707,
+    "wof:lastmodified":1497296204,
+    "wof:name":"Curim\u00f3n",
+    "wof:parent_id":102063099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67646797182391,
+    -32.79819812136569,
+    -70.66346152867563,
+    -32.787274527
+],
+  "geometry": {"coordinates":[[[[-70.67504882809995,-32.79651010950002],[-70.67504882809995,-32.79786046532345],[-70.67646797182391,-32.79819812136569],[-70.67635879479214,-32.79651010950002],[-70.67504882809995,-32.79651010950002]]],[[[-70.67504882809995,-32.79651010950002],[-70.67504882809995,-32.79189243810001],[-70.67504882810005,-32.787274527],[-70.66955566410002,-32.787274527],[-70.66406249999997,-32.787274527],[-70.66406249999997,-32.79189243810001],[-70.66779779579061,-32.79189243810001],[-70.66682730756038,-32.79304687470002],[-70.66346152867563,-32.79590671243908],[-70.66384938933956,-32.79651010950002],[-70.66406249999997,-32.79651010950002],[-70.67504882809995,-32.79651010950002]]]],"type":"MultiPolygon"}
+}

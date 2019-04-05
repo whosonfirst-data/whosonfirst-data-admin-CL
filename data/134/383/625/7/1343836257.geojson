@@ -1,0 +1,74 @@
+{
+  "id": 1343836257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71667,-35.11667,-71.71667,-35.11667",
+    "geom:latitude":-35.11667,
+    "geom:longitude":-71.71667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7103.0",
+    "gn:asciiname":"Guaquen",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888379,
+    "gn:latitude":-35.11667,
+    "gn:longitude":-71.71667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Guaqu\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huaqu\u00e9n",
+        "Guaqu\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888379
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"95334f406df2f7129eebf92f9433228d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1343836257,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1343836257,
+    "wof:lastmodified":1537591142,
+    "wof:name":"Guaquen",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71667,
+    -35.11667,
+    -71.71667,
+    -35.11667
+],
+  "geometry": {"coordinates":[-71.71666999999999,-35.11667],"type":"Point"}
+}

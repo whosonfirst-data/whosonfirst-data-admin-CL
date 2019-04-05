@@ -1,0 +1,74 @@
+{
+  "id": 1125382539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.74922,-37.62299,-71.74922,-37.62299",
+    "geom:latitude":-37.62299,
+    "geom:longitude":-71.74922,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-37.62299,
+    "lbl:longitude":-71.74922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8261321,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Santa Barbara",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381562,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261321,
+        "qs_pg:id":381562
+    },
+    "wof:country":"CL",
+    "wof:created":1497048136,
+    "wof:geomhash":"bc358d265e11333d15587ad5003d60da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063151,
+            "localadmin_id":1125382539,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1125382539,
+    "wof:lastmodified":1509389624,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":102063151,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.74922,
+    -37.62299,
+    -71.74922,
+    -37.62299
+],
+  "geometry": {"coordinates":[-71.74921999999999,-37.62299],"type":"Point"}
+}

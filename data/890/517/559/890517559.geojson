@@ -1,0 +1,70 @@
+{
+  "id": 890517559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.469768,-41.968297,-72.469768,-41.968297",
+    "geom:latitude":-41.968297,
+    "geom:longitude":-72.469768,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Hualaihue",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":265,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":245,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794177,
+        "qs:id":1263708,
+        "wd:id":"Q13072",
+        "wk:page":"Hualaihu\u00e9"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056014,
+    "wof:geomhash":"d0aedb0a3b00f63bf101d6584ebb56b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "localadmin_id":890517559,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890517559,
+    "wof:lastmodified":1527749991,
+    "wof:name":"Hualaihue",
+    "wof:parent_id":102063169,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.469768,
+    -41.968297,
+    -72.469768,
+    -41.968297
+],
+  "geometry": {"coordinates":[-72.469768,-41.968297],"type":"Point"}
+}

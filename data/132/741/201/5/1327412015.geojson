@@ -1,0 +1,74 @@
+{
+  "id": 1327412015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23333,-35.16667,-72.23333,-35.16667",
+    "geom:latitude":-35.16667,
+    "geom:longitude":-72.23333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7102.0",
+    "gn:asciiname":"La Palmilla",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885136,
+    "gn:latitude":-35.16667,
+    "gn:longitude":-72.23333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"La Palmilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmilla",
+        "La Palmilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885136
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0c5e0e4ec03b96c29b52941511850283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1327412015,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1327412015,
+    "wof:lastmodified":1537591133,
+    "wof:name":"La Palmilla",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23333000000002,
+    -35.16667,
+    -72.23333000000002,
+    -35.16667
+],
+  "geometry": {"coordinates":[-72.23333000000002,-35.16667],"type":"Point"}
+}

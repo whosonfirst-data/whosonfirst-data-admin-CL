@@ -1,0 +1,74 @@
+{
+  "id": 1343878339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68333,-34.03333,-70.68333,-34.03333",
+    "geom:latitude":-34.03333,
+    "geom:longitude":-70.68333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"6102.0",
+    "gn:asciiname":"Iglesia de Codegua",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3887360,
+    "gn:latitude":-34.03333,
+    "gn:longitude":-70.68333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Iglesia de Codegua",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isla Sur",
+        "Iglesia de Codegua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887360
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9aad5600340c6c422f0069c9cedda851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":1343878339,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1343878339,
+    "wof:lastmodified":1537591139,
+    "wof:name":"Iglesia de Codegua",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68333,
+    -34.03333,
+    -70.68333,
+    -34.03333
+],
+  "geometry": {"coordinates":[-70.68333,-34.03333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260182715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.92157,-37.97438,-72.92157,-37.97438",
+    "geom:latitude":-37.97438,
+    "geom:longitude":-72.92157,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"92.0",
+    "gn:admin3_code":"9206.0",
+    "gn:asciiname":"Guadaba",
+    "gn:country_code":"CL",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888624,
+    "gn:latitude":-37.97438,
+    "gn:longitude":-72.92157,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Guadaba",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuadaba",
+        "Guadaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888624
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9f9c1bdd2b69d7254271c3630b3bfdb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063101,
+            "locality_id":1260182715,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1260182715,
+    "wof:lastmodified":1537591143,
+    "wof:name":"Guadaba",
+    "wof:parent_id":102063101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.92156999999997,
+    -37.97438,
+    -72.92156999999997,
+    -37.97438
+],
+  "geometry": {"coordinates":[-72.92156999999997,-37.97438],"type":"Point"}
+}

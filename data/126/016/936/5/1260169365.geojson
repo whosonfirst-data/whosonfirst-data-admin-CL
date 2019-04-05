@@ -1,0 +1,70 @@
+{
+  "id": 1260169365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.08568,-36.0545,-72.08568,-36.0545",
+    "geom:latitude":-36.0545,
+    "geom:longitude":-72.08568,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"72.0",
+    "gn:admin3_code":"7201.0",
+    "gn:asciiname":"Quella",
+    "gn:country_code":"CL",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874425,
+    "gn:latitude":-36.0545,
+    "gn:longitude":-72.08568,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Quella",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874425,
+        "wk:page":"Quella"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"5c3d9a6f070770244f8e7640412c9451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063129,
+            "locality_id":1260169365,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1260169365,
+    "wof:lastmodified":1537489478,
+    "wof:name":"Quella",
+    "wof:parent_id":102063129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.08568000000002,
+    -36.0545,
+    -72.08568000000002,
+    -36.0545
+],
+  "geometry": {"coordinates":[-72.08568000000002,-36.0545],"type":"Point"}
+}

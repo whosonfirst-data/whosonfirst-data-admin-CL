@@ -1,0 +1,72 @@
+{
+  "id": 890518269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.10236,-34.43837,-71.10236,-34.43837",
+    "geom:latitude":-34.43837,
+    "geom:longitude":-71.10236,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Callejones"
+    ],
+    "qs:name":"Los Callejones",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882302,
+        "gp:id":348436,
+        "qs:id":180618
+    },
+    "wof:country":"CL",
+    "wof:created":1469056056,
+    "wof:geomhash":"e7bcf8226aebb454041b12f52015adf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":890518269,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890518269,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Los Callejones",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.10236,
+    -34.43837,
+    -71.10236,
+    -34.43837
+],
+  "geometry": {"coordinates":[-71.10236,-34.43837],"type":"Point"}
+}

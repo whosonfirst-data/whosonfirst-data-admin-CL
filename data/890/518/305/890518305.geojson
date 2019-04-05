@@ -1,0 +1,74 @@
+{
+  "id": 890518305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.022247,-38.93057,-72.022247,-38.93057",
+    "geom:latitude":-38.93057,
+    "geom:longitude":-72.022247,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Cunco",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Araucania",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":86,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261376,
+        "gp:id":26794043,
+        "qs:id":772380,
+        "qs_pg:id":1155749,
+        "wk:page":"Cunco"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056057,
+    "wof:geomhash":"3d1e123ac34c2ec7f457948f865bb595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "localadmin_id":890518305,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":890518305,
+    "wof:lastmodified":1527751235,
+    "wof:name":"Cunco",
+    "wof:parent_id":102063107,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.022247,
+    -38.93057,
+    -72.022247,
+    -38.93057
+],
+  "geometry": {"coordinates":[-72.02224699999999,-38.93057],"type":"Point"}
+}

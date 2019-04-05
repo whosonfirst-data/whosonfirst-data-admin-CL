@@ -1,0 +1,64 @@
+{
+  "id": 1209513079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20296,-36.53448,-72.20296,-36.53448",
+    "geom:latitude":-36.53448,
+    "geom:longitude":-72.20296,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"84.0",
+    "gn:admin3_code":"8419.0",
+    "gn:asciiname":"Quilelto",
+    "gn:country_code":"CL",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874224,
+    "gn:latitude":-36.53448,
+    "gn:longitude":-72.20296,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Quilelto",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874224,
+        "wk:page":"Quilento"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6146ad1eaf7a61401c949775373e6f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209513079
+        }
+    ],
+    "wof:id":1209513079,
+    "wof:lastmodified":1537489477,
+    "wof:name":"Quilelto",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20296,
+    -36.53448,
+    -72.20296,
+    -36.53448
+],
+  "geometry": {"coordinates":[-72.20296,-36.53448],"type":"Point"}
+}

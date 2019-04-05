@@ -1,0 +1,69 @@
+{
+  "id": 1360272403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.06667,-33.46667,-71.06667,-33.46667",
+    "geom:latitude":-33.46667,
+    "geom:longitude":-71.06667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"135.0",
+    "gn:admin3_code":"13503.0",
+    "gn:asciiname":"Las Ritas",
+    "gn:country_code":"CL",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3883945,
+    "gn:latitude":-33.46667,
+    "gn:longitude":-71.06667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Las Ritas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883945
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"02a11aea706e37cf5f4b8567e23ca84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063083,
+            "locality_id":1360272403,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1360272403,
+    "wof:lastmodified":1536675424,
+    "wof:name":"Las Ritas",
+    "wof:parent_id":102063083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.06667,
+    -33.46667,
+    -71.06667,
+    -33.46667
+],
+  "geometry": {"coordinates":[-71.06667,-33.46667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293468643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05253,-41.11244,-73.05253,-41.11244",
+    "geom:latitude":-41.11244,
+    "geom:longitude":-73.05253,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10105.0",
+    "gn:asciiname":"Poblacion La Radio",
+    "gn:country_code":"CL",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047444,
+    "gn:latitude":-41.11244,
+    "gn:longitude":-73.05253,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Poblaci\u00f3n La Radio",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Poblaci\u00f3n La Radio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047444
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"22c24f2cc4d2850914773903e47e7407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1293468643,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1293468643,
+    "wof:lastmodified":1537591176,
+    "wof:name":"Poblacion La Radio",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05253,
+    -41.11244,
+    -73.05253,
+    -41.11244
+],
+  "geometry": {"coordinates":[-73.05253,-41.11244],"type":"Point"}
+}

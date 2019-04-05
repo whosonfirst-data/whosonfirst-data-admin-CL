@@ -1,0 +1,73 @@
+{
+  "id": 890518199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.64062,-28.13163,-70.64062,-28.13163",
+    "geom:latitude":-28.13163,
+    "geom:longitude":-70.64062,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Algarrobal",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Atacama",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949800,
+        "gp:id":350161,
+        "qs:id":151208,
+        "wk:page":"El Algarrobal District"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056053,
+    "wof:geomhash":"9ef87f6d6479e89213d734e3c62b27c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":890518199,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":890518199,
+    "wof:lastmodified":1527751235,
+    "wof:name":"Algarrobal",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.64062,
+    -28.13163,
+    -70.64062,
+    -28.13163
+],
+  "geometry": {"coordinates":[-70.64062,-28.13163],"type":"Point"}
+}

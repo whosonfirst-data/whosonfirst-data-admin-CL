@@ -1,0 +1,73 @@
+{
+  "id": 1276995307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.66758,-33.10439,-71.66758,-33.10439",
+    "geom:latitude":-33.10439,
+    "geom:longitude":-71.66758,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"51.0",
+    "gn:asciiname":"Laguna Verde",
+    "gn:country_code":"CL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885742,
+    "gn:latitude":-33.10439,
+    "gn:longitude":-71.66758,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Laguna Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Laguna",
+        "Laguna Verde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885742,
+        "wk:page":"Laguna_Verde%2C_Chile"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"68cc4da2a4f4fadb3022cb18b6e31f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063161,
+            "locality_id":1276995307,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1276995307,
+    "wof:lastmodified":1537591136,
+    "wof:name":"Laguna Verde",
+    "wof:parent_id":102063161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.66758,
+    -33.10439,
+    -71.66758,
+    -33.10439
+],
+  "geometry": {"coordinates":[-71.66758,-33.10439],"type":"Point"}
+}

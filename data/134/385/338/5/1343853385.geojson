@@ -1,0 +1,95 @@
+{
+  "id": 1343853385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.5357,-51.63177,-72.5357,-51.63177",
+    "geom:latitude":-51.63177,
+    "geom:longitude":-72.5357,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:asciiname":"Cueva del Milodon Chico",
+    "gn:country_code":"CL",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11372010,
+    "gn:latitude":-51.63177,
+    "gn:longitude":-72.5357,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Cueva del Milod\u00f3n Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cueva del Milod\u00f3n Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11372010
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8f16de182f0959d4b61e5322e944438a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1343853385,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1343853385,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1343853385,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1343853385,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1343853385,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Cueva del Milodon Chico",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.5357,
+    -51.63177,
+    -72.5357,
+    -51.63177
+],
+  "geometry": {"coordinates":[-72.53570000000001,-51.63177],"type":"Point"}
+}

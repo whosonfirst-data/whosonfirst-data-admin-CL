@@ -1,0 +1,69 @@
+{
+  "id": 1243056057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.30172,-35.84441,-72.30172,-35.84441",
+    "geom:latitude":-35.84441,
+    "geom:longitude":-72.30172,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"72.0",
+    "gn:admin3_code":"7201.0",
+    "gn:asciiname":"Molino",
+    "gn:country_code":"CL",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879608,
+    "gn:latitude":-35.84441,
+    "gn:longitude":-72.30172,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Molino",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879608
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6b3e3c4212dfeef1cadab56c04599653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063129,
+            "locality_id":1243056057,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1243056057,
+    "wof:lastmodified":1536870229,
+    "wof:name":"Molino",
+    "wof:parent_id":102063129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.30171999999997,
+    -35.84441,
+    -72.30171999999997,
+    -35.84441
+],
+  "geometry": {"coordinates":[-72.30171999999997,-35.84441],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259503629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.90963,-34.0586,-71.90963,-34.0586",
+    "geom:latitude":-34.0586,
+    "geom:longitude":-71.90963,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:admin3_code":"6205.0",
+    "gn:asciiname":"Tuman",
+    "gn:country_code":"CL",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868947,
+    "gn:latitude":-34.0586,
+    "gn:longitude":-71.90963,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tum\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868947
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"488c3721f0ce989012a20aa1120af5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "locality_id":1259503629,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1259503629,
+    "wof:lastmodified":1536828925,
+    "wof:name":"Tuman",
+    "wof:parent_id":102063149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.90963,
+    -34.0586,
+    -71.90963,
+    -34.0586
+],
+  "geometry": {"coordinates":[-71.90963000000001,-34.0586],"type":"Point"}
+}

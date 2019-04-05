@@ -1,0 +1,68 @@
+{
+  "id": 1343838223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.01667,-33.06667,-71.01667,-33.06667",
+    "geom:latitude":-33.06667,
+    "geom:longitude":-71.01667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"58.0",
+    "gn:asciiname":"Caracha",
+    "gn:country_code":"CL",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896806,
+    "gn:latitude":-33.06667,
+    "gn:longitude":-71.01667,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Caracha",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        1108721747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896806
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ea2c26bde3a4e1e06bf811a36fcb84bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":1108721747,
+            "locality_id":1343838223,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1343838223,
+    "wof:lastmodified":1536698983,
+    "wof:name":"Caracha",
+    "wof:parent_id":1108721747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.01666999999998,
+    -33.06667,
+    -71.01666999999998,
+    -33.06667
+],
+  "geometry": {"coordinates":[-71.01666999999998,-33.06667],"type":"Point"}
+}

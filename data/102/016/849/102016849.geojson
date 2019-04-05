@@ -1,0 +1,80 @@
+{
+  "id": 102016849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000287,
+    "geom:area_square_m":2808514.58887,
+    "geom:bbox":"-73.4436035156,-37.6316347558,-73.4106445312,-37.6229335949",
+    "geom:latitude":-37.627284,
+    "geom:longitude":-73.427124,
+    "gn:latitude":-37.62836,
+    "gn:longitude":-73.40826,
+    "iso:country":"CL",
+    "lbl:latitude":-37.627285,
+    "lbl:longitude":-73.427124,
+    "mps:latitude":-37.627285,
+    "mps:longitude":-73.427124,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Chile",
+    "qs:a1":"*Biobio",
+    "qs:a1r":"*",
+    "qs:a2":"Arauco",
+    "qs:id":0,
+    "qs:la":"Los \u00c1lamos",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tres Pinos",
+    "qs:loc_alt":"Tres Pinos",
+    "qs:loc_lc":"3869160",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869160,
+        "gp:id":350385,
+        "qs:id":180706,
+        "qs_pg:id":180706
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"59e701a68385165c4e308c8c4968004f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063153,
+            "locality_id":102016849,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":102016849,
+    "wof:lastmodified":1497296246,
+    "wof:name":"Tres Pinos",
+    "wof:parent_id":102063153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4436035156,
+    -37.6316347558,
+    -73.4106445312,
+    -37.6229335949
+],
+  "geometry": {"coordinates":[[[-73.4326171875,-37.6229335949],[-73.4216308594,-37.6229335949],[-73.41064453120001,-37.6229335949],[-73.41064453120001,-37.6316347558],[-73.4216308594,-37.6316347558],[-73.4326171875,-37.6316347558],[-73.4436035156,-37.6316347558],[-73.4436035156,-37.6229335949],[-73.4326171875,-37.6229335949]]],"type":"Polygon"}
+}

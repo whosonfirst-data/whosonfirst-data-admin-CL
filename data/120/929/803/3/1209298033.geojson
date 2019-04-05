@@ -1,0 +1,65 @@
+{
+  "id": 1209298033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.07565,-41.81982,-73.07565,-41.81982",
+    "geom:latitude":-41.81982,
+    "geom:longitude":-73.07565,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"Chope",
+    "gn:country_code":"CL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308991,
+    "gn:latitude":-41.81982,
+    "gn:longitude":-73.07565,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Chope",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308991
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9badc889c0d16d9d5dd26cbcda83e9ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209298033
+        }
+    ],
+    "wof:id":1209298033,
+    "wof:lastmodified":1537591180,
+    "wof:name":"Chope",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.07565,
+    -41.81982,
+    -73.07565,
+    -41.81982
+],
+  "geometry": {"coordinates":[-73.07565,-41.81982],"type":"Point"}
+}

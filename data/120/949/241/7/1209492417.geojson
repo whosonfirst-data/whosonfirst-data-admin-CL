@@ -1,0 +1,69 @@
+{
+  "id": 1209492417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.0643,-33.83156,-70.0643,-33.83156",
+    "geom:latitude":-33.83156,
+    "geom:longitude":-70.0643,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"132.0",
+    "gn:admin3_code":"13203.0",
+    "gn:asciiname":"Lo Valdes",
+    "gn:country_code":"CL",
+    "gn:dem":1897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3873548,
+    "gn:latitude":-33.83156,
+    "gn:longitude":-70.0643,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Lo Vald\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lo Vald\u00e9s"
+    ],
+    "name:und_x_variant":[
+        "Refugio Lo Vald\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873548
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c04d84d1f2af90a5495f3e35c4402467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209492417
+        }
+    ],
+    "wof:id":1209492417,
+    "wof:lastmodified":1537591107,
+    "wof:name":"Lo Valdes",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.0643,
+    -33.83156,
+    -70.0643,
+    -33.83156
+],
+  "geometry": {"coordinates":[-70.0643,-33.83156],"type":"Point"}
+}

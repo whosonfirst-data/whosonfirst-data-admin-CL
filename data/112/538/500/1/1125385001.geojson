@@ -1,0 +1,74 @@
+{
+  "id": 1125385001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.83375,-42.30902,-73.83375,-42.30902",
+    "geom:latitude":-42.30902,
+    "geom:longitude":-73.83375,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-42.30902,
+    "lbl:longitude":-73.83375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8261159,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dalcahue",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904464,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261159,
+        "qs_pg:id":904464
+    },
+    "wof:country":"CL",
+    "wof:created":1497048309,
+    "wof:geomhash":"e2ac303e461f56d8ca292969c613c284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "localadmin_id":1125385001,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1125385001,
+    "wof:lastmodified":1509389691,
+    "wof:name":"Dalcahue",
+    "wof:parent_id":102063115,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.83375,
+    -42.30902,
+    -73.83375,
+    -42.30902
+],
+  "geometry": {"coordinates":[-73.83374999999999,-42.30902],"type":"Point"}
+}

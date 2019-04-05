@@ -1,0 +1,74 @@
+{
+  "id": 1125394923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73362,-34.10738,-71.73362,-34.10738",
+    "geom:latitude":-34.10738,
+    "geom:longitude":-71.73362,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-34.10738,
+    "lbl:longitude":-71.73362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8261255,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Litueche",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1042639,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261255,
+        "qs_pg:id":1042639
+    },
+    "wof:country":"CL",
+    "wof:created":1497048948,
+    "wof:geomhash":"6a9ea36ae60e52ec834ed3d05c710ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "localadmin_id":1125394923,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1125394923,
+    "wof:lastmodified":1509389923,
+    "wof:name":"Litueche",
+    "wof:parent_id":102063149,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73362,
+    -34.10738,
+    -71.73362,
+    -34.10738
+],
+  "geometry": {"coordinates":[-71.73362,-34.10738],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226423623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.37892,-34.96792,-71.37892,-34.96792",
+    "geom:latitude":-34.96792,
+    "geom:longitude":-71.37892,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"73.0",
+    "gn:admin3_code":"7305.0",
+    "gn:asciiname":"Trapiche",
+    "gn:country_code":"CL",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3869285,
+    "gn:latitude":-34.96792,
+    "gn:longitude":-71.37892,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Trapiche",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869285
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"76123842a7735c6761730876c3d1eacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":1226423623,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1226423623,
+    "wof:lastmodified":1536677376,
+    "wof:name":"Trapiche",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.37892,
+    -34.96792,
+    -71.37892,
+    -34.96792
+],
+  "geometry": {"coordinates":[-71.37891999999999,-34.96792],"type":"Point"}
+}

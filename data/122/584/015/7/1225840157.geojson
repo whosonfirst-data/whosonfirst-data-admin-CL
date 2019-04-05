@@ -1,0 +1,71 @@
+{
+  "id": 1225840157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.40523,-52.38489,-71.40523,-52.38489",
+    "geom:latitude":-52.38489,
+    "geom:longitude":-71.40523,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Asentamiento Cacique Mulato",
+    "gn:country_code":"CL",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329839,
+    "gn:latitude":-52.38489,
+    "gn:longitude":-71.40523,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Asentamiento Cacique Mulato",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Asentamiento Cacique Mulato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329839
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"39ccc6faa2750d907fc03052f7cec03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1225840157,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1225840157,
+    "wof:lastmodified":1537591186,
+    "wof:name":"Asentamiento Cacique Mulato",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.40523,
+    -52.38489000000001,
+    -71.40523,
+    -52.38489000000001
+],
+  "geometry": {"coordinates":[-71.40523,-52.38489000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243050839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.23333,-17.98333,-68.23333,-17.98333",
+    "geom:latitude":-17.98333,
+    "geom:longitude":-68.23333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Guailla",
+    "gn:country_code":"CL",
+    "gn:dem":4262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888600,
+    "gn:latitude":-17.98333,
+    "gn:longitude":-68.23333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Guailla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888600
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4a4bd20f08f31764157a509a5b73ebfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008123,
+            "locality_id":1243050839,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1243050839,
+    "wof:lastmodified":1536878049,
+    "wof:name":"Guailla",
+    "wof:parent_id":1092008123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.23333000000001,
+    -17.98333,
+    -68.23333000000001,
+    -17.98333
+],
+  "geometry": {"coordinates":[-68.23333000000001,-17.98333],"type":"Point"}
+}

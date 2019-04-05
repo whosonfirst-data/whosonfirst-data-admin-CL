@@ -1,0 +1,72 @@
+{
+  "id": 1327207715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6052,-42.6459,-73.6052,-42.6459",
+    "geom:latitude":-42.6459,
+    "geom:longitude":-73.6052,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10206.0",
+    "gn:asciiname":"Liucura",
+    "gn:country_code":"CL",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969880,
+    "gn:latitude":-42.6459,
+    "gn:longitude":-73.6052,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Liucura",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Liucura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969880
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"253a47928b9de79033c7d89e44d8df57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1327207715,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1327207715,
+    "wof:lastmodified":1537591176,
+    "wof:name":"Liucura",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6052,
+    -42.6459,
+    -73.6052,
+    -42.6459
+],
+  "geometry": {"coordinates":[-73.6052,-42.6459],"type":"Point"}
+}

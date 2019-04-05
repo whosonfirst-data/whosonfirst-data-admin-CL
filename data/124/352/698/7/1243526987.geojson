@@ -1,0 +1,72 @@
+{
+  "id": 1243526987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33867,-18.792,-69.33867,-18.792",
+    "geom:latitude":-18.792,
+    "geom:longitude":-69.33867,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Umirpa",
+    "gn:country_code":"CL",
+    "gn:dem":4008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868816,
+    "gn:latitude":-18.792,
+    "gn:longitude":-69.33867,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Umirpa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Umirpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868816
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9ace23140c0910edc15e15dcdd5dac55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1243526987,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1243526987,
+    "wof:lastmodified":1537591100,
+    "wof:name":"Umirpa",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33867,
+    -18.792,
+    -69.33867,
+    -18.792
+],
+  "geometry": {"coordinates":[-69.33866999999999,-18.792],"type":"Point"}
+}

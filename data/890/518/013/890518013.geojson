@@ -1,0 +1,66 @@
+{
+  "id": 890518013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.466697,-36.739984,-72.466697,-36.739984",
+    "geom:latitude":-36.739984,
+    "geom:longitude":-72.466697,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "qs:name":"Comuna Quillon",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Biobio",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":181,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794119,
+        "qs:id":1110061
+    },
+    "wof:country":"CL",
+    "wof:created":1469056040,
+    "wof:geomhash":"e826864b57864646ce42a31abde0bbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "localadmin_id":890518013,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":890518013,
+    "wof:lastmodified":1469056040,
+    "wof:name":"Comuna Quillon",
+    "wof:parent_id":102063109,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.466697,
+    -36.739984,
+    -72.466697,
+    -36.739984
+],
+  "geometry": {"coordinates":[-72.466697,-36.739984],"type":"Point"}
+}

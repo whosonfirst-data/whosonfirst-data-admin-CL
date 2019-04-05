@@ -1,0 +1,72 @@
+{
+  "id": 1276240057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.28112,-24.14134,-68.28112,-24.14134",
+    "geom:latitude":-24.14134,
+    "geom:longitude":-68.28112,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2101.0",
+    "gn:asciiname":"Negrillar",
+    "gn:country_code":"CL",
+    "gn:dem":3047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3890903,
+    "gn:latitude":-24.14134,
+    "gn:longitude":-68.28112,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Negrillar",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Negrillar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3890903
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"15711d8474f623b31fed86bb1f59c3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "locality_id":1276240057,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1276240057,
+    "wof:lastmodified":1537591146,
+    "wof:name":"Negrillar",
+    "wof:parent_id":102063073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.28112,
+    -24.14134,
+    -68.28112,
+    -24.14134
+],
+  "geometry": {"coordinates":[-68.28112,-24.14134],"type":"Point"}
+}

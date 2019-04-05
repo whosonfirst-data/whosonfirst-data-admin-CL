@@ -1,0 +1,72 @@
+{
+  "id": 1327255063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.57828,-31.01935,-70.57828,-31.01935",
+    "geom:latitude":-31.01935,
+    "geom:longitude":-70.57828,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4303.0",
+    "gn:asciiname":"Las Ramadas",
+    "gn:country_code":"CL",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3883956,
+    "gn:latitude":-31.01935,
+    "gn:longitude":-70.57828,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Las Ramadas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Ramadas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883956
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0b0e0015c2fff995dc06a50757f772a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1327255063,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1327255063,
+    "wof:lastmodified":1537591130,
+    "wof:name":"Las Ramadas",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.57828,
+    -31.01935,
+    -70.57828,
+    -31.01935
+],
+  "geometry": {"coordinates":[-70.57828000000001,-31.01935],"type":"Point"}
+}

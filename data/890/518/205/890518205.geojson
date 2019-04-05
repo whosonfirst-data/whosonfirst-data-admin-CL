@@ -1,0 +1,73 @@
+{
+  "id": 890518205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.94281,-37.1166,-72.94281,-37.1166",
+    "geom:latitude":-37.1166,
+    "geom:longitude":-72.94281,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Unihue",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Biobio",
+    "qs:photos":67,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":67,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868800,
+        "gp:id":350389,
+        "qs:id":859267
+    },
+    "wof:country":"CL",
+    "wof:created":1469056053,
+    "wof:geomhash":"b1dd138c7265f32cf33b1be04aab2ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "locality_id":890518205,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":890518205,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Unihue",
+    "wof:parent_id":102063171,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.94281,
+    -37.1166,
+    -72.94281,
+    -37.1166
+],
+  "geometry": {"coordinates":[-72.94280999999999,-37.1166],"type":"Point"}
+}

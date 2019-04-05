@@ -1,0 +1,75 @@
+{
+  "id": 1293866849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.87237,-19.42407,-68.87237,-19.42407",
+    "geom:latitude":-19.42407,
+    "geom:longitude":-68.87237,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1403.0",
+    "gn:asciiname":"Coraguano",
+    "gn:country_code":"CL",
+    "gn:dem":4123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893616,
+    "gn:latitude":-19.42407,
+    "gn:longitude":-68.87237,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Coraguano",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Coraguano"
+    ],
+    "name:und_x_variant":[
+        "Corahuano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893616
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"bb32218b2a727b1b51a36681767c3a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1293866849,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1293866849,
+    "wof:lastmodified":1537591154,
+    "wof:name":"Coraguano",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.87236999999999,
+    -19.42407,
+    -68.87236999999999,
+    -19.42407
+],
+  "geometry": {"coordinates":[-68.87236999999999,-19.42407],"type":"Point"}
+}

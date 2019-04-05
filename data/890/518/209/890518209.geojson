@@ -1,0 +1,65 @@
+{
+  "id": 890518209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.832073,-41.869333,-73.832073,-41.869333",
+    "geom:latitude":-41.869333,
+    "geom:longitude":-73.832073,
+    "gn:country":"CL",
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ancud",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":10,
+    "qs:photos_9r":9,
+    "qs:photos_all":2157,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":981,
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794149,
+        "qs:id":114462,
+        "wd:id":"Q3597",
+        "wk:page":"Ancud"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056053,
+    "wof:geomhash":"8c66c148f4232db22beb817ea4d6867e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "localadmin_id":890518209
+        }
+    ],
+    "wof:id":890518209,
+    "wof:lastmodified":1527751237,
+    "wof:name":"Ancud",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.832073,
+    -41.869333,
+    -73.832073,
+    -41.869333
+],
+  "geometry": {"coordinates":[-73.83207299999999,-41.869333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226325443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.48865,-18.9512,-69.48865,-18.9512",
+    "geom:latitude":-18.9512,
+    "geom:longitude":-69.48865,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"151.0",
+    "gn:asciiname":"Illapata",
+    "gn:country_code":"CL",
+    "gn:dem":2301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3887330,
+    "gn:latitude":-18.9512,
+    "gn:longitude":-69.48865,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Illapata",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iltapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887330
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"80ddb35d8a995164cf2ef95f94fc641f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063165,
+            "locality_id":1226325443,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1226325443,
+    "wof:lastmodified":1537591139,
+    "wof:name":"Illapata",
+    "wof:parent_id":102063165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.48865,
+    -18.9512,
+    -69.48865,
+    -18.9512
+],
+  "geometry": {"coordinates":[-69.48865000000001,-18.9512],"type":"Point"}
+}

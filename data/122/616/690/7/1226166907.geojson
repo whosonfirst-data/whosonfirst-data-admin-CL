@@ -1,0 +1,72 @@
+{
+  "id": 1226166907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28437,-38.81117,-71.28437,-38.81117",
+    "geom:latitude":-38.81117,
+    "geom:longitude":-71.28437,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"92.0",
+    "gn:admin3_code":"9205.0",
+    "gn:asciiname":"Icalma",
+    "gn:country_code":"CL",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3887395,
+    "gn:latitude":-38.81117,
+    "gn:longitude":-71.28437,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Icalma",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Icalma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887395
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0c3ddbbc6685fa786c9334022480d192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063101,
+            "locality_id":1226166907,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1226166907,
+    "wof:lastmodified":1537591139,
+    "wof:name":"Icalma",
+    "wof:parent_id":102063101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28437,
+    -38.81117,
+    -71.28437,
+    -38.81117
+],
+  "geometry": {"coordinates":[-71.28437,-38.81117],"type":"Point"}
+}

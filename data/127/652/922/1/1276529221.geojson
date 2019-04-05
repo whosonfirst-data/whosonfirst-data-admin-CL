@@ -1,0 +1,74 @@
+{
+  "id": 1276529221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.21667,-35.31667,-72.21667,-35.31667",
+    "geom:latitude":-35.31667,
+    "geom:longitude":-72.21667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7102.0",
+    "gn:asciiname":"La Puente",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3884902,
+    "gn:latitude":-35.31667,
+    "gn:longitude":-72.21667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"La Puente",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Puente",
+        "La Puente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3884902
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"cedd8d3b42840740f69b1127eaa59979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1276529221,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1276529221,
+    "wof:lastmodified":1537591132,
+    "wof:name":"La Puente",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.21667,
+    -35.31667,
+    -72.21667,
+    -35.31667
+],
+  "geometry": {"coordinates":[-72.21666999999999,-35.31667],"type":"Point"}
+}

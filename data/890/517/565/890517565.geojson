@@ -1,0 +1,96 @@
+{
+  "id": 890517565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.606067,-51.100109,-72.606067,-51.100109",
+    "geom:latitude":-51.100109,
+    "geom:longitude":-72.606067,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Torres del Paine",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Magallanes y Antartica Chilena",
+    "qs:photos":222,
+    "qs:photos_1k":45,
+    "qs:photos_9k":20,
+    "qs:photos_9r":13,
+    "qs:photos_all":4472,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261441,
+        "gp:id":26794233,
+        "qs:id":1263724,
+        "qs_pg:id":381582
+    },
+    "wof:country":"CL",
+    "wof:created":1469056015,
+    "wof:geomhash":"3af948e49dbfd0d88e9eca0464d2a99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "localadmin_id":890517565,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "localadmin_id":890517565,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "localadmin_id":890517565,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "localadmin_id":890517565,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":890517565,
+    "wof:lastmodified":1497048138,
+    "wof:name":"Torres del Paine",
+    "wof:parent_id":102063081,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.606067,
+    -51.100109,
+    -72.606067,
+    -51.100109
+],
+  "geometry": {"coordinates":[-72.606067,-51.100109],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 890517975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.3971435,-37.808156,-73.3971435,-37.808156",
+    "geom:latitude":-37.808156,
+    "geom:longitude":-73.397143,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Ca\u00f1ete",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Biobio",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":300,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261315,
+        "gp:id":26794084,
+        "qs:id":1092348,
+        "qs_pg:id":381561,
+        "wk:page":"Ca\u00f1ete"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056038,
+    "wof:geomhash":"7ac51f2909dbe1b6549fd9228e4ca3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063153,
+            "localadmin_id":890517975,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":890517975,
+    "wof:lastmodified":1527751203,
+    "wof:name":"Ca\u00f1ete",
+    "wof:parent_id":102063153,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.3971435,
+    -37.808156,
+    -73.3971435,
+    -37.808156
+],
+  "geometry": {"coordinates":[-73.3971435,-37.808156],"type":"Point"}
+}

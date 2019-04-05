@@ -1,0 +1,72 @@
+{
+  "id": 1259657473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.03972,-41.98696,-74.03972,-41.98696",
+    "geom:latitude":-41.98696,
+    "geom:longitude":-74.03972,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10202.0",
+    "gn:asciiname":"Duhatao",
+    "gn:country_code":"CL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969850,
+    "gn:latitude":-41.98696,
+    "gn:longitude":-74.03972,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Duhatao",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Duhatao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969850
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b4c697d70708762e061b9b530ac664a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1259657473,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1259657473,
+    "wof:lastmodified":1537591176,
+    "wof:name":"Duhatao",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.03971999999997,
+    -41.98696,
+    -74.03971999999997,
+    -41.98696
+],
+  "geometry": {"coordinates":[-74.03971999999997,-41.98696],"type":"Point"}
+}

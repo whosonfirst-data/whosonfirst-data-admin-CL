@@ -1,0 +1,75 @@
+{
+  "id": 890517779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.886413,-36.705619,-71.886413,-36.705619",
+    "geom:latitude":-36.705619,
+    "geom:longitude":-71.886413,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pinto",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Biobio",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":137,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":797,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261323,
+        "gp:id":26794124,
+        "qs:id":977608,
+        "qs_pg:id":1246142,
+        "wd:id":"Q2898899",
+        "wk:page":"Pinto"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056024,
+    "wof:geomhash":"8c67fd9a167f30bb26801980c95560a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "localadmin_id":890517779,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":890517779,
+    "wof:lastmodified":1527749996,
+    "wof:name":"Pinto",
+    "wof:parent_id":102063109,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.886413,
+    -36.705619,
+    -71.886413,
+    -36.705619
+],
+  "geometry": {"coordinates":[-71.886413,-36.705619],"type":"Point"}
+}

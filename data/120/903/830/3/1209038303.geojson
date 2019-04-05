@@ -1,0 +1,66 @@
+{
+  "id": 1209038303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.85061,-28.15546,-70.85061,-28.15546",
+    "geom:latitude":-28.15546,
+    "geom:longitude":-70.85061,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3304.0",
+    "gn:asciiname":"Zanjon",
+    "gn:country_code":"CL",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867567,
+    "gn:latitude":-28.15546,
+    "gn:longitude":-70.85061,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zanj\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Zanj\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867567
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0dac522300a7cb94e31d30d6b32366b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209038303
+        }
+    ],
+    "wof:id":1209038303,
+    "wof:lastmodified":1537591098,
+    "wof:name":"Zanjon",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.85061,
+    -28.15546,
+    -70.85061,
+    -28.15546
+],
+  "geometry": {"coordinates":[-70.85061,-28.15546],"type":"Point"}
+}

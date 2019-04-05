@@ -1,0 +1,143 @@
+{
+  "id": 102017631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000266,
+    "geom:area_square_m":3134154.303486,
+    "geom:bbox":"-69.4814705926,-17.6059417,-69.4626211902,-17.5878642936",
+    "geom:latitude":-17.596903,
+    "geom:longitude":-69.472046,
+    "iso:country":"CL",
+    "lbl:latitude":-17.596903,
+    "lbl:longitude":-69.472046,
+    "mps:latitude":-17.596903,
+    "mps:longitude":-69.472046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "General Lagos"
+    ],
+    "name:cat_x_preferred":[
+        "General Lagos"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u6208\u65af\u5c07\u8ecd\u5e02"
+    ],
+    "name:dut_x_preferred":[
+        "General Lagos"
+    ],
+    "name:eng_x_preferred":[
+        "General Lagos"
+    ],
+    "name:fre_x_preferred":[
+        "General Lagos"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ee\u10d4\u10dc\u10d4\u10e0\u10d0\u10da-\u10da\u10d0\u10d2\u10dd\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "General Lagos"
+    ],
+    "name:ita_x_preferred":[
+        "General Lagos"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5e4\ub124\ub784\ub77c\uace0\uc2a4"
+    ],
+    "name:nan_x_preferred":[
+        "General Lagos"
+    ],
+    "name:oci_x_preferred":[
+        "General Lagos"
+    ],
+    "name:pol_x_preferred":[
+        "General Lagos"
+    ],
+    "name:por_x_preferred":[
+        "General Lagos"
+    ],
+    "name:rum_x_preferred":[
+        "General Lagos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041b\u0430\u0433\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "General Lagos"
+    ],
+    "name:swe_x_preferred":[
+        "General Lagos"
+    ],
+    "qs:a0":"Chile",
+    "qs:a1":"*Arica y Parinacota",
+    "qs:a1r":"*",
+    "qs:a2":"Parinacota",
+    "qs:id":0,
+    "qs:la":"General Lagos",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"General Lagos",
+    "qs:loc_alt":"General Lagos",
+    "qs:loc_lc":"3889021",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181,
+        85682245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3889021,
+        "gp:id":347771,
+        "qs:id":1058246,
+        "qs_pg:id":1058246,
+        "wd:id":"Q13065"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"dcc9f5a54cbbad63109ff9ece430d4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":102017631,
+            "region_id":1108804709
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":102017631,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":102017631,
+    "wof:lastmodified":1527637781,
+    "wof:name":"General Lagos",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.48147059258025,
+    -17.60594169995326,
+    -69.46262119020832,
+    -17.58786429355905
+],
+  "geometry": {"coordinates":[[[-69.47023017101066,-17.60577240991696],[-69.47206938030396,-17.60594169995326],[-69.47390768640348,-17.60576362089447],[-69.4756744340838,-17.60524501744389],[-69.47730171973831,-17.60440582219344],[-69.47872700216878,-17.60327828917529],[-69.47989550684962,-17.60190575371259],[-69.48076233114365,-17.60034096632625],[-69.48129416952712,-17.59864406483822],[-69.48147059258025,-17.59688026271147],[-69.48128483073268,-17.5951173425553],[-69.48074403285072,-17.59342305117433],[-69.47986898996635,-17.59186249628475],[-69.47869333500142,-17.59049564491124],[-69.47726224943466,-17.58937501953128],[-69.47563072674295,-17.58854368040387],[-69.47386145938961,-17.58803357151026],[-69.47202243050702,-17.58786429355905],[-69.47018430268534,-17.5880423511209],[-69.46841770400839,-17.5885609027651],[-69.46679051539866,-17.58940002378692],[-69.46536526328012,-17.59052747145468],[-69.46419671756365,-17.59189992343919],[-69.46332978713373,-17.59346464192828],[-69.46279779367227,-17.59516149958906],[-69.46262119020832,-17.59692528963063],[-69.46280677377825,-17.59868823128374],[-69.46334742265682,-17.60038257447109],[-69.46422236849634,-17.60194320358939],[-69.46539799314934,-17.6033101403132],[-69.46682911975171,-17.60443084917136],[-69.46846074857932,-17.605262257196],[-69.47023017101066,-17.60577240991696]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327237737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.85083,-38.76399,-72.85083,-38.76399",
+    "geom:latitude":-38.76399,
+    "geom:longitude":-72.85083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9111.0",
+    "gn:asciiname":"Boroa",
+    "gn:country_code":"CL",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3898025,
+    "gn:latitude":-38.76399,
+    "gn:longitude":-72.85083,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Boroa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:arn_x_preferred":[
+        "Forowe"
+    ],
+    "name:spa_x_preferred":[
+        "Boroa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3898025,
+        "wk:page":"Boroa"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6d188bfc55d713457c4c1ae5e6f8f290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":1327237737,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1327237737,
+    "wof:lastmodified":1537591167,
+    "wof:name":"Boroa",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.85083,
+    -38.76399,
+    -72.85083,
+    -38.76399
+],
+  "geometry": {"coordinates":[-72.85083,-38.76399],"type":"Point"}
+}

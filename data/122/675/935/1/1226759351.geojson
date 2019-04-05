@@ -1,0 +1,69 @@
+{
+  "id": 1226759351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.61374,-22.07064,-69.61374,-22.07064",
+    "geom:latitude":-22.07064,
+    "geom:longitude":-69.61374,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"2302.0",
+    "gn:asciiname":"Oficina Toco",
+    "gn:country_code":"CL",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3878184,
+    "gn:latitude":-22.07064,
+    "gn:longitude":-69.61374,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Oficina Toco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3878184
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"912e03adf2e126b9e717aec0ef74b034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063093,
+            "locality_id":1226759351,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1226759351,
+    "wof:lastmodified":1536696125,
+    "wof:name":"Oficina Toco",
+    "wof:parent_id":102063093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.61374,
+    -22.07064,
+    -69.61374,
+    -22.07064
+],
+  "geometry": {"coordinates":[-69.61374000000001,-22.07064],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890517511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.390975,-40.133215,-72.390975,-40.133215",
+    "geom:latitude":-40.133215,
+    "geom:longitude":-72.390975,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Futrono",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Rios",
+    "qs:photos":224,
+    "qs:photos_1k":45,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":399,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":245,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794180,
+        "qs:id":224829,
+        "wd:id":"Q13062",
+        "wk:page":"Futrono"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056011,
+    "wof:geomhash":"26d53e29e2767d656e369478f86576c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063189,
+            "localadmin_id":890517511,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":890517511,
+    "wof:lastmodified":1527749996,
+    "wof:name":"Futrono",
+    "wof:parent_id":102063189,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.390975,
+    -40.133215,
+    -72.390975,
+    -40.133215
+],
+  "geometry": {"coordinates":[-72.390975,-40.133215],"type":"Point"}
+}

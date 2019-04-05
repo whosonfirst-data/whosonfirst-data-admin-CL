@@ -1,0 +1,74 @@
+{
+  "id": 1310684009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.44418,-19.60924,-69.44418,-19.60924",
+    "geom:latitude":-19.60924,
+    "geom:longitude":-69.44418,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1404.0",
+    "gn:asciiname":"Pailca",
+    "gn:country_code":"CL",
+    "gn:dem":1767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877758,
+    "gn:latitude":-19.60924,
+    "gn:longitude":-69.44418,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Pailca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paica",
+        "Pallca",
+        "Pailca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877758
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"cee12d6b1b64a83688ee9305b472dc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1310684009,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1310684009,
+    "wof:lastmodified":1537591116,
+    "wof:name":"Pailca",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.44418,
+    -19.60924,
+    -69.44418,
+    -19.60924
+],
+  "geometry": {"coordinates":[-69.44418,-19.60924],"type":"Point"}
+}

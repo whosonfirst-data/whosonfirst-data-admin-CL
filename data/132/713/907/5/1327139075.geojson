@@ -1,0 +1,68 @@
+{
+  "id": 1327139075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.08182,-25.76866,-70.08182,-25.76866",
+    "geom:latitude":-25.76866,
+    "geom:longitude":-70.08182,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Sierra Overa",
+    "gn:country_code":"CL",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870899,
+    "gn:latitude":-25.76866,
+    "gn:longitude":-70.08182,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Sierra Overa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870899
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4c1bda7d5736d7d2da1143214cef99e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "locality_id":1327139075,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1327139075,
+    "wof:lastmodified":1536603356,
+    "wof:name":"Sierra Overa",
+    "wof:parent_id":102063073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.08182,
+    -25.76866,
+    -70.08182,
+    -25.76866
+],
+  "geometry": {"coordinates":[-70.08181999999999,-25.76866],"type":"Point"}
+}

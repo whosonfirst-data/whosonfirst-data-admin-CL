@@ -1,0 +1,72 @@
+{
+  "id": 1293079903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.80336,-41.98795,-73.80336,-41.98795",
+    "geom:latitude":-41.98795,
+    "geom:longitude":-73.80336,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10202.0",
+    "gn:asciiname":"Coquiao",
+    "gn:country_code":"CL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893636,
+    "gn:latitude":-41.98795,
+    "gn:longitude":-73.80336,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Coquiao",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Coquiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893636
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2cea9ed3d4e05dc0479c2d59f4d8c58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1293079903,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1293079903,
+    "wof:lastmodified":1537591154,
+    "wof:name":"Coquiao",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.80336,
+    -41.98795,
+    -73.80336,
+    -41.98795
+],
+  "geometry": {"coordinates":[-73.80336,-41.98795],"type":"Point"}
+}

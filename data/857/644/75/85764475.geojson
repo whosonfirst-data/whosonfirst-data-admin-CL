@@ -1,0 +1,113 @@
+{
+  "id": 85764475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":28258933.182588,
+    "geom:bbox":"-71.536398,-33.028081,-71.536398,-33.028081",
+    "geom:latitude":-33.028081,
+    "geom:longitude":-71.536398,
+    "gn:latitude":-33.03414,
+    "gn:longitude":-71.53396,
+    "iso:country":"CL",
+    "lbl:latitude":-33.028081,
+    "lbl:longitude":-71.536398,
+    "mps:latitude":-33.042271,
+    "mps:longitude":-71.529573,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_colloquial":[
+        "Poblacion Chorrillos"
+    ],
+    "name:spa_x_preferred":[
+        "Poblaci\u00f3n Chorrillos"
+    ],
+    "name:unk_x_variant":[
+        "Poblaci\u00f3n Chorrillos"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Poblaci\u00f3n Chorrillos",
+    "qs:local_max":14219,
+    "qs:local_sum":41999,
+    "qs:localhoods":9,
+    "qs:name":"Poblaci\u00f3n Chorrillos",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:name_adm2":"Valparaiso",
+    "qs:name_lau":"Vi\u00f1a del Mar",
+    "qs:name_local":"Valpara\u00edso",
+    "qs:photo_max":362,
+    "qs:photo_sum":1044,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":68,
+    "qs:woe_adm0":23424782,
+    "qs:woe_adm1":2345018,
+    "qs:woe_adm2":26794022,
+    "qs:woe_lau":26794359,
+    "qs:woe_local":349861,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        102016801,
+        102063161,
+        85682143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875597,
+        "gp:id":348990,
+        "qs:id":1114219,
+        "qs_pg:id":1114219
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a7626d319067d4d30c1aa7218500d211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063161,
+            "locality_id":102016801,
+            "neighbourhood_id":85764475,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":85764475,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858902,
+    "wof:name":"Poblaci\u00f3n Chorrillos",
+    "wof:parent_id":102016801,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.536398,
+    -33.028081,
+    -71.536398,
+    -33.028081
+],
+  "geometry": {"coordinates":[-71.53639800000001,-33.028081],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327211863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.62413,-35.40006,-71.62413,-35.40006",
+    "geom:latitude":-35.40006,
+    "geom:longitude":-71.62413,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7101.0",
+    "gn:asciiname":"Lircay Abajo",
+    "gn:country_code":"CL",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3883100,
+    "gn:latitude":-35.40006,
+    "gn:longitude":-71.62413,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Lircay Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lircay",
+        "Lircai",
+        "Lircay Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883100
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"16f7bb582739d08ad3f6ed3cd0eb5299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1327211863,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1327211863,
+    "wof:lastmodified":1537591129,
+    "wof:name":"Lircay Abajo",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.62413000000002,
+    -35.40006,
+    -71.62413000000002,
+    -35.40006
+],
+  "geometry": {"coordinates":[-71.62413000000002,-35.40006],"type":"Point"}
+}

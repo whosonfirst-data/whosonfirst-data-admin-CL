@@ -1,0 +1,200 @@
+{
+  "id": 1141906587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2799843767,-27.4800422986,-70.2799843767,-27.4800422986",
+    "geom:latitude":-27.480042,
+    "geom:longitude":-70.279984,
+    "iso:country":"CL",
+    "lbl:latitude":-27.480042,
+    "lbl:longitude":-70.279984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u0422\u044c\u0435\u0440\u0440\u0430-\u0410\u043c\u0430\u0440\u0438\u043b\u044c\u044f"
+    ],
+    "name:baq_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:chi_x_preferred":[
+        "\u8482\u62c9\u963f\u99ac\u91cc\u5229\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:eng_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:fre_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:glg_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:ita_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2f0\uc5d0\ub77c\uc544\ub9c8\ub9ac\uc57c"
+    ],
+    "name:lit_x_preferred":[
+        "Tjera Amarilja"
+    ],
+    "name:nan_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:por_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:rum_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044c\u0435\u0440\u0440\u0430-\u0410\u043c\u0430\u0440\u0438\u043b\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:war_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Chile",
+    "ne:ADM0_A3":"CHL",
+    "ne:ADM1NAME":"Atacama",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"CL",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-27.480042,
+    "ne:LONGITUDE":-70.279984,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Tierra Amarilla",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Tierra Amarilla",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Tierra Amarilla",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":12888,
+    "ne:POP_MIN":8578,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Chile",
+    "ne:SOV_A3":"CHL",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":-27.480042,
+    "reversegeo:longitude":-70.279984,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q188142"
+    },
+    "wof:country":"CL",
+    "wof:created":1499130613,
+    "wof:geomhash":"e2148191ff79cbc5a01b970fa3572928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "locality_id":1141906587,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1141906587,
+    "wof:lastmodified":1513937937,
+    "wof:name":"Tierra Amarilla",
+    "wof:parent_id":102063143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27998437669572,
+    -27.48004229859606,
+    -70.27998437669572,
+    -27.48004229859606
+],
+  "geometry": {"coordinates":[-70.27998437669572,-27.48004229859606],"type":"Point"}
+}

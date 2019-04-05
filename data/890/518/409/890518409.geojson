@@ -1,0 +1,94 @@
+{
+  "id": 890518409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41798,-35.76086,-71.41798,-35.76086",
+    "geom:latitude":-35.76086,
+    "geom:longitude":-71.41798,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Panim\u00e1vida"
+    ],
+    "name:eng_x_preferred":[
+        "Panim\u00e1vida"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30cb\u30de\u30d3\u30c0"
+    ],
+    "name:rum_x_preferred":[
+        "Panim\u00e1vida"
+    ],
+    "name:spa_x_preferred":[
+        "Panim\u00e1vida"
+    ],
+    "name:unk_x_variant":[
+        "Ba\u00f1os de Panim\u00e1vida"
+    ],
+    "qs:name":"Panim\u00e1vida",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Maule",
+    "qs:photos":165,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":165,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877338,
+        "gp:id":348839,
+        "qs:id":232884,
+        "wd:id":"Q7131171",
+        "wk:page":"Panim\u00e1vida"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056063,
+    "wof:geomhash":"3349f3811748d9928f8283e480720220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063097,
+            "locality_id":890518409,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":890518409,
+    "wof:lastmodified":1527751232,
+    "wof:name":"Panim\u00e1vida",
+    "wof:parent_id":102063097,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41798,
+    -35.76086,
+    -71.41798,
+    -35.76086
+],
+  "geometry": {"coordinates":[-71.41798,-35.76086],"type":"Point"}
+}

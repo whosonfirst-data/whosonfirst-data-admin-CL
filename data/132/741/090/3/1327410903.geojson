@@ -1,0 +1,74 @@
+{
+  "id": 1327410903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.29506,-33.66427,-71.29506,-33.66427",
+    "geom:latitude":-33.66427,
+    "geom:longitude":-71.29506,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"135.0",
+    "gn:admin3_code":"13501.0",
+    "gn:asciiname":"La Lumbrera de Puangue",
+    "gn:country_code":"CL",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885428,
+    "gn:latitude":-33.66427,
+    "gn:longitude":-71.29506,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Lumbrera de Puangue",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Lumbrera",
+        "Lumbrera de Puangue",
+        "La Lumbrera de Puangue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885428
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"186fd51a02c07f8fc0eb23aef536dcb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063083,
+            "locality_id":1327410903,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1327410903,
+    "wof:lastmodified":1537591134,
+    "wof:name":"La Lumbrera de Puangue",
+    "wof:parent_id":102063083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.29505999999998,
+    -33.66427,
+    -71.29505999999998,
+    -33.66427
+],
+  "geometry": {"coordinates":[-71.29505999999998,-33.66427],"type":"Point"}
+}

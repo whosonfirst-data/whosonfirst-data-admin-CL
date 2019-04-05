@@ -1,0 +1,68 @@
+{
+  "id": 1209384595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33881,-19.01533,-69.33881,-19.01533",
+    "geom:latitude":-19.01533,
+    "geom:longitude":-69.33881,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"151.0",
+    "gn:asciiname":"Caritaya",
+    "gn:country_code":"CL",
+    "gn:dem":3658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3873374,
+    "gn:latitude":-19.01533,
+    "gn:longitude":-69.33881,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Caritaya",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caritaya"
+    ],
+    "name:und_x_variant":[
+        "Reten Caritaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873374
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8a259256b4e7c029faafa81b220d292e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209384595
+        }
+    ],
+    "wof:id":1209384595,
+    "wof:lastmodified":1537591107,
+    "wof:name":"Caritaya",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33881,
+    -19.01533,
+    -69.33881,
+    -19.01533
+],
+  "geometry": {"coordinates":[-69.33881,-19.01533],"type":"Point"}
+}

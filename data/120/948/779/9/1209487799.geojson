@@ -1,0 +1,67 @@
+{
+  "id": 1209487799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.42863,-17.80438,-69.42863,-17.80438",
+    "geom:latitude":-17.80438,
+    "geom:longitude":-69.42863,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15202.0",
+    "gn:asciiname":"Caamana",
+    "gn:country_code":"CL",
+    "gn:dem":4369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3897646,
+    "gn:latitude":-17.80438,
+    "gn:longitude":-69.42863,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Caama\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comana",
+        "Caama\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3897646
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"eac65877f04c6ab9e1a226c67609fee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209487799
+        }
+    ],
+    "wof:id":1209487799,
+    "wof:lastmodified":1537591167,
+    "wof:name":"Caamana",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.42863,
+    -17.80438,
+    -69.42863,
+    -17.80438
+],
+  "geometry": {"coordinates":[-69.42863,-17.80438],"type":"Point"}
+}

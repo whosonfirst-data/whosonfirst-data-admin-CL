@@ -1,0 +1,70 @@
+{
+  "id": 1259667239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20335,-40.77404,-72.20335,-40.77404",
+    "geom:latitude":-40.77404,
+    "geom:longitude":-72.20335,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10304.0",
+    "gn:asciiname":"Antillanca",
+    "gn:country_code":"CL",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3899543,
+    "gn:latitude":-40.77404,
+    "gn:longitude":-72.20335,
+    "gn:modification_date":"2017-12-20",
+    "gn:name":"Antillanca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3899543,
+        "wk:page":"Antillanca_Group"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6c99d27e468660e336d9053302d33b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063121,
+            "locality_id":1259667239,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1259667239,
+    "wof:lastmodified":1537489502,
+    "wof:name":"Antillanca",
+    "wof:parent_id":102063121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20335,
+    -40.77404,
+    -72.20335,
+    -40.77404
+],
+  "geometry": {"coordinates":[-72.20335,-40.77404],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226324845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.76828,-18.5569,-69.76828,-18.5569",
+    "geom:latitude":-18.5569,
+    "geom:longitude":-69.76828,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"151.0",
+    "gn:admin3_code":"15101.0",
+    "gn:asciiname":"Santuario las Penas",
+    "gn:country_code":"CL",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871298,
+    "gn:latitude":-18.5569,
+    "gn:longitude":-69.76828,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Santuario las Pe\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santuario las Pe\u00f1as"
+    ],
+    "name:und_x_variant":[
+        "El Santuario",
+        "Santuario de las Pe\u00f1as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871298
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"61acdda01b435ad7e40696b13d0750b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063165,
+            "locality_id":1226324845,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1226324845,
+    "wof:lastmodified":1537591103,
+    "wof:name":"Santuario las Penas",
+    "wof:parent_id":102063165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.76828,
+    -18.5569,
+    -69.76828,
+    -18.5569
+],
+  "geometry": {"coordinates":[-69.76828,-18.5569],"type":"Point"}
+}

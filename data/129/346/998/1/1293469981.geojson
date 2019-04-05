@@ -1,0 +1,70 @@
+{
+  "id": 1293469981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.64331,-33.28311,-70.64331,-33.28311",
+    "geom:latitude":-33.28311,
+    "geom:longitude":-70.64331,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"133.0",
+    "gn:admin3_code":"13301.0",
+    "gn:asciiname":"Piedra Roja",
+    "gn:country_code":"CL",
+    "gn:dem":578,
+    "gn:elevation":"590.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8521539,
+    "gn:latitude":-33.28311,
+    "gn:longitude":-70.64331,
+    "gn:modification_date":"2013-04-26",
+    "gn:name":"Piedra Roja",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521539
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f9fe085057d0c61c28b908cd70552c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063173,
+            "locality_id":1293469981,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1293469981,
+    "wof:lastmodified":1536811823,
+    "wof:name":"Piedra Roja",
+    "wof:parent_id":102063173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.64331,
+    -33.28311,
+    -70.64331,
+    -33.28311
+],
+  "geometry": {"coordinates":[-70.64331,-33.28311],"type":"Point"}
+}

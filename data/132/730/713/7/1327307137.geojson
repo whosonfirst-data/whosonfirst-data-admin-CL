@@ -1,0 +1,72 @@
+{
+  "id": 1327307137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.4851,-19.41514,-68.4851,-19.41514",
+    "geom:latitude":-19.41514,
+    "geom:longitude":-68.4851,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1403.0",
+    "gn:asciiname":"Challuma",
+    "gn:country_code":"CL",
+    "gn:dem":3683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895596,
+    "gn:latitude":-19.41514,
+    "gn:longitude":-68.4851,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Challuma",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Challuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895596
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"229948d5ae66893921fecb96fd6a569f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1327307137,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1327307137,
+    "wof:lastmodified":1537591161,
+    "wof:name":"Challuma",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.4851,
+    -19.41514,
+    -68.4851,
+    -19.41514
+],
+  "geometry": {"coordinates":[-68.4851,-19.41514],"type":"Point"}
+}

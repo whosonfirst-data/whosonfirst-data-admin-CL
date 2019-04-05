@@ -1,0 +1,198 @@
+{
+  "id": 1141908033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.592955543,-48.4668778491,-72.592955543,-48.4668778491",
+    "geom:latitude":-48.466878,
+    "geom:longitude":-72.592956,
+    "iso:country":"CL",
+    "lbl:latitude":-48.466878,
+    "lbl:longitude":-72.592956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:cat_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:cze_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:dut_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:eng_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:fre_x_preferred":[
+        "villa O'Higgins"
+    ],
+    "name:ger_x_preferred":[
+        "Villa O\u2019Higgins"
+    ],
+    "name:ita_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30e9\u30fb\u30aa\u30a4\u30ae\u30f3\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja O'Higinsas"
+    ],
+    "name:pol_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:rum_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f \u041e'\u0425\u0438\u0433\u0433\u0438\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:swe_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Chile",
+    "ne:ADM0_A3":"CHL",
+    "ne:ADM1NAME":"Santa Cruz",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"CL",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-48.467909,
+    "ne:LONGITUDE":-72.559974,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Villa O'Higgins",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Villa O'Higgins",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Villa O'Higgins",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":250,
+    "ne:POP_MIN":100,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":2,
+    "ne:RANK_MIN":1,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Chile",
+    "ne:SOV_A3":"CHL",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":-48.466878,
+    "reversegeo:longitude":-72.592956,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q992143"
+    },
+    "wof:country":"CL",
+    "wof:created":1499130807,
+    "wof:geomhash":"0c2f92f781ae89b047a27785e6780fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063085,
+            "locality_id":1141908033,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":1141908033,
+    "wof:lastmodified":1534379256,
+    "wof:name":"Villa O'Higgins",
+    "wof:parent_id":102063085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[
+        102018261
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.59295554298778,
+    -48.46687784913763,
+    -72.59295554298778,
+    -48.46687784913763
+],
+  "geometry": {"coordinates":[-72.59295554298778,-48.46687784913763],"type":"Point"}
+}

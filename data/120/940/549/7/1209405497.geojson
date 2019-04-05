@@ -1,0 +1,67 @@
+{
+  "id": 1209405497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.80868,-34.10105,-70.80868,-34.10105",
+    "geom:latitude":-34.10105,
+    "geom:longitude":-70.80868,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"6101.0",
+    "gn:asciiname":"Chancon",
+    "gn:country_code":"CL",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895480,
+    "gn:latitude":-34.10105,
+    "gn:longitude":-70.80868,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chanc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chac\u00f3n",
+        "Chanc\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895480
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"1815c0fadf9e9dd31d22de4403b44d6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209405497
+        }
+    ],
+    "wof:id":1209405497,
+    "wof:lastmodified":1537591160,
+    "wof:name":"Chancon",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.80868000000002,
+    -34.10105,
+    -70.80868000000002,
+    -34.10105
+],
+  "geometry": {"coordinates":[-70.80868000000002,-34.10105],"type":"Point"}
+}

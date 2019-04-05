@@ -1,0 +1,72 @@
+{
+  "id": 1276209971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.51542,-42.60155,-73.51542,-42.60155",
+    "geom:latitude":-42.60155,
+    "geom:longitude":-73.51542,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10201.0",
+    "gn:asciiname":"Chelin",
+    "gn:country_code":"CL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895284,
+    "gn:latitude":-42.60155,
+    "gn:longitude":-73.51542,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Chel\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chel\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895284
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fac0dbd18587082795a8544057b18f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1276209971,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1276209971,
+    "wof:lastmodified":1537591159,
+    "wof:name":"Chelin",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.51541999999998,
+    -42.60155,
+    -73.51541999999998,
+    -42.60155
+],
+  "geometry": {"coordinates":[-73.51541999999998,-42.60155],"type":"Point"}
+}

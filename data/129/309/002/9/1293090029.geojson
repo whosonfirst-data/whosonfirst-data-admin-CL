@@ -1,0 +1,71 @@
+{
+  "id": 1293090029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.01937,-55.04001,-67.01937,-55.04001",
+    "geom:latitude":-55.04001,
+    "geom:longitude":-67.01937,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"122.0",
+    "gn:asciiname":"Caleta Piedras",
+    "gn:country_code":"CL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11276511,
+    "gn:latitude":-55.04001,
+    "gn:longitude":-67.01937,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Caleta Piedras",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caleta Piedras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11276511
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"baac6310fc4b7de1ac18bf5e0f1ca1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063089,
+            "locality_id":1293090029,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1293090029,
+    "wof:lastmodified":1537591185,
+    "wof:name":"Caleta Piedras",
+    "wof:parent_id":102063089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.01937,
+    -55.04001,
+    -67.01937,
+    -55.04001
+],
+  "geometry": {"coordinates":[-67.01937,-55.04001],"type":"Point"}
+}

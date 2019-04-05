@@ -1,0 +1,68 @@
+{
+  "id": 1309998633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.8075,-36.25192,-72.8075,-36.25192",
+    "geom:latitude":-36.25192,
+    "geom:longitude":-72.8075,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Tamenelo",
+    "gn:country_code":"CL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870186,
+    "gn:latitude":-36.25192,
+    "gn:longitude":-72.8075,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Tame\u00f1elo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870186
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fa0d955cc0217504253997d7b98a9726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "locality_id":1309998633,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1309998633,
+    "wof:lastmodified":1536653146,
+    "wof:name":"Tamenelo",
+    "wof:parent_id":102063109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.8075,
+    -36.25192,
+    -72.8075,
+    -36.25192
+],
+  "geometry": {"coordinates":[-72.8075,-36.25192],"type":"Point"}
+}

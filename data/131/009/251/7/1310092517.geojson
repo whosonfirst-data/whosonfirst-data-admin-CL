@@ -1,0 +1,74 @@
+{
+  "id": 1310092517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.21667,-34.1,-71.21667,-34.1",
+    "geom:latitude":-34.1,
+    "geom:longitude":-71.21667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"135.0",
+    "gn:admin3_code":"13502.0",
+    "gn:asciiname":"Pincha",
+    "gn:country_code":"CL",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3875938,
+    "gn:latitude":-34.1,
+    "gn:longitude":-71.21667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Pincha",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hijuelas de Pincha",
+        "La Hijuela",
+        "Pincha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875938
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e532854c6b17564ea07abc20a38688ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063083,
+            "locality_id":1310092517,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1310092517,
+    "wof:lastmodified":1537591113,
+    "wof:name":"Pincha",
+    "wof:parent_id":102063083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.21667,
+    -34.1,
+    -71.21667,
+    -34.1
+],
+  "geometry": {"coordinates":[-71.21666999999999,-34.1],"type":"Point"}
+}

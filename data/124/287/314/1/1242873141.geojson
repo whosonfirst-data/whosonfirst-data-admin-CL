@@ -1,0 +1,69 @@
+{
+  "id": 1242873141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68661,-26.57689,-70.68661,-26.57689",
+    "geom:latitude":-26.57689,
+    "geom:longitude":-70.68661,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3201.0",
+    "gn:asciiname":"Puerto Flamenco",
+    "gn:country_code":"CL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3889479,
+    "gn:latitude":-26.57689,
+    "gn:longitude":-70.68661,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Puerto Flamenco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3889479
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c87d143fb159947a7511d9aa9f202e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063133,
+            "locality_id":1242873141,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1242873141,
+    "wof:lastmodified":1536636852,
+    "wof:name":"Puerto Flamenco",
+    "wof:parent_id":102063133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68661,
+    -26.57689,
+    -70.68661,
+    -26.57689
+],
+  "geometry": {"coordinates":[-70.68661,-26.57689],"type":"Point"}
+}

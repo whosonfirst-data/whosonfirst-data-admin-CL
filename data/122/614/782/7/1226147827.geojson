@@ -1,0 +1,70 @@
+{
+  "id": 1226147827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.48402,-26.43564,-69.48402,-26.43564",
+    "geom:latitude":-26.43564,
+    "geom:longitude":-69.48402,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3202.0",
+    "gn:asciiname":"Potrerillos",
+    "gn:country_code":"CL",
+    "gn:dem":2854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3875319,
+    "gn:latitude":-26.43564,
+    "gn:longitude":-69.48402,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Potrerillos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875319,
+        "wk:page":"Potrerillos%2C_Chile"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0268a16bba7e649101e94807a1249dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063133,
+            "locality_id":1226147827,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1226147827,
+    "wof:lastmodified":1537489479,
+    "wof:name":"Potrerillos",
+    "wof:parent_id":102063133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.48402,
+    -26.43564000000001,
+    -69.48402,
+    -26.43564000000001
+],
+  "geometry": {"coordinates":[-69.48402,-26.43564000000001],"type":"Point"}
+}

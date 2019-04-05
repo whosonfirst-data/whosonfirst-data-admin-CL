@@ -1,0 +1,73 @@
+{
+  "id": 890517569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71667,-33.45,-70.71667,-33.45",
+    "geom:latitude":-33.45,
+    "geom:longitude":-70.71667,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"El Retamo",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3890566,
+        "gp:id":347649,
+        "qs:id":1270689
+    },
+    "wof:country":"CL",
+    "wof:created":1469056015,
+    "wof:geomhash":"957b198e57cefd22054ef7cb56e2baef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "locality_id":890517569,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517569,
+    "wof:lastmodified":1505343906,
+    "wof:name":"El Retamo",
+    "wof:parent_id":102063117,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71667,
+    -33.45,
+    -70.71667,
+    -33.45
+],
+  "geometry": {"coordinates":[-70.71666999999999,-33.45],"type":"Point"}
+}

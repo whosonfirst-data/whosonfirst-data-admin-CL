@@ -1,0 +1,69 @@
+{
+  "id": 1243193691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.60406,-30.85226,-71.60406,-30.85226",
+    "geom:latitude":-30.85226,
+    "geom:longitude":-71.60406,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4301.0",
+    "gn:asciiname":"Talinay Alto",
+    "gn:country_code":"CL",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870256,
+    "gn:latitude":-30.85226,
+    "gn:longitude":-71.60406,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Talinay Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870256
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2fb807dffaada6d93a083d168554f4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1243193691,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1243193691,
+    "wof:lastmodified":1536672938,
+    "wof:name":"Talinay Alto",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.60406,
+    -30.85226,
+    -71.60406,
+    -30.85226
+],
+  "geometry": {"coordinates":[-71.60406,-30.85226],"type":"Point"}
+}

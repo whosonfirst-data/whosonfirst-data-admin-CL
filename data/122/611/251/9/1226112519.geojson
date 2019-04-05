@@ -1,0 +1,73 @@
+{
+  "id": 1226112519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.22122,-20.06943,-69.22122,-20.06943",
+    "geom:latitude":-20.06943,
+    "geom:longitude":-69.22122,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1401.0",
+    "gn:asciiname":"La Cruz de Pica",
+    "gn:country_code":"CL",
+    "gn:dem":2729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3886154,
+    "gn:latitude":-20.06943,
+    "gn:longitude":-69.22122,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"La Cruz de Pica",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cruz de Pica",
+        "La Cruz de Pica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886154
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"898b3be5e72a7daabbb4e2496354a896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1226112519,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1226112519,
+    "wof:lastmodified":1537591136,
+    "wof:name":"La Cruz de Pica",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.22122,
+    -20.06943,
+    -69.22122,
+    -20.06943
+],
+  "geometry": {"coordinates":[-69.22122,-20.06943],"type":"Point"}
+}

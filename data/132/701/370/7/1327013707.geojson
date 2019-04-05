@@ -1,0 +1,73 @@
+{
+  "id": 1327013707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.24666,-52.60032,-71.24666,-52.60032",
+    "geom:latitude":-52.60032,
+    "geom:longitude":-71.24666,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12102.0",
+    "gn:asciiname":"Seccion Manzano",
+    "gn:country_code":"CL",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871071,
+    "gn:latitude":-52.60032,
+    "gn:longitude":-71.24666,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Secci\u00f3n Manzano",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manzano",
+        "Secci\u00f3n Manzano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871071
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"94511958b14f10b3940499009d0b9d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1327013707,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1327013707,
+    "wof:lastmodified":1537591103,
+    "wof:name":"Seccion Manzano",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.24665999999998,
+    -52.60032,
+    -71.24665999999998,
+    -52.60032
+],
+  "geometry": {"coordinates":[-71.24665999999998,-52.60032],"type":"Point"}
+}

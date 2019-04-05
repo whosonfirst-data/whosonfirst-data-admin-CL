@@ -1,0 +1,72 @@
+{
+  "id": 1327406365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.2815,-18.2196,-69.2815,-18.2196",
+    "geom:latitude":-18.2196,
+    "geom:longitude":-69.2815,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Japucucho",
+    "gn:country_code":"CL",
+    "gn:dem":4436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3886961,
+    "gn:latitude":-18.2196,
+    "gn:longitude":-69.2815,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Japucucho",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Japucucho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886961
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2186bfb18d57ee60dd0e143ec30e04fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1327406365,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1327406365,
+    "wof:lastmodified":1537591138,
+    "wof:name":"Japucucho",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.2815,
+    -18.2196,
+    -69.2815,
+    -18.2196
+],
+  "geometry": {"coordinates":[-69.28149999999999,-18.2196],"type":"Point"}
+}

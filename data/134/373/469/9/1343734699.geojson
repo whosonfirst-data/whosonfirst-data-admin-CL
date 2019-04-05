@@ -1,0 +1,72 @@
+{
+  "id": 1343734699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.05577,-18.51857,-69.05577,-18.51857",
+    "geom:latitude":-18.51857,
+    "geom:longitude":-69.05577,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Gutijane",
+    "gn:country_code":"CL",
+    "gn:dem":4355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888229,
+    "gn:latitude":-18.51857,
+    "gn:longitude":-69.05577,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Gutijane",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gutijane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888229
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"394d1044ad01c662e46b50e5f10169bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1343734699,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1343734699,
+    "wof:lastmodified":1537591141,
+    "wof:name":"Gutijane",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.05577,
+    -18.51857,
+    -69.05577,
+    -18.51857
+],
+  "geometry": {"coordinates":[-69.05577,-18.51857],"type":"Point"}
+}

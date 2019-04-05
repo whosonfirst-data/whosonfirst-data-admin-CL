@@ -1,0 +1,70 @@
+{
+  "id": 890517947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.662933,-22.561073,-69.662933,-22.561073",
+    "geom:latitude":-22.561073,
+    "geom:longitude":-69.662933,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pedro de Valdivia",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Antofagasta",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":4150,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":419921,
+        "qs:id":1076139,
+        "wd:id":"Q203534",
+        "wk:page":"Pedro de Valdivia"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056037,
+    "wof:geomhash":"47e165a99d302ddfc5ab18404527c5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063093,
+            "locality_id":890517947,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":890517947,
+    "wof:lastmodified":1527749996,
+    "wof:name":"Pedro de Valdivia",
+    "wof:parent_id":102063093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.662933,
+    -22.561073,
+    -69.662933,
+    -22.561073
+],
+  "geometry": {"coordinates":[-69.662933,-22.561073],"type":"Point"}
+}

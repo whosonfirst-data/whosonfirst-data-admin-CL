@@ -1,0 +1,73 @@
+{
+  "id": 890518391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.46667,-32.28333,-71.46667,-32.28333",
+    "geom:latitude":-32.28333,
+    "geom:longitude":-71.46667,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Guaquen",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":168,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":168,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888380,
+        "gp:id":350244,
+        "qs:id":231957
+    },
+    "wof:country":"CL",
+    "wof:created":1469056062,
+    "wof:geomhash":"407cd66c2cbec418e550618f7cb068d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063077,
+            "locality_id":890518391,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890518391,
+    "wof:lastmodified":1505343909,
+    "wof:name":"Guaquen",
+    "wof:parent_id":102063077,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.46667,
+    -32.28333,
+    -71.46667,
+    -32.28333
+],
+  "geometry": {"coordinates":[-71.46666999999999,-32.28333],"type":"Point"}
+}

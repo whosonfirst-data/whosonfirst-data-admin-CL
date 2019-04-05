@@ -1,0 +1,90 @@
+{
+  "id": 1260166665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.6455,-34.72825,-71.6455,-34.72825",
+    "geom:latitude":-34.72825,
+    "geom:longitude":-71.6455,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"63.0",
+    "gn:admin3_code":"6304.0",
+    "gn:asciiname":"Lolol",
+    "gn:country_code":"CL",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3882654,
+    "gn:latitude":-34.72825,
+    "gn:longitude":-71.6455,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Lolol",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Lulul"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u043e\u043b\u043e\u043b\u044c"
+    ],
+    "name:kor_x_preferred":[
+        "\ub864\ub864"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043b\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Camino Alc\u00e1ntara",
+        "Hacienda Lolol",
+        "Lolol"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u6d1b\u723e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882654,
+        "wk:page":"Lolol"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"87360eeac9612ce920335d8071325054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "locality_id":1260166665,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1260166665,
+    "wof:lastmodified":1537591127,
+    "wof:name":"Lolol",
+    "wof:parent_id":102063157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.6455,
+    -34.72825,
+    -71.6455,
+    -34.72825
+],
+  "geometry": {"coordinates":[-71.6455,-34.72825],"type":"Point"}
+}

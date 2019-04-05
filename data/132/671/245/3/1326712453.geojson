@@ -1,0 +1,72 @@
+{
+  "id": 1326712453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.19397,-18.10523,-69.19397,-18.10523",
+    "geom:latitude":-18.10523,
+    "geom:longitude":-69.19397,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Challapujo",
+    "gn:country_code":"CL",
+    "gn:dem":4524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895610,
+    "gn:latitude":-18.10523,
+    "gn:longitude":-69.19397,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Challapujo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Challapujo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895610
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"72fa2a055ee5865ddfea42df32652cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1326712453,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1326712453,
+    "wof:lastmodified":1537591161,
+    "wof:name":"Challapujo",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.19397,
+    -18.10523,
+    -69.19397,
+    -18.10523
+],
+  "geometry": {"coordinates":[-69.19396999999999,-18.10523],"type":"Point"}
+}

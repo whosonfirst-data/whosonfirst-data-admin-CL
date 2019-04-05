@@ -1,0 +1,62 @@
+{
+  "id": 1326509071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.50778,-43.0625,-73.50778,-43.0625",
+    "geom:latitude":-43.0625,
+    "geom:longitude":-73.50778,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:asciiname":"Chaiguao",
+    "gn:country_code":"CL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969625,
+    "gn:latitude":-43.0625,
+    "gn:longitude":-73.50778,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Chaiguao",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969625
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a862a1888722f5e9e41ac0a4d3398139",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326509071,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326509071,
+    "wof:lastmodified":1537016748,
+    "wof:name":"Chaiguao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.50778000000003,
+    -43.0625,
+    -73.50778000000003,
+    -43.0625
+],
+  "geometry": {"coordinates":[-73.50778000000003,-43.0625],"type":"Point"}
+}

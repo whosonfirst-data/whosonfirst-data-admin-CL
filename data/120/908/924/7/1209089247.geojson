@@ -1,0 +1,65 @@
+{
+  "id": 1209089247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.43287,-19.42437,-68.43287,-19.42437",
+    "geom:latitude":-19.42437,
+    "geom:longitude":-68.43287,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Pacoma",
+    "gn:country_code":"CL",
+    "gn:dem":3664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877808,
+    "gn:latitude":-19.42437,
+    "gn:longitude":-68.43287,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Pacoma",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pacoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877808
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"376acc770b1c874d47e244adb1abb65e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209089247
+        }
+    ],
+    "wof:id":1209089247,
+    "wof:lastmodified":1537591116,
+    "wof:name":"Pacoma",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.43287,
+    -19.42437,
+    -68.43287,
+    -19.42437
+],
+  "geometry": {"coordinates":[-68.43286999999999,-19.42437],"type":"Point"}
+}

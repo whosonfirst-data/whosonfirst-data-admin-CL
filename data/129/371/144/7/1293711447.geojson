@@ -1,0 +1,73 @@
+{
+  "id": 1293711447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07579,-34.26602,-71.07579,-34.26602",
+    "geom:latitude":-34.26602,
+    "geom:longitude":-71.07579,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"6104.0",
+    "gn:asciiname":"Comunidad Puren",
+    "gn:country_code":"CL",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893914,
+    "gn:latitude":-34.26602,
+    "gn:longitude":-71.07579,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad Pur\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parral de Pur\u00e9n",
+        "Comunidad Pur\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893914
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"34451cdea15b893494bc8c8f45e782fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":1293711447,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1293711447,
+    "wof:lastmodified":1537591154,
+    "wof:name":"Comunidad Puren",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07579,
+    -34.26602,
+    -71.07579,
+    -34.26602
+],
+  "geometry": {"coordinates":[-71.07579,-34.26602],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310664325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.98601,-39.63639,-72.98601,-39.63639",
+    "geom:latitude":-39.63639,
+    "geom:longitude":-72.98601,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"14105.0",
+    "gn:asciiname":"Miraflores",
+    "gn:country_code":"CL",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879723,
+    "gn:latitude":-39.63639,
+    "gn:longitude":-72.98601,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Miraflores",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Miraflores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879723
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b5db23471be25abd5dbfd5d2a238c4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "locality_id":1310664325,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":1310664325,
+    "wof:lastmodified":1537591120,
+    "wof:name":"Miraflores",
+    "wof:parent_id":102063183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.98601,
+    -39.63639000000001,
+    -72.98601,
+    -39.63639000000001
+],
+  "geometry": {"coordinates":[-72.98600999999999,-39.63639000000001],"type":"Point"}
+}

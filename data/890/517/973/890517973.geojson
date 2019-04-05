@@ -1,0 +1,70 @@
+{
+  "id": 890517973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.793197,-20.2084,-69.793197,-20.2084",
+    "geom:latitude":-20.2084,
+    "geom:longitude":-69.793197,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pozo Almonte",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Tarapaca",
+    "qs:photos":160,
+    "qs:photos_1k":32,
+    "qs:photos_9k":7,
+    "qs:photos_9r":7,
+    "qs:photos_all":1495,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":243,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794322,
+        "qs:id":1086539,
+        "wd:id":"Q51585",
+        "wk:page":"Pozo Almonte"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056038,
+    "wof:geomhash":"8fb42e9f9c978be45b99bc7e6ad5b0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "localadmin_id":890517973,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":890517973,
+    "wof:lastmodified":1527751202,
+    "wof:name":"Pozo Almonte",
+    "wof:parent_id":890517491,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.793197,
+    -20.2084,
+    -69.793197,
+    -20.2084
+],
+  "geometry": {"coordinates":[-69.79319700000001,-20.2084],"type":"Point"}
+}

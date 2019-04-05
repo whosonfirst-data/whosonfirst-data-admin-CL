@@ -1,0 +1,72 @@
+{
+  "id": 1226412741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.79607,-19.26778,-69.79607,-19.26778",
+    "geom:latitude":-19.26778,
+    "geom:longitude":-69.79607,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1404.0",
+    "gn:asciiname":"Suca",
+    "gn:country_code":"CL",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870511,
+    "gn:latitude":-19.26778,
+    "gn:longitude":-69.79607,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Suca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Suca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870511
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e77a2baaa37ec02ee424b2b5c86cfb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1226412741,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1226412741,
+    "wof:lastmodified":1537591102,
+    "wof:name":"Suca",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.79607,
+    -19.26778,
+    -69.79607,
+    -19.26778
+],
+  "geometry": {"coordinates":[-69.79607,-19.26778],"type":"Point"}
+}

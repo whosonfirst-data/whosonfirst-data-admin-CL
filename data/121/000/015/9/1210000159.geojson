@@ -1,0 +1,68 @@
+{
+  "id": 1210000159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.40708,-41.70286,-72.40708,-41.70286",
+    "geom:latitude":-41.70286,
+    "geom:longitude":-72.40708,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"Puerto del Yate",
+    "gn:country_code":"CL",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874974,
+    "gn:latitude":-41.70286,
+    "gn:longitude":-72.40708,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Puerto del Yate",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874974
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"cce3c958e5eb3025c58aa69a41dad94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1210000159,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1210000159,
+    "wof:lastmodified":1536379578,
+    "wof:name":"Puerto del Yate",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.40708000000002,
+    -41.70286,
+    -72.40708000000002,
+    -41.70286
+],
+  "geometry": {"coordinates":[-72.40708000000002,-41.70286],"type":"Point"}
+}

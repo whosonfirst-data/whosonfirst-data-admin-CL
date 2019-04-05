@@ -1,0 +1,72 @@
+{
+  "id": 1310176185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.96424,-41.46792,-72.96424,-41.46792",
+    "geom:latitude":-41.46792,
+    "geom:longitude":-72.96424,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Las Quemas",
+    "gn:country_code":"CL",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8048121,
+    "gn:latitude":-41.46792,
+    "gn:longitude":-72.96424,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Las Quemas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Quemas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048121
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f974b95c786644d0e4f7b66723506a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1310176185,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1310176185,
+    "wof:lastmodified":1537591178,
+    "wof:name":"Las Quemas",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.96424,
+    -41.46792,
+    -72.96424,
+    -41.46792
+],
+  "geometry": {"coordinates":[-72.96424,-41.46792],"type":"Point"}
+}

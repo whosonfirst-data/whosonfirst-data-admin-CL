@@ -1,0 +1,76 @@
+{
+  "id": 1343345233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.00409,-52.0565,-70.00409,-52.0565",
+    "geom:latitude":-52.0565,
+    "geom:longitude":-70.00409,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12104.0",
+    "gn:asciiname":"Brazo Norte",
+    "gn:country_code":"CL",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3897940,
+    "gn:latitude":-52.0565,
+    "gn:longitude":-70.00409,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Brazo Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Brazo Norte"
+    ],
+    "name:und_x_variant":[
+        "Estancia North Arm",
+        "Estancia Brazo Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3897940
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ed0a3755cf381879bb2ece4baf64c84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1343345233,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1343345233,
+    "wof:lastmodified":1537591167,
+    "wof:name":"Brazo Norte",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.00409,
+    -52.0565,
+    -70.00409,
+    -52.0565
+],
+  "geometry": {"coordinates":[-70.00409000000001,-52.0565],"type":"Point"}
+}

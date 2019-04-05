@@ -1,0 +1,73 @@
+{
+  "id": 1259963439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.25126,-52.29617,-71.25126,-52.29617",
+    "geom:latitude":-52.29617,
+    "geom:longitude":-71.25126,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12102.0",
+    "gn:asciiname":"Puesto San Francisco",
+    "gn:country_code":"CL",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874907,
+    "gn:latitude":-52.29617,
+    "gn:longitude":-71.25126,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Puesto San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niranda",
+        "Puesto San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874907
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"961d284f5678a1b278fd2aab84294528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1259963439,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1259963439,
+    "wof:lastmodified":1537591110,
+    "wof:name":"Puesto San Francisco",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.25126,
+    -52.29617,
+    -71.25126,
+    -52.29617
+],
+  "geometry": {"coordinates":[-71.25126,-52.29617],"type":"Point"}
+}

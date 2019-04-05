@@ -1,0 +1,208 @@
+{
+  "id": 1141906577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4666044532,-52.6499788221,-71.4666044532,-52.6499788221",
+    "geom:latitude":-52.649979,
+    "geom:longitude":-71.466604,
+    "iso:country":"CL",
+    "lbl:latitude":-52.649979,
+    "lbl:longitude":-71.466604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:cat_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u5967\u97cb\u723e\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\ubca0\ub974\ub370"
+    ],
+    "name:nan_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:oci_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:rum_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u0412\u0435\u0440\u0434\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Verde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u0412\u0435\u0440\u0434\u0435"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Chile",
+    "ne:ADM0_A3":"CHL",
+    "ne:ADM1NAME":"Magallanes y Antartica Chilena",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"CL",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-52.649979,
+    "ne:LONGITUDE":-71.466604,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Rio Verde",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Rio Verde",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Rio Verde",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":358,
+    "ne:POP_MIN":358,
+    "ne:POP_OTHER":48318,
+    "ne:RANK_MAX":2,
+    "ne:RANK_MIN":2,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Chile",
+    "ne:SOV_A3":"CHL",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":-52.649979,
+    "reversegeo:longitude":-71.466604,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":350130,
+        "qs:id":1075334,
+        "wd:id":"Q56131",
+        "wk:page":"Rio Verde"
+    },
+    "wof:country":"CL",
+    "wof:created":1499130612,
+    "wof:geomhash":"2a7304eb413bb53e33158e746b7ef422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1141906577,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1141906577,
+    "wof:lastmodified":1534379256,
+    "wof:name":"Rio Verde",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890517937
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.46660445319793,
+    -52.64997882213436,
+    -71.46660445319793,
+    -52.64997882213436
+],
+  "geometry": {"coordinates":[-71.46660445319793,-52.64997882213436],"type":"Point"}
+}

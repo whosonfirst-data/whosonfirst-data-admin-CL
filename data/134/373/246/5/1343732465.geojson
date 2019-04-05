@@ -1,0 +1,69 @@
+{
+  "id": 1343732465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1892,-20.53273,-70.1892,-20.53273",
+    "geom:latitude":-20.53273,
+    "geom:longitude":-70.1892,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"1101.0",
+    "gn:asciiname":"Chucumata",
+    "gn:country_code":"CL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3894774,
+    "gn:latitude":-20.53273,
+    "gn:longitude":-70.1892,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chucumata",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        102063145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3894774
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"44e0deb53a9fc0ec39e030212224fdb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063145,
+            "locality_id":1343732465,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1343732465,
+    "wof:lastmodified":1536850235,
+    "wof:name":"Chucumata",
+    "wof:parent_id":102063145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1892,
+    -20.53273,
+    -70.1892,
+    -20.53273
+],
+  "geometry": {"coordinates":[-70.1892,-20.53273],"type":"Point"}
+}

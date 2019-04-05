@@ -1,0 +1,75 @@
+{
+  "id": 1260161179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16667,-33.36667,-71.16667,-33.36667",
+    "geom:latitude":-33.36667,
+    "geom:longitude":-71.16667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"135.0",
+    "gn:admin3_code":"13503.0",
+    "gn:asciiname":"Hijuela de La Vina",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888014,
+    "gn:latitude":-33.36667,
+    "gn:longitude":-71.16667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Hijuela de La Vi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Vi\u00f1a",
+        "Hijuela la Vi\u00f1a",
+        "Hijuela de La Vi\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888014
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"be36091677ef569f73853947fb49483f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063083,
+            "locality_id":1260161179,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1260161179,
+    "wof:lastmodified":1537591141,
+    "wof:name":"Hijuela de La Vina",
+    "wof:parent_id":102063083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16667,
+    -33.36667,
+    -71.16667,
+    -33.36667
+],
+  "geometry": {"coordinates":[-71.16667,-33.36667],"type":"Point"}
+}

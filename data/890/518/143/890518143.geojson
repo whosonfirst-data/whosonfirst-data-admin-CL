@@ -1,0 +1,73 @@
+{
+  "id": 890518143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37406,-42.33228,-73.37406,-42.33228",
+    "geom:latitude":-42.33228,
+    "geom:longitude":-73.37406,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tena\u00fan",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":130,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":130,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870005,
+        "gp:id":349643,
+        "qs:id":893537
+    },
+    "wof:country":"CL",
+    "wof:created":1469056051,
+    "wof:geomhash":"9dc5f94a0111f5c99ef517b89e113d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":890518143,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890518143,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Tena\u00fan",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37406,
+    -42.33228,
+    -73.37406,
+    -42.33228
+],
+  "geometry": {"coordinates":[-73.37406,-42.33228],"type":"Point"}
+}

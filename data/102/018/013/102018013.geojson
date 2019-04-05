@@ -1,0 +1,188 @@
+{
+  "id": 102018013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000329,
+    "geom:area_square_m":3118558.233379,
+    "geom:bbox":"-72.9993857247,-40.0492362204,-72.9759561913,-40.0312278785",
+    "geom:latitude":-40.040232,
+    "geom:longitude":-72.987671,
+    "gn:population":364183,
+    "iso:country":"CL",
+    "lbl:latitude":-40.040232,
+    "lbl:longitude":-72.987671,
+    "mps:latitude":-40.040232,
+    "mps:longitude":-72.987671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.0,
+    "name:bak_x_preferred":[
+        "\u041b\u043e\u0441-\u0420\u0438\u043e\u0441"
+    ],
+    "name:bar_x_preferred":[
+        "Regi\u00f3n de Los R\u00edos"
+    ],
+    "name:bre_x_preferred":[
+        "Rannvro Los R\u00edos"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0441 \u0420\u0438\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Regi\u00f3 de Los R\u00edos"
+    ],
+    "name:ceb_x_preferred":[
+        "Regi\u00f3n de Los R\u00edos"
+    ],
+    "name:ces_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:dan_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:deu_x_preferred":[
+        "Regi\u00f3n de Los R\u00edos"
+    ],
+    "name:eng_x_preferred":[
+        "Los Rios Region"
+    ],
+    "name:spa_x_colloquial":[
+        "Region de Los Rios"
+    ],
+    "name:spa_x_preferred":[
+        "Los Rios",
+        "Regi\u00f3n de Los R\u00edos"
+    ],
+    "name:spa_x_variant":[
+        "Regi\u00f3n de Los R\u00edos",
+        "Los R\u00edos"
+    ],
+    "name:unk_x_variant":[
+        "Los R\u00edos"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CHL",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"CHL-2701",
+    "ne:adm1_code":"CHL-2701",
+    "ne:admin":"Chile",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"CL.AR",
+    "ne:code_local":"",
+    "ne:datarank":"3",
+    "ne:diss_me":"2701",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CI09",
+    "ne:fips_alt":"CI04",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Chile",
+    "ne:gn_a1_code":"CL.17",
+    "ne:gn_id":"6693563",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Region de Los Rios",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CI17",
+    "ne:gns_id":"10749157",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Los Rios, Region de",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CHL",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CL-",
+    "ne:iso_a2":"CL",
+    "ne:labelrank":"3",
+    "ne:latitude":"-40.11860000000",
+    "ne:longitude":"-72.68290000000",
+    "ne:mapcolor13":9,
+    "ne:mapcolor9":5,
+    "ne:name":"Los R\u00edos",
+    "ne:name_alt":"XIV",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AR",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"<Null>",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"3",
+    "ne:sov_a3":"CHL",
+    "ne:sub_code":"",
+    "ne:type":"Regi\u00f3n",
+    "ne:type_en":"Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":56043703,
+    "ne:woe_label":"Los Rios Region, CL, Chile",
+    "ne:woe_name":"Los R\u00edos",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Regi\u00f3n de Los R\u00edos",
+    "qs:loc_lc":"6693563",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06b0a42a-8f76-11e1-848f-cfd5bf3ef515",
+        "fips:code":"CI09",
+        "gn:id":6693563,
+        "gp:id":56043703,
+        "hasc:id":"CL.AR",
+        "qs:id":1038729,
+        "wd:id":"Q2177",
+        "wk:page":"Los R\u00edos Region"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8b4d7753c49f06b4c212002b2b0ac393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063189,
+            "locality_id":102018013,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":102018013,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536613854,
+    "wof:name":"Regi\u00f3n de Los R\u00edos",
+    "wof:parent_id":102063189,
+    "wof:placetype":"locality",
+    "wof:population":364183,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:shortcode":"AR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.99938572470145,
+    -40.04923622043069,
+    -72.97595619127242,
+    -40.03122787846593
+],
+  "geometry": {"coordinates":[[[-72.98512539767236,-40.04902346629326],[-72.98740603721961,-40.04923622043069],[-72.98969686201853,-40.04910290485761],[-72.99190980290624,-40.04862864394325],[-72.99395978790878,-40.04783166928747],[-72.99576801606345,-40.04674261817329],[-72.99726498892228,-40.04540335467026],[-72.9983931827458,-40.04386535892537],[-72.99910925848229,-40.04218774683026],[-72.99938572470145,-40.04043499646737],[-72.99921198996756,-40.03867446897736],[-72.99859476483584,-40.03697381931182],[-72.99755779879027,-40.03539839646488],[-72.99614096301961,-40.03400873306578],[-72.99439871497148,-40.03285822066442],[-72.99239800417932,-40.03199105981658],[-72.99021570005286,-40.03144056345786],[-72.98793564038502,-40.03122787846593],[-72.98564541361031,-40.03136117427393],[-72.98343299784781,-40.03183532952179],[-72.98138338512595,-40.03263212869634],[-72.97957531973103,-40.03372096122999],[-72.97807827533228,-40.03505999633021],[-72.9769497865607,-40.03659778862203],[-72.97623323737102,-40.03827525318804],[-72.97595619127242,-40.04002793440544],[-72.97612932798211,-40.04178848166045],[-72.97674602798864,-40.04348923699257],[-72.97778262175359,-40.04506483532064],[-72.9791992947645,-40.04645471730029],[-72.98094161435239,-40.04760545810453],[-72.9829426200926,-40.04847282240527],[-72.98512539767236,-40.04902346629326]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890518325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.094744,-36.63757,-73.094744,-36.63757",
+    "geom:latitude":-36.63757,
+    "geom:longitude":-73.094744,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "qs:name":"Quiriguina I",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Biobio",
+    "qs:photos":170,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":170,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794362,
+        "qs:id":216004
+    },
+    "wof:country":"CL",
+    "wof:created":1469056059,
+    "wof:geomhash":"48e9117eb1dfe7b1815744f870897dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "locality_id":890518325,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":890518325,
+    "wof:lastmodified":1469056059,
+    "wof:name":"Quiriguina I",
+    "wof:parent_id":102063171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.094744,
+    -36.63757,
+    -73.094744,
+    -36.63757
+],
+  "geometry": {"coordinates":[-73.09474400000001,-36.63757],"type":"Point"}
+}

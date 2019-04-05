@@ -1,0 +1,86 @@
+{
+  "id": 102017945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000208,
+    "geom:area_square_m":2209312.410394,
+    "geom:bbox":"-71.4990234375,-30.6568155643,-71.4770507812,-30.6379120283",
+    "geom:latitude":-30.647364,
+    "geom:longitude":-71.488037,
+    "iso:country":"CL",
+    "lbl:latitude":-30.65209,
+    "lbl:longitude":-71.482544,
+    "mps:latitude":-30.65209,
+    "mps:longitude":-71.482544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Barraza"
+    ],
+    "name:spa_x_preferred":[
+        "Barraza"
+    ],
+    "qs:a0":"Chile",
+    "qs:a1":"*Coquimbo",
+    "qs:a1r":"*",
+    "qs:a2":"Limari",
+    "qs:id":0,
+    "qs:la":"Ovalle",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Barraza",
+    "qs:loc_alt":"Barraza",
+    "qs:loc_lc":"3898693",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3898693,
+        "gp:id":346871,
+        "qs:id":180593,
+        "qs_pg:id":180593
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c8a0d7bfa9951ace78c89310028e0536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":102017945,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":102017945,
+    "wof:lastmodified":1527637782,
+    "wof:name":"Barraza",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4990234375,
+    -30.6568155643,
+    -71.4770507812,
+    -30.6379120283
+],
+  "geometry": {"coordinates":[[[[-71.4880371094,-30.6568155643],[-71.4880371094,-30.6473642582],[-71.47705078120001,-30.6473642582],[-71.47705078120001,-30.6568155643],[-71.4880371094,-30.6568155643]]],[[[-71.4990234375,-30.6473642582],[-71.4990234375,-30.6379120283],[-71.4880371094,-30.6379120283],[-71.4880371094,-30.6473642582],[-71.4990234375,-30.6473642582]]]],"type":"MultiPolygon"}
+}

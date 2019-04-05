@@ -1,0 +1,69 @@
+{
+  "id": 890517739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.541984,-26.9500325,-68.541984,-26.9500325",
+    "geom:latitude":-26.950032,
+    "geom:longitude":-68.541984,
+    "gp:adm0":23424747,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Tinogasta",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Catamarca",
+    "qs:photos":646,
+    "qs:photos_1k":131,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":803,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":174,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070645,
+        "qs:id":425227,
+        "wd:id":"Q81563",
+        "wk:page":"Tinogasta"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056022,
+    "wof:geomhash":"335f4858129c9b5e0270c8efe2a8dec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517739,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":890517739,
+    "wof:lastmodified":1527749991,
+    "wof:name":"Tinogasta",
+    "wof:parent_id":85682139,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.541984,
+    -26.9500325,
+    -68.541984,
+    -26.9500325
+],
+  "geometry": {"coordinates":[-68.541984,-26.9500325],"type":"Point"}
+}

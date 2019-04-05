@@ -1,0 +1,66 @@
+{
+  "id": 1209285347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.03452,-41.44081,-73.03452,-41.44081",
+    "geom:latitude":-41.44081,
+    "geom:longitude":-73.03452,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Lagunitas",
+    "gn:country_code":"CL",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047984,
+    "gn:latitude":-41.44081,
+    "gn:longitude":-73.03452,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Lagunitas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lagunitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047984
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ca9118874175d1c2f156186c2db123e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209285347
+        }
+    ],
+    "wof:id":1209285347,
+    "wof:lastmodified":1537591177,
+    "wof:name":"Lagunitas",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.03452,
+    -41.44081,
+    -73.03452,
+    -41.44081
+],
+  "geometry": {"coordinates":[-73.03452,-41.44081],"type":"Point"}
+}

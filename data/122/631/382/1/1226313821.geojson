@@ -1,0 +1,74 @@
+{
+  "id": 1226313821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.51487,-41.78234,-73.51487,-41.78234",
+    "geom:latitude":-41.78234,
+    "geom:longitude":-73.51487,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10102.0",
+    "gn:asciiname":"Ahinco",
+    "gn:country_code":"CL",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900358,
+    "gn:latitude":-41.78234,
+    "gn:longitude":-73.51487,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Ahinco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ainco",
+        "Auc\u00f3",
+        "Ahinco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900358
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ca3d1b7e33721340ed5bbae58c2e652b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1226313821,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226313821,
+    "wof:lastmodified":1537591173,
+    "wof:name":"Ahinco",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.51487,
+    -41.78234000000001,
+    -73.51487,
+    -41.78234000000001
+],
+  "geometry": {"coordinates":[-73.51487,-41.78234000000001],"type":"Point"}
+}

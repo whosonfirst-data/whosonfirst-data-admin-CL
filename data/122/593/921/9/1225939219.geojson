@@ -1,0 +1,73 @@
+{
+  "id": 1225939219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.14938,-36.82825,-73.14938,-36.82825",
+    "geom:latitude":-36.82825,
+    "geom:longitude":-73.14938,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8108.0",
+    "gn:asciiname":"Boca Sur",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3886478,
+    "gn:latitude":-36.82825,
+    "gn:longitude":-73.14938,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Boca Sur",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca B\u00edo-B\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886478
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4a442139043b4fd5d1e158e7ddbcf175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "locality_id":1225939219,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1225939219,
+    "wof:lastmodified":1537591137,
+    "wof:name":"Boca Sur",
+    "wof:parent_id":102063171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.14938000000002,
+    -36.82825,
+    -73.14938000000002,
+    -36.82825
+],
+  "geometry": {"coordinates":[-73.14938000000002,-36.82825],"type":"Point"}
+}

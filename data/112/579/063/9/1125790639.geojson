@@ -1,0 +1,97 @@
+{
+  "id": 1125790639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.25811,-37.81152,-73.25811,-37.81152",
+    "geom:latitude":-37.81152,
+    "geom:longitude":-73.25811,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-37.81152,
+    "lbl:longitude":-73.25811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cayucupil"
+    ],
+    "name:eng_x_preferred":[
+        "Cayucupil"
+    ],
+    "name:spa_x_preferred":[
+        "Cayucupil"
+    ],
+    "name:unk_x_variant":[
+        "Caicupil"
+    ],
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3897427,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cayucupil",
+    "qs_pg:name_adm0":"Chile",
+    "qs_pg:name_adm1":"Biobio",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":860185,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424782,
+    "qs_pg:woe_id":419932,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424782,
+    "woe:name_adm0":"Chile",
+    "woe:name_adm1":"Biobio",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3897427,
+        "gp:id":419932,
+        "qs_pg:id":860185,
+        "wd:id":"Q5055453"
+    },
+    "wof:country":"CL",
+    "wof:created":1497290851,
+    "wof:geomhash":"f135ca35a9928ce4376555efdb2fd9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063153,
+            "locality_id":1125790639,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1125790639,
+    "wof:lastmodified":1513929808,
+    "wof:name":"Cayucupil",
+    "wof:parent_id":102063153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.25811,
+    -37.81152,
+    -73.25811,
+    -37.81152
+],
+  "geometry": {"coordinates":[-73.25811,-37.81152],"type":"Point"}
+}

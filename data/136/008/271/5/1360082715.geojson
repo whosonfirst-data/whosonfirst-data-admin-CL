@@ -1,0 +1,74 @@
+{
+  "id": 1360082715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.15,-34.38333,-71.15,-34.38333",
+    "geom:latitude":-34.38333,
+    "geom:longitude":-71.15,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"6104.0",
+    "gn:asciiname":"Monte Lorenzo Abajo",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879438,
+    "gn:latitude":-34.38333,
+    "gn:longitude":-71.15,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Monte Lorenzo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte Lorenzo",
+        "Monte Lorenzo Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879438
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"25597f25e6e78e93a47120cebbef9935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":1360082715,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1360082715,
+    "wof:lastmodified":1537591119,
+    "wof:name":"Monte Lorenzo Abajo",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.15,
+    -34.38333,
+    -71.15,
+    -34.38333
+],
+  "geometry": {"coordinates":[-71.15000000000001,-34.38333],"type":"Point"}
+}

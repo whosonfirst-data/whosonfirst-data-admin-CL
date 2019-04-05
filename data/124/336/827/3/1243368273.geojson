@@ -1,0 +1,73 @@
+{
+  "id": 1243368273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.12148,-29.10023,-70.12148,-29.10023",
+    "geom:latitude":-29.10023,
+    "geom:longitude":-70.12148,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3302.0",
+    "gn:asciiname":"Paso Malo",
+    "gn:country_code":"CL",
+    "gn:dem":2177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877087,
+    "gn:latitude":-29.10023,
+    "gn:longitude":-70.12148,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Paso Malo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso Mallo",
+        "Paso Malo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877087
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4b5910eb6ad1cf38cea8feb36b887b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1243368273,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1243368273,
+    "wof:lastmodified":1537591114,
+    "wof:name":"Paso Malo",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.12148,
+    -29.10023,
+    -70.12148,
+    -29.10023
+],
+  "geometry": {"coordinates":[-70.12148000000001,-29.10023],"type":"Point"}
+}

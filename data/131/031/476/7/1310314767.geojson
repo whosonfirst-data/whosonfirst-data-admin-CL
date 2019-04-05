@@ -1,0 +1,73 @@
+{
+  "id": 1310314767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.43893,-27.15173,-109.43893,-27.15173",
+    "geom:latitude":-27.15173,
+    "geom:longitude":-109.43893,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"52.0",
+    "gn:asciiname":"Hanga Piko",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4030755,
+    "gn:latitude":-27.15173,
+    "gn:longitude":-109.43893,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Hanga Piko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Easter",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moeiroa",
+        "Caleton",
+        "Hanga Piko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108786421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030755
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3d8c76b91b4d153fb31adfdb0e14b5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":1108786421,
+            "locality_id":1310314767,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310314767,
+    "wof:lastmodified":1537591176,
+    "wof:name":"Hanga Piko",
+    "wof:parent_id":1108786421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.43893,
+    -27.15173,
+    -109.43893,
+    -27.15173
+],
+  "geometry": {"coordinates":[-109.43893,-27.15173],"type":"Point"}
+}

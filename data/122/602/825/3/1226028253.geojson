@@ -1,0 +1,75 @@
+{
+  "id": 1226028253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.02591,-43.6533,-72.02591,-43.6533",
+    "geom:latitude":-43.6533,
+    "geom:longitude":-72.02591,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10404.0",
+    "gn:asciiname":"Valle El Tranquilo",
+    "gn:country_code":"CL",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969831,
+    "gn:latitude":-43.6533,
+    "gn:longitude":-72.02591,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Valle El Tranquilo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Valle El Tranquilo"
+    ],
+    "name:und_x_variant":[
+        "El Tranquilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969831
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a16fc450ad05771023c871acdc1a7647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":1226028253,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226028253,
+    "wof:lastmodified":1537591176,
+    "wof:name":"Valle El Tranquilo",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.02591,
+    -43.6533,
+    -72.02591,
+    -43.6533
+],
+  "geometry": {"coordinates":[-72.02591,-43.6533],"type":"Point"}
+}

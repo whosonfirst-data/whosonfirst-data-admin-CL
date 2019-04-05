@@ -1,0 +1,73 @@
+{
+  "id": 890517441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.00499,-36.90076,-73.00499,-36.90076",
+    "geom:latitude":-36.90076,
+    "geom:longitude":-73.00499,
+    "gn:country":"CL",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Chiguayante",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":226,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261344,
+        "gp:id":28358239,
+        "qs:id":1246147,
+        "wd:id":"Q3765",
+        "wk:page":"Chiguayante"
+    },
+    "wof:concordances_alt":{
+        "qs:id":1092356
+    },
+    "wof:country":"CL",
+    "wof:created":1469056009,
+    "wof:geomhash":"eff621df3c5b72bffe0c031383f78623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "localadmin_id":890517441,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":890517441,
+    "wof:lastmodified":1534379255,
+    "wof:name":"Chiguayante",
+    "wof:parent_id":102063171,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890517977
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.00499,
+    -36.90076,
+    -73.00499,
+    -36.90076
+],
+  "geometry": {"coordinates":[-73.00499000000001,-36.90076],"type":"Point"}
+}

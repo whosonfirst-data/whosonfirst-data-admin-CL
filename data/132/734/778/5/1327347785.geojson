@@ -1,0 +1,73 @@
+{
+  "id": 1327347785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.09576,-32.39708,-71.09576,-32.39708",
+    "geom:latitude":-32.39708,
+    "geom:longitude":-71.09576,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"54.0",
+    "gn:admin3_code":"5402.0",
+    "gn:asciiname":"Artificio",
+    "gn:country_code":"CL",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3899284,
+    "gn:latitude":-32.39708,
+    "gn:longitude":-71.09576,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Artificio",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Artificio de Pedegua",
+        "Artificio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3899284
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"cef9d23b381246791aa4d8baf069bee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063077,
+            "locality_id":1327347785,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1327347785,
+    "wof:lastmodified":1537591169,
+    "wof:name":"Artificio",
+    "wof:parent_id":102063077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.09576,
+    -32.39708,
+    -71.09576,
+    -32.39708
+],
+  "geometry": {"coordinates":[-71.09576,-32.39708],"type":"Point"}
+}

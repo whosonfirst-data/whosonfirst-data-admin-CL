@@ -1,0 +1,75 @@
+{
+  "id": 890518441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.447254,-23.100131,-70.447254,-23.100131",
+    "geom:latitude":-23.100131,
+    "geom:longitude":-70.447254,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mejillones",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Antofagasta",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":659,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":820,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261203,
+        "gp:id":26794034,
+        "qs:id":248845,
+        "qs_pg:id":904471,
+        "wd:id":"Q16928",
+        "wk:page":"Mejillones"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056065,
+    "wof:geomhash":"ff29ee5d5788dd1043e17442c37f7aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "localadmin_id":890518441,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":890518441,
+    "wof:lastmodified":1527751231,
+    "wof:name":"Mejillones",
+    "wof:parent_id":102063073,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.447254,
+    -23.100131,
+    -70.447254,
+    -23.100131
+],
+  "geometry": {"coordinates":[-70.447254,-23.100131],"type":"Point"}
+}

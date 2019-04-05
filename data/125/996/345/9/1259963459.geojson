@@ -1,0 +1,95 @@
+{
+  "id": 1259963459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.4342,-51.71106,-72.4342,-51.71106",
+    "geom:latitude":-51.71106,
+    "geom:longitude":-72.4342,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:asciiname":"Parcelas Agua Potable",
+    "gn:country_code":"CL",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11372011,
+    "gn:latitude":-51.71106,
+    "gn:longitude":-72.4342,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Parcelas Agua Potable",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Parcelas Agua Potable"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11372011
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f402ed855e4f22083058a2610aff0adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1259963459,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1259963459,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1259963459,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1259963459,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1259963459,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Parcelas Agua Potable",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.4342,
+    -51.71106,
+    -72.4342,
+    -51.71106
+],
+  "geometry": {"coordinates":[-72.4342,-51.71106],"type":"Point"}
+}

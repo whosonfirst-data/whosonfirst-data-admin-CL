@@ -1,0 +1,72 @@
+{
+  "id": 1344235877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.95721,-41.43757,-72.95721,-41.43757",
+    "geom:latitude":-41.43757,
+    "geom:longitude":-72.95721,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Sucesion La Feria",
+    "gn:country_code":"CL",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8048116,
+    "gn:latitude":-41.43757,
+    "gn:longitude":-72.95721,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sucesi\u00f3n La Feria",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sucesi\u00f3n La Feria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048116
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c4f665e229da7a32746cfea43e7e461d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1344235877,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1344235877,
+    "wof:lastmodified":1537591178,
+    "wof:name":"Sucesion La Feria",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.95721,
+    -41.43757,
+    -72.95721,
+    -41.43757
+],
+  "geometry": {"coordinates":[-72.95721,-41.43757],"type":"Point"}
+}

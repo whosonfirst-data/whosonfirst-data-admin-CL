@@ -1,0 +1,73 @@
+{
+  "id": 1225924187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.79988,-33.92284,-71.79988,-33.92284",
+    "geom:latitude":-33.92284,
+    "geom:longitude":-71.79988,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Licancheo",
+    "gn:country_code":"CL",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3883265,
+    "gn:latitude":-33.92284,
+    "gn:longitude":-71.79988,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Licancheo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Licanchen",
+        "Licancheu",
+        "Licancheo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883265
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e5164f1d2fc51986c86fbaa46fd44f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "locality_id":1225924187,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1225924187,
+    "wof:lastmodified":1537591129,
+    "wof:name":"Licancheo",
+    "wof:parent_id":102063149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.79988,
+    -33.92284,
+    -71.79988,
+    -33.92284
+],
+  "geometry": {"coordinates":[-71.79988,-33.92284],"type":"Point"}
+}

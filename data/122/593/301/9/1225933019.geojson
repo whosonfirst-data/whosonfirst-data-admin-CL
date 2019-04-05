@@ -1,0 +1,71 @@
+{
+  "id": 1225933019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.03025,-52.54639,-72.03025,-52.54639",
+    "geom:latitude":-52.54639,
+    "geom:longitude":-72.03025,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Puesto El Cable",
+    "gn:country_code":"CL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11334380,
+    "gn:latitude":-52.54639,
+    "gn:longitude":-72.03025,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Puesto El Cable",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puesto El Cable"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11334380
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d4df949f2c6b4fab575770fbcf2095e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1225933019,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1225933019,
+    "wof:lastmodified":1537591187,
+    "wof:name":"Puesto El Cable",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.03025,
+    -52.54639,
+    -72.03025,
+    -52.54639
+],
+  "geometry": {"coordinates":[-72.03025,-52.54639],"type":"Point"}
+}

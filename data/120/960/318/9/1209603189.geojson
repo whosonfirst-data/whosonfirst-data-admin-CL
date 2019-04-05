@@ -1,0 +1,67 @@
+{
+  "id": 1209603189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38255,-35.73098,-72.38255,-35.73098",
+    "geom:latitude":-35.73098,
+    "geom:longitude":-72.38255,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"72.0",
+    "gn:admin3_code":"7202.0",
+    "gn:asciiname":"Molco",
+    "gn:country_code":"CL",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879633,
+    "gn:latitude":-35.73098,
+    "gn:longitude":-72.38255,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Molco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melco",
+        "Molco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879633
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"53d26ab62cec12fb4d9c658edcdec7ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209603189
+        }
+    ],
+    "wof:id":1209603189,
+    "wof:lastmodified":1537591119,
+    "wof:name":"Molco",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38255,
+    -35.73097999999999,
+    -72.38255,
+    -35.73097999999999
+],
+  "geometry": {"coordinates":[-72.38254999999999,-35.73097999999999],"type":"Point"}
+}

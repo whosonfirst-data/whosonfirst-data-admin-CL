@@ -1,0 +1,71 @@
+{
+  "id": 1343449925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16108,-53.4663,-71.16108,-53.4663",
+    "geom:latitude":-53.4663,
+    "geom:longitude":-71.16108,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Alto de Agua Fresca",
+    "gn:country_code":"CL",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358307,
+    "gn:latitude":-53.4663,
+    "gn:longitude":-71.16108,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Alto de Agua Fresca",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto de Agua Fresca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358307
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b91809e80957ddab05d5e51278e8e237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1343449925,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1343449925,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Alto de Agua Fresca",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16108,
+    -53.4663,
+    -71.16108,
+    -53.4663
+],
+  "geometry": {"coordinates":[-71.16108,-53.4663],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890518313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.55887,-41.96796,-73.55887,-41.96796",
+    "geom:latitude":-41.96796,
+    "geom:longitude":-73.55887,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Linao",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969603,
+        "gp:id":350061,
+        "qs:id":1319668
+    },
+    "wof:country":"CL",
+    "wof:created":1469056058,
+    "wof:geomhash":"48f3fe65f0b1c4917c2352f939e97d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":890518313,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890518313,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Linao",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.55887,
+    -41.96796,
+    -73.55887,
+    -41.96796
+],
+  "geometry": {"coordinates":[-73.55887,-41.96796],"type":"Point"}
+}

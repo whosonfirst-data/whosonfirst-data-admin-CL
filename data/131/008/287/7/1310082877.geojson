@@ -1,0 +1,69 @@
+{
+  "id": 1310082877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.39949,-33.37225,-70.39949,-33.37225",
+    "geom:latitude":-33.37225,
+    "geom:longitude":-70.39949,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"131.0",
+    "gn:admin3_code":"13115.0",
+    "gn:asciiname":"Cometierra",
+    "gn:country_code":"CL",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893956,
+    "gn:latitude":-33.37225,
+    "gn:longitude":-70.39949,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cometierra",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893956
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7bfd312614bc9091c9528b17700f9283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "locality_id":1310082877,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1310082877,
+    "wof:lastmodified":1537028019,
+    "wof:name":"Cometierra",
+    "wof:parent_id":102063117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.39949,
+    -33.37225,
+    -70.39949,
+    -33.37225
+],
+  "geometry": {"coordinates":[-70.39949,-33.37225],"type":"Point"}
+}

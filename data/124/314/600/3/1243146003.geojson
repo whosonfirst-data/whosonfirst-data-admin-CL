@@ -1,0 +1,72 @@
+{
+  "id": 1243146003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1274,-43.47134,-72.1274,-43.47134",
+    "geom:latitude":-43.47134,
+    "geom:longitude":-72.1274,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10404.0",
+    "gn:asciiname":"Puerto Ramirez",
+    "gn:country_code":"CL",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874941,
+    "gn:latitude":-43.47134,
+    "gn:longitude":-72.1274,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Puerto Ram\u00edrez",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Ram\u00edrez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874941
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"793bc9c82925294253c8f2bbdf84a01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":1243146003,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1243146003,
+    "wof:lastmodified":1537591111,
+    "wof:name":"Puerto Ramirez",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1274,
+    -43.47134000000001,
+    -72.1274,
+    -43.47134000000001
+],
+  "geometry": {"coordinates":[-72.12739999999999,-43.47134000000001],"type":"Point"}
+}

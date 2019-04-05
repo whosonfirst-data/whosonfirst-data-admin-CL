@@ -1,0 +1,72 @@
+{
+  "id": 1326824669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57422,-31.41453,-71.57422,-31.41453",
+    "geom:latitude":-31.41453,
+    "geom:longitude":-71.57422,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4202.0",
+    "gn:asciiname":"Puerto Oscuro",
+    "gn:country_code":"CL",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874950,
+    "gn:latitude":-31.41453,
+    "gn:longitude":-71.57422,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Puerto Oscuro",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Oscuro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874950
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8e5344de530a1f1eab1faa6fb41b5dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063179,
+            "locality_id":1326824669,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1326824669,
+    "wof:lastmodified":1537591111,
+    "wof:name":"Puerto Oscuro",
+    "wof:parent_id":102063179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57422,
+    -31.41453,
+    -71.57422,
+    -31.41453
+],
+  "geometry": {"coordinates":[-71.57422,-31.41453],"type":"Point"}
+}

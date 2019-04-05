@@ -1,0 +1,75 @@
+{
+  "id": 890518253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.599998,-34.723554,-71.599998,-34.723554",
+    "geom:latitude":-34.723554,
+    "geom:longitude":-71.599998,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lolol",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":229,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":687,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261272,
+        "gp:id":26794216,
+        "qs:id":1322919,
+        "qs_pg:id":381549,
+        "wd:id":"Q16899",
+        "wk:page":"Lolol"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056055,
+    "wof:geomhash":"aeb8a1e3ab9f05782592ae5a7789858b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "localadmin_id":890518253,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890518253,
+    "wof:lastmodified":1527758436,
+    "wof:name":"Lolol",
+    "wof:parent_id":102063157,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.599998,
+    -34.723554,
+    -71.599998,
+    -34.723554
+],
+  "geometry": {"coordinates":[-71.599998,-34.723554],"type":"Point"}
+}

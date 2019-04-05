@@ -1,0 +1,474 @@
+{
+  "id": 890517533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.36667,-27.11667,-109.36667,-27.11667",
+    "geom:latitude":-27.11667,
+    "geom:longitude":-109.36667,
+    "gn:country":"CL",
+    "gn:fcode":"ISL",
+    "gn:pop":5034,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:ace_x_preferred":[
+        "Pulo Easter"
+    ],
+    "name:afr_x_preferred":[
+        "Paaseiland"
+    ],
+    "name:alb_x_preferred":[
+        "Ishulli i Pashk\u00ebve"
+    ],
+    "name:als_x_preferred":[
+        "Osterinsel"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0642\u064a\u0627\u0645\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0536\u0561\u057f\u056f\u056b \u056f\u0572\u0566\u056b"
+    ],
+    "name:aze_x_preferred":[
+        "Pasxa adas\u0131"
+    ],
+    "name:baq_x_preferred":[
+        "Isla de Pascua"
+    ],
+    "name:bar_x_preferred":[
+        "Ostainsl"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0420\u0430\u043f\u0430\u043d\u0443\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09b8\u09cd\u099f\u09be\u09b0 \u09a6\u09cd\u09ac\u09c0\u09aa"
+    ],
+    "name:bos_x_preferred":[
+        "Uskr\u0161nje ostrvo"
+    ],
+    "name:bre_x_preferred":[
+        "Enez Pask"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0434\u0435\u043d\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Illa de Pasqua"
+    ],
+    "name:ces_x_preferred":[
+        "Velikono\u010dn\u00ed ostrov"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fa9\u6d3b\u7bc0\u5cf6"
+    ],
+    "name:cor_x_preferred":[
+        "Ynys Pask"
+    ],
+    "name:cym_x_preferred":[
+        "Ynys y Pasg"
+    ],
+    "name:cze_x_preferred":[
+        "Velikono\u010dn\u00ed ostrov"
+    ],
+    "name:dan_x_preferred":[
+        "P\u00e5ske\u00f8en"
+    ],
+    "name:deu_x_preferred":[
+        "Osterinsel"
+    ],
+    "name:dsb_x_preferred":[
+        "Jat\u0161owna kupa"
+    ],
+    "name:dut_x_preferred":[
+        "Paaseiland"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03af \u03c4\u03bf\u03c5 \u03a0\u03ac\u03c3\u03c7\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Easter Island"
+    ],
+    "name:epo_x_preferred":[
+        "Paskinsulo"
+    ],
+    "name:est_x_preferred":[
+        "Lihav\u00f5ttesaar"
+    ],
+    "name:eus_x_preferred":[
+        "Pazko uhartea"
+    ],
+    "name:fao_x_preferred":[
+        "P\u00e1skaoy"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0627\u06cc\u0633\u062a\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "P\u00e4\u00e4si\u00e4issaari"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele de P\u00e2ques"
+    ],
+    "name:fre_x_preferred":[
+        "\u00eele de P\u00e2ques"
+    ],
+    "name:frp_x_preferred":[
+        "Ila de P\u00e2ques"
+    ],
+    "name:frr_x_preferred":[
+        "Poosche-ail\u00f6nj"
+    ],
+    "name:fry_x_preferred":[
+        "Peaske-eil\u00e2n"
+    ],
+    "name:gag_x_preferred":[
+        "Paskell\u00e4 Adas\u0131"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10e6\u10d3\u10d2\u10dd\u10db\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Osterinsel"
+    ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1n na C\u00e1sca"
+    ],
+    "name:glg_x_preferred":[
+        "Illa de Pascua"
+    ],
+    "name:glv_x_preferred":[
+        "Ellan y Chaisht"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b7\u03c3\u03af \u03c4\u03bf\u03c5 \u03a0\u03ac\u03c3\u03c7\u03b1"
+    ],
+    "name:gsw_x_preferred":[
+        "Osterinsel"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a88\u0ab8\u0acd\u0a9f\u0ab0 \u0a86\u0a88\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    ],
+    "name:hbs_x_preferred":[
+        "Rapa Nui"
+    ],
+    "name:hbs_x_variant":[
+        "Uskr\u0161nji Otok"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9 \u05d4\u05e4\u05e1\u05d7\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0908\u0938\u094d\u091f\u0930 \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:hrv_x_preferred":[
+        "Uskr\u0161nji otok"
+    ],
+    "name:hsb_x_preferred":[
+        "Jutrowna kupa"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00fasv\u00e9t-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u057f\u056f\u056b \u056f\u0572\u0566\u056b"
+    ],
+    "name:ice_x_preferred":[
+        "P\u00e1skaeyja"
+    ],
+    "name:ido_x_preferred":[
+        "Pasko-Insulo"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Paskah"
+    ],
+    "name:isl_x_preferred":[
+        "P\u00e1skaeyja"
+    ],
+    "name:ita_x_preferred":[
+        "Isola di Pasqua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30b9\u30bf\u30fc\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c88\u0cb8\u0ccd\u0c9f\u0cb0\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10d3\u10d2\u10dd\u10db\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d8"
+    ],
+    "name:kin_x_preferred":[
+        "Rapanuyi"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0430\u0441\u0445\u0430 \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kon_x_preferred":[
+        "ile ya Paques"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc2a4\ud130 \uc12c"
+    ],
+    "name:lat_x_preferred":[
+        "Insula Paschalis"
+    ],
+    "name:lav_x_preferred":[
+        "Lieldienu sala"
+    ],
+    "name:lim_x_preferred":[
+        "Paoseiland"
+    ],
+    "name:lit_x_preferred":[
+        "Velyk\u0173 sala"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u0433\u0434\u0435\u043d\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d7c \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d4d"
+    ],
+    "name:mao_x_preferred":[
+        "Moutere Aranga"
+    ],
+    "name:mar_x_preferred":[
+        "\u0908\u0938\u094d\u091f\u0930 \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:may_x_preferred":[
+        "Pulau Easter"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u0433\u0434\u0435\u043d\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:mlg_x_preferred":[
+        "Nosini Paska"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u0430\u0441\u0445\u0430 \u0430\u0440\u0430\u043b"
+    ],
+    "name:mri_x_preferred":[
+        "Moutere Aranga"
+    ],
+    "name:msa_x_preferred":[
+        "Pulau Easter"
+    ],
+    "name:nah_x_preferred":[
+        "Tlalhuactli Pascua"
+    ],
+    "name:nan_x_preferred":[
+        "Rapa Nui"
+    ],
+    "name:nld_x_preferred":[
+        "Paaseiland"
+    ],
+    "name:nno_x_preferred":[
+        "P\u00e5ske\u00f8ya"
+    ],
+    "name:nob_x_preferred":[
+        "P\u00e5ske\u00f8ya"
+    ],
+    "name:nor_x_preferred":[
+        "P\u00e5ske\u00f8ya"
+    ],
+    "name:oci_x_preferred":[
+        "Illa de Pascas"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0443\u0430\u0434\u0437\u00e6\u043d\u044b \u0441\u0430\u043a\u044a\u0430\u0434\u0430\u0445"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a08\u0a38\u0a1f\u0a30 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:per_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0627\u06cc\u0633\u062a\u0631"
+    ],
+    "name:pih_x_preferred":[
+        "Iista Ailen"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0627\u06cc\u0633\u0679\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspa Wielkanocna"
+    ],
+    "name:por_x_preferred":[
+        "Ilha de P\u00e1scoa"
+    ],
+    "name:que_x_preferred":[
+        "Rapanuy"
+    ],
+    "name:ron_x_preferred":[
+        "Insula Pa\u0219telui"
+    ],
+    "name:rum_x_preferred":[
+        "Insula Pa\u0219telui"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0445\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432 \u041f\u0430\u0441\u0445\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "\u00ccsula di Pasqua"
+    ],
+    "name:sco_x_preferred":[
+        "Easter Island"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dcf\u0dc3\u0dca\u0d9a\u0dd4 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1"
+    ],
+    "name:slk_x_preferred":[
+        "Ve\u013ekono\u010dn\u00fd ostrov"
+    ],
+    "name:slo_x_preferred":[
+        "Ve\u013ekono\u010dn\u00fd ostrov"
+    ],
+    "name:slv_x_preferred":[
+        "Velikono\u010dni otok"
+    ],
+    "name:spa_x_preferred":[
+        "Isla de Pascua"
+    ],
+    "name:sqi_x_preferred":[
+        "Ishulli i Pashk\u00ebve"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0441\u043a\u0440\u0448\u045a\u0435 \u043e\u0441\u0442\u0440\u0432\u043e"
+    ],
+    "name:sun_x_preferred":[
+        "Pulo Paskah"
+    ],
+    "name:swa_x_preferred":[
+        "Kisiwa cha Pasaka"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e5sk\u00f6n"
+    ],
+    "name:szl_x_preferred":[
+        "Wjelganocno Wyspa"
+    ],
+    "name:tah_x_preferred":[
+        "Rapa Nui"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0441\u0445\u0430 \u0443\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c08\u0c38\u0c4d\u0c1f\u0c30\u0c4d \u0c10\u0c32\u0c4d\u0c2f\u0c3e\u0c02\u0c21\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Isla ng Easter"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e2d\u0e35\u0e2a\u0e40\u0e15\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tpi_x_preferred":[
+        "Ista Ailan"
+    ],
+    "name:tuk_x_preferred":[
+        "G\u00fcndogar adalary"
+    ],
+    "name:tur_x_preferred":[
+        "Paskalya Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432 \u041f\u0430\u0441\u0445\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Isla de Pascua"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0627\u06cc\u0633\u0679\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Pasxa oroli"
+    ],
+    "name:vec_x_preferred":[
+        "\u00ccxo\u0142a de P\u00e0scua"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Ph\u1ee5c Sinh"
+    ],
+    "name:war_x_preferred":[
+        "Isla de Pascua"
+    ],
+    "name:wel_x_preferred":[
+        "Ynys y Pasg"
+    ],
+    "name:wln_x_preferred":[
+        "Iye di P\u00e5ke"
+    ],
+    "name:wuu_x_preferred":[
+        "\u590d\u6d3b\u8282\u5c9b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d7\u10d0\u10dc\u10d0\u10e4\u10d0\u10e8 \u10d9\u10dd\u10d9\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Er\u00e9k\u00f9\u1e63\u00f9 \u00c0j\u00ednde"
+    ],
+    "name:yue_x_preferred":[
+        "\u5fa9\u6d3b\u7bc0\u5cf6"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fa9\u6d3b\u7bc0\u5cf6"
+    ],
+    "qs:name":"Easter Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":10463,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108786421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030726,
+        "gp:id":12523131,
+        "qs:id":375575,
+        "wd:id":"Q14452",
+        "wk:page":"Easter Island"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056013,
+    "wof:geomhash":"108b309243b3aa85b0adf2bb94493dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":1108786421,
+            "locality_id":890517533,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890517533,
+    "wof:lastmodified":1527749991,
+    "wof:name":"Easter Island",
+    "wof:parent_id":1108786421,
+    "wof:placetype":"locality",
+    "wof:population":5034,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.36667,
+    -27.11667,
+    -109.36667,
+    -27.11667
+],
+  "geometry": {"coordinates":[-109.36667,-27.11667],"type":"Point"}
+}

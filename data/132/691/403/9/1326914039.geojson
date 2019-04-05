@@ -1,0 +1,71 @@
+{
+  "id": 1326914039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68564,-52.10079,-70.68564,-52.10079",
+    "geom:latitude":-52.10079,
+    "geom:longitude":-70.68564,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Los Cisnes",
+    "gn:country_code":"CL",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11333939,
+    "gn:latitude":-52.10079,
+    "gn:longitude":-70.68564,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Los Cisnes",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Cisnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11333939
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"876ab19f36b1de8505e97937557c144c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1326914039,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1326914039,
+    "wof:lastmodified":1537591187,
+    "wof:name":"Los Cisnes",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68564,
+    -52.10079,
+    -70.68564,
+    -52.10079
+],
+  "geometry": {"coordinates":[-70.68564000000001,-52.10079],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276999385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64865,-33.07116,-71.64865,-33.07116",
+    "geom:latitude":-33.07116,
+    "geom:longitude":-71.64865,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5101.0",
+    "gn:asciiname":"Quebrada Verde",
+    "gn:country_code":"CL",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874482,
+    "gn:latitude":-33.07116,
+    "gn:longitude":-71.64865,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Quebrada Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874482
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e5f06accf95b3deba00a974da2c716f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063161,
+            "locality_id":1276999385,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1276999385,
+    "wof:lastmodified":1536880184,
+    "wof:name":"Quebrada Verde",
+    "wof:parent_id":102063161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64865,
+    -33.07116,
+    -71.64865,
+    -33.07116
+],
+  "geometry": {"coordinates":[-71.64865,-33.07116],"type":"Point"}
+}

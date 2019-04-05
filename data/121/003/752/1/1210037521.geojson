@@ -1,0 +1,73 @@
+{
+  "id": 1210037521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.7739,-30.88169,-70.7739,-30.88169",
+    "geom:latitude":-30.88169,
+    "geom:longitude":-70.7739,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4303.0",
+    "gn:asciiname":"Chanaral de Caren",
+    "gn:country_code":"CL",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895541,
+    "gn:latitude":-30.88169,
+    "gn:longitude":-70.7739,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cha\u00f1aral de Car\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cha\u00f1aral",
+        "Cha\u00f1aral de Car\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895541
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f230824574c81d9c8251ac4a66d57a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1210037521,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1210037521,
+    "wof:lastmodified":1537591160,
+    "wof:name":"Chanaral de Caren",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.7739,
+    -30.88169000000001,
+    -70.7739,
+    -30.88169000000001
+],
+  "geometry": {"coordinates":[-70.7739,-30.88169000000001],"type":"Point"}
+}

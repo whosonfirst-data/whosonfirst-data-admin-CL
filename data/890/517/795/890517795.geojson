@@ -1,0 +1,74 @@
+{
+  "id": 890517795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.213062,-39.43606,-73.213062,-39.43606",
+    "geom:latitude":-39.43606,
+    "geom:longitude":-73.213062,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Mariquina",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Rios",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261365,
+        "gp:id":26794186,
+        "qs:id":990181,
+        "qs_pg:id":1042650,
+        "wk:page":"Mariquina"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056025,
+    "wof:geomhash":"4f04f0d0e9cbdd4173897cdcac6051d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "localadmin_id":890517795,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":890517795,
+    "wof:lastmodified":1527749998,
+    "wof:name":"Mariquina",
+    "wof:parent_id":102063183,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.213062,
+    -39.43606,
+    -73.213062,
+    -39.43606
+],
+  "geometry": {"coordinates":[-73.21306199999999,-39.43606],"type":"Point"}
+}

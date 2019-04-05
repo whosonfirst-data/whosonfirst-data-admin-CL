@@ -1,0 +1,89 @@
+{
+  "id": 890517711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.60957,-33.57096,-71.60957,-33.57096",
+    "geom:latitude":-33.57096,
+    "geom:longitude":-71.60957,
+    "gn:country":"CL",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u0410\u043d\u0442\u043e\u043d\u0438\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uc548\ud1a0\ub2c8\uc624"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0438\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0410\u043d\u0442\u043e\u043d\u0438\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967"
+    ],
+    "qs:name":"San Antonio",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1789,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261250,
+        "gp:id":26794345,
+        "qs:id":419674,
+        "wk:page":"San Antonio"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056021,
+    "wof:geomhash":"3bd99e70296ef36fab8a3d2cf1967441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063167,
+            "localadmin_id":890517711,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890517711,
+    "wof:lastmodified":1513813976,
+    "wof:name":"San Antonio",
+    "wof:parent_id":102063167,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.60957,
+    -33.57096,
+    -71.60957,
+    -33.57096
+],
+  "geometry": {"coordinates":[-71.60957000000001,-33.57096],"type":"Point"}
+}

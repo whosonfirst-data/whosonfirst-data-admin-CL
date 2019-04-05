@@ -1,0 +1,72 @@
+{
+  "id": 1260150203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.58804,-17.67649,-69.58804,-17.67649",
+    "geom:latitude":-17.67649,
+    "geom:longitude":-69.58804,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15202.0",
+    "gn:asciiname":"Challaserca",
+    "gn:country_code":"CL",
+    "gn:dem":4302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895609,
+    "gn:latitude":-17.67649,
+    "gn:longitude":-69.58804,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Challaserca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Challaserca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895609
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"362a8b60e01f6d96d1784f3a399a3f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1260150203,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1260150203,
+    "wof:lastmodified":1537591161,
+    "wof:name":"Challaserca",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.58804,
+    -17.67649,
+    -69.58804,
+    -17.67649
+],
+  "geometry": {"coordinates":[-69.58804000000001,-17.67649],"type":"Point"}
+}

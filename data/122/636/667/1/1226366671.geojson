@@ -1,0 +1,71 @@
+{
+  "id": 1226366671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41756,-38.11422,-71.41756,-38.11422",
+    "geom:latitude":-38.11422,
+    "geom:longitude":-71.41756,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"83.0",
+    "gn:asciiname":"Casas Villucura",
+    "gn:country_code":"CL",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896331,
+    "gn:latitude":-38.11422,
+    "gn:longitude":-71.41756,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Casas Villucura",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Centinelas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896331
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"14ad337606ec8cbdd73d432672cabb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063151,
+            "locality_id":1226366671,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1226366671,
+    "wof:lastmodified":1537591162,
+    "wof:name":"Casas Villucura",
+    "wof:parent_id":102063151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41756,
+    -38.11422,
+    -71.41756,
+    -38.11422
+],
+  "geometry": {"coordinates":[-71.41755999999999,-38.11422],"type":"Point"}
+}

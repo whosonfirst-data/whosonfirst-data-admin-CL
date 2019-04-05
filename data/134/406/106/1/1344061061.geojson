@@ -1,0 +1,69 @@
+{
+  "id": 1344061061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61396,-32.69901,-70.61396,-32.69901",
+    "geom:latitude":-32.69901,
+    "geom:longitude":-70.61396,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5706.0",
+    "gn:asciiname":"Jahuel",
+    "gn:country_code":"CL",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3887002,
+    "gn:latitude":-32.69901,
+    "gn:longitude":-70.61396,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Jahuel",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887002
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6af51714f19424a663953c9770af3132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063099,
+            "locality_id":1344061061,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1344061061,
+    "wof:lastmodified":1536873677,
+    "wof:name":"Jahuel",
+    "wof:parent_id":102063099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61395999999998,
+    -32.69900999999999,
+    -70.61395999999998,
+    -32.69900999999999
+],
+  "geometry": {"coordinates":[-70.61395999999998,-32.69900999999999],"type":"Point"}
+}

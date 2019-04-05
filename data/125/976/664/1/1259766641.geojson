@@ -1,0 +1,74 @@
+{
+  "id": 1259766641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.49743,-42.58471,-72.49743,-42.58471",
+    "geom:latitude":-42.58471,
+    "geom:longitude":-72.49743,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"104.0",
+    "gn:asciiname":"Renihue",
+    "gn:country_code":"CL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969722,
+    "gn:latitude":-42.58471,
+    "gn:longitude":-72.49743,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Re\u00f1ihue",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Re\u00f1ihue"
+    ],
+    "name:und_x_variant":[
+        "Re\u00f1ihu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969722
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"653df8fd243272c9cbca77b7d62f7222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":1259766641,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1259766641,
+    "wof:lastmodified":1537591175,
+    "wof:name":"Renihue",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.49743000000002,
+    -42.58471,
+    -72.49743000000002,
+    -42.58471
+],
+  "geometry": {"coordinates":[-72.49743000000002,-42.58471],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327117303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.84737,-20.09573,-68.84737,-20.09573",
+    "geom:latitude":-20.09573,
+    "geom:longitude":-68.84737,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1405.0",
+    "gn:asciiname":"Pena Blanca",
+    "gn:country_code":"CL",
+    "gn:dem":3868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3876715,
+    "gn:latitude":-20.09573,
+    "gn:longitude":-68.84737,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Pe\u00f1a Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pe\u00f1a Blanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3876715
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"58990b2f12716f4680c5daf310cd6079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1327117303,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1327117303,
+    "wof:lastmodified":1537591114,
+    "wof:name":"Pena Blanca",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.84737,
+    -20.09573,
+    -68.84737,
+    -20.09573
+],
+  "geometry": {"coordinates":[-68.84737,-20.09573],"type":"Point"}
+}

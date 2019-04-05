@@ -1,0 +1,74 @@
+{
+  "id": 890518279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.667007,-39.1031565,-72.667007,-39.1031565",
+    "geom:latitude":-39.103156,
+    "geom:longitude":-72.667007,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Gorbea",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Araucania",
+    "qs:photos":72,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":267,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":738,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261403,
+        "gp:id":26794047,
+        "qs:id":430206,
+        "qs_pg:id":904375,
+        "wk:page":"Gorbea"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056056,
+    "wof:geomhash":"79098cbdc50ef12a675692e054f93f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "localadmin_id":890518279,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":890518279,
+    "wof:lastmodified":1527751235,
+    "wof:name":"Gorbea",
+    "wof:parent_id":102063107,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.667007,
+    -39.1031565,
+    -72.667007,
+    -39.1031565
+],
+  "geometry": {"coordinates":[-72.667007,-39.1031565],"type":"Point"}
+}

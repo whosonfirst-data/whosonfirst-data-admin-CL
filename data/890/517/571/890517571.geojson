@@ -1,0 +1,102 @@
+{
+  "id": 890517571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06628,-18.45253,-70.06628,-18.45253",
+    "geom:latitude":-18.45253,
+    "geom:longitude":-70.06628,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Poconchile"
+    ],
+    "name:eng_x_preferred":[
+        "Poconchile"
+    ],
+    "name:fre_x_preferred":[
+        "Poconchile"
+    ],
+    "name:ger_x_preferred":[
+        "Poconchile"
+    ],
+    "name:por_x_preferred":[
+        "Poconchile"
+    ],
+    "name:spa_x_preferred":[
+        "Poconchile"
+    ],
+    "qs:name":"Poconchile",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Arica y Parinacota",
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        102063165,
+        1108804709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875572,
+        "gp:id":348999,
+        "qs:id":1270691,
+        "wd:id":"Q7206519",
+        "wk:page":"Poconchile"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056015,
+    "wof:geomhash":"b6e700031c29557d08375ceb5b5102ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063165,
+            "locality_id":890517571,
+            "region_id":85682245
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063165,
+            "locality_id":890517571,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":890517571,
+    "wof:lastmodified":1527751201,
+    "wof:name":"Poconchile",
+    "wof:parent_id":102063165,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06628,
+    -18.45253,
+    -70.06628,
+    -18.45253
+],
+  "geometry": {"coordinates":[-70.06628000000001,-18.45253],"type":"Point"}
+}

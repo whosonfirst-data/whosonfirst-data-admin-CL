@@ -1,0 +1,69 @@
+{
+  "id": 1293197313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.08342,-34.3797,-71.08342,-34.3797",
+    "geom:latitude":-34.3797,
+    "geom:longitude":-71.08342,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"6117.0",
+    "gn:asciiname":"Tunca Arriba",
+    "gn:country_code":"CL",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868923,
+    "gn:latitude":-34.3797,
+    "gn:longitude":-71.08342,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tunca Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868923
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4bb31135d8c598a8bfec4d60ffe339b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":1293197313,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1293197313,
+    "wof:lastmodified":1536708754,
+    "wof:name":"Tunca Arriba",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.08341999999998,
+    -34.3797,
+    -71.08341999999998,
+    -34.3797
+],
+  "geometry": {"coordinates":[-71.08341999999998,-34.3797],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 102017477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":585889.121738,
+    "geom:bbox":"-70.753872874,-33.7791473313,-70.7409667969,-33.7713042355",
+    "geom:latitude":-33.775635,
+    "geom:longitude":-70.746931,
+    "iso:country":"CL",
+    "lbl:latitude":-33.776864,
+    "lbl:longitude":-70.746393,
+    "mps:latitude":-33.776864,
+    "mps:longitude":-70.746393,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Chile",
+    "qs:a1":"*Santiago",
+    "qs:a1r":"*",
+    "qs:a2":"Maipo",
+    "qs:id":0,
+    "qs:la":"Buin",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Linderos",
+    "qs:loc_alt":"Linderos",
+    "qs:loc_lc":"3883149",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883149,
+        "gp:id":348334,
+        "qs:id":887594,
+        "qs_pg:id":887594
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"15bba8fb83f651285c023dab0afac91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063119,
+            "locality_id":102017477,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":102017477,
+    "wof:lastmodified":1497297127,
+    "wof:name":"Linderos",
+    "wof:parent_id":102063119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.7538728740459,
+    -33.77914733130001,
+    -70.74096679689997,
+    -33.77130423548356
+],
+  "geometry": {"coordinates":[[[-70.7464599609,-33.77318451712284],[-70.7464599609,-33.77458136369999],[-70.74371337890003,-33.77458136369999],[-70.74096679689997,-33.77458136369999],[-70.74096679689997,-33.7768643779],[-70.74096679689997,-33.77907219222895],[-70.74210607139018,-33.77879806099205],[-70.74297698648925,-33.77914733130001],[-70.74371337890003,-33.77914733130001],[-70.7464599609,-33.77914733130001],[-70.74762095240862,-33.77914733130001],[-70.74951850065008,-33.77686436269997],[-70.7538728740459,-33.77372112600603],[-70.75195312499994,-33.77141173451235],[-70.75114886965531,-33.77130423548356],[-70.7464599609,-33.77318451712284]]],"type":"Polygon"}
+}

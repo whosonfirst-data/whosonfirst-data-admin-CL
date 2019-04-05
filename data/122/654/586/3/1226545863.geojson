@@ -1,0 +1,73 @@
+{
+  "id": 1226545863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.9203,-38.98651,-72.9203,-38.98651",
+    "geom:latitude":-38.98651,
+    "geom:longitude":-72.9203,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9117.0",
+    "gn:asciiname":"Barros Arana",
+    "gn:country_code":"CL",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3898663,
+    "gn:latitude":-38.98651,
+    "gn:longitude":-72.9203,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Barros Arana",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barras Arana",
+        "Barros Arana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3898663
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"5dc9af53d39db912a01bcc0fc0936770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":1226545863,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1226545863,
+    "wof:lastmodified":1537591168,
+    "wof:name":"Barros Arana",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.9203,
+    -38.98651,
+    -72.9203,
+    -38.98651
+],
+  "geometry": {"coordinates":[-72.9203,-38.98651],"type":"Point"}
+}

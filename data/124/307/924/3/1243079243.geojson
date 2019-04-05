@@ -1,0 +1,69 @@
+{
+  "id": 1243079243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45,-25.1,-70.45,-25.1",
+    "geom:latitude":-25.1,
+    "geom:longitude":-70.45,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2104.0",
+    "gn:asciiname":"Aguada del Pueblo",
+    "gn:country_code":"CL",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900546,
+    "gn:latitude":-25.1,
+    "gn:longitude":-70.45,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Aguada del Pueblo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900546
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"822689d8f3fac1be3dc8b4209bc6259c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "locality_id":1243079243,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1243079243,
+    "wof:lastmodified":1536836753,
+    "wof:name":"Aguada del Pueblo",
+    "wof:parent_id":102063073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45,
+    -25.1,
+    -70.45,
+    -25.1
+],
+  "geometry": {"coordinates":[-70.45,-25.1],"type":"Point"}
+}

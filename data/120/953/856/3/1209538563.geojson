@@ -1,0 +1,66 @@
+{
+  "id": 1209538563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1,-28.6,-71.1,-28.6",
+    "geom:latitude":-28.6,
+    "geom:longitude":-71.1,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3303.0",
+    "gn:asciiname":"Totora",
+    "gn:country_code":"CL",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3869451,
+    "gn:latitude":-28.6,
+    "gn:longitude":-71.1,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Totora",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Totora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869451
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"477c922c3ff9781de73ceb1d1cbd5b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209538563
+        }
+    ],
+    "wof:id":1209538563,
+    "wof:lastmodified":1537591101,
+    "wof:name":"Totora",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1,
+    -28.6,
+    -71.1,
+    -28.6
+],
+  "geometry": {"coordinates":[-71.09999999999999,-28.6],"type":"Point"}
+}

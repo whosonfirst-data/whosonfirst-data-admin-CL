@@ -1,0 +1,73 @@
+{
+  "id": 890518421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.70816,-33.63538,-70.70816,-33.63538",
+    "geom:latitude":-33.63538,
+    "geom:longitude":-70.70816,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Nos",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":113,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":113,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3878495,
+        "gp:id":348739,
+        "qs:id":242659
+    },
+    "wof:country":"CL",
+    "wof:created":1469056064,
+    "wof:geomhash":"a7fd820b89790ce6c33986e7ae83e584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063119,
+            "locality_id":890518421,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890518421,
+    "wof:lastmodified":1505343909,
+    "wof:name":"Nos",
+    "wof:parent_id":102063119,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.70816,
+    -33.63538,
+    -70.70816,
+    -33.63538
+],
+  "geometry": {"coordinates":[-70.70816000000001,-33.63538],"type":"Point"}
+}

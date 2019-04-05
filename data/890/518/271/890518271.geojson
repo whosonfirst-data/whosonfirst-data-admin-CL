@@ -1,0 +1,78 @@
+{
+  "id": 890518271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.97027,-34.65308,-70.97027,-34.65308",
+    "geom:latitude":-34.65308,
+    "geom:longitude":-70.97027,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tinguiririca"
+    ],
+    "name:eng_x_preferred":[
+        "Tinguiririca"
+    ],
+    "qs:name":"Tinguiririca",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869790,
+        "gp:id":349662,
+        "qs:id":180648,
+        "wd:id":"Q7808198",
+        "wk:page":"Tinguiririca"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056056,
+    "wof:geomhash":"e8ad59e679a2253915be671c433bde16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "locality_id":890518271,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890518271,
+    "wof:lastmodified":1527751236,
+    "wof:name":"Tinguiririca",
+    "wof:parent_id":102063157,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97027,
+    -34.65308,
+    -70.97027,
+    -34.65308
+],
+  "geometry": {"coordinates":[-70.97027,-34.65308],"type":"Point"}
+}

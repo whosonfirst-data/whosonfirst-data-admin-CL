@@ -1,0 +1,69 @@
+{
+  "id": 1310212435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.07338,-22.76116,-68.07338,-22.76116",
+    "geom:latitude":-22.76116,
+    "geom:longitude":-68.07338,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2203.0",
+    "gn:asciiname":"Guatin",
+    "gn:country_code":"CL",
+    "gn:dem":3212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888327,
+    "gn:latitude":-22.76116,
+    "gn:longitude":-68.07338,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Guat\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888327
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9eab8ec0068efbf046ce7b0cb9fdbbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063131,
+            "locality_id":1310212435,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1310212435,
+    "wof:lastmodified":1536841150,
+    "wof:name":"Guatin",
+    "wof:parent_id":102063131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.07338,
+    -22.76116,
+    -68.07338,
+    -22.76116
+],
+  "geometry": {"coordinates":[-68.07338,-22.76116],"type":"Point"}
+}

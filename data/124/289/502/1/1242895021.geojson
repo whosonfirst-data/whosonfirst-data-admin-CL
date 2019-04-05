@@ -1,0 +1,69 @@
+{
+  "id": 1242895021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.18921,-30.88705,-71.18921,-30.88705",
+    "geom:latitude":-30.88705,
+    "geom:longitude":-71.18921,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4304.0",
+    "gn:asciiname":"Majada Blanca",
+    "gn:country_code":"CL",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3880913,
+    "gn:latitude":-30.88705,
+    "gn:longitude":-71.18921,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Majada Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3880913
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"10fdb06a762cb53073399c655bb4cc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1242895021,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1242895021,
+    "wof:lastmodified":1536603415,
+    "wof:name":"Majada Blanca",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18921,
+    -30.88705,
+    -71.18921,
+    -30.88705
+],
+  "geometry": {"coordinates":[-71.18921,-30.88705],"type":"Point"}
+}

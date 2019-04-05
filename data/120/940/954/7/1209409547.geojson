@@ -1,0 +1,68 @@
+{
+  "id": 1209409547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16714,-30.46062,-71.16714,-30.46062",
+    "geom:latitude":-30.46062,
+    "geom:longitude":-71.16714,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4301.0",
+    "gn:asciiname":"La Higuerita",
+    "gn:country_code":"CL",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885651,
+    "gn:latitude":-30.46062,
+    "gn:longitude":-71.16714,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Higuerita",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Higuerta",
+        "Higuerita",
+        "La Higuerita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885651
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ea21b1c5ad507c71ce5332808a6d201f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209409547
+        }
+    ],
+    "wof:id":1209409547,
+    "wof:lastmodified":1537591135,
+    "wof:name":"La Higuerita",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16714,
+    -30.46062,
+    -71.16714,
+    -30.46062
+],
+  "geometry": {"coordinates":[-71.16714,-30.46062],"type":"Point"}
+}

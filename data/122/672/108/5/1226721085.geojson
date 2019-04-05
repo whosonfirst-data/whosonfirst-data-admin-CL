@@ -1,0 +1,74 @@
+{
+  "id": 1226721085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.50911,-42.56699,-73.50911,-42.56699",
+    "geom:latitude":-42.56699,
+    "geom:longitude":-73.50911,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:asciiname":"Huechuchelin",
+    "gn:country_code":"CL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969618,
+    "gn:latitude":-42.56699,
+    "gn:longitude":-73.50911,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Huechuchel\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huechuchel\u00edn"
+    ],
+    "name:und_x_variant":[
+        "Huechochel\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969618
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"84543602984b56e1263b2aacaed6df6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1226721085,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226721085,
+    "wof:lastmodified":1537591174,
+    "wof:name":"Huechuchelin",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.50910999999998,
+    -42.56699,
+    -73.50910999999998,
+    -42.56699
+],
+  "geometry": {"coordinates":[-73.50910999999998,-42.56699],"type":"Point"}
+}

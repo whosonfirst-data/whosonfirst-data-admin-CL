@@ -1,0 +1,70 @@
+{
+  "id": 890517615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.728263,-34.167925,-70.728263,-34.167925",
+    "geom:latitude":-34.167925,
+    "geom:longitude":-70.728263,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Rancagua",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2535,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1346,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794204,
+        "qs:id":1314597,
+        "wd:id":"Q4582",
+        "wk:page":"Rancagua"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056017,
+    "wof:geomhash":"de9d422bc09acabb273d9495b9ede98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "localadmin_id":890517615,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890517615,
+    "wof:lastmodified":1527751200,
+    "wof:name":"Rancagua",
+    "wof:parent_id":102063155,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.728263,
+    -34.167925,
+    -70.728263,
+    -34.167925
+],
+  "geometry": {"coordinates":[-70.728263,-34.167925],"type":"Point"}
+}

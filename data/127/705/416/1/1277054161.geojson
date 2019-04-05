@@ -1,0 +1,69 @@
+{
+  "id": 1277054161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.52867,-34.915,-71.52867,-34.915",
+    "geom:latitude":-34.915,
+    "geom:longitude":-71.52867,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"73.0",
+    "gn:admin3_code":"7305.0",
+    "gn:asciiname":"El Parron",
+    "gn:country_code":"CL",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3890813,
+    "gn:latitude":-34.915,
+    "gn:longitude":-71.52867,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Parr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3890813
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0fc39d7863ed0cd0d3e1315538fcf829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":1277054161,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1277054161,
+    "wof:lastmodified":1536807194,
+    "wof:name":"El Parron",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.52866999999998,
+    -34.915,
+    -71.52866999999998,
+    -34.915
+],
+  "geometry": {"coordinates":[-71.52866999999998,-34.915],"type":"Point"}
+}

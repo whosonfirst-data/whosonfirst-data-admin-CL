@@ -1,0 +1,70 @@
+{
+  "id": 890517613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.652452,-34.166008,-70.652452,-34.166008",
+    "geom:latitude":-34.166008,
+    "geom:longitude":-70.652452,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Machal\u00ed",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos":156,
+    "qs:photos_1k":32,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1106,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":226,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794197,
+        "qs:id":1314596,
+        "wd:id":"Q16915",
+        "wk:page":"Machal\u00ed"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056017,
+    "wof:geomhash":"7f9d8920cdbe3195c66f16637f723ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "localadmin_id":890517613,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890517613,
+    "wof:lastmodified":1527749998,
+    "wof:name":"Machal\u00ed",
+    "wof:parent_id":102063155,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.652452,
+    -34.166008,
+    -70.652452,
+    -34.166008
+],
+  "geometry": {"coordinates":[-70.652452,-34.166008],"type":"Point"}
+}

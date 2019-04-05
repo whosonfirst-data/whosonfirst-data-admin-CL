@@ -1,0 +1,71 @@
+{
+  "id": 1260272135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43844,-53.33136,-70.43844,-53.33136",
+    "geom:latitude":-53.33136,
+    "geom:longitude":-70.43844,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:asciiname":"Punta Victoria",
+    "gn:country_code":"CL",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358100,
+    "gn:latitude":-53.33136,
+    "gn:longitude":-70.43844,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Punta Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Punta Victoria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358100
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7e167fdc449ee2b2a277051e7a39a161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1260272135,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1260272135,
+    "wof:lastmodified":1537591187,
+    "wof:name":"Punta Victoria",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43844,
+    -53.33136,
+    -70.43844,
+    -53.33136
+],
+  "geometry": {"coordinates":[-70.43844,-53.33136],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360277077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98157,-30.42841,-70.98157,-30.42841",
+    "geom:latitude":-30.42841,
+    "geom:longitude":-70.98157,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4305.0",
+    "gn:asciiname":"Guampulla",
+    "gn:country_code":"CL",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3888503,
+    "gn:latitude":-30.42841,
+    "gn:longitude":-70.98157,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Guampulla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huampulla",
+        "Guampulla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3888503
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a4398b203c3aaeaaef8e0185cbab9f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1360277077,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1360277077,
+    "wof:lastmodified":1537591142,
+    "wof:name":"Guampulla",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98156999999998,
+    -30.42841,
+    -70.98156999999998,
+    -30.42841
+],
+  "geometry": {"coordinates":[-70.98156999999998,-30.42841],"type":"Point"}
+}

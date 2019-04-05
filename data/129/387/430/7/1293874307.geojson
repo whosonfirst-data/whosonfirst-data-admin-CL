@@ -1,0 +1,74 @@
+{
+  "id": 1293874307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73142,-34.42288,-71.73142,-34.42288",
+    "geom:latitude":-34.42288,
+    "geom:longitude":-71.73142,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:admin3_code":"6204.0",
+    "gn:asciiname":"Alcones",
+    "gn:country_code":"CL",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900235,
+    "gn:latitude":-34.42288,
+    "gn:longitude":-71.73142,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Alcones",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Halcones",
+        "Alcones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900235,
+        "wk:page":"Alcones"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d43355a5584b21dfd161ff21bc55b0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "locality_id":1293874307,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1293874307,
+    "wof:lastmodified":1537591172,
+    "wof:name":"Alcones",
+    "wof:parent_id":102063149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73142,
+    -34.42288,
+    -71.73142,
+    -34.42288
+],
+  "geometry": {"coordinates":[-71.73142,-34.42288],"type":"Point"}
+}

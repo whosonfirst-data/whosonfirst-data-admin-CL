@@ -1,0 +1,64 @@
+{
+  "id": 1209177737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05631,-39.80569,-73.05631,-39.80569",
+    "geom:latitude":-39.80569,
+    "geom:longitude":-73.05631,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"141.0",
+    "gn:admin3_code":"14101.0",
+    "gn:asciiname":"Pishuinco",
+    "gn:country_code":"CL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3875783,
+    "gn:latitude":-39.80569,
+    "gn:longitude":-73.05631,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pishuinco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875783,
+        "wk:page":"Pishuinco"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a815bb5e16cb9f374447f10096a9e015",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209177737
+        }
+    ],
+    "wof:id":1209177737,
+    "wof:lastmodified":1537489479,
+    "wof:name":"Pishuinco",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05631,
+    -39.80569000000001,
+    -73.05631,
+    -39.80569000000001
+],
+  "geometry": {"coordinates":[-73.05631,-39.80569000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226513235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.75924,-41.98253,-72.75924,-41.98253",
+    "geom:latitude":-41.98253,
+    "geom:longitude":-72.75924,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10403.0",
+    "gn:asciiname":"Lleguiman",
+    "gn:country_code":"CL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969703,
+    "gn:latitude":-41.98253,
+    "gn:longitude":-72.75924,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Lleguim\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lleguim\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969703
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"47b058cf9c26ec16f1bb5c279d458c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":1226513235,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226513235,
+    "wof:lastmodified":1537591175,
+    "wof:name":"Lleguiman",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.75924,
+    -41.98253,
+    -72.75924,
+    -41.98253
+],
+  "geometry": {"coordinates":[-72.75924000000001,-41.98253],"type":"Point"}
+}

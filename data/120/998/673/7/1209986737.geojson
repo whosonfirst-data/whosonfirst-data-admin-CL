@@ -1,0 +1,74 @@
+{
+  "id": 1209986737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.16667,-19.66667,-70.16667,-19.66667",
+    "geom:latitude":-19.66667,
+    "geom:longitude":-70.16667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1404.0",
+    "gn:asciiname":"Junin",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3886704,
+    "gn:latitude":-19.66667,
+    "gn:longitude":-70.16667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Jun\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caleta Jun\u00edn",
+        "Jun\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886704
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ed7bd2a4f567043096f789b02a90fbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1209986737,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1209986737,
+    "wof:lastmodified":1537591138,
+    "wof:name":"Junin",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.16667,
+    -19.66667,
+    -70.16667,
+    -19.66667
+],
+  "geometry": {"coordinates":[-70.16667,-19.66667],"type":"Point"}
+}

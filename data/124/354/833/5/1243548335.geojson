@@ -1,0 +1,76 @@
+{
+  "id": 1243548335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.82203,-54.85728,-68.82203,-54.85728",
+    "geom:latitude":-54.85728,
+    "geom:longitude":-68.82203,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"12201.0",
+    "gn:asciiname":"Estancia Yendegai",
+    "gn:country_code":"CL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3867687,
+    "gn:latitude":-54.85728,
+    "gn:longitude":-68.82203,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Estancia Yendegai",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Yendegai"
+    ],
+    "name:und_x_variant":[
+        "Caleta Ferrari",
+        "Estancia Yendegaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867687
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2c4cd2f78cb658afa754deb806a5e0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063089,
+            "locality_id":1243548335,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1243548335,
+    "wof:lastmodified":1537591099,
+    "wof:name":"Estancia Yendegai",
+    "wof:parent_id":102063089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.82203,
+    -54.85728,
+    -68.82203,
+    -54.85728
+],
+  "geometry": {"coordinates":[-68.82203,-54.85728],"type":"Point"}
+}

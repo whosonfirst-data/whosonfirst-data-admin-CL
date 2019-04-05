@@ -1,0 +1,66 @@
+{
+  "id": 890517895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.974426,-29.962965,-70.974426,-29.962965",
+    "geom:latitude":-29.962965,
+    "geom:longitude":-70.974426,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "qs:name":"El Molle",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Coquimbo",
+    "qs:photos":380,
+    "qs:photos_1k":77,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":380,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":347593,
+        "qs:id":1057684
+    },
+    "wof:country":"CL",
+    "wof:created":1469056034,
+    "wof:geomhash":"51ea0f29a6a2281acc4c4883a2071fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063091,
+            "locality_id":890517895,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":890517895,
+    "wof:lastmodified":1469056034,
+    "wof:name":"El Molle",
+    "wof:parent_id":102063091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.974426,
+    -29.962965,
+    -70.974426,
+    -29.962965
+],
+  "geometry": {"coordinates":[-70.97442599999999,-29.962965],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259881633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45999,-25.38972,-70.45999,-25.38972",
+    "geom:latitude":-25.38972,
+    "geom:longitude":-70.45999,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Hueso Parado",
+    "gn:country_code":"CL",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3887598,
+    "gn:latitude":-25.38972,
+    "gn:longitude":-70.45999,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Hueso Parado",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hueso",
+        "Hueso",
+        "Hueso Parado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887598
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b9b590248200e869b65d116ed905f2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "locality_id":1259881633,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1259881633,
+    "wof:lastmodified":1537591140,
+    "wof:name":"Hueso Parado",
+    "wof:parent_id":102063073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45999,
+    -25.38972,
+    -70.45999,
+    -25.38972
+],
+  "geometry": {"coordinates":[-70.45999,-25.38972],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1125423555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.70895,-34.95253,-71.70895,-34.95253",
+    "geom:latitude":-34.95253,
+    "geom:longitude":-71.70895,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-34.95253,
+    "lbl:longitude":-71.70895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8261333,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Huala\u00f1e",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904478,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261333,
+        "qs_pg:id":904478
+    },
+    "wof:country":"CL",
+    "wof:created":1497052714,
+    "wof:geomhash":"bf0a3bc605ec0cd03d0a21b789382c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "localadmin_id":1125423555,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1125423555,
+    "wof:lastmodified":1509390545,
+    "wof:name":"Huala\u00f1e",
+    "wof:parent_id":102063147,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.70895,
+    -34.95253,
+    -71.70895,
+    -34.95253
+],
+  "geometry": {"coordinates":[-71.70895,-34.95253],"type":"Point"}
+}

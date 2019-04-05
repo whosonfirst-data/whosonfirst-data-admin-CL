@@ -1,0 +1,73 @@
+{
+  "id": 890518289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27723,-37.59486,-72.27723,-37.59486",
+    "geom:latitude":-37.59486,
+    "geom:longitude":-72.27723,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"San Carlos de Pur\u00e9n",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Biobio",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":68,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3872313,
+        "gp:id":349411,
+        "qs:id":466736
+    },
+    "wof:country":"CL",
+    "wof:created":1469056057,
+    "wof:geomhash":"e4b9c4a2d987261533085329657d56d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063151,
+            "locality_id":890518289,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":890518289,
+    "wof:lastmodified":1505343908,
+    "wof:name":"San Carlos de Pur\u00e9n",
+    "wof:parent_id":102063151,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27723,
+    -37.59486,
+    -72.27723,
+    -37.59486
+],
+  "geometry": {"coordinates":[-72.27723,-37.59486],"type":"Point"}
+}

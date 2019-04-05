@@ -1,0 +1,71 @@
+{
+  "id": 1192989369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1031,-41.76325,-73.1031,-41.76325",
+    "geom:latitude":-41.76325,
+    "geom:longitude":-73.1031,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"La Cochilla",
+    "gn:country_code":"CL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8050737,
+    "gn:latitude":-41.76325,
+    "gn:longitude":-73.1031,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"La Cochilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cochilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8050737
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"47e33483e12477cb4af4ed925b09c7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1192989369,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1192989369,
+    "wof:lastmodified":1537591179,
+    "wof:name":"La Cochilla",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1031,
+    -41.76325,
+    -73.1031,
+    -41.76325
+],
+  "geometry": {"coordinates":[-73.1031,-41.76325],"type":"Point"}
+}

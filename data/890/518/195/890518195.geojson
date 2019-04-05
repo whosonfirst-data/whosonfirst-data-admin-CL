@@ -1,0 +1,84 @@
+{
+  "id": 890518195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.18703,-18.51544,-70.18703,-18.51544",
+    "geom:latitude":-18.51544,
+    "geom:longitude":-70.18703,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Azapa Chico"
+    ],
+    "qs:name":"Azapa",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Arica y Parinacota",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        102063165,
+        1108804709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3899067,
+        "gp:id":346840,
+        "qs:id":150645
+    },
+    "wof:country":"CL",
+    "wof:created":1469056053,
+    "wof:geomhash":"d056bd821503f2e20f8962aa3415bd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063165,
+            "locality_id":890518195,
+            "region_id":85682245
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063165,
+            "locality_id":890518195,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":890518195,
+    "wof:lastmodified":1505343908,
+    "wof:name":"Azapa",
+    "wof:parent_id":102063165,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.18703,
+    -18.51544,
+    -70.18703,
+    -18.51544
+],
+  "geometry": {"coordinates":[-70.18702999999999,-18.51544],"type":"Point"}
+}

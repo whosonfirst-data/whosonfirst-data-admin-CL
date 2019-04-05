@@ -1,0 +1,63 @@
+{
+  "id": 1209378543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.68036,-40.39847,-72.68036,-40.39847",
+    "geom:latitude":-40.39847,
+    "geom:longitude":-72.68036,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"142.0",
+    "gn:admin3_code":"14204.0",
+    "gn:asciiname":"Paillahue",
+    "gn:country_code":"CL",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3877742,
+    "gn:latitude":-40.39847,
+    "gn:longitude":-72.68036,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Paillahue",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3877742
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"cc386bd99c4ba2b9b2352a328fdd4fd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209378543
+        }
+    ],
+    "wof:id":1209378543,
+    "wof:lastmodified":1536288864,
+    "wof:name":"Paillahue",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.68036,
+    -40.39847,
+    -72.68036,
+    -40.39847
+],
+  "geometry": {"coordinates":[-72.68035999999999,-40.39847],"type":"Point"}
+}

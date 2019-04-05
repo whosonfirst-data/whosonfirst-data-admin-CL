@@ -1,0 +1,69 @@
+{
+  "id": 1360005861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07809,-34.23542,-71.07809,-34.23542",
+    "geom:latitude":-34.23542,
+    "geom:longitude":-71.07809,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"6104.0",
+    "gn:asciiname":"Rinconada de Parral",
+    "gn:country_code":"CL",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3873243,
+    "gn:latitude":-34.23542,
+    "gn:longitude":-71.07809,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Rinconada de Parral",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873243
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3d2b928a9288c059d043d487b88fe571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063155,
+            "locality_id":1360005861,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1360005861,
+    "wof:lastmodified":1537057455,
+    "wof:name":"Rinconada de Parral",
+    "wof:parent_id":102063155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07809,
+    -34.23542,
+    -71.07809,
+    -34.23542
+],
+  "geometry": {"coordinates":[-71.07809,-34.23542],"type":"Point"}
+}

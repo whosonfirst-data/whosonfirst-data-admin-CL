@@ -1,0 +1,69 @@
+{
+  "id": 890517549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.219829,-39.285419,-72.219829,-39.285419",
+    "geom:latitude":-39.285419,
+    "geom:longitude":-72.219829,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Villarrica",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Araucania",
+    "qs:photos":187,
+    "qs:photos_1k":38,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2390,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794061,
+        "qs:id":1263703,
+        "wk:page":"Villarrica"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056014,
+    "wof:geomhash":"b9a45350ea88d302b5171d9d104a6252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "localadmin_id":890517549,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":890517549,
+    "wof:lastmodified":1527751201,
+    "wof:name":"Villarrica",
+    "wof:parent_id":102063107,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.219829,
+    -39.285419,
+    -72.219829,
+    -39.285419
+],
+  "geometry": {"coordinates":[-72.219829,-39.285419],"type":"Point"}
+}

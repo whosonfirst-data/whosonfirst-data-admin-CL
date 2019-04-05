@@ -1,0 +1,69 @@
+{
+  "id": 1242995235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.12723,-36.72389,-73.12723,-36.72389",
+    "geom:latitude":-36.72389,
+    "geom:longitude":-73.12723,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"8110.0",
+    "gn:asciiname":"San Vicente",
+    "gn:country_code":"CL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871285,
+    "gn:latitude":-36.72389,
+    "gn:longitude":-73.12723,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"San Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871285
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e9d68652001f226f30622acab04abaf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063171,
+            "locality_id":1242995235,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1242995235,
+    "wof:lastmodified":1536959083,
+    "wof:name":"San Vicente",
+    "wof:parent_id":102063171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.12723000000003,
+    -36.72389,
+    -73.12723000000003,
+    -36.72389
+],
+  "geometry": {"coordinates":[-73.12723000000003,-36.72389],"type":"Point"}
+}

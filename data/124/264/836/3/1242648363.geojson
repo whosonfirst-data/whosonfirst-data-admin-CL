@@ -1,0 +1,72 @@
+{
+  "id": 1242648363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.58353,-41.6026,-73.58353,-41.6026",
+    "geom:latitude":-41.6026,
+    "geom:longitude":-73.58353,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10108.0",
+    "gn:asciiname":"Lepihue",
+    "gn:country_code":"CL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3883319,
+    "gn:latitude":-41.6026,
+    "gn:longitude":-73.58353,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Lepihu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lepihu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883319
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fc1ad80b75d6ccc8beec0be5ad99a376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1242648363,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1242648363,
+    "wof:lastmodified":1537591129,
+    "wof:name":"Lepihue",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.58353000000002,
+    -41.6026,
+    -73.58353000000002,
+    -41.6026
+],
+  "geometry": {"coordinates":[-73.58353000000002,-41.6026],"type":"Point"}
+}

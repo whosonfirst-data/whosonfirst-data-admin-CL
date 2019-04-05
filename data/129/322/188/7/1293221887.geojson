@@ -1,0 +1,73 @@
+{
+  "id": 1293221887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2173,-29.72145,-71.2173,-29.72145",
+    "geom:latitude":-29.72145,
+    "geom:longitude":-71.2173,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4101.0",
+    "gn:asciiname":"Romeral",
+    "gn:country_code":"CL",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3872901,
+    "gn:latitude":-29.72145,
+    "gn:longitude":-71.2173,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Romeral",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Romeral",
+        "Romeral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3872901
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"29d50a478ae1720bab99c78828551e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063091,
+            "locality_id":1293221887,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1293221887,
+    "wof:lastmodified":1537591105,
+    "wof:name":"Romeral",
+    "wof:parent_id":102063091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.2173,
+    -29.72145,
+    -71.2173,
+    -29.72145
+],
+  "geometry": {"coordinates":[-71.21729999999999,-29.72145],"type":"Point"}
+}

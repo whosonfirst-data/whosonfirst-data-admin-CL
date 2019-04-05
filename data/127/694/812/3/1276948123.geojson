@@ -1,0 +1,67 @@
+{
+  "id": 1276948123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.71778,-17.58278,-69.71778,-17.58278",
+    "geom:latitude":-17.58278,
+    "geom:longitude":-69.71778,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tulapina",
+    "gn:country_code":"CL",
+    "gn:dem":4420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949120,
+    "gn:latitude":-17.58278,
+    "gn:longitude":-69.71778,
+    "gn:modification_date":"1994-10-18",
+    "gn:name":"Tulapi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949120
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8cb2f1ce7baf6054e48ac413624b2027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1276948123,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1276948123,
+    "wof:lastmodified":1536950204,
+    "wof:name":"Tulapina",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.71778,
+    -17.58278,
+    -69.71778,
+    -17.58278
+],
+  "geometry": {"coordinates":[-69.71778,-17.58278],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890517431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20671,-39.77266,-73.20671,-39.77266",
+    "geom:latitude":-39.77266,
+    "geom:longitude":-73.20671,
+    "gn:country":"CL",
+    "gn:fcode":"PPLX",
+    "gn:pop":350,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"El Arenal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        85682171,
+        102191577,
+        85633057,
+        102016837,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6458709,
+        "gp:id":347283,
+        "qs:id":625712,
+        "wk:page":"El Arenal"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056008,
+    "wof:geomhash":"ed5a0e143d5fc229351d02f664150c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "locality_id":102016837,
+            "neighbourhood_id":890517431,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":890517431,
+    "wof:lastmodified":1527749994,
+    "wof:name":"El Arenal",
+    "wof:parent_id":102016837,
+    "wof:placetype":"neighbourhood",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20671,
+    -39.77266,
+    -73.20671,
+    -39.77266
+],
+  "geometry": {"coordinates":[-73.20671,-39.77266],"type":"Point"}
+}

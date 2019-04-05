@@ -1,0 +1,69 @@
+{
+  "id": 1293122931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.10162,-36.84098,-72.10162,-36.84098",
+    "geom:latitude":-36.84098,
+    "geom:longitude":-72.10162,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"84.0",
+    "gn:admin3_code":"8418.0",
+    "gn:asciiname":"Quiriquina",
+    "gn:country_code":"CL",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3873954,
+    "gn:latitude":-36.84098,
+    "gn:longitude":-72.10162,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Quiriquina",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873954
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"af354c3012ff95332f1a8ce442d006de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "locality_id":1293122931,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":1293122931,
+    "wof:lastmodified":1536814945,
+    "wof:name":"Quiriquina",
+    "wof:parent_id":102063109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.10162,
+    -36.84098,
+    -72.10162,
+    -36.84098
+],
+  "geometry": {"coordinates":[-72.10162,-36.84098],"type":"Point"}
+}

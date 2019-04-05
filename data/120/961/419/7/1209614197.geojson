@@ -1,0 +1,63 @@
+{
+  "id": 1209614197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45,-26.26667,-69.45,-26.26667",
+    "geom:latitude":-26.26667,
+    "geom:longitude":-69.45,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3202.0",
+    "gn:asciiname":"Castillo",
+    "gn:country_code":"CL",
+    "gn:dem":3145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896254,
+    "gn:latitude":-26.26667,
+    "gn:longitude":-69.45,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Castillo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896254
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"38bff9eb70d26c4f85df9ecb5a18ec2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209614197
+        }
+    ],
+    "wof:id":1209614197,
+    "wof:lastmodified":1536281746,
+    "wof:name":"Castillo",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45,
+    -26.26667,
+    -69.45,
+    -26.26667
+],
+  "geometry": {"coordinates":[-69.45,-26.26667],"type":"Point"}
+}

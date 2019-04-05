@@ -1,0 +1,94 @@
+{
+  "id": 890518215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1472,-28.0819,-71.1472,-28.0819",
+    "geom:latitude":-28.0819,
+    "geom:longitude":-71.1472,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Carrizal Bajo"
+    ],
+    "name:eng_x_preferred":[
+        "Carrizal Bajo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30b5\u30eb\u30fb\u30d0\u30db"
+    ],
+    "name:spa_x_preferred":[
+        "Carrizal Bajo"
+    ],
+    "name:swe_x_preferred":[
+        "Carrizal Bajo"
+    ],
+    "name:unk_x_variant":[
+        "Carrizal"
+    ],
+    "qs:name":"Carrizal Bajo",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Atacama",
+    "qs:photos":55,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":55,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":145,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896484,
+        "gp:id":349988,
+        "qs:id":972907,
+        "wd:id":"Q5046469",
+        "wk:page":"Carrizal Bajo"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056054,
+    "wof:geomhash":"54c5a985ba043b2190e31c08239640b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":890518215,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":890518215,
+    "wof:lastmodified":1527751236,
+    "wof:name":"Carrizal Bajo",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1472,
+    -28.0819,
+    -71.1472,
+    -28.0819
+],
+  "geometry": {"coordinates":[-71.1472,-28.0819],"type":"Point"}
+}

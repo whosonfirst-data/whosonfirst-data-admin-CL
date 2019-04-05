@@ -1,0 +1,72 @@
+{
+  "id": 1226213383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.41892,-41.77593,-73.41892,-41.77593",
+    "geom:latitude":-41.77593,
+    "geom:longitude":-73.41892,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10102.0",
+    "gn:asciiname":"Abtao",
+    "gn:country_code":"CL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900734,
+    "gn:latitude":-41.77593,
+    "gn:longitude":-73.41892,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Abtao",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Abtao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900734
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4ef0fcf8eee95dac339b8d68fc4bc1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1226213383,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1226213383,
+    "wof:lastmodified":1537591173,
+    "wof:name":"Abtao",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.41892,
+    -41.77593,
+    -73.41892,
+    -41.77593
+],
+  "geometry": {"coordinates":[-73.41892,-41.77593],"type":"Point"}
+}

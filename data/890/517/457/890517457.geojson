@@ -1,0 +1,63 @@
+{
+  "id": 890517457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33333,-20.25,-69.33333,-20.25",
+    "geom:latitude":-20.25,
+    "geom:longitude":-69.33333,
+    "gn:country":"CL",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Provincia de Iquique",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887125,
+        "qs:id":353396
+    },
+    "wof:country":"CL",
+    "wof:created":1469056009,
+    "wof:geomhash":"fe44c0cbfdd986d66257455997801b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517457,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":890517457,
+    "wof:lastmodified":1505343906,
+    "wof:name":"Provincia de Iquique",
+    "wof:parent_id":85682245,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33333,
+    -20.25,
+    -69.33333,
+    -20.25
+],
+  "geometry": {"coordinates":[-69.33333,-20.25],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293704409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.91937,-32.81077,-70.91937,-32.81077",
+    "geom:latitude":-32.81077,
+    "geom:longitude":-70.91937,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5704.0",
+    "gn:asciiname":"Lo Campo",
+    "gn:country_code":"CL",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3882742,
+    "gn:latitude":-32.81077,
+    "gn:longitude":-70.91937,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Lo Campo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ocampo",
+        "Lo Campo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882742
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"316ef60ccc48166749470e7f33c44293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063099,
+            "locality_id":1293704409,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1293704409,
+    "wof:lastmodified":1537591127,
+    "wof:name":"Lo Campo",
+    "wof:parent_id":102063099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.91937,
+    -32.81077,
+    -70.91937,
+    -32.81077
+],
+  "geometry": {"coordinates":[-70.91937,-32.81077],"type":"Point"}
+}

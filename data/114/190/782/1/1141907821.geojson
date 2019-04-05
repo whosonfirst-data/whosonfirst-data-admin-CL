@@ -1,0 +1,206 @@
+{
+  "id": 1141907821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.8299837664,-39.8495198377,-72.8299837664,-39.8495198377",
+    "geom:latitude":-39.84952,
+    "geom:longitude":-72.829984,
+    "iso:country":"CL",
+    "lbl:latitude":-39.84952,
+    "lbl:longitude":-72.829984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:cat_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u65af\u62c9\u6208\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:eng_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:fre_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:ger_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc2a4\ub77c\uace0\uc2a4"
+    ],
+    "name:nan_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:oci_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648\u0633 \u0644\u0627\u06af\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:por_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:rum_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u041b\u0430\u0433\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Lagos"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Chile",
+    "ne:ADM0_A3":"CHL",
+    "ne:ADM1NAME":"Los R",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"CL",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-39.84952,
+    "ne:LONGITUDE":-72.829984,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Los Lagos",
+    "ne:MAX_AREAKM":8.0,
+    "ne:MAX_AREAMI":3.0,
+    "ne:MAX_BBXMAX":-72.791667,
+    "ne:MAX_BBXMIN":-72.833333,
+    "ne:MAX_BBYMAX":-39.85,
+    "ne:MAX_BBYMIN":-39.875,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":14.0,
+    "ne:MAX_PERMI":8.0,
+    "ne:MAX_POP10":12813,
+    "ne:MAX_POP20":12813,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-72.811111,
+    "ne:MEAN_BBYC":-39.8625,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":8.0,
+    "ne:MIN_AREAMI":3.0,
+    "ne:MIN_BBXMAX":-72.791667,
+    "ne:MIN_BBXMIN":-72.833333,
+    "ne:MIN_BBYMAX":-39.85,
+    "ne:MIN_BBYMIN":-39.875,
+    "ne:MIN_PERKM":14.0,
+    "ne:MIN_PERMI":8.0,
+    "ne:NAME":"Los Lagos",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Los Lagos",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":12813,
+    "ne:POP_MIN":12813,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Chile",
+    "ne:SOV_A3":"CHL",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":-39.84952,
+    "reversegeo:longitude":-72.829984,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q16905"
+    },
+    "wof:country":"CL",
+    "wof:created":1499130775,
+    "wof:geomhash":"cba0fe3845e9fc10bad3bf9fd7e696a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "locality_id":1141907821,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":1141907821,
+    "wof:lastmodified":1553816736,
+    "wof:name":"Los Lagos",
+    "wof:parent_id":102063183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.82998376635442,
+    -39.84951983770804,
+    -72.82998376635442,
+    -39.84951983770804
+],
+  "geometry": {"coordinates":[-72.82998376635442,-39.84951983770804],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310600171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87019,-28.54757,-70.87019,-28.54757",
+    "geom:latitude":-28.54757,
+    "geom:longitude":-70.87019,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3301.0",
+    "gn:asciiname":"Centinela",
+    "gn:country_code":"CL",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895989,
+    "gn:latitude":-28.54757,
+    "gn:longitude":-70.87019,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Centinela",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Centinela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895989
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c9cb2c6a6e2fd4b6996de55c303da6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1310600171,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1310600171,
+    "wof:lastmodified":1537591162,
+    "wof:name":"Centinela",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87019000000002,
+    -28.54757,
+    -70.87019000000002,
+    -28.54757
+],
+  "geometry": {"coordinates":[-70.87019000000002,-28.54757],"type":"Point"}
+}

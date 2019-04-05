@@ -1,0 +1,97 @@
+{
+  "id": 1293582985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.44422,-51.77995,-72.44422,-51.77995",
+    "geom:latitude":-51.77995,
+    "geom:longitude":-72.44422,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"12401.0",
+    "gn:asciiname":"Puerto Demaistre",
+    "gn:country_code":"CL",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874973,
+    "gn:latitude":-51.77995,
+    "gn:longitude":-72.44422,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Puerto Demaistre",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumestre",
+        "Puerto Demaistre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874973
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a6f99b03b231f1614bcbba4d7323d132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1293582985,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1293582985,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1293582985,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1293582985,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1293582985,
+    "wof:lastmodified":1537591111,
+    "wof:name":"Puerto Demaistre",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.44422,
+    -51.77995,
+    -72.44422,
+    -51.77995
+],
+  "geometry": {"coordinates":[-72.44422,-51.77995],"type":"Point"}
+}

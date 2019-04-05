@@ -1,0 +1,63 @@
+{
+  "id": 1327123435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.93333,-53.21667,-70.93333,-53.21667",
+    "geom:latitude":-53.21667,
+    "geom:longitude":-70.93333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12101.0",
+    "gn:asciiname":"Lenadura",
+    "gn:country_code":"CL",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3883408,
+    "gn:latitude":-53.21667,
+    "gn:longitude":-70.93333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Le\u00f1adura",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883408
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"a5c699a8dc8a60639de76777603007d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327123435,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327123435,
+    "wof:lastmodified":1536627259,
+    "wof:name":"Lenadura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.93333,
+    -53.21666999999999,
+    -70.93333,
+    -53.21666999999999
+],
+  "geometry": {"coordinates":[-70.93333,-53.21666999999999],"type":"Point"}
+}

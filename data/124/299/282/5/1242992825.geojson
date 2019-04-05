@@ -1,0 +1,74 @@
+{
+  "id": 1242992825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.37632,-34.67312,-71.37632,-34.67312",
+    "geom:latitude":-34.67312,
+    "geom:longitude":-71.37632,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"63.0",
+    "gn:admin3_code":"6310.0",
+    "gn:asciiname":"La Pataguilla",
+    "gn:country_code":"CL",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885075,
+    "gn:latitude":-34.67312,
+    "gn:longitude":-71.37632,
+    "gn:modification_date":"2018-04-09",
+    "gn:name":"La Patag\u00fcilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pataguilla",
+        "La Patag\u00fcilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885075,
+        "wk:page":"La_Patag%C3%BCilla"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"770dab1308d2b40f00ee6e30f0df1e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "locality_id":1242992825,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1242992825,
+    "wof:lastmodified":1537591133,
+    "wof:name":"La Pataguilla",
+    "wof:parent_id":102063157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.37631999999998,
+    -34.67312,
+    -71.37631999999998,
+    -34.67312
+],
+  "geometry": {"coordinates":[-71.37631999999998,-34.67312],"type":"Point"}
+}

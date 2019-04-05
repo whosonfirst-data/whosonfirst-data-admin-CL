@@ -1,0 +1,212 @@
+{
+  "id": 1141906585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6699957699,-22.3500195121,-69.6699957699,-22.3500195121",
+    "geom:latitude":-22.35002,
+    "geom:longitude":-69.669996,
+    "iso:country":"CL",
+    "lbl:latitude":-22.35002,
+    "lbl:longitude":-69.669996,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0627 \u0625\u064a\u0644\u064a\u0646\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:cat_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:chi_x_preferred":[
+        "\u746a\u8389\u4e9e\u57c3\u7433\u5a1c"
+    ],
+    "name:dut_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:eng_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:fre_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:ger_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:ita_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30a2\u30fb\u30a8\u30ec\u30fc\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub9ac\uc544\uc5d8\ub808\ub098"
+    ],
+    "name:nan_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:nob_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:oci_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:pol_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:por_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:rum_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u044f-\u042d\u043b\u0435\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:spa_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Chile",
+    "ne:ADM0_A3":"CHL",
+    "ne:ADM1NAME":"Antofagasta",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"CL",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-22.35002,
+    "ne:LONGITUDE":-69.669996,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Maria Elena",
+    "ne:MAX_AREAKM":3.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-69.658333,
+    "ne:MAX_BBXMIN":-69.675,
+    "ne:MAX_BBYMAX":-22.333333,
+    "ne:MAX_BBYMIN":-22.35,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":7.0,
+    "ne:MAX_PERMI":4.0,
+    "ne:MAX_POP10":2370,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-69.666667,
+    "ne:MEAN_BBYC":-22.341667,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":3.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-69.658333,
+    "ne:MIN_BBXMIN":-69.675,
+    "ne:MIN_BBYMAX":-22.333333,
+    "ne:MIN_BBYMIN":-22.35,
+    "ne:MIN_PERKM":7.0,
+    "ne:MIN_PERMI":4.0,
+    "ne:NAME":"Maria Elena",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Maria Elena",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":2370,
+    "ne:POP_MIN":2370,
+    "ne:POP_OTHER":2370,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Chile",
+    "ne:SOV_A3":"CHL",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":-22.35002,
+    "reversegeo:longitude":-69.669996,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q16923"
+    },
+    "wof:country":"CL",
+    "wof:created":1499130613,
+    "wof:geomhash":"b3e789a3f8c76f96edb8e21f26d3be4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063093,
+            "locality_id":1141906585,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1141906585,
+    "wof:lastmodified":1513937689,
+    "wof:name":"Maria Elena",
+    "wof:parent_id":102063093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.66999576992242,
+    -22.35001951211729,
+    -69.66999576992242,
+    -22.35001951211729
+],
+  "geometry": {"coordinates":[-69.66999576992242,-22.35001951211729],"type":"Point"}
+}

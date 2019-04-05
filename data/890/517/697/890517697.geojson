@@ -1,0 +1,71 @@
+{
+  "id": 890517697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.39242,-38.98556,-72.39242,-38.98556",
+    "geom:latitude":-38.98556,
+    "geom:longitude":-72.39242,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Radal",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Araucania",
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":112,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3873868,
+        "gp:id":350122,
+        "qs:id":1047071
+    },
+    "wof:country":"CL",
+    "wof:created":1469056021,
+    "wof:geomhash":"3e9f91b692a90e40f0096e41a65511aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":890517697,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":890517697,
+    "wof:lastmodified":1505343907,
+    "wof:name":"Radal",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.39242,
+    -38.98556,
+    -72.39242,
+    -38.98556
+],
+  "geometry": {"coordinates":[-72.39242,-38.98556],"type":"Point"}
+}

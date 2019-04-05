@@ -1,0 +1,73 @@
+{
+  "id": 1209895059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4255,-42.40007,-73.4255,-42.40007",
+    "geom:latitude":-42.40007,
+    "geom:longitude":-73.4255,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10210.0",
+    "gn:asciiname":"Curaco de Linlin",
+    "gn:country_code":"CL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3892914,
+    "gn:latitude":-42.40007,
+    "gn:longitude":-73.4255,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Curaco de Linl\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Curaco",
+        "Curaco de Linl\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3892914
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2df2ca1054921fb0f9710ffa67fa490a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1209895059,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1209895059,
+    "wof:lastmodified":1537591152,
+    "wof:name":"Curaco de Linlin",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4255,
+    -42.40007,
+    -73.4255,
+    -42.40007
+],
+  "geometry": {"coordinates":[-73.4255,-42.40007],"type":"Point"}
+}

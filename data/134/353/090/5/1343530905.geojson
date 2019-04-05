@@ -1,0 +1,71 @@
+{
+  "id": 1343530905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.63715,-17.86354,-69.63715,-17.86354",
+    "geom:latitude":-17.86354,
+    "geom:longitude":-69.63715,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:asciiname":"Hospicio",
+    "gn:country_code":"CL",
+    "gn:dem":3960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109145,
+    "gn:latitude":-17.86354,
+    "gn:longitude":-69.63715,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Hospicio",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hospicio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109145
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ea3e3660dd5357eab6300f79454bebe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1343530905,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1343530905,
+    "wof:lastmodified":1537591180,
+    "wof:name":"Hospicio",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.63715,
+    -17.86354,
+    -69.63715,
+    -17.86354
+],
+  "geometry": {"coordinates":[-69.63715000000001,-17.86354],"type":"Point"}
+}

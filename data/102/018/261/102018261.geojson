@@ -1,0 +1,223 @@
+{
+  "id": 102018261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00057,
+    "geom:area_square_m":4676926.409461,
+    "geom:bbox":"-72.572720701,-48.4782674548,-72.5456877144,-48.4530061949",
+    "geom:latitude":-48.465637,
+    "geom:longitude":-72.559204,
+    "iso:country":"CL",
+    "lbl:latitude":-48.465637,
+    "lbl:longitude":-72.559204,
+    "mps:latitude":-48.465637,
+    "mps:longitude":-72.559204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:cat_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:cze_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:deu_x_preferred":[
+        "Villa O\u2019Higgins"
+    ],
+    "name:dut_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:eng_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:fra_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:fre_x_preferred":[
+        "villa O'Higgins"
+    ],
+    "name:ger_x_preferred":[
+        "Villa O\u2019Higgins"
+    ],
+    "name:ita_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30e9\u30fb\u30aa\u30a4\u30ae\u30f3\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja O'Higinsas"
+    ],
+    "name:pol_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:ron_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:rum_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u041e\u2019\u0425\u0438\u0433\u0433\u0438\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:swe_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Chile",
+    "ne:ADM0_A3":"CHL",
+    "ne:ADM1NAME":"Santa Cruz",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"CL",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-48.467909,
+    "ne:LONGITUDE":-72.559974,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Villa O'Higgins",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Villa O'Higgins",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Villa O'Higgins",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":250,
+    "ne:POP_MIN":100,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":2,
+    "ne:RANK_MIN":1,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Chile",
+    "ne:SOV_A3":"CHL",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Villa O'Higgins",
+    "qs:loc_lc":"8504888",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":170,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504888,
+        "gp:id":350010,
+        "wd:id":"Q992143"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b2862be2099ab660337799a95e1564d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063085,
+            "locality_id":102018261,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":102018261,
+    "wof:lastmodified":1534379256,
+    "wof:name":"Villa O'Higgins",
+    "wof:parent_id":102063085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141908033
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.57272070104828,
+    -48.47826745476911,
+    -72.54568771440026,
+    -48.45300619487474
+],
+  "geometry": {"coordinates":[[[-72.55614359064791,-48.47803874596841],[-72.55877268820632,-48.47826745476911],[-72.561418376825,-48.47815068939512],[-72.56397893133351,-48.47769293851366],[-72.56635590442724,-48.47691180125735],[-72.56845791704535,-48.47583730967675],[-72.57020417509088,-48.47451077258547],[-72.57152757657306,-48.47298318554123],[-72.57237728942221,-48.47131326845236],[-72.57272070104828,-48.46956520663039],[-72.5725446653166,-48.46780618246043],[-72.57185599998243,-48.46610379280673],[-72.57153755730211,-48.46567541754818],[-72.57237541366675,-48.46402854465288],[-72.57271876679081,-48.46228047999782],[-72.57254274689384,-48.46052145420666],[-72.57185417110173,-48.45881906420648],[-72.57067954756027,-48.45723872386958],[-72.56906404965753,-48.45584115141715],[-72.56706977497819,-48.45468003808811],[-72.56477335666419,-48.45379998735502],[-72.56226301932014,-48.4532348034938],[-72.55963519246777,-48.45300619487474],[-72.55699081110268,-48.45312294144475],[-72.55443144456549,-48.45358055813338],[-72.5520554013132,-48.45436146699345],[-72.54995395806526,-48.45543567149436],[-72.54820785715695,-48.45676190724002],[-72.54688420593507,-48.45828922519924],[-72.54603389700274,-48.45995894699003],[-72.54568964857991,-48.46170691748397],[-72.54586474087452,-48.46346596852365],[-72.54655249797993,-48.46516849933784],[-72.54687073051591,-48.46559692695647],[-72.54603202168285,-48.46724361260679],[-72.54568771440026,-48.46899158024756],[-72.5458628221601,-48.47075062967643],[-72.5465506684825,-48.47245316018385],[-72.54772486644899,-48.47403373646935],[-72.54934032563426,-48.47543160450169],[-72.55133497982283,-48.47659302829759],[-72.55363216989362,-48.47747335750765],[-72.55614359064791,-48.47803874596841]]],"type":"Polygon"}
+}

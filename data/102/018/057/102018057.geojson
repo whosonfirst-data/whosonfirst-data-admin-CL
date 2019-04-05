@@ -1,0 +1,129 @@
+{
+  "id": 102018057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":80991.53204,
+    "geom:bbox":"-70.6420898437,-33.5482621161,-70.6393432617,-33.5448284608",
+    "geom:latitude":-33.546774,
+    "geom:longitude":-70.640579,
+    "iso:country":"CL",
+    "lbl:latitude":-33.547094,
+    "lbl:longitude":-70.640487,
+    "mps:latitude":-33.547094,
+    "mps:longitude":-70.640487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u62c9\u8499"
+    ],
+    "name:dut_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ub77c\ubaac"
+    ],
+    "name:nan_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:rum_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u043c\u043e\u043d"
+    ],
+    "name:spa_x_colloquial":[
+        "S. Ramon"
+    ],
+    "name:spa_x_preferred":[
+        "San Ramon"
+    ],
+    "name:spa_x_variant":[
+        "S Ramon",
+        "S Ram\u00f3n",
+        "S. Ram\u00f3n",
+        "San Ram\u00f3n"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0420\u0430\u043c\u043e\u043d"
+    ],
+    "qs:a0":"Chile",
+    "qs:a1":"*Santiago",
+    "qs:a1r":"*",
+    "qs:a2":"Santiago",
+    "qs:id":0,
+    "qs:la":"San Ramon",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Ramon",
+    "qs:loc_alt":"San Ramon",
+    "qs:loc_lc":"8261158",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"LocalAdmin",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06b0ea7a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":8261158,
+        "gp:id":26794307,
+        "qs:id":352366,
+        "wd:id":"Q187919"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"56ca2c34e5a8e5c96802f6c10d4e5041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "locality_id":102018057,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":102018057,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1513937898,
+    "wof:name":"San Ramon",
+    "wof:parent_id":102063117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6420898437,
+    -33.5482621161,
+    -70.6393432617,
+    -33.5448284608
+],
+  "geometry": {"coordinates":[[[-70.63934326170001,-33.54711757949999],[-70.63934326170001,-33.5482621161],[-70.6407165527,-33.5482621161],[-70.64208984370001,-33.5482621161],[-70.64208984370001,-33.54711757949999],[-70.64208984370001,-33.5459730277],[-70.6407165527,-33.5459730277],[-70.6407165527,-33.5448284608],[-70.63934326170001,-33.5448284608],[-70.63934326170001,-33.5459730277],[-70.63934326170001,-33.54711757949999]]],"type":"Polygon"}
+}

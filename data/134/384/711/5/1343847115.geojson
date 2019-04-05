@@ -1,0 +1,72 @@
+{
+  "id": 1343847115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.19997,-52.62238,-70.19997,-52.62238",
+    "geom:latitude":-52.62238,
+    "geom:longitude":-70.19997,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"12104.0",
+    "gn:asciiname":"Puerto Sara",
+    "gn:country_code":"CL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874935,
+    "gn:latitude":-52.62238,
+    "gn:longitude":-70.19997,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Puerto Sara",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Sara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874935
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6ce8d7da5bc5c7c8ecf2406350785360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1343847115,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1343847115,
+    "wof:lastmodified":1537591111,
+    "wof:name":"Puerto Sara",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.19997,
+    -52.62238000000001,
+    -70.19997,
+    -52.62238000000001
+],
+  "geometry": {"coordinates":[-70.19996999999999,-52.62238000000001],"type":"Point"}
+}

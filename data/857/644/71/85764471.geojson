@@ -1,0 +1,140 @@
+{
+  "id": 85764471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":61840581.59511,
+    "geom:bbox":"-70.401161,-23.65737,-70.401161,-23.65737",
+    "geom:latitude":-23.65737,
+    "geom:longitude":-70.401161,
+    "gn:latitude":-23.67555,
+    "gn:longitude":-70.40838,
+    "iso:country":"CL",
+    "lbl:latitude":-23.65737,
+    "lbl:longitude":-70.401161,
+    "mps:latitude":-23.678962,
+    "mps:longitude":-70.407088,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:deu_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:fra_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:glg_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:ita_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:nld_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:nor_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u044f-\u0411\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:swe_x_preferred":[
+        "Playa Blanca"
+    ],
+    "name:unk_x_variant":[
+        "Playa Blanca"
+    ],
+    "qs:gn_adm0_cc":"CL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3899539,
+    "qs:gn_nam_loc":"Antofagasta, Provincia de Antofagasta, Antofagasta, Antofagasta, Antofagasta, CL",
+    "qs:gn_namadm1":"03",
+    "qs:gn_name":"Playa Blanca",
+    "qs:local_max":3098,
+    "qs:local_sum":3098,
+    "qs:localhoods":1,
+    "qs:name":"Playa Blanca",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Antofagasta",
+    "qs:name_adm2":"Antofagasta",
+    "qs:name_lau":"Antofagasta",
+    "qs:name_local":"Antofagasta",
+    "qs:photo_max":1279,
+    "qs:photo_sum":3098,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":111,
+    "qs:woe_adm0":23424782,
+    "qs:woe_adm1":2345020,
+    "qs:woe_adm2":26793975,
+    "qs:woe_lau":26794033,
+    "qs:woe_local":349862,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1534,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        102017963,
+        102063073,
+        85682175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875652,
+        "gp:id":348987,
+        "qs:id":466724,
+        "qs_pg:id":466724
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"808af5e9e713660064fc75c3093e1e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "locality_id":102017963,
+            "neighbourhood_id":85764471,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":85764471,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858901,
+    "wof:name":"Playa Blanca",
+    "wof:parent_id":102017963,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.401161,
+    -23.65737,
+    -70.401161,
+    -23.65737
+],
+  "geometry": {"coordinates":[-70.401161,-23.65737],"type":"Point"}
+}

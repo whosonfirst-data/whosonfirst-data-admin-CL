@@ -1,0 +1,69 @@
+{
+  "id": 1226023123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.38206,-35.30301,-71.38206,-35.30301",
+    "geom:latitude":-35.30301,
+    "geom:longitude":-71.38206,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7108.0",
+    "gn:asciiname":"Quillayes",
+    "gn:country_code":"CL",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874151,
+    "gn:latitude":-35.30301,
+    "gn:longitude":-71.38206,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Quillayes",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874151
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6c47ad34018c245cc4caa5db85eedf75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1226023123,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1226023123,
+    "wof:lastmodified":1536757980,
+    "wof:name":"Quillayes",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38206,
+    -35.30301,
+    -71.38206,
+    -35.30301
+],
+  "geometry": {"coordinates":[-71.38206,-35.30301],"type":"Point"}
+}

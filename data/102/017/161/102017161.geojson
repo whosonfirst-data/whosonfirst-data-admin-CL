@@ -1,0 +1,78 @@
+{
+  "id": 102017161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000198,
+    "geom:area_square_m":2018198.703666,
+    "geom:bbox":"-70.8728027344,-34.6964611727,-70.8508300781,-34.6783937401",
+    "geom:latitude":-34.687427,
+    "geom:longitude":-70.861817,
+    "iso:country":"CL",
+    "lbl:latitude":-34.682911,
+    "lbl:longitude":-70.86731,
+    "mps:latitude":-34.682911,
+    "mps:longitude":-70.86731,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Chile",
+    "qs:a1":"*Libertador General Bernardo O'Higgins",
+    "qs:a1r":"*",
+    "qs:a2":"Colchagua",
+    "qs:id":0,
+    "qs:la":"San Fernando",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Puente Negro",
+    "qs:loc_alt":"Puente Negro",
+    "qs:loc_lc":"3875017",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3875017,
+        "gp:id":349061,
+        "qs:id":1116109,
+        "qs_pg:id":1116109
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2dde56f659739492c432e0d0766c44b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "locality_id":102017161,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":102017161,
+    "wof:lastmodified":1497295190,
+    "wof:name":"Puente Negro",
+    "wof:parent_id":102063157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.8728027344,
+    -34.6964611727,
+    -70.8508300781,
+    -34.6783937401
+],
+  "geometry": {"coordinates":[[[[-70.86181640620001,-34.6964611727],[-70.86181640620001,-34.6874279493],[-70.8508300781,-34.6874279493],[-70.8508300781,-34.6964611727],[-70.86181640620001,-34.6964611727]]],[[[-70.8728027344,-34.6874279493],[-70.8728027344,-34.6783937401],[-70.86181640620001,-34.6783937401],[-70.86181640620001,-34.6874279493],[-70.8728027344,-34.6874279493]]]],"type":"MultiPolygon"}
+}

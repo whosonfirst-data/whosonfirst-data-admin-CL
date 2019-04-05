@@ -1,0 +1,70 @@
+{
+  "id": 890517743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.460571,-32.554771,-71.460571,-32.554771",
+    "geom:latitude":-32.554771,
+    "geom:longitude":-71.460571,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Zapallar",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":205,
+    "qs:photos_1k":42,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1288,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":432,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794333,
+        "qs:id":430241,
+        "wd:id":"Q201064",
+        "wk:page":"Zapallar"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056022,
+    "wof:geomhash":"1d1f38800ddf0d09401066314f7ffbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063077,
+            "localadmin_id":890517743,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":890517743,
+    "wof:lastmodified":1527751202,
+    "wof:name":"Zapallar",
+    "wof:parent_id":102063077,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.460571,
+    -32.554771,
+    -71.460571,
+    -32.554771
+],
+  "geometry": {"coordinates":[-71.460571,-32.554771],"type":"Point"}
+}

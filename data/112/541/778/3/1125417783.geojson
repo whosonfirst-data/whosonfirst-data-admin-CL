@@ -1,0 +1,74 @@
+{
+  "id": 1125417783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.40617,-30.674,-71.40617,-30.674",
+    "geom:latitude":-30.674,
+    "geom:longitude":-71.40617,
+    "gn:gn_country":"CL",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CL",
+    "lbl:latitude":-30.674,
+    "lbl:longitude":-71.40617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8261224,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ovalle",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155739,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261224,
+        "qs_pg:id":1155739
+    },
+    "wof:country":"CL",
+    "wof:created":1497051647,
+    "wof:geomhash":"bd8895b47c0aae8b40fc302010eff833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "localadmin_id":1125417783,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1125417783,
+    "wof:lastmodified":1509390406,
+    "wof:name":"Ovalle",
+    "wof:parent_id":102063113,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.40617,
+    -30.674,
+    -71.40617,
+    -30.674
+],
+  "geometry": {"coordinates":[-71.40617,-30.674],"type":"Point"}
+}

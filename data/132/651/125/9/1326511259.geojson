@@ -1,0 +1,73 @@
+{
+  "id": 1326511259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.46649,-35.81741,-71.46649,-35.81741",
+    "geom:latitude":-35.81741,
+    "geom:longitude":-71.46649,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"74.0",
+    "gn:admin3_code":"7402.0",
+    "gn:asciiname":"Capilla Palacio",
+    "gn:country_code":"CL",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896841,
+    "gn:latitude":-35.81741,
+    "gn:longitude":-71.46649,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Capilla Palacio",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capilla de Palacios",
+        "Capilla Palacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896841
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"83511664b55a477ab22210f4bbc3d4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063097,
+            "locality_id":1326511259,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1326511259,
+    "wof:lastmodified":1537591164,
+    "wof:name":"Capilla Palacio",
+    "wof:parent_id":102063097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.46649000000002,
+    -35.81740999999999,
+    -71.46649000000002,
+    -35.81740999999999
+],
+  "geometry": {"coordinates":[-71.46649000000002,-35.81740999999999],"type":"Point"}
+}

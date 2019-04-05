@@ -1,0 +1,71 @@
+{
+  "id": 1209987411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.91262,-41.4523,-72.91262,-41.4523",
+    "geom:latitude":-41.4523,
+    "geom:longitude":-72.91262,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"La Paloma",
+    "gn:country_code":"CL",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8357783,
+    "gn:latitude":-41.4523,
+    "gn:longitude":-72.91262,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"La Paloma",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Paloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8357783
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"2b2969593d53f0add6ef7f22329f4fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1209987411,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1209987411,
+    "wof:lastmodified":1537591180,
+    "wof:name":"La Paloma",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.91261999999998,
+    -41.4523,
+    -72.91261999999998,
+    -41.4523
+],
+  "geometry": {"coordinates":[-72.91261999999998,-41.4523],"type":"Point"}
+}

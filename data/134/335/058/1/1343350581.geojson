@@ -1,0 +1,71 @@
+{
+  "id": 1343350581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.55133,-52.67489,-70.55133,-52.67489",
+    "geom:latitude":-52.67489,
+    "geom:longitude":-70.55133,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Puesto Valdes",
+    "gn:country_code":"CL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11334026,
+    "gn:latitude":-52.67489,
+    "gn:longitude":-70.55133,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Puesto Vald\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puesto Vald\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11334026
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7da9405098368030859865d3cc640c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1343350581,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1343350581,
+    "wof:lastmodified":1537591187,
+    "wof:name":"Puesto Valdes",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.55133000000002,
+    -52.67489000000001,
+    -70.55133000000002,
+    -52.67489000000001
+],
+  "geometry": {"coordinates":[-70.55133000000002,-52.67489000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276840943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51626,-41.89288,-72.51626,-41.89288",
+    "geom:latitude":-41.89288,
+    "geom:longitude":-72.51626,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10403.0",
+    "gn:asciiname":"Los Tres Rios",
+    "gn:country_code":"CL",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8048025,
+    "gn:latitude":-41.89288,
+    "gn:longitude":-72.51626,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Los Tres R\u00edos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Tres R\u00edos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048025
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b6f71343fd75fbe3b160e3133a353958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":1276840943,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1276840943,
+    "wof:lastmodified":1537591177,
+    "wof:name":"Los Tres Rios",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51626,
+    -41.89288,
+    -72.51626,
+    -41.89288
+],
+  "geometry": {"coordinates":[-72.51626,-41.89288],"type":"Point"}
+}

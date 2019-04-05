@@ -1,0 +1,72 @@
+{
+  "id": 1209995381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.80703,-41.49695,-72.80703,-41.49695",
+    "geom:latitude":-41.49695,
+    "geom:longitude":-72.80703,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Cahuelmo",
+    "gn:country_code":"CL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8048134,
+    "gn:latitude":-41.49695,
+    "gn:longitude":-72.80703,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Cahuelmo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cahuelmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048134
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"811f96d58ee04ba95d4d6215184bfd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1209995381,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1209995381,
+    "wof:lastmodified":1537591178,
+    "wof:name":"Cahuelmo",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.80703000000003,
+    -41.49695,
+    -72.80703000000003,
+    -41.49695
+],
+  "geometry": {"coordinates":[-72.80703000000003,-41.49695],"type":"Point"}
+}

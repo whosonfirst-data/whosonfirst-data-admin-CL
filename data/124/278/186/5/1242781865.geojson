@@ -1,0 +1,69 @@
+{
+  "id": 1242781865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.5,-32.91667,-71.5,-32.91667",
+    "geom:latitude":-32.91667,
+    "geom:longitude":-71.5,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5107.0",
+    "gn:asciiname":"Las Ramaditas",
+    "gn:country_code":"CL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3883952,
+    "gn:latitude":-32.91667,
+    "gn:longitude":-71.5,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Las Ramaditas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3883952
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"9d8c0fa4566e656592c2edf1787486bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063161,
+            "locality_id":1242781865,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1242781865,
+    "wof:lastmodified":1536769906,
+    "wof:name":"Las Ramaditas",
+    "wof:parent_id":102063161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.5,
+    -32.91667,
+    -71.5,
+    -32.91667
+],
+  "geometry": {"coordinates":[-71.5,-32.91667],"type":"Point"}
+}

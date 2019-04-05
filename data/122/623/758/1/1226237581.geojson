@@ -1,0 +1,71 @@
+{
+  "id": 1226237581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.4517,-53.83503,-70.4517,-53.83503",
+    "geom:latitude":-53.83503,
+    "geom:longitude":-70.4517,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Puerto Harris",
+    "gn:country_code":"CL",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358091,
+    "gn:latitude":-53.83503,
+    "gn:longitude":-70.4517,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Puerto Harris",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Harris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358091
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8fc7aaff5b4cee75c2d148cd53bc7c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1226237581,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1226237581,
+    "wof:lastmodified":1537591187,
+    "wof:name":"Puerto Harris",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.4517,
+    -53.83503,
+    -70.4517,
+    -53.83503
+],
+  "geometry": {"coordinates":[-70.4517,-53.83503],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209308993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.38243,-31.39091,-71.38243,-31.39091",
+    "geom:latitude":-31.39091,
+    "geom:longitude":-71.38243,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4202.0",
+    "gn:asciiname":"Canela Alta",
+    "gn:country_code":"CL",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896947,
+    "gn:latitude":-31.39091,
+    "gn:longitude":-71.38243,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Canela Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Canela Alta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896947
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"984404f44dea9e1c7ad5fd8adf820b1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209308993
+        }
+    ],
+    "wof:id":1209308993,
+    "wof:lastmodified":1537591165,
+    "wof:name":"Canela Alta",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.38243,
+    -31.39091,
+    -71.38243,
+    -31.39091
+],
+  "geometry": {"coordinates":[-71.38243,-31.39091],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292999803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.12457,-28.85992,-71.12457,-28.85992",
+    "geom:latitude":-28.85992,
+    "geom:longitude":-71.12457,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"El Palqui",
+    "gn:country_code":"CL",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11199501,
+    "gn:latitude":-28.85992,
+    "gn:longitude":-71.12457,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"El Palqui",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "El Palqui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199501
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"720f6edcccaeb1eab0cb31158722c726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1292999803,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1292999803,
+    "wof:lastmodified":1537591182,
+    "wof:name":"El Palqui",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.12456999999998,
+    -28.85992,
+    -71.12456999999998,
+    -28.85992
+],
+  "geometry": {"coordinates":[-71.12456999999998,-28.85992],"type":"Point"}
+}

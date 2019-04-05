@@ -1,0 +1,73 @@
+{
+  "id": 1309786993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.31184,-35.91337,-72.31184,-35.91337",
+    "geom:latitude":-35.91337,
+    "geom:longitude":-72.31184,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"72.0",
+    "gn:admin3_code":"7201.0",
+    "gn:asciiname":"El Cielo",
+    "gn:country_code":"CL",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3891610,
+    "gn:latitude":-35.91337,
+    "gn:longitude":-72.31184,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Cielo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cielo",
+        "El Cielo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3891610
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"da79ee928e1441532273a592cf736870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063129,
+            "locality_id":1309786993,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1309786993,
+    "wof:lastmodified":1537591149,
+    "wof:name":"El Cielo",
+    "wof:parent_id":102063129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.31184,
+    -35.91337,
+    -72.31184,
+    -35.91337
+],
+  "geometry": {"coordinates":[-72.31184,-35.91337],"type":"Point"}
+}

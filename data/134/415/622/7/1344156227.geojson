@@ -1,0 +1,71 @@
+{
+  "id": 1344156227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.28318,-28.97945,-70.28318,-28.97945",
+    "geom:latitude":-28.97945,
+    "geom:longitude":-70.28318,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Quebrada Pinte",
+    "gn:country_code":"CL",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11208745,
+    "gn:latitude":-28.97945,
+    "gn:longitude":-70.28318,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Quebrada Pinte",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Pinte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11208745
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"f4906d819af98941a8ec41d178afac46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1344156227,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1344156227,
+    "wof:lastmodified":1537591182,
+    "wof:name":"Quebrada Pinte",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.28318,
+    -28.97945,
+    -70.28318,
+    -28.97945
+],
+  "geometry": {"coordinates":[-70.28318,-28.97945],"type":"Point"}
+}

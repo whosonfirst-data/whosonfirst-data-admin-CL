@@ -1,0 +1,71 @@
+{
+  "id": 1309875341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.36423,-18.51126,-69.36423,-18.51126",
+    "geom:latitude":-18.51126,
+    "geom:longitude":-69.36423,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:asciiname":"Catanave",
+    "gn:country_code":"CL",
+    "gn:dem":4410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109407,
+    "gn:latitude":-18.51126,
+    "gn:longitude":-69.36423,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Catanave",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Catanave"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109407
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"57d3df0a3676840de52b0c1216ec8a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1309875341,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1309875341,
+    "wof:lastmodified":1537591181,
+    "wof:name":"Catanave",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.36423,
+    -18.51126,
+    -69.36423,
+    -18.51126
+],
+  "geometry": {"coordinates":[-69.36423000000001,-18.51126],"type":"Point"}
+}

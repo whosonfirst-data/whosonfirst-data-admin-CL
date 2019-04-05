@@ -1,0 +1,75 @@
+{
+  "id": 890517513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.0188135,-35.090136,-72.0188135,-35.090136",
+    "geom:latitude":-35.090136,
+    "geom:longitude":-72.018813,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Curepto",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Maule",
+    "qs:photos":84,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":204,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":558,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261308,
+        "gp:id":26794254,
+        "qs:id":233693,
+        "qs_pg:id":381560,
+        "wd:id":"Q13026",
+        "wk:page":"Curepto"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056012,
+    "wof:geomhash":"3954c77d8aa8fdfe876b97b08311d458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "localadmin_id":890517513,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":890517513,
+    "wof:lastmodified":1527751202,
+    "wof:name":"Curepto",
+    "wof:parent_id":102063111,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.0188135,
+    -35.090136,
+    -72.0188135,
+    -35.090136
+],
+  "geometry": {"coordinates":[-72.01881349999999,-35.090136],"type":"Point"}
+}

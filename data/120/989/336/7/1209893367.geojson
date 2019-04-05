@@ -1,0 +1,77 @@
+{
+  "id": 1209893367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.20314,-33.84644,-70.20314,-33.84644",
+    "geom:latitude":-33.84644,
+    "geom:longitude":-70.20314,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"132.0",
+    "gn:admin3_code":"13203.0",
+    "gn:asciiname":"Las Melosas",
+    "gn:country_code":"CL",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3880084,
+    "gn:latitude":-33.84644,
+    "gn:longitude":-70.20314,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Las Melosas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Melosas"
+    ],
+    "name:und_x_variant":[
+        "Las Melosas Refugio",
+        "Melosas",
+        "Melosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3880084
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"198441a356f133d5697c4ad53e9be9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063137,
+            "locality_id":1209893367,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1209893367,
+    "wof:lastmodified":1537591120,
+    "wof:name":"Las Melosas",
+    "wof:parent_id":102063137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.20314,
+    -33.84644,
+    -70.20314,
+    -33.84644
+],
+  "geometry": {"coordinates":[-70.20314,-33.84644],"type":"Point"}
+}

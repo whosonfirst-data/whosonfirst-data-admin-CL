@@ -1,0 +1,87 @@
+{
+  "id": 890518043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.477909,-34.477976,-71.477909,-34.477976",
+    "geom:latitude":-34.477976,
+    "geom:longitude":-71.477909,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u041f\u0435\u0440\u0430\u043b\u0438\u043b\u044c\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub784\ub9ac\uc624"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0430\u043b\u0438\u043b\u044c\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u62c9\u5229\u7d04"
+    ],
+    "qs:name":"Peralillo",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":74,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":217,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261267,
+        "gp:id":26794219,
+        "qs:id":1110087,
+        "qs_pg:id":381547,
+        "wd:id":"Q51095",
+        "wk:page":"Peralillo"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056041,
+    "wof:geomhash":"3113f3a1c6e5325970b43563bbb2b5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "localadmin_id":890518043,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890518043,
+    "wof:lastmodified":1527751236,
+    "wof:name":"Peralillo",
+    "wof:parent_id":102063157,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.477909,
+    -34.477976,
+    -71.477909,
+    -34.477976
+],
+  "geometry": {"coordinates":[-71.477909,-34.477976],"type":"Point"}
+}

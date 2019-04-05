@@ -1,0 +1,73 @@
+{
+  "id": 1226530347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.74316,-35.00565,-71.74316,-35.00565",
+    "geom:latitude":-35.00565,
+    "geom:longitude":-71.74316,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"73.0",
+    "gn:admin3_code":"7302.0",
+    "gn:asciiname":"Mira Rios",
+    "gn:country_code":"CL",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879697,
+    "gn:latitude":-35.00565,
+    "gn:longitude":-71.74316,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Mira R\u00edos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mira R\u00edo",
+        "Mira R\u00edos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879697
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d0205cc57351425eec7fd545418cbbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063147,
+            "locality_id":1226530347,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1226530347,
+    "wof:lastmodified":1537591120,
+    "wof:name":"Mira Rios",
+    "wof:parent_id":102063147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.74316,
+    -35.00565,
+    -71.74316,
+    -35.00565
+],
+  "geometry": {"coordinates":[-71.74316,-35.00565],"type":"Point"}
+}

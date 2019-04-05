@@ -1,0 +1,75 @@
+{
+  "id": 890518405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.09991,-34.030327,-71.09991,-34.030327",
+    "geom:latitude":-34.030327,
+    "geom:longitude":-71.09991,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Alhue",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":298,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":278,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261425,
+        "gp:id":26794273,
+        "qs:id":232494,
+        "qs_pg:id":381578,
+        "wd:id":"Q2208",
+        "wk:page":"Alhu\u00e9"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056063,
+    "wof:geomhash":"64e2e2050b256ce903186c2a397d2c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063083,
+            "localadmin_id":890518405,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890518405,
+    "wof:lastmodified":1527751237,
+    "wof:name":"Alhue",
+    "wof:parent_id":102063083,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.09991,
+    -34.030327,
+    -71.09991,
+    -34.030327
+],
+  "geometry": {"coordinates":[-71.09990999999999,-34.030327],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242979673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20112,-46.55768,-72.20112,-46.55768",
+    "geom:latitude":-46.55768,
+    "geom:longitude":-72.20112,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"114.0",
+    "gn:admin3_code":"11401.0",
+    "gn:asciiname":"Fachinal",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3889640,
+    "gn:latitude":-46.55768,
+    "gn:longitude":-72.20112,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Fachinal",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fachinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3889640
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"97874a4fa1d04861b351a8d47f48c101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063127,
+            "locality_id":1242979673,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":1242979673,
+    "wof:lastmodified":1537591144,
+    "wof:name":"Fachinal",
+    "wof:parent_id":102063127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20111999999997,
+    -46.55768,
+    -72.20111999999997,
+    -46.55768
+],
+  "geometry": {"coordinates":[-72.20111999999997,-46.55768],"type":"Point"}
+}

@@ -1,0 +1,155 @@
+{
+  "id": 102018157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000315,
+    "geom:area_square_m":3117597.49962,
+    "geom:bbox":"-72.0101027003,-36.8578587541,-71.9876998779,-36.8398541935",
+    "geom:latitude":-36.848857,
+    "geom:longitude":-71.998901,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "lbl:latitude":-36.848856,
+    "lbl:longitude":-71.998901,
+    "mps:latitude":-36.848856,
+    "mps:longitude":-71.998901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "name:cze_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:dan_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:dut_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:eng_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:fre_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ger_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:glg_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ita_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uc774\uadf8\ub098\uc2dc\uc624"
+    ],
+    "name:nan_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:nno_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:nob_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:oci_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:pol_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:por_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:rum_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0418\u0433\u043d\u0430\u0441\u0438\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:swe_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:war_x_preferred":[
+        "San Ignacio"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Ignacio",
+    "qs:loc_lc":"8261329",
+    "qs:name":"San Ignacio",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Biobio",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop":0,
+    "qs:pop_sr":"0",
+    "qs:source":"Lquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682155,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3872175,
+        "gp:id":349424,
+        "qs:id":270598,
+        "wd:id":"Q187824",
+        "wk:page":"San Ignacio"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"bccbbeff7b65a8ce408de95b137d326d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "locality_id":102018157,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":102018157,
+    "wof:lastmodified":1553815718,
+    "wof:name":"San Ignacio",
+    "wof:parent_id":102063109,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.01010270026401,
+    -36.85785875411445,
+    -71.98769987792971,
+    -36.83985419345048
+],
+  "geometry": {"coordinates":[[[-71.99706106540086,-36.85774095375636],[-71.99925337108914,-36.85785875411445],[-72.00143214056899,-36.85763056240394],[-72.00351361709168,-36.8570651521575],[-72.00541778842181,-36.85618425987545],[-72.00707146505326,-36.85502174846982],[-72.00841109486061,-36.85362230429878],[-72.00938520571464,-36.8520397181134],[-72.00995638213936,-36.85033481624944],[-72.01010270026401,-36.8485731218215],[-72.00981856636608,-36.84682233599328],[-72.00911492738931,-36.84514973622534],[-72.00801884602151,-36.84361959148909],[-72.00657245730844,-36.84229069368059],[-72.00483134741272,-36.84121409991081],[-72.00286241712813,-36.84043117218798],[-72.00074131230363,-36.83997198955491],[-71.99854951971301,-36.83985419345048],[-71.99637123953491,-36.8400823104722],[-71.9942901540262,-36.84064757845831],[-71.99238621589416,-36.84152828256608],[-71.99073257914253,-36.84269058853151],[-71.98939278982527,-36.84408984127266],[-71.98841834435571,-36.84567227918216],[-71.98784670915191,-36.84737709849774],[-71.98769987792971,-36.84913878867202],[-71.98798352252587,-36.85088964918894],[-71.98868677048867,-36.8525623912173],[-71.98978261865838,-36.85409272412783],[-71.99122896749171,-36.85542182737653],[-71.99297023689726,-36.85649861257612],[-71.9949395017973,-36.85728168857491],[-71.99706106540086,-36.85774095375636]]],"type":"Polygon"}
+}

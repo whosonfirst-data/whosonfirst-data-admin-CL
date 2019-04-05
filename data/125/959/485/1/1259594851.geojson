@@ -1,0 +1,72 @@
+{
+  "id": 1259594851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.10683,-23.31296,-67.10683,-23.31296",
+    "geom:latitude":-23.31296,
+    "geom:longitude":-67.10683,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Lever",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":4161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8365495,
+    "gn:latitude":-23.31296,
+    "gn:longitude":-67.10683,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Lever",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lever"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8365495
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4986dd42bbcbd2f4ecf137fc92a1de63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063131,
+            "locality_id":1259594851,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1259594851,
+    "wof:lastmodified":1537591180,
+    "wof:name":"Lever",
+    "wof:parent_id":102063131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.10683,
+    -23.31296,
+    -67.10683,
+    -23.31296
+],
+  "geometry": {"coordinates":[-67.10683,-23.31296],"type":"Point"}
+}

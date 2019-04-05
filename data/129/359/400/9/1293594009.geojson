@@ -1,0 +1,71 @@
+{
+  "id": 1293594009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45973,-27.30257,-70.45973,-27.30257",
+    "geom:latitude":-27.30257,
+    "geom:longitude":-70.45973,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Loma El Lindero",
+    "gn:country_code":"CL",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11193409,
+    "gn:latitude":-27.30257,
+    "gn:longitude":-70.45973,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Loma El Lindero",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Loma El Lindero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11193409
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"be8264b19bd42b78e820d1814809ee07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "locality_id":1293594009,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1293594009,
+    "wof:lastmodified":1537591182,
+    "wof:name":"Loma El Lindero",
+    "wof:parent_id":102063143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45973000000002,
+    -27.30257000000001,
+    -70.45973000000002,
+    -27.30257000000001
+],
+  "geometry": {"coordinates":[-70.45973000000002,-27.30257000000001],"type":"Point"}
+}

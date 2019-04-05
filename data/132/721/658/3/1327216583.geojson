@@ -1,0 +1,73 @@
+{
+  "id": 1327216583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.68718,-19.18334,-69.68718,-19.18334",
+    "geom:latitude":-19.18334,
+    "geom:longitude":-69.68718,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1404.0",
+    "gn:asciiname":"Minimini",
+    "gn:country_code":"CL",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879774,
+    "gn:latitude":-19.18334,
+    "gn:longitude":-69.68718,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Mi\u00f1imi\u00f1i",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi\u00f1imi\u00f1e",
+        "Mi\u00f1imi\u00f1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879774
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"134a0f6aed1128b401326ab49bcb333a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1327216583,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1327216583,
+    "wof:lastmodified":1537591120,
+    "wof:name":"Minimini",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.68718,
+    -19.18334,
+    -69.68718,
+    -19.18334
+],
+  "geometry": {"coordinates":[-69.68718,-19.18334],"type":"Point"}
+}

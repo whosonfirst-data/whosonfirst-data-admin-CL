@@ -1,0 +1,73 @@
+{
+  "id": 1343555641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16283,-30.76793,-71.16283,-30.76793",
+    "geom:latitude":-30.76793,
+    "geom:longitude":-71.16283,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4301.0",
+    "gn:asciiname":"Altar",
+    "gn:country_code":"CL",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3899972,
+    "gn:latitude":-30.76793,
+    "gn:longitude":-71.16283,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Altar",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altar Alto",
+        "Altar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3899972
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"aed5ed63fbc0ce666cc87f3897e0e847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":1343555641,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":1343555641,
+    "wof:lastmodified":1537591171,
+    "wof:name":"Altar",
+    "wof:parent_id":102063113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16283,
+    -30.76793,
+    -71.16283,
+    -30.76793
+],
+  "geometry": {"coordinates":[-71.16283,-30.76793],"type":"Point"}
+}

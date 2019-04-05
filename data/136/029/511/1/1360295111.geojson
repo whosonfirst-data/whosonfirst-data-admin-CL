@@ -1,0 +1,75 @@
+{
+  "id": 1360295111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71795,-32.6634,-70.71795,-32.6634",
+    "geom:latitude":-32.6634,
+    "geom:longitude":-70.71795,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5705.0",
+    "gn:asciiname":"Comunidad las Coimas",
+    "gn:country_code":"CL",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3893915,
+    "gn:latitude":-32.6634,
+    "gn:longitude":-70.71795,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad las Coimas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Coimas",
+        "Ermita",
+        "Coimas",
+        "Comunidad las Coimas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3893915
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"dfbbd37bcdfc23f2be708096719413fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063099,
+            "locality_id":1360295111,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1360295111,
+    "wof:lastmodified":1537591155,
+    "wof:name":"Comunidad las Coimas",
+    "wof:parent_id":102063099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71795,
+    -32.6634,
+    -70.71795,
+    -32.6634
+],
+  "geometry": {"coordinates":[-70.71795,-32.6634],"type":"Point"}
+}

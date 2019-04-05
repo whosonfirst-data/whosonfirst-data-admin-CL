@@ -1,0 +1,169 @@
+{
+  "id": 102017551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000299,
+    "geom:area_square_m":3122859.776333,
+    "geom:bbox":"-71.185562624,-32.4956113004,-71.1642907947,-32.4775821055",
+    "geom:latitude":-32.486597,
+    "geom:longitude":-71.174927,
+    "iso:country":"CL",
+    "lbl:latitude":-32.486596,
+    "lbl:longitude":-71.174927,
+    "mps:latitude":-32.486596,
+    "mps:longitude":-71.174927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0647\u064a\u063a\u0648\u064a\u0631\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "La Higuera"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430 \u0418\u0433\u0435\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "La Higuera"
+    ],
+    "name:ceb_x_preferred":[
+        "La Higuera"
+    ],
+    "name:deu_x_preferred":[
+        "La Higuera"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u0399\u03b3\u03ba\u03ad\u03c1\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "La Higuera"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0627\u06cc\u06af\u0631\u0627\u060c \u0628\u0648\u0644\u06cc\u0648\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "La Higuera"
+    ],
+    "name:fra_x_preferred":[
+        "La Higuera"
+    ],
+    "name:glg_x_preferred":[
+        "La Higuera"
+    ],
+    "name:hun_x_preferred":[
+        "La Higuera"
+    ],
+    "name:ita_x_preferred":[
+        "La Higuera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b2\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10d8\u10d2\u10d4\u10e0\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "La Igera"
+    ],
+    "name:nld_x_preferred":[
+        "La Higuera"
+    ],
+    "name:nor_x_preferred":[
+        "La Higuera"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0430-\u0418\u0433\u0435\u0440\u00e6"
+    ],
+    "name:pol_x_preferred":[
+        "La Higuera"
+    ],
+    "name:por_x_preferred":[
+        "La Higuera"
+    ],
+    "name:que_x_preferred":[
+        "La Higuera"
+    ],
+    "name:ron_x_preferred":[
+        "La Higuera"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0418\u0433\u0435\u0440\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "La Higuera"
+    ],
+    "name:spa_x_preferred":[
+        "La Higuera"
+    ],
+    "name:swe_x_preferred":[
+        "La Higuera"
+    ],
+    "name:tur_x_preferred":[
+        "La Higuera"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06c1\u06cc\u06af\u0648\u06cc\u0631\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "La Higuera"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u4f0a\u683c\u62c9"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"La Higuera",
+    "qs:loc_lc":"3885680",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":-18.795,
+    "wd:longitude":-64.201389,
+    "wd:wordcount":369,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885680,
+        "gp:id":349916
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"23317c3fea0bd730e9423d12dd94f70a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063077,
+            "locality_id":102017551,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":102017551,
+    "wof:lastmodified":1527637769,
+    "wof:name":"La Higuera",
+    "wof:parent_id":102063077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18556262404171,
+    -32.49561130044456,
+    -71.16429079470586,
+    -32.47758210552534
+],
+  "geometry": {"coordinates":[[[-71.17306441969595,-32.49547395615892],[-71.17514375875589,-32.49561130044456],[-71.17721475307673,-32.49540218516187],[-71.17919779285525,-32.49485464979291],[-71.18101665262284,-32.49398974244308],[-71.18260142334461,-32.49284070996361],[-71.18389120070046,-32.49145171893066],[-71.18483642597896,-32.48987615683983],[-71.18540078956681,-32.48817457903104],[-71.18556262404171,-32.48641238045838],[-71.18531573367781,-32.484657281949],[-71.18466962896852,-32.48297672765141],[-71.18364915769837,-32.48143529369823],[-71.18229354726628,-32.48009220759154],[-71.18065489548678,-32.47899907348413],[-71.17879616812692,-32.47819789056634],[-71.17678878018856,-32.47771944048154],[-71.17470985373004,-32.47758210552534],[-71.17263925726311,-32.47779116287366],[-71.17065654002135,-32.47833858186424],[-71.16883787837013,-32.47920333210943],[-71.16725315118288,-32.48035219067567],[-71.165963256152,-32.48174101746355],[-71.16501776990395,-32.48331644998221],[-71.16445304178208,-32.48501795261807],[-71.16429079470586,-32.4867801418613],[-71.16453728721582,-32.48853529830505],[-71.16518306938826,-32.49021596898092],[-71.16620334254205,-32.49175756003866],[-71.16755890943963,-32.49310082005859],[-71.16919767889416,-32.49419411841114],[-71.17105666722367,-32.49499543090111],[-71.17306441969595,-32.49547395615892]]],"type":"Polygon"}
+}

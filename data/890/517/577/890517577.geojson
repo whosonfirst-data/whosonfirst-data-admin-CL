@@ -1,0 +1,69 @@
+{
+  "id": 890517577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.757403,-33.51052,-70.757403,-33.51052",
+    "geom:latitude":-33.51052,
+    "geom:longitude":-70.757403,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Maip\u00fa",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1363,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794295,
+        "qs:id":1311387,
+        "wk:page":"Maip\u00fa"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056015,
+    "wof:geomhash":"6d9f35ba38002f160da0c2bbd021996e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "localadmin_id":890517577,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517577,
+    "wof:lastmodified":1527751202,
+    "wof:name":"Maip\u00fa",
+    "wof:parent_id":102063117,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.757403,
+    -33.51052,
+    -70.757403,
+    -33.51052
+],
+  "geometry": {"coordinates":[-70.757403,-33.51052],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209619957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.43333,-26.5,-69.43333,-26.5",
+    "geom:latitude":-26.5,
+    "geom:longitude":-69.43333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3202.0",
+    "gn:asciiname":"Mineral Potrerillos",
+    "gn:country_code":"CL",
+    "gn:dem":3810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879792,
+    "gn:latitude":-26.5,
+    "gn:longitude":-69.43333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Mineral Potrerillos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879792
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0e3c95c601b3fbaf4d065fbfcb36532d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209619957
+        }
+    ],
+    "wof:id":1209619957,
+    "wof:lastmodified":1536281554,
+    "wof:name":"Mineral Potrerillos",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.43333,
+    -26.5,
+    -69.43333,
+    -26.5
+],
+  "geometry": {"coordinates":[-69.43333,-26.5],"type":"Point"}
+}

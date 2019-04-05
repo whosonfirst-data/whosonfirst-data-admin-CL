@@ -1,0 +1,68 @@
+{
+  "id": 1259482431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.86377,-25.83132,-69.86377,-25.83132",
+    "geom:latitude":-25.83132,
+    "geom:longitude":-69.86377,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Francke",
+    "gn:country_code":"CL",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3889332,
+    "gn:latitude":-25.83132,
+    "gn:longitude":-69.86377,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Francke",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3889332
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ca693c85acad600282fb4461dd6f5b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "locality_id":1259482431,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":1259482431,
+    "wof:lastmodified":1536859030,
+    "wof:name":"Francke",
+    "wof:parent_id":102063073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.86377,
+    -25.83132,
+    -69.86377,
+    -25.83132
+],
+  "geometry": {"coordinates":[-69.86377,-25.83132],"type":"Point"}
+}

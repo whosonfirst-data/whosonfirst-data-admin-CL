@@ -1,0 +1,63 @@
+{
+  "id": 1209210739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.59055,-34.11194,-71.59055,-34.11194",
+    "geom:latitude":-34.11194,
+    "geom:longitude":-71.59055,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:admin3_code":"6203.0",
+    "gn:asciiname":"El Cuzco",
+    "gn:country_code":"CL",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3891515,
+    "gn:latitude":-34.11194,
+    "gn:longitude":-71.59055,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Cuzco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3891515
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0cb2eb6da4fe4680f9c7523fafea0cea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209210739
+        }
+    ],
+    "wof:id":1209210739,
+    "wof:lastmodified":1536294299,
+    "wof:name":"El Cuzco",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.59055,
+    -34.111940000000004,
+    -71.59055,
+    -34.111940000000004
+],
+  "geometry": {"coordinates":[-71.59054999999999,-34.11194],"type":"Point"}
+}

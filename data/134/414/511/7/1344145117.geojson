@@ -1,0 +1,74 @@
+{
+  "id": 1344145117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.43333,-35.6,-71.43333,-35.6",
+    "geom:latitude":-35.6,
+    "geom:longitude":-71.43333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7109.0",
+    "gn:asciiname":"Tres Esquinas",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3869203,
+    "gn:latitude":-35.6,
+    "gn:longitude":-71.43333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Tres Esquinas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esquinas",
+        "Tres Esquinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3869203
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ae9440e50c6fb07c54a99ebceb6f6aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1344145117,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1344145117,
+    "wof:lastmodified":1537591101,
+    "wof:name":"Tres Esquinas",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43333,
+    -35.6,
+    -71.43333,
+    -35.6
+],
+  "geometry": {"coordinates":[-71.43333,-35.6],"type":"Point"}
+}

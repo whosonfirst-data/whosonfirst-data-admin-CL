@@ -1,0 +1,66 @@
+{
+  "id": 890517903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.79747,-39.025585,-72.79747,-39.025585",
+    "geom:latitude":-39.025585,
+    "geom:longitude":-72.79747,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "qs:name":"Reduccion Manquen",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Araucania",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":36,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":350125,
+        "qs:id":1057727
+    },
+    "wof:country":"CL",
+    "wof:created":1469056034,
+    "wof:geomhash":"b53ba1980e8827d9a02e9206dbf505f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":890517903,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":890517903,
+    "wof:lastmodified":1469056034,
+    "wof:name":"Reduccion Manquen",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.79747,
+    -39.025585,
+    -72.79747,
+    -39.025585
+],
+  "geometry": {"coordinates":[-72.79747,-39.025585],"type":"Point"}
+}

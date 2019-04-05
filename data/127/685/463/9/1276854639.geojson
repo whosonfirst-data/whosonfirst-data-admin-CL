@@ -1,0 +1,73 @@
+{
+  "id": 1276854639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.51515,-41.51259,-73.51515,-41.51259",
+    "geom:latitude":-41.51259,
+    "geom:longitude":-73.51515,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10106.0",
+    "gn:asciiname":"Los Guatrunes",
+    "gn:country_code":"CL",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3882037,
+    "gn:latitude":-41.51259,
+    "gn:longitude":-73.51515,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Los Guatrunes",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huantrunes",
+        "Los Guatrunes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882037
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"23b523415c23c6e026eb5b96d174f069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1276854639,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1276854639,
+    "wof:lastmodified":1537591125,
+    "wof:name":"Los Guatrunes",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.51515,
+    -41.51259,
+    -73.51515,
+    -41.51259
+],
+  "geometry": {"coordinates":[-73.51515000000001,-41.51259],"type":"Point"}
+}

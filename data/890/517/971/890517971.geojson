@@ -1,0 +1,75 @@
+{
+  "id": 890517971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.804202,-33.564909,-70.804202,-33.564909",
+    "geom:latitude":-33.564909,
+    "geom:longitude":-70.804202,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Padre Hurtado",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":185,
+    "qs:photos_1k":37,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":361,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":379,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261231,
+        "gp:id":26794312,
+        "qs:id":1086538,
+        "qs_pg:id":904474,
+        "wd:id":"Q51062",
+        "wk:page":"Padre Hurtado"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056038,
+    "wof:geomhash":"ff540e2a813bf3b078c1a1fc95e562a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063095,
+            "localadmin_id":890517971,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517971,
+    "wof:lastmodified":1527749996,
+    "wof:name":"Padre Hurtado",
+    "wof:parent_id":102063095,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.804202,
+    -33.564909,
+    -70.804202,
+    -33.564909
+],
+  "geometry": {"coordinates":[-70.804202,-33.564909],"type":"Point"}
+}

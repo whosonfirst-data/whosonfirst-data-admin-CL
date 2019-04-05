@@ -1,0 +1,71 @@
+{
+  "id": 1276537829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.94469,-53.58757,-70.94469,-53.58757",
+    "geom:latitude":-53.58757,
+    "geom:longitude":-70.94469,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Rinconada Bulnes",
+    "gn:country_code":"CL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358129,
+    "gn:latitude":-53.58757,
+    "gn:longitude":-70.94469,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Rinconada Bulnes",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinconada Bulnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358129
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"886c74d00da9d94c3b9c7bb3d06fcde0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1276537829,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1276537829,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Rinconada Bulnes",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.94469000000002,
+    -53.58756999999999,
+    -70.94469000000002,
+    -53.58756999999999
+],
+  "geometry": {"coordinates":[-70.94469000000002,-53.58756999999999],"type":"Point"}
+}

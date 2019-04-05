@@ -1,0 +1,73 @@
+{
+  "id": 1293395937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57286,-39.33408,-71.57286,-39.33408",
+    "geom:latitude":-39.33408,
+    "geom:longitude":-71.57286,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9104.0",
+    "gn:asciiname":"Maichin",
+    "gn:country_code":"CL",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3881007,
+    "gn:latitude":-39.33408,
+    "gn:longitude":-71.57286,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Maich\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fortin Maichin",
+        "Maich\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3881007
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8c8fa0a169d91be14011917f7fada875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":1293395937,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1293395937,
+    "wof:lastmodified":1537591122,
+    "wof:name":"Maichin",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57285999999998,
+    -39.33408,
+    -71.57285999999998,
+    -39.33408
+],
+  "geometry": {"coordinates":[-71.57285999999998,-39.33408],"type":"Point"}
+}

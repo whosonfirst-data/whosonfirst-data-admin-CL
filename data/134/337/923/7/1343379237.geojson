@@ -1,0 +1,95 @@
+{
+  "id": 1343379237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.05981,-52.09277,-72.05981,-52.09277",
+    "geom:latitude":-52.09277,
+    "geom:longitude":-72.05981,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Rubens",
+    "gn:country_code":"CL",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11336209,
+    "gn:latitude":-52.09277,
+    "gn:longitude":-72.05981,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Rubens",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rubens"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11336209
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"11f0f829f4e4315f341c86cc59b49794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1343379237,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1343379237,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1343379237,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1343379237,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1343379237,
+    "wof:lastmodified":1537591187,
+    "wof:name":"Rubens",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.05981,
+    -52.09277,
+    -72.05981,
+    -52.09277
+],
+  "geometry": {"coordinates":[-72.05981,-52.09277],"type":"Point"}
+}

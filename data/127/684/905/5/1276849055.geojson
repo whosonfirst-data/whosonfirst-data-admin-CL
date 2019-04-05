@@ -1,0 +1,73 @@
+{
+  "id": 1276849055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41796,-35.58877,-71.41796,-35.58877",
+    "geom:latitude":-35.58877,
+    "geom:longitude":-71.41796,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7109.0",
+    "gn:asciiname":"Los Maitenes",
+    "gn:country_code":"CL",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3881844,
+    "gn:latitude":-35.58877,
+    "gn:longitude":-71.41796,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Los Maitenes",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maitenes",
+        "Los Maitenes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3881844
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"79dcd6624759c0499484a9de8e6b6490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1276849055,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1276849055,
+    "wof:lastmodified":1537591124,
+    "wof:name":"Los Maitenes",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41796,
+    -35.58877000000001,
+    -71.41796,
+    -35.58877000000001
+],
+  "geometry": {"coordinates":[-71.41795999999999,-35.58877000000001],"type":"Point"}
+}

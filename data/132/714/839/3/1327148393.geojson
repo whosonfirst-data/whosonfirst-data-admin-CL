@@ -1,0 +1,73 @@
+{
+  "id": 1327148393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05744,-32.31917,-71.05744,-32.31917",
+    "geom:latitude":-32.31917,
+    "geom:longitude":-71.05744,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"54.0",
+    "gn:admin3_code":"5404.0",
+    "gn:asciiname":"Montt",
+    "gn:country_code":"CL",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3879405,
+    "gn:latitude":-32.31917,
+    "gn:longitude":-71.05744,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Montt",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Casas",
+        "Montt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3879405
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d078c8dc463b74e1e420793cc1b014d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063077,
+            "locality_id":1327148393,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1327148393,
+    "wof:lastmodified":1537591119,
+    "wof:name":"Montt",
+    "wof:parent_id":102063077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05744,
+    -32.31917,
+    -71.05744,
+    -32.31917
+],
+  "geometry": {"coordinates":[-71.05744,-32.31917],"type":"Point"}
+}

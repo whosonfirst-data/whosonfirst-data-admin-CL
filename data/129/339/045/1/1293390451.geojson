@@ -1,0 +1,72 @@
+{
+  "id": 1293390451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.11761,-38.6593,-72.11761,-38.6593",
+    "geom:latitude":-38.6593,
+    "geom:longitude":-72.11761,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9119.0",
+    "gn:asciiname":"San Patricio",
+    "gn:country_code":"CL",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871858,
+    "gn:latitude":-38.6593,
+    "gn:longitude":-72.11761,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Patricio",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Patricio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682179,
+        102063107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871858
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"55973433640df716dde63022ff59f2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063107,
+            "locality_id":1293390451,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":1293390451,
+    "wof:lastmodified":1537591104,
+    "wof:name":"San Patricio",
+    "wof:parent_id":102063107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.11761,
+    -38.6593,
+    -72.11761,
+    -38.6593
+],
+  "geometry": {"coordinates":[-72.11761,-38.6593],"type":"Point"}
+}

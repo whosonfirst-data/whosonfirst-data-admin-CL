@@ -1,0 +1,69 @@
+{
+  "id": 1276242763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.43311,-32.66275,-71.43311,-32.66275",
+    "geom:latitude":-32.66275,
+    "geom:longitude":-71.43311,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5105.0",
+    "gn:asciiname":"Marbella Resort",
+    "gn:country_code":"CL",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6618023,
+    "gn:latitude":-32.66275,
+    "gn:longitude":-71.43311,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Marbella Resort",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618023
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"7a414219448c4100374efa0ed3918d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063161,
+            "locality_id":1276242763,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1276242763,
+    "wof:lastmodified":1536899993,
+    "wof:name":"Marbella Resort",
+    "wof:parent_id":102063161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43311,
+    -32.66275,
+    -71.43311,
+    -32.66275
+],
+  "geometry": {"coordinates":[-71.43311,-32.66275],"type":"Point"}
+}

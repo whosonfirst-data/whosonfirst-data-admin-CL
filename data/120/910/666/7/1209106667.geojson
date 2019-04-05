@@ -1,0 +1,63 @@
+{
+  "id": 1209106667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.66667,-38.81667,-71.66667,-38.81667",
+    "geom:latitude":-38.81667,
+    "geom:longitude":-71.66667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"91.0",
+    "gn:admin3_code":"9110.0",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"CL",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871475,
+    "gn:latitude":-38.81667,
+    "gn:longitude":-71.66667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Santa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871475
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d507908fe11bedaa0d959e729b2d30cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209106667
+        }
+    ],
+    "wof:id":1209106667,
+    "wof:lastmodified":1536297547,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.66667,
+    -38.81667,
+    -71.66667,
+    -38.81667
+],
+  "geometry": {"coordinates":[-71.66667,-38.81667],"type":"Point"}
+}

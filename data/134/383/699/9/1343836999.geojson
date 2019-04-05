@@ -1,0 +1,72 @@
+{
+  "id": 1343836999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.64831,-42.09959,-73.64831,-42.09959",
+    "geom:latitude":-42.09959,
+    "geom:longitude":-73.64831,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10202.0",
+    "gn:asciiname":"Aguas Buenas",
+    "gn:country_code":"CL",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3969593,
+    "gn:latitude":-42.09959,
+    "gn:longitude":-73.64831,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Aguas Buenas",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aguas Buenas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3969593
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3f1a39aed6beacdf69274db3eb478ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1343836999,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1343836999,
+    "wof:lastmodified":1537591174,
+    "wof:name":"Aguas Buenas",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.64831,
+    -42.09959,
+    -73.64831,
+    -42.09959
+],
+  "geometry": {"coordinates":[-73.64831,-42.09959],"type":"Point"}
+}

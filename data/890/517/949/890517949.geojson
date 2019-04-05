@@ -1,0 +1,82 @@
+{
+  "id": 890517949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.548194,-41.212722,-72.548194,-41.212722",
+    "geom:latitude":-41.212722,
+    "geom:longitude":-72.548194,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ensenada"
+    ],
+    "name:eng_x_preferred":[
+        "Ensenada"
+    ],
+    "name:fre_x_preferred":[
+        "Ensenada"
+    ],
+    "name:spa_x_preferred":[
+        "Ensenada"
+    ],
+    "qs:name":"Ensenada",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":282,
+    "qs:photos_1k":57,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":282,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":419925,
+        "qs:id":1076140,
+        "wd:id":"Q3054947",
+        "wk:page":"Ensenada"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056037,
+    "wof:geomhash":"550c2955bf26f5fb3da7323af6a34725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":890517949,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890517949,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Ensenada",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.548194,
+    -41.212722,
+    -72.548194,
+    -41.212722
+],
+  "geometry": {"coordinates":[-72.548194,-41.212722],"type":"Point"}
+}

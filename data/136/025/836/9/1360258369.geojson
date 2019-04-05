@@ -1,0 +1,69 @@
+{
+  "id": 1360258369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.77536,-20.29606,-69.77536,-20.29606",
+    "geom:latitude":-20.29606,
+    "geom:longitude":-69.77536,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1401.0",
+    "gn:asciiname":"Oficina Serena",
+    "gn:country_code":"CL",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3878188,
+    "gn:latitude":-20.29606,
+    "gn:longitude":-69.77536,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Oficina Serena",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3878188
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"30fa606b2064bc8ed7ea1c7487eed4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1360258369,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1360258369,
+    "wof:lastmodified":1536695955,
+    "wof:name":"Oficina Serena",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.77535999999999,
+    -20.29606,
+    -69.77535999999999,
+    -20.29606
+],
+  "geometry": {"coordinates":[-69.77535999999999,-20.29606],"type":"Point"}
+}

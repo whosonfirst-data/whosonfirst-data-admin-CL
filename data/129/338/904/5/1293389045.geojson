@@ -1,0 +1,74 @@
+{
+  "id": 1293389045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.65,-26.9,-69.65,-26.9",
+    "geom:latitude":-26.9,
+    "geom:longitude":-69.65,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3101.0",
+    "gn:asciiname":"La Catorce Mil",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":3174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3886307,
+    "gn:latitude":-26.9,
+    "gn:longitude":-69.65,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"La Catorce Mil",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Catorcemil",
+        "La Catorce Mil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886307
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"c2b0aabfb87c5c303dd8a12069feb222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "locality_id":1293389045,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1293389045,
+    "wof:lastmodified":1537591137,
+    "wof:name":"La Catorce Mil",
+    "wof:parent_id":102063143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.65,
+    -26.9,
+    -69.65,
+    -26.9
+],
+  "geometry": {"coordinates":[-69.65000000000001,-26.9],"type":"Point"}
+}

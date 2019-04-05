@@ -1,0 +1,112 @@
+{
+  "id": 85764395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":40709188.323872,
+    "geom:bbox":"-73.217479,-39.819647,-73.217479,-39.819647",
+    "geom:latitude":-39.819647,
+    "geom:longitude":-73.217479,
+    "gn:latitude":-39.79337,
+    "gn:longitude":-73.19675,
+    "iso:country":"CL",
+    "lbl:latitude":-39.819647,
+    "lbl:longitude":-73.217479,
+    "mps:latitude":-39.824438,
+    "mps:longitude":-73.215637,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:spa_x_preferred":[
+        "Collico"
+    ],
+    "name:unk_x_variant":[
+        "Collico"
+    ],
+    "qs:gn_adm0_cc":"CL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3868707,
+    "qs:gn_nam_loc":"Valdivia, Valdivia, Valdivia, Los Rios, CL",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Collico",
+    "qs:local_max":698,
+    "qs:local_sum":698,
+    "qs:localhoods":1,
+    "qs:name":"Collico",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Rios",
+    "qs:name_adm2":"Valdivia",
+    "qs:name_lau":"Valdivia",
+    "qs:name_local":"Valdivia",
+    "qs:photo_max":142,
+    "qs:photo_sum":698,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":49,
+    "qs:woe_adm0":23424782,
+    "qs:woe_adm1":56043703,
+    "qs:woe_adm2":26794021,
+    "qs:woe_lau":26794190,
+    "qs:woe_local":349872,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        102016837,
+        102063183,
+        85682171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3894202,
+        "gp:id":347283,
+        "qs:id":1270677,
+        "qs_pg:id":1270677
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"33c7fa242d2730667c5678a1bb923a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "locality_id":102016837,
+            "neighbourhood_id":85764395,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":85764395,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858897,
+    "wof:name":"Collico",
+    "wof:parent_id":102016837,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.217479,
+    -39.819647,
+    -73.217479,
+    -39.819647
+],
+  "geometry": {"coordinates":[-73.217479,-39.819647],"type":"Point"}
+}

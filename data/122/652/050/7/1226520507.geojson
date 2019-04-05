@@ -1,0 +1,73 @@
+{
+  "id": 1226520507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.30543,-35.30699,-72.30543,-35.30699",
+    "geom:latitude":-35.30699,
+    "geom:longitude":-72.30543,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7102.0",
+    "gn:asciiname":"La Ovejeria",
+    "gn:country_code":"CL",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885173,
+    "gn:latitude":-35.30699,
+    "gn:longitude":-72.30543,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Ovejer\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ovejer\u00eda",
+        "La Ovejer\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885173
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fcee11016cfce67eb2ad3e1193258101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1226520507,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1226520507,
+    "wof:lastmodified":1537591133,
+    "wof:name":"La Ovejeria",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.30543,
+    -35.30699,
+    -72.30543,
+    -35.30699
+],
+  "geometry": {"coordinates":[-72.30543,-35.30699],"type":"Point"}
+}

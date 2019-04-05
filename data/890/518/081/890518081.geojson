@@ -1,0 +1,76 @@
+{
+  "id": 890518081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63758,-33.58426,-70.63758,-33.58426",
+    "geom:latitude":-33.58426,
+    "geom:longitude":-70.63758,
+    "gn:country":"CL",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"La Pintana",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":154,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":393,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261407,
+        "gp:id":26794288,
+        "qs:id":61396,
+        "wd:id":"Q14464",
+        "wk:page":"La Pintana"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056042,
+    "wof:geomhash":"06403b5f1be5c852a66b6a4a05808c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "localadmin_id":890518081,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890518081,
+    "wof:lastmodified":1527751236,
+    "wof:name":"La Pintana",
+    "wof:parent_id":102063117,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63758,
+    -33.58426,
+    -70.63758,
+    -33.58426
+],
+  "geometry": {"coordinates":[-70.63758,-33.58426],"type":"Point"}
+}

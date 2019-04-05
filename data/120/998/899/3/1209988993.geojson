@@ -1,0 +1,69 @@
+{
+  "id": 1209988993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.3,-17.95,-69.3,-17.95",
+    "geom:latitude":-17.95,
+    "geom:longitude":-69.3,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15202.0",
+    "gn:asciiname":"Tambo de Cosapilla",
+    "gn:country_code":"CL",
+    "gn:dem":4233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870192,
+    "gn:latitude":-17.95,
+    "gn:longitude":-69.3,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Tambo de Cosapilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870192
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ba460d976a84fd8e11719e50bd00355c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1209988993,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1209988993,
+    "wof:lastmodified":1536387290,
+    "wof:name":"Tambo de Cosapilla",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.3,
+    -17.95,
+    -69.3,
+    -17.95
+],
+  "geometry": {"coordinates":[-69.3,-17.95],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 890517647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.43107,-43.17494,-72.43107,-43.17494",
+    "geom:latitude":-43.17494,
+    "geom:longitude":-72.43107,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Puerto C\u00e1rdenas"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto C\u00e1rdenas"
+    ],
+    "qs:name":"Puerto C\u00e1rdenas",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874987,
+        "gp:id":350103,
+        "qs:id":288013,
+        "wd:id":"Q16898883",
+        "wk:page":"Puerto C\u00e1rdenas"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056019,
+    "wof:geomhash":"6fad698f2db52a0a67783e3eff873c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":890517647,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890517647,
+    "wof:lastmodified":1527751199,
+    "wof:name":"Puerto C\u00e1rdenas",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.43107,
+    -43.17494,
+    -72.43107,
+    -43.17494
+],
+  "geometry": {"coordinates":[-72.43107000000001,-43.17494],"type":"Point"}
+}

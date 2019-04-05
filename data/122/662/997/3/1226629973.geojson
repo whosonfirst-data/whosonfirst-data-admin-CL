@@ -1,0 +1,71 @@
+{
+  "id": 1226629973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.59596,-52.31107,-71.59596,-52.31107",
+    "geom:latitude":-52.31107,
+    "geom:longitude":-71.59596,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Seccion Las Vacas",
+    "gn:country_code":"CL",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329837,
+    "gn:latitude":-52.31107,
+    "gn:longitude":-71.59596,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Secci\u00f3n Las Vacas",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Secci\u00f3n Las Vacas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329837
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8270adc8139057e5c58fa467009a6b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1226629973,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1226629973,
+    "wof:lastmodified":1537591186,
+    "wof:name":"Seccion Las Vacas",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.59595999999998,
+    -52.31107,
+    -71.59595999999998,
+    -52.31107
+],
+  "geometry": {"coordinates":[-71.59595999999998,-52.31107],"type":"Point"}
+}

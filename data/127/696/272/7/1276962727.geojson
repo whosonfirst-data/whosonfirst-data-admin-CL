@@ -1,0 +1,100 @@
+{
+  "id": 1276962727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.80121,-50.97979,-72.80121,-50.97979",
+    "geom:latitude":-50.97979,
+    "geom:longitude":-72.80121,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"12402.0",
+    "gn:asciiname":"Tres Torres",
+    "gn:country_code":"CL",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885779,
+    "gn:latitude":-50.97979,
+    "gn:longitude":-72.80121,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Tres Torres",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tres Torres"
+    ],
+    "name:und_x_variant":[
+        "Amarga",
+        "Laguna Amarga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885779
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e0f3d097b47731a9880fabcca62df98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1276962727,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1276962727,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1276962727,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1276962727,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1276962727,
+    "wof:lastmodified":1537591136,
+    "wof:name":"Tres Torres",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.80121,
+    -50.97979,
+    -72.80121,
+    -50.97979
+],
+  "geometry": {"coordinates":[-72.80121,-50.97979],"type":"Point"}
+}

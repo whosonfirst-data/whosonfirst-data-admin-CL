@@ -1,0 +1,73 @@
+{
+  "id": 1344079529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.90378,-28.15055,-70.90378,-28.15055",
+    "geom:latitude":-28.15055,
+    "geom:longitude":-70.90378,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3304.0",
+    "gn:asciiname":"Chorrillos",
+    "gn:country_code":"CL",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3894823,
+    "gn:latitude":-28.15055,
+    "gn:longitude":-70.90378,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chorrillos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorillos",
+        "Chorrillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3894823
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"5a7161b4bac94c9fbabd2460fb96ca3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1344079529,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1344079529,
+    "wof:lastmodified":1537591158,
+    "wof:name":"Chorrillos",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.90378,
+    -28.15055,
+    -70.90378,
+    -28.15055
+],
+  "geometry": {"coordinates":[-70.90378,-28.15055],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 890517855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.346681,-34.573925,-71.346681,-34.573925",
+    "geom:latitude":-34.573925,
+    "geom:longitude":-71.346681,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Palmiya"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0438\u043b\u044c\u044f"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0645\u06cc\u06cc\u0627"
+    ],
+    "name:kor_x_preferred":[
+        "\ud314\ubbf8\uc57c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0438\u043b\u044c\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7c73\u62c9"
+    ],
+    "qs:name":"Palmilla",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Libertador General Bernardo O'Higgins",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261264,
+        "gp:id":26794218,
+        "qs:id":1018763,
+        "qs_pg:id":381544,
+        "wd:id":"Q51074",
+        "wk:page":"Palmilla"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056032,
+    "wof:geomhash":"e6c91c33869e900593c93f9bc8a2757a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "localadmin_id":890517855,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":890517855,
+    "wof:lastmodified":1527751201,
+    "wof:name":"Palmilla",
+    "wof:parent_id":102063157,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.346681,
+    -34.573925,
+    -71.346681,
+    -34.573925
+],
+  "geometry": {"coordinates":[-71.346681,-34.573925],"type":"Point"}
+}

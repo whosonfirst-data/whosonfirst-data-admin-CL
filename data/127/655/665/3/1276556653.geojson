@@ -1,0 +1,69 @@
+{
+  "id": 1276556653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.22147,-44.56305,-71.22147,-44.56305",
+    "geom:latitude":-44.56305,
+    "geom:longitude":-71.22147,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11102.0",
+    "gn:asciiname":"Puerto Los Morros",
+    "gn:country_code":"CL",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874963,
+    "gn:latitude":-44.56305,
+    "gn:longitude":-71.22147,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Puerto Los Morros",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874963
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"8bccf134cf00ee496a3bf96d33f7183b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063079,
+            "locality_id":1276556653,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":1276556653,
+    "wof:lastmodified":1536976208,
+    "wof:name":"Puerto Los Morros",
+    "wof:parent_id":102063079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.22147,
+    -44.56305,
+    -71.22147,
+    -44.56305
+],
+  "geometry": {"coordinates":[-71.22147,-44.56305],"type":"Point"}
+}

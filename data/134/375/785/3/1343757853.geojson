@@ -1,0 +1,73 @@
+{
+  "id": 1343757853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06862,-53.43419,-70.06862,-53.43419",
+    "geom:latitude":-53.43419,
+    "geom:longitude":-70.06862,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"123.0",
+    "gn:admin3_code":"12301.0",
+    "gn:asciiname":"Bersovio el Covacio",
+    "gn:country_code":"CL",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3898411,
+    "gn:latitude":-53.43419,
+    "gn:longitude":-70.06862,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Bersovio el Covacio",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kovacic",
+        "Bersovio el Covacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3898411
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"acb04088475c12ba7914d38472a1ebb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "locality_id":1343757853,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1343757853,
+    "wof:lastmodified":1537591168,
+    "wof:name":"Bersovio el Covacio",
+    "wof:parent_id":102063185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06862,
+    -53.43419,
+    -70.06862,
+    -53.43419
+],
+  "geometry": {"coordinates":[-70.06862,-53.43419],"type":"Point"}
+}

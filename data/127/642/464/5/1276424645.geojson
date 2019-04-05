@@ -1,0 +1,71 @@
+{
+  "id": 1276424645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31861,-53.10307,-71.31861,-53.10307",
+    "geom:latitude":-53.10307,
+    "geom:longitude":-71.31861,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Lugar La Cabana",
+    "gn:country_code":"CL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358312,
+    "gn:latitude":-53.10307,
+    "gn:longitude":-71.31861,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Lugar La Caba\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lugar La Caba\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358312
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"54e37802ab3695a32b43993b816c913b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1276424645,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1276424645,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Lugar La Cabana",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31860999999998,
+    -53.10307,
+    -71.31860999999998,
+    -53.10307
+],
+  "geometry": {"coordinates":[-71.31860999999998,-53.10307],"type":"Point"}
+}

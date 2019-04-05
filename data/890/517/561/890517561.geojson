@@ -1,0 +1,74 @@
+{
+  "id": 890517561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4256645,-41.1538095,-73.4256645,-41.1538095",
+    "geom:latitude":-41.15381,
+    "geom:longitude":-73.425664,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Fresia",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Lagos",
+    "qs:photos":71,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":101,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261406,
+        "gp:id":26794161,
+        "qs:id":1263709,
+        "qs_pg:id":904399,
+        "wk:page":"Fresia"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056014,
+    "wof:geomhash":"c38d9b24d795cfa3add8b474832c1d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "localadmin_id":890517561,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":890517561,
+    "wof:lastmodified":1527749991,
+    "wof:name":"Fresia",
+    "wof:parent_id":102063135,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.42566449999998,
+    -41.1538095,
+    -73.42566449999998,
+    -41.1538095
+],
+  "geometry": {"coordinates":[-73.42566449999998,-41.1538095],"type":"Point"}
+}

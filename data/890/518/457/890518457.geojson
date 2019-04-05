@@ -1,0 +1,75 @@
+{
+  "id": 890518457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61204,-30.01482,-70.61204,-30.01482",
+    "geom:latitude":-30.01482,
+    "geom:longitude":-70.61204,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"La Campana",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Coquimbo",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682161,
+        102063091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886385,
+        "gp:id":350253,
+        "qs:id":261057,
+        "wk:page":"La Campana"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056066,
+    "wof:geomhash":"91f6ae98944da0124d70fb14cfb46e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063091,
+            "locality_id":890518457,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":890518457,
+    "wof:lastmodified":1527758437,
+    "wof:name":"La Campana",
+    "wof:parent_id":102063091,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61204,
+    -30.01482,
+    -70.61204,
+    -30.01482
+],
+  "geometry": {"coordinates":[-70.61203999999999,-30.01482],"type":"Point"}
+}

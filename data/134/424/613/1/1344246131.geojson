@@ -1,0 +1,97 @@
+{
+  "id": 1344246131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32691,-51.69895,-72.32691,-51.69895",
+    "geom:latitude":-51.69895,
+    "geom:longitude":-72.32691,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"12401.0",
+    "gn:asciiname":"Casas Viejas",
+    "gn:country_code":"CL",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896334,
+    "gn:latitude":-51.69895,
+    "gn:longitude":-72.32691,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Casas Viejas",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casa Viejas",
+        "Casas Viejas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896334
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"de4ba218ecd9ea108d99f01119f520d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1344246131,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1344246131,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1344246131,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1344246131,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1344246131,
+    "wof:lastmodified":1537591163,
+    "wof:name":"Casas Viejas",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32691,
+    -51.69895,
+    -72.32691,
+    -51.69895
+],
+  "geometry": {"coordinates":[-72.32691,-51.69895],"type":"Point"}
+}

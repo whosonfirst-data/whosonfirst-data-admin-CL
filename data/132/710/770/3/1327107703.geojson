@@ -1,0 +1,69 @@
+{
+  "id": 1327107703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78333,-19.26667,-69.78333,-19.26667",
+    "geom:latitude":-19.26667,
+    "geom:longitude":-69.78333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1404.0",
+    "gn:asciiname":"Suca Alto",
+    "gn:country_code":"CL",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3870507,
+    "gn:latitude":-19.26667,
+    "gn:longitude":-69.78333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Suca Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3870507
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3aff92f5df2b0db4fdacb4e3f30c6a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1327107703,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1327107703,
+    "wof:lastmodified":1536651746,
+    "wof:name":"Suca Alto",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.78333,
+    -19.26667,
+    -69.78333,
+    -19.26667
+],
+  "geometry": {"coordinates":[-69.78333000000001,-19.26667],"type":"Point"}
+}

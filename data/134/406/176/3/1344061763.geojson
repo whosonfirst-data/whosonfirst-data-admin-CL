@@ -1,0 +1,73 @@
+{
+  "id": 1344061763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.69621,-27.47874,-69.69621,-27.47874",
+    "geom:latitude":-27.47874,
+    "geom:longitude":-69.69621,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3101.0",
+    "gn:asciiname":"Salto de Los Marayes",
+    "gn:country_code":"CL",
+    "gn:dem":2580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3872497,
+    "gn:latitude":-27.47874,
+    "gn:longitude":-69.69621,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Salto de Los Marayes",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Marayes",
+        "Salto de Los Marayes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3872497
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"48fac0d69c5179181e755c4081b1fe56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063143,
+            "locality_id":1344061763,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1344061763,
+    "wof:lastmodified":1537591105,
+    "wof:name":"Salto de Los Marayes",
+    "wof:parent_id":102063143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.69621,
+    -27.47874,
+    -69.69621,
+    -27.47874
+],
+  "geometry": {"coordinates":[-69.69620999999999,-27.47874],"type":"Point"}
+}

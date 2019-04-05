@@ -1,0 +1,72 @@
+{
+  "id": 1243050211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26154,-18.00798,-69.26154,-18.00798",
+    "geom:latitude":-18.00798,
+    "geom:longitude":-69.26154,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Uncaliri Chico",
+    "gn:country_code":"CL",
+    "gn:dem":4282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3868811,
+    "gn:latitude":-18.00798,
+    "gn:longitude":-69.26154,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Uncaliri Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Uncaliri Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3868811
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"ffa10607d8e2f44f43cc54dc75643544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1243050211,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1243050211,
+    "wof:lastmodified":1537591100,
+    "wof:name":"Uncaliri Chico",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26154,
+    -18.00798,
+    -69.26154,
+    -18.00798
+],
+  "geometry": {"coordinates":[-69.26154,-18.00798],"type":"Point"}
+}

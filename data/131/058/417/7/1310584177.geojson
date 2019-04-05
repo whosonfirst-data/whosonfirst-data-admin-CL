@@ -1,0 +1,69 @@
+{
+  "id": 1310584177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.51667,-19.41667,-68.51667,-19.41667",
+    "geom:latitude":-19.41667,
+    "geom:longitude":-68.51667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"1403.0",
+    "gn:asciiname":"Chapi",
+    "gn:country_code":"CL",
+    "gn:dem":3685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895433,
+    "gn:latitude":-19.41667,
+    "gn:longitude":-68.51667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Chapi",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682245,
+        890517491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895433
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"322cac11349a16fd33f6b06dfa8309d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":890517491,
+            "locality_id":1310584177,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":1310584177,
+    "wof:lastmodified":1536803424,
+    "wof:name":"Chapi",
+    "wof:parent_id":890517491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.51666999999999,
+    -19.41667,
+    -68.51666999999999,
+    -19.41667
+],
+  "geometry": {"coordinates":[-68.51666999999999,-19.41667],"type":"Point"}
+}

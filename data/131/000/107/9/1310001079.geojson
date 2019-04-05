@@ -1,0 +1,95 @@
+{
+  "id": 1310001079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.39385,-50.86863,-72.39385,-50.86863",
+    "geom:latitude":-50.86863,
+    "geom:longitude":-72.39385,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"124.0",
+    "gn:asciiname":"Caserio Los Leones",
+    "gn:country_code":"CL",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11405479,
+    "gn:latitude":-50.86863,
+    "gn:longitude":-72.39385,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Caser\u00edo Los Leones",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caser\u00edo Los Leones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11405479
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fa03b64d7c872dc63049c7440ec936a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1310001079,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1310001079,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1310001079,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1310001079,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1310001079,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Caserio Los Leones",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.39385,
+    -50.86863,
+    -72.39385,
+    -50.86863
+],
+  "geometry": {"coordinates":[-72.39385,-50.86863],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293672679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.9417,-41.023,-72.9417,-41.023",
+    "geom:latitude":-41.023,
+    "geom:longitude":-72.9417,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10105.0",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"CL",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047638,
+    "gn:latitude":-41.023,
+    "gn:longitude":-72.9417,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Carlos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047638
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fd318d69d378d8677dcf836b0117d821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1293672679,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1293672679,
+    "wof:lastmodified":1537591177,
+    "wof:name":"San Carlos",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.9417,
+    -41.023,
+    -72.9417,
+    -41.023
+],
+  "geometry": {"coordinates":[-72.9417,-41.023],"type":"Point"}
+}

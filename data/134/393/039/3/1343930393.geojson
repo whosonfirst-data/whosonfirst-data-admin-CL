@@ -1,0 +1,72 @@
+{
+  "id": 1343930393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.22876,-18.05872,-69.22876,-18.05872",
+    "geom:latitude":-18.05872,
+    "geom:longitude":-69.22876,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Colpita",
+    "gn:country_code":"CL",
+    "gn:dem":4393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3894004,
+    "gn:latitude":-18.05872,
+    "gn:longitude":-69.22876,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Colpita",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colpita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3894004
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"e7c3a382509ea4f7de401e5aed51c960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1343930393,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1343930393,
+    "wof:lastmodified":1537591155,
+    "wof:name":"Colpita",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.22876,
+    -18.05872,
+    -69.22876,
+    -18.05872
+],
+  "geometry": {"coordinates":[-69.22875999999999,-18.05872],"type":"Point"}
+}

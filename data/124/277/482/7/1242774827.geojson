@@ -1,0 +1,72 @@
+{
+  "id": 1242774827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.04491,-34.42985,-72.04491,-34.42985",
+    "geom:latitude":-34.42985,
+    "geom:longitude":-72.04491,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"62.0",
+    "gn:admin3_code":"6201.0",
+    "gn:asciiname":"Punta de Lobos",
+    "gn:country_code":"CL",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7839329,
+    "gn:latitude":-34.42985,
+    "gn:longitude":-72.04491,
+    "gn:modification_date":"2014-12-16",
+    "gn:name":"Punta de Lobos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430 \u0434\u0435 \u041b\u043e\u0431\u043e\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7839329
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"6ccb4dd7e2f98e76aad0d472541f80cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063149,
+            "locality_id":1242774827,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1242774827,
+    "wof:lastmodified":1537489505,
+    "wof:name":"Punta de Lobos",
+    "wof:parent_id":102063149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.04491,
+    -34.42985,
+    -72.04491,
+    -34.42985
+],
+  "geometry": {"coordinates":[-72.04491,-34.42985],"type":"Point"}
+}

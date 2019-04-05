@@ -1,0 +1,72 @@
+{
+  "id": 1327116565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.10319,-18.80635,-69.10319,-18.80635",
+    "geom:latitude":-18.80635,
+    "geom:longitude":-69.10319,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15201.0",
+    "gn:asciiname":"Castilluma",
+    "gn:country_code":"CL",
+    "gn:dem":4278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3896223,
+    "gn:latitude":-18.80635,
+    "gn:longitude":-69.10319,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Castilluma",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Castilluma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3896223
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"0d0388128e073a5d7c0e903b142c19c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1327116565,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1327116565,
+    "wof:lastmodified":1537591162,
+    "wof:name":"Castilluma",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.10319,
+    -18.80635,
+    -69.10319,
+    -18.80635
+],
+  "geometry": {"coordinates":[-69.10319,-18.80635],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243538117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.76921,-41.32663,-72.76921,-41.32663",
+    "geom:latitude":-41.32663,
+    "geom:longitude":-72.76921,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10109.0",
+    "gn:asciiname":"Asentamiento Fundo Rio Pescado",
+    "gn:country_code":"CL",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8048053,
+    "gn:latitude":-41.32663,
+    "gn:longitude":-72.76921,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Asentamiento Fundo R\u00edo Pescado",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Asentamiento Fundo R\u00edo Pescado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048053
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4554432b660991b7763893cde8a30b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1243538117,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1243538117,
+    "wof:lastmodified":1537591177,
+    "wof:name":"Asentamiento Fundo Rio Pescado",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.76921,
+    -41.32663,
+    -72.76921,
+    -41.32663
+],
+  "geometry": {"coordinates":[-72.76921,-41.32663],"type":"Point"}
+}

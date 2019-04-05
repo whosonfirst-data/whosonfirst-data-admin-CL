@@ -1,0 +1,73 @@
+{
+  "id": 1293869245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.37399,-34.62458,-71.37399,-34.62458",
+    "geom:latitude":-34.62458,
+    "geom:longitude":-71.37399,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"63.0",
+    "gn:admin3_code":"6310.0",
+    "gn:asciiname":"Los Barriales",
+    "gn:country_code":"CL",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3882362,
+    "gn:latitude":-34.62458,
+    "gn:longitude":-71.37399,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Los Barriales",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Barreales",
+        "Los Barriales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682165,
+        102063157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882362
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d8fa6cbea53feae5cc321c66c1695f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063157,
+            "locality_id":1293869245,
+            "region_id":85682165
+        }
+    ],
+    "wof:id":1293869245,
+    "wof:lastmodified":1537591126,
+    "wof:name":"Los Barriales",
+    "wof:parent_id":102063157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.37399,
+    -34.62458,
+    -71.37399,
+    -34.62458
+],
+  "geometry": {"coordinates":[-71.37399000000001,-34.62458],"type":"Point"}
+}

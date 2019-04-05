@@ -1,0 +1,72 @@
+{
+  "id": 1276428143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.50373,-33.61079,-70.50373,-33.61079",
+    "geom:latitude":-33.61079,
+    "geom:longitude":-70.50373,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"132.0",
+    "gn:admin3_code":"13202.0",
+    "gn:asciiname":"San Juan de Pirque",
+    "gn:country_code":"CL",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3871994,
+    "gn:latitude":-33.61079,
+    "gn:longitude":-70.50373,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"San Juan de Pirque",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan de Pirque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3871994
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"22bcd69da6d6b3bcb91ba69d7e078993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063137,
+            "locality_id":1276428143,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":1276428143,
+    "wof:lastmodified":1537591104,
+    "wof:name":"San Juan de Pirque",
+    "wof:parent_id":102063137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.50373,
+    -33.61079,
+    -70.50373,
+    -33.61079
+],
+  "geometry": {"coordinates":[-70.50373,-33.61079],"type":"Point"}
+}

@@ -1,0 +1,260 @@
+{
+  "id": 102017699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000811,
+    "geom:area_square_m":8977851.25024,
+    "geom:bbox":"-70.0643457258,-26.4058179537,-70.0223249372,-26.3779209149",
+    "geom:latitude":-26.392168,
+    "geom:longitude":-70.043433,
+    "gn:population":18137,
+    "iso:country":"CL",
+    "lbl:latitude":-26.393058,
+    "lbl:longitude":-70.045135,
+    "mps:latitude":-26.393058,
+    "mps:longitude":-70.045135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u064a\u063a\u0648 \u062f\u064a \u0627\u0644\u0645\u0627\u062c\u0631\u0648"
+    ],
+    "name:bak_x_preferred":[
+        "\u0414\u0438\u0435\u0433\u043e-\u0434\u0435-\u0410\u043b\u044c\u043c\u0430\u0433\u0440\u043e"
+    ],
+    "name:baq_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:cat_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:ceb_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:chi_x_preferred":[
+        "\u8fed\u6208\u5fb7\u963f\u723e\u99ac\u683c\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:eng_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:eus_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u06af\u0648 \u062f \u0627\u0644\u0645\u0627\u06af\u0631\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fre_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:ger_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:ita_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30a8\u30b4\u30fb\u30c7\u30fb\u30a2\u30eb\u30de\u30b0\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\ub514\uc5d0\uace0\ub370\uc54c\ub9c8\uadf8\ub85c"
+    ],
+    "name:nan_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:nld_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:oci_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u06cc\u06af\u0648 \u062f \u0627\u0644\u0645\u0627\u06af\u0631\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:ron_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:rum_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0435\u0433\u043e-\u0434\u0435-\u0410\u043b\u044c\u043c\u0430\u0433\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:swe_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Diego de Almagro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fed\u6208\u5fb7\u963f\u723e\u99ac\u683c\u7f85"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Chile",
+    "ne:ADM0_A3":"CHL",
+    "ne:ADM1NAME":"Atacama",
+    "ne:ADMIN1_COD":5,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3892454,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Diego de Almagro",
+    "ne:GN_POP":18137,
+    "ne:GTOPO30":923.0,
+    "ne:ISO_A2":"CL",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-26.369619,
+    "ne:LONGITUDE":-70.049998,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Diego de Almagro",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Diego de Almagro",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Diego de Almagro",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":18137,
+    "ne:POP_MIN":18137,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Chile",
+    "ne:SOV_A3":"CHL",
+    "ne:TIMEZONE":"America/Santiago",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:a0":"Chile",
+    "qs:a1":"*Atacama",
+    "qs:a1r":"*",
+    "qs:a2":"Cha\u00f1aral",
+    "qs:id":0,
+    "qs:la":"Diego de Almagro",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Diego de Almagro",
+    "qs:loc_alt":"Diego de Almagro",
+    "qs:loc_lc":"3892454",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3892454,
+        "gp:id":347423,
+        "qs:id":326440,
+        "qs_pg:id":326440,
+        "wd:id":"Q13033",
+        "wk:page":"Diego de Almagro, Chile"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"25367b001ea715ba954641ae1cc8d08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063133,
+            "locality_id":102017699,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":102017699,
+    "wof:lastmodified":1553815717,
+    "wof:name":"Diego de Almagro",
+    "wof:parent_id":102063133,
+    "wof:placetype":"locality",
+    "wof:population":18137,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06434572579681,
+    -26.40581795366565,
+    -70.02232493719433,
+    -26.37792091490447
+],
+  "geometry": {"coordinates":[[[-70.02671339689849,-26.37948243943345],[-70.0252044492243,-26.38061606413999],[-70.02397000419552,-26.38199304801305],[-70.02305750503459,-26.38356048172299],[-70.02250202887369,-26.38525813569115],[-70.02232493719433,-26.38702077376202],[-70.02253305265864,-26.38878065962316],[-70.02311839431131,-26.39047015973826],[-70.02405848172438,-26.39202434278638],[-70.02531719678606,-26.39338347566311],[-70.02684617033944,-26.39449532001321],[-70.0285866405911,-26.39531714088545],[-70.03047171193208,-26.39581735013974],[-70.03242892726871,-26.39597672127967],[-70.03340884186005,-26.39588265140787],[-70.03331045026509,-26.39686284445788],[-70.03351875479569,-26.39862270654949],[-70.03410430960042,-26.40031215327831],[-70.03504462606219,-26.40186625536764],[-70.03630357726396,-26.40322528281769],[-70.03783278496684,-26.40433700132046],[-70.03957347836842,-26.40515868075916],[-70.04145875327174,-26.40565873842991],[-70.04341614474819,-26.40581795366565],[-70.04537041418939,-26.4056302070443],[-70.04724644329799,-26.40510271568775],[-70.04881417001799,-26.40433327877116],[-70.04881984343359,-26.40433740256704],[-70.05056060975997,-26.4051589459752],[-70.05244592670519,-26.40565885741144],[-70.05440332772017,-26.40581792183414],[-70.05635757382856,-26.40563002562346],[-70.05823354763153,-26.40510239165636],[-70.05995914258966,-26.40425530141059],[-70.06146803615646,-26.4031213148273],[-70.06270223987221,-26.40174401802349],[-70.0636143282112,-26.40017634713705],[-70.06416926047224,-26.39847855289435],[-70.06434572579681,-26.39671588429295],[-70.06413695986711,-26.39495608055466],[-70.06355100224388,-26.39326676781537],[-70.06261038485343,-26.39171286061717],[-70.06135126398301,-26.39035406800985],[-70.059822029464,-26.38924259999062],[-70.05808144469532,-26.38842116226621],[-70.05619638904322,-26.38792131621961],[-70.05593518192444,-26.38790008847969],[-70.05589674504338,-26.38757585893443],[-70.05531094735977,-26.38588650599121],[-70.05437050175109,-26.38433253791823],[-70.05311155790514,-26.38297366610938],[-70.05158249885598,-26.38186210360902],[-70.04984208126717,-26.3810405597559],[-70.0479571780898,-26.38054060001065],[-70.04600021024319,-26.38038143382651],[-70.04404636577937,-26.380569177006],[-70.04333062221389,-26.38077044648291],[-70.04246443626488,-26.38054065950804],[-70.04050747318982,-26.38038141799641],[-70.03935005737472,-26.38049258813058],[-70.03785038999582,-26.37940212947867],[-70.03611010095379,-26.37858041437809],[-70.03422529060521,-26.3780802706814],[-70.03226837630962,-26.37792091490447],[-70.03031454406545,-26.37810847012774],[-70.02843886175819,-26.37863573082231],[-70.02671339689849,-26.37948243943345]]],"type":"Polygon"}
+}

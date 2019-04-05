@@ -1,0 +1,63 @@
+{
+  "id": 1209127451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.18333,-30.43333,-71.18333,-30.43333",
+    "geom:latitude":-30.43333,
+    "geom:longitude":-71.18333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4301.0",
+    "gn:asciiname":"La Higuera Sola",
+    "gn:country_code":"CL",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3885656,
+    "gn:latitude":-30.43333,
+    "gn:longitude":-71.18333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"La Higuera Sola",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3885656
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"3713d2612311adb52648497d85838164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209127451
+        }
+    ],
+    "wof:id":1209127451,
+    "wof:lastmodified":1536296912,
+    "wof:name":"La Higuera Sola",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18333,
+    -30.43333,
+    -71.18333,
+    -30.43333
+],
+  "geometry": {"coordinates":[-71.18333,-30.43333],"type":"Point"}
+}

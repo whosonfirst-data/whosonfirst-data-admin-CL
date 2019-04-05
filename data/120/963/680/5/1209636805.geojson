@@ -1,0 +1,63 @@
+{
+  "id": 1209636805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.14604,-30.53809,-71.14604,-30.53809",
+    "geom:latitude":-30.53809,
+    "geom:longitude":-71.14604,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4301.0",
+    "gn:asciiname":"El Olivo",
+    "gn:country_code":"CL",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3890877,
+    "gn:latitude":-30.53809,
+    "gn:longitude":-71.14604,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Olivo",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3890877
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4f14ab399dd481887566b66f6aa924ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "locality_id":1209636805
+        }
+    ],
+    "wof:id":1209636805,
+    "wof:lastmodified":1536281018,
+    "wof:name":"El Olivo",
+    "wof:parent_id":85633057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14604,
+    -30.538090000000004,
+    -71.14604,
+    -30.538090000000004
+],
+  "geometry": {"coordinates":[-71.14604,-30.53809],"type":"Point"}
+}

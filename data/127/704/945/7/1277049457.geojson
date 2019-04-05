@@ -1,0 +1,69 @@
+{
+  "id": 1277049457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.46456,-42.11767,-73.46456,-42.11767",
+    "geom:latitude":-42.11767,
+    "geom:longitude":-73.46456,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10209.0",
+    "gn:asciiname":"Huite",
+    "gn:country_code":"CL",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3887474,
+    "gn:latitude":-42.11767,
+    "gn:longitude":-73.46456,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Huite",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3887474
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"4541827d9e1b821ac7c169057a1db28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":1277049457,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1277049457,
+    "wof:lastmodified":1536813196,
+    "wof:name":"Huite",
+    "wof:parent_id":102063115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.46455999999998,
+    -42.11767,
+    -73.46455999999998,
+    -42.11767
+],
+  "geometry": {"coordinates":[-73.46455999999998,-42.11767],"type":"Point"}
+}

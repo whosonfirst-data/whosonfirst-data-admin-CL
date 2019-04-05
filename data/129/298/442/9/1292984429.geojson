@@ -1,0 +1,71 @@
+{
+  "id": 1292984429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.09092,-41.83486,-73.09092,-41.83486",
+    "geom:latitude":-41.83486,
+    "geom:longitude":-73.09092,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"Chidguapi",
+    "gn:country_code":"CL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8308999,
+    "gn:latitude":-41.83486,
+    "gn:longitude":-73.09092,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Chidguapi",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chidguapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308999
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"38867ef5826ba7ddc2f8a0834c96c013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1292984429,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1292984429,
+    "wof:lastmodified":1537591180,
+    "wof:name":"Chidguapi",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.09092,
+    -41.83486,
+    -73.09092,
+    -41.83486
+],
+  "geometry": {"coordinates":[-73.09092,-41.83486],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890517603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.17509,-39.81784,-73.17509,-39.81784",
+    "geom:latitude":-39.81784,
+    "geom:longitude":-73.17509,
+    "gn:country":"CL",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Valdivia",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Los Rios",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":21,
+    "qs:photos_9r":13,
+    "qs:photos_all":4773,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":6861,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682171,
+        102063183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261461,
+        "gp:id":26794190,
+        "qs:id":1314390,
+        "wd:id":"Q160687",
+        "wk:page":"Valdivia"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056016,
+    "wof:geomhash":"cd01d958d1841d928531a813a5d8b6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063183,
+            "localadmin_id":890517603,
+            "region_id":85682171
+        }
+    ],
+    "wof:id":890517603,
+    "wof:lastmodified":1527749994,
+    "wof:name":"Valdivia",
+    "wof:parent_id":102063183,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.17509,
+    -39.81784,
+    -73.17509,
+    -39.81784
+],
+  "geometry": {"coordinates":[-73.17509,-39.81784],"type":"Point"}
+}

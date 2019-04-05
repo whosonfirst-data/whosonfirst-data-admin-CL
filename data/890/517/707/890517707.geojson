@@ -1,0 +1,65 @@
+{
+  "id": 890517707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.517391,-32.887993,-71.517391,-32.887993",
+    "geom:latitude":-32.887993,
+    "geom:longitude":-71.517391,
+    "gn:country":"CL",
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Conc\u00f3n",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Valpara\u00edso",
+    "qs:photos":195,
+    "qs:photos_1k":40,
+    "qs:photos_9k":23,
+    "qs:photos_9r":14,
+    "qs:photos_all":5194,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":388,
+    "wof:belongsto":[
+        85633057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28358243,
+        "qs:id":400840,
+        "wd:id":"Q3860",
+        "wk:page":"Conc\u00f3n"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056021,
+    "wof:geomhash":"4ba3b4c626b08e5c65470739829ebdf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633057,
+            "localadmin_id":890517707
+        }
+    ],
+    "wof:id":890517707,
+    "wof:lastmodified":1527749992,
+    "wof:name":"Conc\u00f3n",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.517391,
+    -32.887993,
+    -71.517391,
+    -32.887993
+],
+  "geometry": {"coordinates":[-71.517391,-32.887993],"type":"Point"}
+}

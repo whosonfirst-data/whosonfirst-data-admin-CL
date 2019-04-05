@@ -1,0 +1,71 @@
+{
+  "id": 1293090087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.09987,-53.39718,-71.09987,-53.39718",
+    "geom:latitude":-53.39718,
+    "geom:longitude":-71.09987,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Cien Aguilas",
+    "gn:country_code":"CL",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358315,
+    "gn:latitude":-53.39718,
+    "gn:longitude":-71.09987,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Cien \u00c1guilas",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cien \u00c1guilas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358315
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b7f2c28d6e5633ffda007887c18d8c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1293090087,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1293090087,
+    "wof:lastmodified":1537591188,
+    "wof:name":"Cien Aguilas",
+    "wof:parent_id":102063075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.09987,
+    -53.39718000000001,
+    -71.09987,
+    -53.39718000000001
+],
+  "geometry": {"coordinates":[-71.09987,-53.39718000000001],"type":"Point"}
+}

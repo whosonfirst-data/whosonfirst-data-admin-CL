@@ -1,0 +1,78 @@
+{
+  "id": 102017005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000445,
+    "geom:area_square_m":4584209.249817,
+    "geom:bbox":"-71.6471252024,-33.6512082992,-71.6198730469,-33.6329157387",
+    "geom:latitude":-33.642509,
+    "geom:longitude":-71.632165,
+    "iso:country":"CL",
+    "lbl:latitude":-33.642062,
+    "lbl:longitude":-71.632162,
+    "mps:latitude":-33.642062,
+    "mps:longitude":-71.632162,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Chile",
+    "qs:a1":"*Valpara\u00edso",
+    "qs:a1r":"*",
+    "qs:a2":"San Antonio",
+    "qs:id":0,
+    "qs:la":"Santo Domingo",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rocas de Santo Domingo",
+    "qs:loc_alt":"Rocas de Santo Domingo",
+    "qs:loc_lc":"3872988",
+    "qs:pop":0,
+    "qs:source":"Lquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3872988,
+        "gp:id":350357,
+        "qs:id":667113,
+        "qs_pg:id":667113
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b7bc8bb8ec5b1aee2c64dc7a361a60eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063167,
+            "locality_id":102017005,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":102017005,
+    "wof:lastmodified":1497292601,
+    "wof:name":"Rocas de Santo Domingo",
+    "wof:parent_id":102063167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64712520236256,
+    -33.65120829920003,
+    -71.61987304689997,
+    -33.6329157387
+],
+  "geometry": {"coordinates":[[[-71.61987304689997,-33.64206250479999],[-71.61987304689997,-33.65120829920003],[-71.63085937500003,-33.65120829920003],[-71.6418457031,-33.65120829920003],[-71.6418457031,-33.65120805630002],[-71.64560786913452,-33.65120805630002],[-71.646410768184,-33.64987053025597],[-71.64697204507287,-33.64816722450423],[-71.64712520236256,-33.64640506846439],[-71.64686437922393,-33.64465178109843],[-71.6461996227966,-33.64297473655608],[-71.6456256266776,-33.6421293289709],[-71.64561565128723,-33.64206226184998],[-71.64280421601562,-33.64206226184998],[-71.6418457031,-33.64244606950684],[-71.6418457031,-33.64206250479999],[-71.6418457031,-33.6329157387],[-71.63085937500003,-33.6329157387],[-71.61987304689997,-33.6329157387],[-71.61987304689997,-33.64206250479999]]],"type":"Polygon"}
+}

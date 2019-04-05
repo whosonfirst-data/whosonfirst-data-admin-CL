@@ -1,0 +1,70 @@
+{
+  "id": 890517691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.5707585,-33.608328,-70.5707585,-33.608328",
+    "geom:latitude":-33.608328,
+    "geom:longitude":-70.570758,
+    "gp:adm0":23424782,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Puente Alto",
+    "qs:name_adm0":"Chile",
+    "qs:name_adm1":"Santiago",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2426,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":721,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682207,
+        102063137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794267,
+        "qs:id":493556,
+        "wd:id":"Q51594",
+        "wk:page":"Puente Alto"
+    },
+    "wof:country":"CL",
+    "wof:created":1469056020,
+    "wof:geomhash":"1865d5acb48ec52fc907eb6edac54e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063137,
+            "localadmin_id":890517691,
+            "region_id":85682207
+        }
+    ],
+    "wof:id":890517691,
+    "wof:lastmodified":1527751201,
+    "wof:name":"Puente Alto",
+    "wof:parent_id":102063137,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.5707585,
+    -33.608328,
+    -70.5707585,
+    -33.608328
+],
+  "geometry": {"coordinates":[-70.5707585,-33.608328],"type":"Point"}
+}

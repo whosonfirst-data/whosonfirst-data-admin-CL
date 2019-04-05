@@ -1,0 +1,70 @@
+{
+  "id": 1276747265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.31974,-54.9244,-68.31974,-54.9244",
+    "geom:latitude":-54.9244,
+    "geom:longitude":-68.31974,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"12201.0",
+    "gn:asciiname":"Puerto Navarino",
+    "gn:country_code":"CL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3874957,
+    "gn:latitude":-54.9244,
+    "gn:longitude":-68.31974,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Puerto Navarino",
+    "gn:population":0,
+    "gn:timezone":"America/Punta_Arenas",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3874957,
+        "wk:page":"Puerto_Navarino"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"67688f9e68c26b28dffeb702198b854f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063089,
+            "locality_id":1276747265,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1276747265,
+    "wof:lastmodified":1537489479,
+    "wof:name":"Puerto Navarino",
+    "wof:parent_id":102063089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.31974,
+    -54.9244,
+    -68.31974,
+    -54.9244
+],
+  "geometry": {"coordinates":[-68.31974,-54.9244],"type":"Point"}
+}

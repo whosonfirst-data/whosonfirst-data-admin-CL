@@ -1,0 +1,73 @@
+{
+  "id": 1310076565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.02295,-43.09404,-72.02295,-43.09404",
+    "geom:latitude":-43.09404,
+    "geom:longitude":-72.02295,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10402.0",
+    "gn:asciiname":"Espolon",
+    "gn:country_code":"CL",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3891373,
+    "gn:latitude":-43.09404,
+    "gn:longitude":-72.02295,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Espol\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Espol\u00f3n",
+        "El Espol\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3891373
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"354c74a222da551ae273d96944fa75b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":1310076565,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1310076565,
+    "wof:lastmodified":1537591148,
+    "wof:name":"Espolon",
+    "wof:parent_id":102063169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.02295,
+    -43.09404,
+    -72.02295,
+    -43.09404
+],
+  "geometry": {"coordinates":[-72.02294999999999,-43.09404],"type":"Point"}
+}

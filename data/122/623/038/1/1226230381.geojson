@@ -1,0 +1,69 @@
+{
+  "id": 1226230381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.09482,-35.1897,-72.09482,-35.1897",
+    "geom:latitude":-35.1897,
+    "geom:longitude":-72.09482,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"71.0",
+    "gn:admin3_code":"7103.0",
+    "gn:asciiname":"Loma Blanca",
+    "gn:country_code":"CL",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3882635,
+    "gn:latitude":-35.1897,
+    "gn:longitude":-72.09482,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Loma Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682149,
+        102063111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3882635
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b2a11ac7bc6dcae142358d2b7d7392f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063111,
+            "locality_id":1226230381,
+            "region_id":85682149
+        }
+    ],
+    "wof:id":1226230381,
+    "wof:lastmodified":1536955865,
+    "wof:name":"Loma Blanca",
+    "wof:parent_id":102063111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.09482,
+    -35.1897,
+    -72.09482,
+    -35.1897
+],
+  "geometry": {"coordinates":[-72.09482,-35.1897],"type":"Point"}
+}

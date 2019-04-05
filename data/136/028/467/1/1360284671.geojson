@@ -1,0 +1,73 @@
+{
+  "id": 1360284671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.69417,-28.64045,-70.69417,-28.64045",
+    "geom:latitude":-28.64045,
+    "geom:longitude":-70.69417,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3301.0",
+    "gn:asciiname":"Chanar Blanco",
+    "gn:country_code":"CL",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3895539,
+    "gn:latitude":-28.64045,
+    "gn:longitude":-70.69417,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cha\u00f1ar Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Cha\u00f1ar",
+        "Cha\u00f1ar Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682139,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3895539
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fe45c726227a21bf2350f0ff51b9144b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":1360284671,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":1360284671,
+    "wof:lastmodified":1537591160,
+    "wof:name":"Chanar Blanco",
+    "wof:parent_id":102063175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.69417,
+    -28.64045,
+    -70.69417,
+    -28.64045
+],
+  "geometry": {"coordinates":[-70.69417,-28.64045],"type":"Point"}
+}

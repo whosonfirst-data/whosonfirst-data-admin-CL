@@ -1,0 +1,69 @@
+{
+  "id": 1326712515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.46667,-17.65,-69.46667,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":-69.46667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"152.0",
+    "gn:admin3_code":"15202.0",
+    "gn:asciiname":"La Capilla",
+    "gn:country_code":"CL",
+    "gn:dem":4084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3886339,
+    "gn:latitude":-17.65,
+    "gn:longitude":-69.46667,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"La Capilla",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        1108804709,
+        102063181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886339
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"51fe076d3861c9d14796b423695702d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063181,
+            "locality_id":1326712515,
+            "region_id":1108804709
+        }
+    ],
+    "wof:id":1326712515,
+    "wof:lastmodified":1536724559,
+    "wof:name":"La Capilla",
+    "wof:parent_id":102063181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.46667,
+    -17.65,
+    -69.46667,
+    -17.65
+],
+  "geometry": {"coordinates":[-69.46666999999999,-17.65],"type":"Point"}
+}

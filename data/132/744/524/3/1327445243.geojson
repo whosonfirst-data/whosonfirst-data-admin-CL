@@ -1,0 +1,74 @@
+{
+  "id": 1327445243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.13333,-32.85,-71.13333,-32.85",
+    "geom:latitude":-32.85,
+    "geom:longitude":-71.13333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5502.0",
+    "gn:asciiname":"La Champa",
+    "gn:cc2":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3886290,
+    "gn:latitude":-32.85,
+    "gn:longitude":-71.13333,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"La Champa",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Champa de Ocoa",
+        "La Champa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682143,
+        102063103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3886290
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"b40fded8b91f86e164afc75b1c9e6077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063103,
+            "locality_id":1327445243,
+            "region_id":85682143
+        }
+    ],
+    "wof:id":1327445243,
+    "wof:lastmodified":1537591137,
+    "wof:name":"La Champa",
+    "wof:parent_id":102063103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.13333,
+    -32.85,
+    -71.13333,
+    -32.85
+],
+  "geometry": {"coordinates":[-71.13333,-32.85],"type":"Point"}
+}

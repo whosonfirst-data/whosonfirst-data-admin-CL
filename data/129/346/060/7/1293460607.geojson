@@ -1,0 +1,68 @@
+{
+  "id": 1293460607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73441,-41.22751,-72.73441,-41.22751",
+    "geom:latitude":-41.22751,
+    "geom:longitude":-72.73441,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"Los Riscos",
+    "gn:country_code":"CL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308879,
+    "gn:latitude":-41.22751,
+    "gn:longitude":-72.73441,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Los Riscos",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682233,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308879
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"d79913739b4dd37db2b1213def3cb4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":1293460607,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":1293460607,
+    "wof:lastmodified":1536825041,
+    "wof:name":"Los Riscos",
+    "wof:parent_id":102063135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73441,
+    -41.22751,
+    -72.73441,
+    -41.22751
+],
+  "geometry": {"coordinates":[-72.73441,-41.22751],"type":"Point"}
+}
