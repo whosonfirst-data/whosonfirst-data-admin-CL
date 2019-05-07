@@ -10,6 +10,12 @@
     "geom:latitude":-40.737837,
     "geom:longitude":-73.054624,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Osorno Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-40.672424,
     "lbl:longitude":-73.159007,
     "meso:admin_1":"Regi\u00f3n de Los Lagos",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":102063121,
-    "wof:lastmodified":1536614060,
+    "wof:lastmodified":1554488632,
     "wof:name":"Osorno",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

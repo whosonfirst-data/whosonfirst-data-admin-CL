@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.434586,
-    "geom:area_square_m":16438600975.071808,
+    "geom:area_square_m":16438600975.071926,
     "geom:bbox":"-70.2919470228,-22.8802128907,-68.8596797299,-21.2849831336",
     "geom:latitude":-22.068061,
     "geom:longitude":-69.60223,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Tocopilla Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-22.089602,
     "lbl:longitude":-69.616129,
     "meso:admin_1":"Regi\u00f3n de Antofagasta",
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":102063093,
-    "wof:lastmodified":1553815734,
+    "wof:lastmodified":1555039010,
     "wof:name":"Tocopilla",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

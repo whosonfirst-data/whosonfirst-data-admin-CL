@@ -11,6 +11,12 @@
     "geom:longitude":-70.338917,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Los Andes Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-32.823153,
     "lbl:longitude":-70.33885,
     "meso:admin_1":"Regi\u00f3n de Valpara\u00edso",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":102063139,
-    "wof:lastmodified":1536614064,
+    "wof:lastmodified":1554488628,
     "wof:name":"Los Andes",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

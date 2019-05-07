@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.322174,
-    "geom:area_square_m":3289924588.647416,
+    "geom:area_square_m":3289924588.64734,
     "geom:bbox":"-72.0564538109,-34.8408299895,-71.452865115,-33.9027240908",
     "geom:latitude":-34.326013,
     "geom:longitude":-71.781685,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Cardenal Caro Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-34.265784,
     "lbl:longitude":-71.752109,
     "meso:admin_1":"Regi\u00f3n del Libertador Bernardo O'Higgins",
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":102063149,
-    "wof:lastmodified":1553815738,
+    "wof:lastmodified":1555039002,
     "wof:name":"Cardenal Caro",
     "wof:parent_id":85682165,
     "wof:placetype":"county",

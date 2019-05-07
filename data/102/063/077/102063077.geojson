@@ -11,6 +11,12 @@
     "geom:longitude":-71.005383,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Petorca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-32.329195,
     "lbl:longitude":-71.005379,
     "meso:admin_1":"Regi\u00f3n de Valpara\u00edso",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":102063077,
-    "wof:lastmodified":1536614025,
+    "wof:lastmodified":1554488620,
     "wof:name":"Petorca",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

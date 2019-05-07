@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.96445,
-    "geom:area_square_m":10144841142.719887,
+    "geom:area_square_m":10144841142.71966,
     "geom:bbox":"-71.6475478723,-32.2821555019,-70.2080856842,-31.1416729212",
     "geom:latitude":-31.713678,
     "geom:longitude":-71.017921,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Choapa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-31.707427,
     "lbl:longitude":-71.031631,
     "meso:admin_1":"Regi\u00f3n de Coquimbo",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":102063179,
-    "wof:lastmodified":1553815743,
+    "wof:lastmodified":1555038993,
     "wof:name":"Choapa",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

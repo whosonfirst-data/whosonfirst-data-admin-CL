@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.53358,
-    "geom:area_square_m":15035946402.917366,
+    "geom:area_square_m":15035946402.919905,
     "geom:bbox":"-73.0708408754,-38.3144994613,-70.9849325767,-36.8957393571",
     "geom:latitude":-37.540805,
     "geom:longitude":-71.927202,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "B\u00edo-B\u00edo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-37.594761,
     "lbl:longitude":-71.840684,
     "meso:admin_1":"Regi\u00f3n del B\u00edo-B\u00edo",
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":102063151,
-    "wof:lastmodified":1553815739,
+    "wof:lastmodified":1555039000,
     "wof:name":"B\u00edo-B\u00edo",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

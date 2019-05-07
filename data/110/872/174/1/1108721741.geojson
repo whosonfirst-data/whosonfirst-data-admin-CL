@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.485202,
-    "geom:area_square_m":3897342539.318414,
+    "geom:area_square_m":3897342539.318445,
     "geom:bbox":"-73.6416647554,-49.8127603306,-72.8711537394,-49.1690240615",
     "geom:latitude":-49.488719,
     "geom:longitude":-73.255231,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Zona sin demarcar Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-49.488411,
     "lbl:longitude":-73.255231,
     "meso:admin_1":"Zona sin demarcar",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":1108721741,
-    "wof:lastmodified":1512516919,
+    "wof:lastmodified":1554489411,
     "wof:name":"Zona sin demarcar",
     "wof:parent_id":-1,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],

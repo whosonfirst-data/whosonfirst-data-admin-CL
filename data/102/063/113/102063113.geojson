@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.259159,
-    "geom:area_square_m":13375287440.361233,
+    "geom:area_square_m":13375287440.361765,
     "geom:bbox":"-71.7190736473,-31.434702488,-70.1809849679,-30.2084352995",
     "geom:latitude":-30.788154,
     "geom:longitude":-70.961845,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Limar\u00ed Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-30.822956,
     "lbl:longitude":-70.884897,
     "meso:admin_1":"Regi\u00f3n de Coquimbo",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":102063113,
-    "wof:lastmodified":1553815736,
+    "wof:lastmodified":1555039005,
     "wof:name":"Limar\u00ed",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

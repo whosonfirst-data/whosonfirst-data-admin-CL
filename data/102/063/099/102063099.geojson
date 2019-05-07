@@ -11,6 +11,12 @@
     "geom:longitude":-70.665768,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "San Felipe Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-32.585483,
     "lbl:longitude":-70.672117,
     "meso:admin_1":"Regi\u00f3n de Valpara\u00edso",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":102063099,
-    "wof:lastmodified":1536614053,
+    "wof:lastmodified":1554488625,
     "wof:name":"San Felipe",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

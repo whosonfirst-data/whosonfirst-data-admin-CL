@@ -11,6 +11,12 @@
     "geom:longitude":-68.202889,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "El Loa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-23.541816,
     "lbl:longitude":-67.855203,
     "meso:admin_1":"Regi\u00f3n de Antofagasta",
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":102063131,
-    "wof:lastmodified":1536614062,
+    "wof:lastmodified":1554488633,
     "wof:name":"El Loa",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

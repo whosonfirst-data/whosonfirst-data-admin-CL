@@ -10,6 +10,12 @@
     "geom:latitude":-53.089193,
     "geom:longitude":-71.737161,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Magallanes Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-52.371138,
     "lbl:longitude":-71.194688,
     "meso:admin_1":"Regi\u00f3n de Magallanes y Ant\u00e1rtica Chilena",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":102063075,
-    "wof:lastmodified":1536614023,
+    "wof:lastmodified":1554488649,
     "wof:name":"Magallanes",
     "wof:parent_id":85682211,
     "wof:placetype":"county",

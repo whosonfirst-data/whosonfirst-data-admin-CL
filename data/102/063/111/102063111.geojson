@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.985965,
-    "geom:area_square_m":9924441680.133085,
+    "geom:area_square_m":9924441680.134766,
     "geom:bbox":"-72.6183015218,-36.1783338668,-70.3147720581,-34.9714305543",
     "geom:latitude":-35.507072,
     "geom:longitude":-71.424386,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Talca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-35.407138,
     "lbl:longitude":-71.329307,
     "meso:admin_1":"Regi\u00f3n del Maule",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":102063111,
-    "wof:lastmodified":1553815736,
+    "wof:lastmodified":1555039007,
     "wof:name":"Talca",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

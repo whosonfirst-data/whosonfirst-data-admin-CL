@@ -10,6 +10,12 @@
     "geom:latitude":-37.728275,
     "geom:longitude":-73.346011,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Arauco Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-37.66418,
     "lbl:longitude":-73.375063,
     "meso:admin_1":"Regi\u00f3n del B\u00edo-B\u00edo",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":102063153,
-    "wof:lastmodified":1536614067,
+    "wof:lastmodified":1554488636,
     "wof:name":"Arauco",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

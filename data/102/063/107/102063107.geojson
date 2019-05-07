@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.907372,
-    "geom:area_square_m":18342287571.99334,
+    "geom:area_square_m":18342287571.991867,
     "geom:bbox":"-73.518398612,-39.6368563067,-71.3736335996,-38.3205083141",
     "geom:latitude":-38.947745,
     "geom:longitude":-72.405917,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Caut\u00edn Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-38.919591,
     "lbl:longitude":-72.42618,
     "meso:admin_1":"Regi\u00f3n de La Araucan\u00eda",
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":102063107,
-    "wof:lastmodified":1553815735,
+    "wof:lastmodified":1555039008,
     "wof:name":"Caut\u00edn",
     "wof:parent_id":85682179,
     "wof:placetype":"county",

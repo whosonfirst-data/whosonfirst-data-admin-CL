@@ -11,6 +11,12 @@
     "geom:longitude":-72.535245,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "General Carrera Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-46.49141,
     "lbl:longitude":-72.474661,
     "meso:admin_1":"Regi\u00f3n de Ays\u00e9n del Gral.Iba\u00f1ez del Campo",
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":102063127,
-    "wof:lastmodified":1536614061,
+    "wof:lastmodified":1554488627,
     "wof:name":"General Carrera",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

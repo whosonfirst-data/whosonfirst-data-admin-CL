@@ -11,6 +11,12 @@
     "geom:longitude":-70.754198,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Chacabuco Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-33.134731,
     "lbl:longitude":-70.786908,
     "meso:admin_1":"Regi\u00f3n Metropolitana de Santiago",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":102063173,
-    "wof:lastmodified":1536614073,
+    "wof:lastmodified":1554488631,
     "wof:name":"Chacabuco",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

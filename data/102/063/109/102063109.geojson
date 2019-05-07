@@ -10,6 +10,12 @@
     "geom:latitude":-36.645579,
     "geom:longitude":-71.974533,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "\u00d1uble Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-36.716443,
     "lbl:longitude":-71.880938,
     "meso:admin_1":"Regi\u00f3n del B\u00edo-B\u00edo",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":102063109,
-    "wof:lastmodified":1536614055,
+    "wof:lastmodified":1554488640,
     "wof:name":"\u00d1uble",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

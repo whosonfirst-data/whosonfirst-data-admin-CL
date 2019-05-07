@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.017042,
-    "geom:area_square_m":22106248354.999897,
+    "geom:area_square_m":22106248354.999928,
     "geom:bbox":"-71.1106001609,-54.7479414978,-68.6047806511,-52.452952738",
     "geom:latitude":-53.658691,
     "geom:longitude":-69.454656,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Tierra del Fuego Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-53.049612,
     "lbl:longitude":-69.559318,
     "meso:admin_1":"Regi\u00f3n de Magallanes y Ant\u00e1rtica Chilena",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":102063185,
-    "wof:lastmodified":1553815745,
+    "wof:lastmodified":1555038989,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":85682211,
     "wof:placetype":"county",

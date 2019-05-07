@@ -11,6 +11,12 @@
     "geom:longitude":-70.752005,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Maipo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-33.789572,
     "lbl:longitude":-70.713189,
     "meso:admin_1":"Regi\u00f3n Metropolitana de Santiago",
@@ -46,9 +52,10 @@
         "Maipo"
     ],
     "name:eng_x_preferred":[
-        "Maipo Province"
+        "Maipo"
     ],
     "name:eng_x_variant":[
+        "Maipo",
         "Maipo"
     ],
     "name:epo_x_preferred":[
@@ -157,10 +164,11 @@
         }
     ],
     "wof:id":102063119,
-    "wof:lastmodified":1536614060,
+    "wof:lastmodified":1555220298,
     "wof:name":"Maipo",
     "wof:parent_id":85682207,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:population":378444,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-cl",

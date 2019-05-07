@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.452183,
-    "geom:area_square_m":12673165841.875341,
+    "geom:area_square_m":12673165841.874767,
     "geom:bbox":"-72.9315708782,-46.1384334734,-71.0893313791,-43.9252543681",
     "geom:latitude":-45.1052,
     "geom:longitude":-71.925117,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Coyhaique Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-45.775574,
     "lbl:longitude":-72.064477,
     "meso:admin_1":"Regi\u00f3n de Ays\u00e9n del Gral.Iba\u00f1ez del Campo",
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":102063079,
-    "wof:lastmodified":1553815733,
+    "wof:lastmodified":1555039011,
     "wof:name":"Coyhaique",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

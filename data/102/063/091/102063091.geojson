@@ -11,6 +11,12 @@
     "geom:longitude":-70.686685,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Elqui Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-29.758748,
     "lbl:longitude":-70.74949,
     "meso:admin_1":"Regi\u00f3n de Coquimbo",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":102063091,
-    "wof:lastmodified":1536614051,
+    "wof:lastmodified":1554488624,
     "wof:name":"Elqui",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

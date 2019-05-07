@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.734568,
-    "geom:area_square_m":7504909045.636423,
+    "geom:area_square_m":7504909045.63555,
     "geom:bbox":"-71.5760672115,-34.7037980185,-70.0091597409,-33.8505730324",
     "geom:latitude":-34.28397,
     "geom:longitude":-70.710983,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Cachapoal Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-34.235607,
     "lbl:longitude":-70.592494,
     "meso:admin_1":"Regi\u00f3n del Libertador Bernardo O'Higgins",
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":102063155,
-    "wof:lastmodified":1553815740,
+    "wof:lastmodified":1555038999,
     "wof:name":"Cachapoal",
     "wof:parent_id":85682165,
     "wof:placetype":"county",

@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.007552,
-    "geom:area_square_m":10077419831.067022,
+    "geom:area_square_m":10077419831.069342,
     "geom:bbox":"-72.1877084932,-36.5435646561,-70.5678854524,-35.4177237283",
     "geom:latitude":-36.013189,
     "geom:longitude":-71.426324,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Linares Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-36.042214,
     "lbl:longitude":-71.426138,
     "meso:admin_1":"Regi\u00f3n del Maule",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":102063097,
-    "wof:lastmodified":1553815735,
+    "wof:lastmodified":1555039009,
     "wof:name":"Linares",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

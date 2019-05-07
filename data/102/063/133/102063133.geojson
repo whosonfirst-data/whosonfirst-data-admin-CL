@@ -10,6 +10,12 @@
     "geom:latitude":-26.268525,
     "geom:longitude":-69.453099,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Cha\u00f1aral Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-26.399468,
     "lbl:longitude":-69.826945,
     "meso:admin_1":"Regi\u00f3n de Atacama",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":102063133,
-    "wof:lastmodified":1536614062,
+    "wof:lastmodified":1554488625,
     "wof:name":"Cha\u00f1aral",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

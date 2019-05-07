@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.350997,
-    "geom:area_square_m":3468303175.928106,
+    "geom:area_square_m":3468303175.928588,
     "geom:bbox":"-73.5560743943,-37.4511737514,-72.5384475594,-36.442604961",
     "geom:latitude":-36.953139,
     "geom:longitude":-72.918365,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Concepci\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-36.952865,
     "lbl:longitude":-72.963988,
     "meso:admin_1":"Regi\u00f3n del B\u00edo-B\u00edo",
@@ -362,7 +368,7 @@
         }
     ],
     "wof:id":102063171,
-    "wof:lastmodified":1553815742,
+    "wof:lastmodified":1555038996,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

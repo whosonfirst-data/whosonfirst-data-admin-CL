@@ -11,6 +11,12 @@
     "geom:longitude":-70.035214,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Iquique Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-21.095228,
     "lbl:longitude":-69.991017,
     "meso:admin_1":"Regi\u00f3n de Tarapac\u00e1",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":102063145,
-    "wof:lastmodified":1536614065,
+    "wof:lastmodified":1554488632,
     "wof:name":"Iquique",
     "wof:parent_id":85682245,
     "wof:placetype":"county",

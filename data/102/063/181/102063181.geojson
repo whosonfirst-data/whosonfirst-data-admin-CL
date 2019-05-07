@@ -11,6 +11,12 @@
     "geom:longitude":-69.385392,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Parinacota Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-18.294254,
     "lbl:longitude":-69.37822,
     "meso:admin_1":"Regi\u00f3n de Arica y Parinacota",
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":102063181,
-    "wof:lastmodified":1536614075,
+    "wof:lastmodified":1554488629,
     "wof:name":"Parinacota",
     "wof:parent_id":1108804709,
     "wof:placetype":"county",

@@ -11,6 +11,12 @@
     "geom:longitude":-72.093642,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Malleco Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-38.044499,
     "lbl:longitude":-72.633535,
     "meso:admin_1":"Regi\u00f3n de La Araucan\u00eda",
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":102063101,
-    "wof:lastmodified":1536614053,
+    "wof:lastmodified":1554488633,
     "wof:name":"Malleco",
     "wof:parent_id":85682179,
     "wof:placetype":"county",

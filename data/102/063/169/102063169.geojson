@@ -11,6 +11,12 @@
     "geom:longitude":-72.385891,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Palena Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-43.260256,
     "lbl:longitude":-72.329999,
     "meso:admin_1":"Regi\u00f3n de Los Lagos",
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":102063169,
-    "wof:lastmodified":1536614071,
+    "wof:lastmodified":1554488647,
     "wof:name":"Palena",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

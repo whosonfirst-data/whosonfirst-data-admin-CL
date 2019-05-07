@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.723212,
-    "geom:area_square_m":8470192645.923391,
+    "geom:area_square_m":8470192645.924322,
     "geom:bbox":"-70.3768682521,-19.1893583227,-69.0683322433,-18.1105266475",
     "geom:latitude":-18.706187,
     "geom:longitude":-69.855828,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Arica Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-18.696765,
     "lbl:longitude":-69.974231,
     "meso:admin_1":"Regi\u00f3n de Arica y Parinacota",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":102063165,
-    "wof:lastmodified":1553815741,
+    "wof:lastmodified":1555038997,
     "wof:name":"Arica",
     "wof:parent_id":1108804709,
     "wof:placetype":"county",

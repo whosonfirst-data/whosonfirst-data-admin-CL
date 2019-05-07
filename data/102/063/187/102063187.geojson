@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.226566,
-    "geom:area_square_m":45331211565.108116,
+    "geom:area_square_m":45331211565.109665,
     "geom:bbox":"-75.6461181641,-47.0547943115,-71.944519043,-43.6416130066",
     "geom:latitude":-45.451999,
     "geom:longitude":-73.564494,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Ays\u00e9n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-46.497313,
     "lbl:longitude":-74.213653,
     "meso:admin_1":"Regi\u00f3n de Ays\u00e9n del Gral.Iba\u00f1ez del Campo",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":102063187,
-    "wof:lastmodified":1553815748,
+    "wof:lastmodified":1555038986,
     "wof:name":"Ays\u00e9n",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

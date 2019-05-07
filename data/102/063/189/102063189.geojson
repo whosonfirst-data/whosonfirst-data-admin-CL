@@ -11,6 +11,12 @@
     "geom:longitude":-72.559046,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Ranco Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-40.334375,
     "lbl:longitude":-72.539514,
     "meso:admin_1":"Regi\u00f3n de Los R\u00edos",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":102063189,
-    "wof:lastmodified":1536614081,
+    "wof:lastmodified":1554488639,
     "wof:name":"Ranco",
     "wof:parent_id":85682171,
     "wof:placetype":"county",

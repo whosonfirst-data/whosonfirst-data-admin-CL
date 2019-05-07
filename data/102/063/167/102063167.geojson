@@ -12,6 +12,12 @@
     "gn:country":"CL",
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "San Antonio Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-33.649049,
     "lbl:longitude":-71.532822,
     "meso:admin_1":"Regi\u00f3n de Valpara\u00edso",
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":102063167,
-    "wof:lastmodified":1536614071,
+    "wof:lastmodified":1554488631,
     "wof:name":"San Antonio",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

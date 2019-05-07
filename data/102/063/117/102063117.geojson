@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196811,
-    "geom:area_square_m":2032249865.552401,
+    "geom:area_square_m":2032249865.552166,
     "geom:bbox":"-70.9551358199,-33.6277542955,-70.175868001,-33.0964267448",
     "geom:latitude":-33.375947,
     "geom:longitude":-70.526336,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Santiago Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-33.35285,
     "lbl:longitude":-70.461518,
     "meso:admin_1":"Regi\u00f3n Metropolitana de Santiago",
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":102063117,
-    "wof:lastmodified":1553815737,
+    "wof:lastmodified":1555039005,
     "wof:name":"Santiago",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

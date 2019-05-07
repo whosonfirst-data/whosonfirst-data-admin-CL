@@ -11,6 +11,12 @@
     "geom:longitude":-69.3481,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Tamarugal Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-20.198217,
     "lbl:longitude":-69.330856,
     "meso:admin_1":"Regi\u00f3n de Tarapac\u00e1",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890517491,
-    "wof:lastmodified":1536617507,
+    "wof:lastmodified":1554489131,
     "wof:name":"Tamarugal",
     "wof:parent_id":85682245,
     "wof:placetype":"county",

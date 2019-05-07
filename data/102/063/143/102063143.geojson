@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.976594,
-    "geom:area_square_m":32649778699.937614,
+    "geom:area_square_m":32649778699.932026,
     "geom:bbox":"-71.1435915299,-28.6435870323,-68.2642160916,-26.6426215865",
     "geom:latitude":-27.488863,
     "geom:longitude":-69.870438,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Copiap\u00f3 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-27.554321,
     "lbl:longitude":-69.77264,
     "meso:admin_1":"Regi\u00f3n de Atacama",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":102063143,
-    "wof:lastmodified":1553815737,
+    "wof:lastmodified":1555039004,
     "wof:name":"Copiap\u00f3",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

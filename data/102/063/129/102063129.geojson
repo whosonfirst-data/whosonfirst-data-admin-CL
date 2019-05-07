@@ -11,6 +11,12 @@
     "geom:longitude":-72.355878,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Cauquenes Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-35.906527,
     "lbl:longitude":-72.362062,
     "meso:admin_1":"Regi\u00f3n del Maule",
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":102063129,
-    "wof:lastmodified":1536614061,
+    "wof:lastmodified":1554488628,
     "wof:name":"Cauquenes",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

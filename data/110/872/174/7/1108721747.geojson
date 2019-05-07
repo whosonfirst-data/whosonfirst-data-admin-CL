@@ -10,6 +10,12 @@
     "geom:latitude":-33.08876,
     "geom:longitude":-71.2381,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Marga Marga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-33.103182,
     "lbl:longitude":-71.213129,
     "meso:admin_1":"Regi\u00f3n de Valpara\u00edso",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108721747,
-    "wof:lastmodified":1536615591,
+    "wof:lastmodified":1554489411,
     "wof:name":"Marga Marga",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

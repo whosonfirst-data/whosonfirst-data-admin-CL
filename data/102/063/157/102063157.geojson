@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.54621,
-    "geom:area_square_m":5552483236.67854,
+    "geom:area_square_m":5552483236.677835,
     "geom:bbox":"-71.8599368113,-35.0064890722,-70.2490966092,-34.3593611426",
     "geom:latitude":-34.703836,
     "geom:longitude":-71.064204,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Colchagua Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-34.677576,
     "lbl:longitude":-70.930395,
     "meso:admin_1":"Regi\u00f3n del Libertador Bernardo O'Higgins",
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":102063157,
-    "wof:lastmodified":1553815741,
+    "wof:lastmodified":1555038998,
     "wof:name":"Colchagua",
     "wof:parent_id":85682165,
     "wof:placetype":"county",

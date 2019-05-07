@@ -10,6 +10,12 @@
     "geom:latitude":-33.157317,
     "geom:longitude":-71.896086,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Valpara\u00edso Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-33.321953,
     "lbl:longitude":-71.409932,
     "meso:admin_1":"Regi\u00f3n de Valpara\u00edso",
@@ -63,10 +69,11 @@
         }
     ],
     "wof:id":102063161,
-    "wof:lastmodified":1536614069,
+    "wof:lastmodified":1554488642,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":85682143,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:population":876022,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-cl",

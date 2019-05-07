@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.961801,
-    "geom:area_square_m":9145412146.061035,
+    "geom:area_square_m":9145412146.061167,
     "geom:bbox":"-73.7088469726,-40.1179126186,-71.5877300727,-39.2877368279",
     "geom:latitude":-39.736992,
     "geom:longitude":-72.58336,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Valdivia Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-39.738316,
     "lbl:longitude":-72.489708,
     "meso:admin_1":"Regi\u00f3n de Los R\u00edos",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":102063183,
-    "wof:lastmodified":1553815744,
+    "wof:lastmodified":1555038992,
     "wof:name":"Valdivia",
     "wof:parent_id":85682171,
     "wof:placetype":"county",

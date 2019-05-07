@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.720587,
-    "geom:area_square_m":7289293690.18929,
+    "geom:area_square_m":7289293690.18773,
     "geom:bbox":"-72.1868975897,-35.6280256646,-70.3579796183,-34.6845739396",
     "geom:latitude":-35.10608,
     "geom:longitude":-71.119543,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Curic\u00f3 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-35.135436,
     "lbl:longitude":-70.904455,
     "meso:admin_1":"Regi\u00f3n del Maule",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":102063147,
-    "wof:lastmodified":1553815738,
+    "wof:lastmodified":1555039003,
     "wof:name":"Curic\u00f3",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

@@ -11,6 +11,12 @@
     "geom:longitude":-73.857776,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "label:eng_x_preferred_longname":[
+        "Chiloe Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-43.003675,
     "lbl:longitude":-73.949412,
     "meso:admin_1":"Regi\u00f3n de Los Lagos",
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":102063115,
-    "wof:lastmodified":1536614057,
+    "wof:lastmodified":1554488662,
     "wof:name":"Chiloe",
     "wof:parent_id":85682233,
     "wof:placetype":"county",
