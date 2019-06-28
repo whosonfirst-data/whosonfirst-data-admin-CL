@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0016,
-    "geom:area_square_m":16449078.578282,
+    "geom:area_square_m":16449078.578281,
     "geom:bbox":"-71.1857190816,-33.7835939674,-71.1311762593,-33.7290318827",
     "geom:latitude":-33.758622,
     "geom:longitude":-71.162759,
@@ -19,38 +19,32 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u064a\u0628\u064a\u0644\u0644\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Melipilla"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b2\u09bf\u09aa\u09bf\u09af\u09bc\u09be"
     ],
     "name:cat_x_preferred":[
         "Melipilla"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u5229\u76ae\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Melipilla"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Melipilla"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bb\u03b9\u03c0\u03af\u03b3\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Melipilla"
+    ],
+    "name:eus_x_preferred":[
         "Melipilla"
     ],
     "name:fin_x_preferred":[
         "Melipilla"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Melipilla"
-    ],
-    "name:ger_x_preferred":[
-        "Melipilla"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03bb\u03b9\u03c0\u03af\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab2\u0abf\u0aaa\u0ac0\u0ab2\u0abe"
@@ -82,10 +76,13 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0932\u093f\u092a\u093f\u0932\u094d\u0932\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Melipilla"
     ],
     "name:nan_x_preferred":[
+        "Melipilla"
+    ],
+    "name:nld_x_preferred":[
         "Melipilla"
     ],
     "name:nob_x_preferred":[
@@ -100,7 +97,7 @@
     "name:por_x_preferred":[
         "Melipilla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Melipilla"
     ],
     "name:rus_x_preferred":[
@@ -141,6 +138,9 @@
     ],
     "name:war_x_preferred":[
         "Melipilla"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5229\u76ae\u4e9e"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
@@ -188,7 +188,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1513937695,
+    "wof:lastmodified":1561749817,
     "wof:name":"Melipilla",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

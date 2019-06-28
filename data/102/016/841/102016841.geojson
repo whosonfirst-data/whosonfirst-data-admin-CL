@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00076,
-    "geom:area_square_m":7479372.797702,
+    "geom:area_square_m":7479372.797701,
     "geom:bbox":"-71.9772113035,-37.3136465277,-71.9327017294,-37.2869033186",
     "geom:latitude":-37.299189,
     "geom:longitude":-71.955428,
@@ -21,22 +21,16 @@
     "name:arn_x_preferred":[
         "Tuk\u00e9n pele"
     ],
-    "name:baq_x_preferred":[
-        "Tucapel"
-    ],
-    "name:chi_x_preferred":[
-        "\u5716\u5361\u4f69\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Tucapel"
-    ],
     "name:eng_x_preferred":[
+        "Tucapel"
+    ],
+    "name:eus_x_preferred":[
         "Tucapel"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u06a9\u0627\u067e\u0644"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tucapel"
     ],
     "name:glg_x_preferred":[
@@ -54,16 +48,16 @@
     "name:nan_x_preferred":[
         "Tucapel"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Tucapel"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u06a9\u0627\u067e\u0644"
+    "name:oci_x_preferred":[
+        "Tucapel"
     ],
     "name:por_x_preferred":[
         "Tucapel"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tucapel"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637599,
+    "wof:lastmodified":1561749820,
     "wof:name":"Tucapel",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

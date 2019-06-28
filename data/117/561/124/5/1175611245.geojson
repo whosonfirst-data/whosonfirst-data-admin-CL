@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002036,
-    "geom:area_square_m":6238866.648521,
+    "geom:area_square_m":20443204.692869,
     "geom:bbox":"-71.7600007385,-35.7599766517,-71.6143256977,-35.6594475911",
     "geom:latitude":-35.691525,
     "geom:longitude":-71.712175,
@@ -18,16 +18,7 @@
     "mps:longitude":-71.691284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Villa Alegre"
-    ],
     "name:ceb_x_preferred":[
-        "Villa Alegre"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u840a\u683c\u96f7\u93ae"
-    ],
-    "name:dut_x_preferred":[
         "Villa Alegre"
     ],
     "name:eng_x_preferred":[
@@ -39,7 +30,7 @@
     "name:fra_x_preferred":[
         "Villa Alegre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa Alegre"
     ],
     "name:ita_x_preferred":[
@@ -61,9 +52,6 @@
         "Villa Alegre"
     ],
     "name:ron_x_preferred":[
-        "Villa Alegre"
-    ],
-    "name:rum_x_preferred":[
         "Villa Alegre"
     ],
     "name:rus_x_preferred":[
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":1175611245,
-    "wof:lastmodified":1534985880,
+    "wof:lastmodified":1561749884,
     "wof:name":"Villa Alegre",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

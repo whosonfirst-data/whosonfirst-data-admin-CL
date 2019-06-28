@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008377,
-    "geom:area_square_m":86975022.281448,
+    "geom:area_square_m":86975022.28146,
     "geom:bbox":"-71.3504079943,-32.9554671023,-71.1862185823,-32.8334428466",
     "geom:latitude":-32.900602,
     "geom:longitude":-71.260002,
@@ -20,9 +20,6 @@
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u06a9\u06cc\u0648\u062a\u0627"
-    ],
-    "name:baq_x_preferred":[
-        "Quillota"
     ],
     "name:bar_x_preferred":[
         "Quillota"
@@ -39,8 +36,8 @@
     "name:ceb_x_preferred":[
         "Quillota"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u7d04\u5854"
+    "name:cym_x_preferred":[
+        "Quillota"
     ],
     "name:dan_x_preferred":[
         "Quillota"
@@ -48,8 +45,8 @@
     "name:deu_x_preferred":[
         "Quillota"
     ],
-    "name:dut_x_preferred":[
-        "Quillota"
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bb\u03cc\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Quillota"
@@ -62,15 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Quillota"
-    ],
-    "name:fre_x_preferred":[
-        "Quillota"
-    ],
-    "name:ger_x_preferred":[
-        "Quillota"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03bb\u03cc\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0aaf\u0ac1\u0a88\u0ab2\u0acb\u0a9f\u0abe"
@@ -105,7 +93,7 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u092f\u0941\u0907\u0932\u094b\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Quillota"
     ],
     "name:nan_x_preferred":[
@@ -130,9 +118,6 @@
         "Quillota"
     ],
     "name:ron_x_preferred":[
-        "Quillota"
-    ],
-    "name:rum_x_preferred":[
         "Quillota"
     ],
     "name:rus_x_preferred":[
@@ -175,9 +160,6 @@
         "Quillota"
     ],
     "name:war_x_preferred":[
-        "Quillota"
-    ],
-    "name:wel_x_preferred":[
         "Quillota"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -329,7 +311,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1513937865,
+    "wof:lastmodified":1561749832,
     "wof:name":"Quillota",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

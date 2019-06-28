@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001668,
-    "geom:area_square_m":16958965.592278,
+    "geom:area_square_m":16958965.592269,
     "geom:bbox":"-71.7681014309,-34.7099848641,-71.7243227726,-34.6377584551",
     "geom:latitude":-34.667618,
     "geom:longitude":-71.741113,
@@ -19,19 +19,13 @@
     "name:bak_x_preferred":[
         "\u041f\u0443\u043c\u0430\u043d\u043a\u0435"
     ],
-    "name:baq_x_preferred":[
-        "Pumanque"
-    ],
-    "name:chi_x_preferred":[
-        "\u666e\u66fc\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Pumanque"
-    ],
     "name:eng_x_preferred":[
         "Pumanque"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Pumanque"
+    ],
+    "name:fra_x_preferred":[
         "Pumanque"
     ],
     "name:ita_x_preferred":[
@@ -43,10 +37,13 @@
     "name:nan_x_preferred":[
         "Pumanque"
     ],
+    "name:nld_x_preferred":[
+        "Pumanque"
+    ],
     "name:por_x_preferred":[
         "Pumanque"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pumanque"
     ],
     "name:rus_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Pumanque"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u66fc\u514b"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":102018121,
-    "wof:lastmodified":1527637579,
+    "wof:lastmodified":1561749815,
     "wof:name":"Pumanque",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

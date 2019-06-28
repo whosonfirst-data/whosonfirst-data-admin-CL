@@ -22,16 +22,13 @@
     "name:ceb_x_preferred":[
         "Pomaire"
     ],
-    "name:dut_x_preferred":[
-        "Pomaire"
-    ],
     "name:eng_x_preferred":[
         "Pomaire"
     ],
     "name:fra_x_preferred":[
         "Pomaire"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Pomaire"
     ],
     "name:spa_x_preferred":[
@@ -91,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637781,
+    "wof:lastmodified":1561749835,
     "wof:name":"Pomaire",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

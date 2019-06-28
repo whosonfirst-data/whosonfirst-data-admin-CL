@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":2073201.989871,
+    "geom:area_square_m":2073201.989873,
     "geom:bbox":"-71.4990234375,-33.5597066484,-71.4880371094,-33.541394669",
     "geom:latitude":-33.550551,
     "geom:longitude":-71.49353,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0623\u0646\u0637\u0648\u0646\u064a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "San Antonio"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0456\u0430"
     ],
@@ -33,14 +30,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u0410\u043d\u0442\u043e\u043d\u0438\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5b89\u6771\u5c3c\u5967"
-    ],
     "name:dan_x_preferred":[
         "San Antonio"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Antonio"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u0391\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "San Antonio"
@@ -48,17 +45,17 @@
     "name:epo_x_preferred":[
         "San Antonio"
     ],
+    "name:eus_x_preferred":[
+        "San Antonio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "San Antonio"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Antonio"
-    ],
-    "name:ger_x_preferred":[
-        "San Antonio"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u0391\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0a8f\u0aa8\u0acd\u0a9f\u0acb\u0aa8\u0abf\u0aaf\u0acb"
@@ -90,17 +87,17 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0905\u0901\u091f\u094b\u0928\u093f\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Antonio"
     ],
     "name:nan_x_preferred":[
         "San Antonio"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "San Antonio"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648"
+    "name:nob_x_preferred":[
+        "San Antonio"
     ],
     "name:pol_x_preferred":[
         "San Antonio"
@@ -108,7 +105,7 @@
     "name:por_x_preferred":[
         "San Antonio"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "San Antonio"
     ],
     "name:rus_x_preferred":[
@@ -150,6 +147,9 @@
     "name:war_x_preferred":[
         "San Antonio"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -186,7 +186,7 @@
         }
     ],
     "wof:id":102016995,
-    "wof:lastmodified":1553815716,
+    "wof:lastmodified":1561749820,
     "wof:name":"San Antonio",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

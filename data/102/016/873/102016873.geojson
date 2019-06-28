@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00221,
-    "geom:area_square_m":21437034.010712,
+    "geom:area_square_m":21437034.010718,
     "geom:bbox":"-73.5072281627,-38.3722042152,-73.4596269121,-38.2852385154",
     "geom:latitude":-38.337905,
     "geom:longitude":-73.487051,
@@ -21,16 +21,7 @@
     "name:arn_x_preferred":[
         "Tr\u00fcrun-we"
     ],
-    "name:baq_x_preferred":[
-        "Tir\u00faa"
-    ],
     "name:cat_x_preferred":[
-        "Tir\u00faa"
-    ],
-    "name:chi_x_preferred":[
-        "\u8482\u9b6f\u963f"
-    ],
-    "name:dut_x_preferred":[
         "Tir\u00faa"
     ],
     "name:eng_x_preferred":[
@@ -39,7 +30,7 @@
     "name:eus_x_preferred":[
         "Tir\u00faa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tir\u00faa"
     ],
     "name:ita_x_preferred":[
@@ -64,9 +55,6 @@
         "Tir\u00faa"
     ],
     "name:ron_x_preferred":[
-        "Tir\u00faa"
-    ],
-    "name:rum_x_preferred":[
         "Tir\u00faa"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +116,7 @@
         }
     ],
     "wof:id":102016873,
-    "wof:lastmodified":1527637595,
+    "wof:lastmodified":1561749819,
     "wof:name":"Tir\u00faa",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

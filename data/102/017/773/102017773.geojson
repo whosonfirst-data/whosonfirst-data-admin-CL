@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005448,
-    "geom:area_square_m":56361438.735476,
+    "geom:area_square_m":56361438.735442,
     "geom:bbox":"-70.7568550276,-33.2591889753,-70.6368575301,-33.1676240554",
     "geom:latitude":-33.212669,
     "geom:longitude":-70.685048,
@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u064a\u0646\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Colina"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b2\u09bf\u09a8\u09be"
     ],
     "name:cat_x_preferred":[
         "Colina"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5229\u7d0d"
     ],
     "name:dan_x_preferred":[
         "Colina"
@@ -37,8 +31,8 @@
     "name:deu_x_preferred":[
         "Colina"
     ],
-    "name:dut_x_preferred":[
-        "Colina"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bb\u03af\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Colina"
@@ -54,15 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Colina"
-    ],
-    "name:fre_x_preferred":[
-        "Colina"
-    ],
-    "name:ger_x_preferred":[
-        "Colina"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bb\u03af\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab2\u0abf\u0aa8\u0abe"
@@ -94,7 +79,7 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0932\u093f\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Colina"
     ],
     "name:nan_x_preferred":[
@@ -109,9 +94,6 @@
     "name:oci_x_preferred":[
         "Colina"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0644\u06cc\u0646\u0627\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Colina"
     ],
@@ -119,9 +101,6 @@
         "Colina"
     ],
     "name:ron_x_preferred":[
-        "Colina"
-    ],
-    "name:rum_x_preferred":[
         "Colina"
     ],
     "name:rus_x_preferred":[
@@ -216,7 +195,7 @@
         }
     ],
     "wof:id":102017773,
-    "wof:lastmodified":1527637782,
+    "wof:lastmodified":1561749835,
     "wof:name":"Colina",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

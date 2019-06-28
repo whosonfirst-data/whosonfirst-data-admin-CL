@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001228,
-    "geom:area_square_m":12471678.878181,
+    "geom:area_square_m":12471678.878184,
     "geom:bbox":"-71.0308636295,-34.7731913098,-70.9442790819,-34.7461404777",
     "geom:latitude":-34.758975,
     "geom:longitude":-70.987191,
@@ -22,25 +22,22 @@
     "name:bak_x_preferred":[
         "\u0427\u0438\u043c\u0431\u0430\u0440\u043e\u043d\u0433\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Chimbarongo"
-    ],
     "name:cat_x_preferred":[
         "Chimbarongo"
     ],
-    "name:chi_x_preferred":[
-        "\u6b3d\u5df4\u9f8d\u6208"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chimbarongo"
     ],
     "name:eng_x_preferred":[
         "Chimbarongo"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Chimbarongo"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0645\u0628\u0627\u0631\u0648\u0646\u06af\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Chimbarongo"
     ],
     "name:ita_x_preferred":[
@@ -52,16 +49,16 @@
     "name:nan_x_preferred":[
         "Chimbarongo"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Chimbarongo"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0645\u0628\u0627\u0631\u0648\u0646\u06af\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    "name:oci_x_preferred":[
+        "Chimbarongo"
     ],
     "name:por_x_preferred":[
         "Chimbarongo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chimbarongo"
     ],
     "name:rus_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Chimbarongo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b3d\u5df4\u9f8d\u6208"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":102018127,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749815,
     "wof:name":"Chimbarongo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

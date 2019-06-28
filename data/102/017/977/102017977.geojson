@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002166,
-    "geom:area_square_m":25127248.243104,
+    "geom:area_square_m":25127248.243109,
     "geom:bbox":"-70.1169261723,-20.297366998,-70.0667196042,-20.2377017949",
     "geom:latitude":-20.266284,
     "geom:longitude":-70.093205,
@@ -19,19 +19,13 @@
     "name:ara_x_preferred":[
         "\u0623\u0644\u062a\u0648 \u0647\u0648\u0633\u0628\u064a\u0643\u064a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Alto Hospicio"
-    ],
     "name:cat_x_preferred":[
         "Alto Hospicio"
     ],
     "name:ceb_x_preferred":[
         "Alto Hospicio"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u970d\u65af\u76ae\u897f\u5967"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Alto Hospicio"
     ],
     "name:eng_x_preferred":[
@@ -49,12 +43,6 @@
     "name:fra_x_preferred":[
         "Alto Hospicio"
     ],
-    "name:fre_x_preferred":[
-        "Alto Hospicio"
-    ],
-    "name:ger_x_preferred":[
-        "Alto Hospicio"
-    ],
     "name:ita_x_preferred":[
         "Alto Hospicio"
     ],
@@ -70,9 +58,6 @@
     "name:oci_x_preferred":[
         "Alto Hospicio"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u062a\u0648 \u0647\u0627\u0633\u067e\u06cc\u06a9\u06cc\u0648"
-    ],
     "name:por_x_preferred":[
         "Alto Hospicio"
     ],
@@ -80,9 +65,6 @@
         "Alto Hospicio"
     ],
     "name:ron_x_preferred":[
-        "Alto Hospicio"
-    ],
-    "name:rum_x_preferred":[
         "Alto Hospicio"
     ],
     "name:rus_x_preferred":[
@@ -157,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1561749828,
     "wof:name":"Alto Hospicio",
     "wof:parent_id":102063145,
     "wof:placetype":"locality",

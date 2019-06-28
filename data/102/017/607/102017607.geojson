@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001951,
-    "geom:area_square_m":19316775.761621,
+    "geom:area_square_m":19316775.761631,
     "geom:bbox":"-73.1334543059,-36.8180802278,-73.0686950684,-36.7652916646",
     "geom:latitude":-36.790636,
     "geom:longitude":-73.103999,
@@ -19,17 +19,11 @@
     "name:afr_x_preferred":[
         "Hualp\u00e9n"
     ],
-    "name:alb_x_preferred":[
-        "Hualp\u00e9n"
-    ],
     "name:aym_x_preferred":[
         "Hualp\u00e9n"
     ],
     "name:aze_x_preferred":[
         "Hualpen"
-    ],
-    "name:baq_x_preferred":[
-        "Hualp\u00e9n"
     ],
     "name:cat_x_preferred":[
         "Hualp\u00e9n"
@@ -40,16 +34,10 @@
     "name:cha_x_preferred":[
         "Hualp\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u723e\u5f6d"
-    ],
     "name:chy_x_preferred":[
         "Hualp\u00e9n"
     ],
     "name:deu_x_preferred":[
-        "Hualp\u00e9n"
-    ],
-    "name:dut_x_preferred":[
         "Hualp\u00e9n"
     ],
     "name:eng_x_preferred":[
@@ -58,13 +46,10 @@
     "name:eus_x_preferred":[
         "Hualp\u00e9n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hualp\u00e9n"
     ],
     "name:gag_x_preferred":[
-        "Hualp\u00e9n"
-    ],
-    "name:ger_x_preferred":[
         "Hualp\u00e9n"
     ],
     "name:glg_x_preferred":[
@@ -97,6 +82,9 @@
     "name:nan_x_preferred":[
         "Hualp\u00e9n"
     ],
+    "name:nld_x_preferred":[
+        "Hualp\u00e9n"
+    ],
     "name:oci_x_preferred":[
         "Hualp\u00e9n"
     ],
@@ -112,13 +100,16 @@
     "name:rmy_x_preferred":[
         "Hualp\u00e9n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hualp\u00e9n"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0430\u043b\u044c\u043f\u0435\u043d"
     ],
     "name:spa_x_preferred":[
+        "Hualp\u00e9n"
+    ],
+    "name:sqi_x_preferred":[
         "Hualp\u00e9n"
     ],
     "name:srp_x_preferred":[
@@ -189,7 +180,7 @@
         }
     ],
     "wof:id":102017607,
-    "wof:lastmodified":1527637781,
+    "wof:lastmodified":1561749834,
     "wof:name":"Hualp\u00e9n",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.496931,
-    "geom:area_square_m":106487932179.491211,
+    "geom:area_square_m":106487932179.501129,
     "geom:bbox":"-75.6461181641,-49.1500015259,-71.0906295776,-43.6416130066",
     "geom:latitude":-46.422938,
     "geom:longitude":-73.254315,
@@ -28,14 +28,8 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0622\u064a\u0633\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0575\u057d\u0565\u0576"
-    ],
     "name:bak_x_preferred":[
         "\u0410\u0439\u0441\u0435\u043d"
-    ],
-    "name:baq_x_preferred":[
-        "Ais\u00e9n eskualdea"
     ],
     "name:bar_x_preferred":[
         "Regi\u00f3n de Ays\u00e9n"
@@ -58,10 +52,7 @@
     "name:ces_x_preferred":[
         "Ays\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u74e6\u6d85\u65af\u5c06\u519b\u827e\u68ee\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Region Ays\u00e9n"
     ],
     "name:dan_x_preferred":[
@@ -70,8 +61,8 @@
     "name:deu_x_preferred":[
         "Regi\u00f3n de Ays\u00e9n"
     ],
-    "name:dut_x_preferred":[
-        "Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03c3\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "De Aisen"
@@ -79,23 +70,20 @@
     "name:epo_x_preferred":[
         "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
     ],
+    "name:eus_x_preferred":[
+        "Ais\u00e9n eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0622\u06cc\u0633\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d8\u10e1\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Regi\u00f3n de Ays\u00e9n"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Ais\u00e9n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ca\u03c3\u03ad\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab6\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -112,6 +100,9 @@
     "name:hun_x_preferred":[
         "Ays\u00e9n r\u00e9gi\u00f3"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u057d\u0565\u0576"
+    ],
     "name:ind_x_preferred":[
         "Region Ais\u00e9n"
     ],
@@ -123,6 +114,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c90\u0cb8\u0cc6\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10e1\u10d4\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc544\uc774\uc13c\ub378\ud5e4\ub124\ub784\uce74\ub97c\ub85c\uc2a4\uc774\ubc14\ub15c\uc2a4\ub378\uce84\ud3ec \uc8fc"
@@ -142,7 +136,7 @@
     "name:mar_x_preferred":[
         "\u0905\u092f\u093e\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Aysen Region"
     ],
     "name:mwl_x_preferred":[
@@ -151,14 +145,14 @@
     "name:nan_x_preferred":[
         "Ais\u00e9n"
     ],
+    "name:nld_x_preferred":[
+        "Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    ],
     "name:nob_x_preferred":[
         "Ais\u00e9n"
     ],
     "name:oci_x_preferred":[
         "Region d'Aisen"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0622\u06cc\u0633\u06cc\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0622\u0626\u06cc\u0633\u0646 \u0631\u06cc\u062c\u0646"
@@ -172,7 +166,7 @@
     "name:que_x_preferred":[
         "Ais\u00e9n suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Ays\u00e9n"
     ],
     "name:rus_x_preferred":[
@@ -184,7 +178,7 @@
     "name:sin_x_preferred":[
         "\u0d85\u0dba\u0dd2\u0dc3\u0dd9\u0db1\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ays\u00e9n"
     ],
     "name:spa_x_preferred":[
@@ -222,6 +216,9 @@
     ],
     "name:war_x_preferred":[
         "XI Rehiyon han Ais\u00e9n han General Carlos Ib\u00e1\u00f1ez del Campo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u74e6\u6d85\u65af\u5c06\u519b\u827e\u68ee\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHL",
@@ -336,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814865,
+    "wof:lastmodified":1561749844,
     "wof:name":"De Aisen",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

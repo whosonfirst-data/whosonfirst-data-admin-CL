@@ -33,20 +33,11 @@
     "mps:longitude":-73.173606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053c\u0575\u0561\u0576\u056f\u056b\u0578\u0582\u0565"
-    ],
-    "name:baq_x_preferred":[
-        "Llanquihue probintzia"
-    ],
-    "name:chi_x_preferred":[
-        "\u5170\u5947\u80e1\u4e9a\u7701"
-    ],
     "name:deu_x_preferred":[
         "Llanquihue"
     ],
-    "name:dut_x_preferred":[
-        "Llanquihue"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03b9\u03b1\u03bd\u03ba\u03af\u03bf\u03c5\u03b5"
     ],
     "name:eng_x_preferred":[
         "Llanquihue"
@@ -58,11 +49,14 @@
     "name:epo_x_preferred":[
         "Provinco Llanquihue"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Llanquihue probintzia"
+    ],
+    "name:fra_x_preferred":[
         "province de Llanquihue"
     ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03b9\u03b1\u03bd\u03ba\u03af\u03bf\u03c5\u03b5"
+    "name:hye_x_preferred":[
+        "\u053c\u0575\u0561\u0576\u056f\u056b\u0578\u0582\u0565"
     ],
     "name:ind_x_preferred":[
         "Provinsi Llanquihue"
@@ -97,7 +91,7 @@
     "name:por_x_preferred":[
         "Llanquihue"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Llanquihue"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +108,9 @@
     ],
     "name:war_x_preferred":[
         "Llanquihue"
+    ],
+    "name:zho_x_preferred":[
+        "\u5170\u5947\u80e1\u4e9a\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DE LOS LAGOS",
@@ -175,7 +172,7 @@
         }
     ],
     "wof:id":102063135,
-    "wof:lastmodified":1554488645,
+    "wof:lastmodified":1561749748,
     "wof:name":"Llanquihue",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001036,
-    "geom:area_square_m":10285333.870957,
+    "geom:area_square_m":10285333.870963,
     "geom:bbox":"-72.5593885878,-36.6201249217,-72.5150733429,-36.5844720471",
     "geom:latitude":-36.603875,
     "geom:longitude":-72.537038,
@@ -16,16 +16,7 @@
     "mps:longitude":-72.539256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "R\u00e1nquil"
-    ],
     "name:cat_x_preferred":[
-        "R\u00e1nquil"
-    ],
-    "name:chi_x_preferred":[
-        "\u862d\u57fa\u723e"
-    ],
-    "name:dut_x_preferred":[
         "R\u00e1nquil"
     ],
     "name:eng_x_preferred":[
@@ -34,7 +25,7 @@
     "name:eus_x_preferred":[
         "R\u00e1nquil"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e1nquil"
     ],
     "name:ita_x_preferred":[
@@ -56,9 +47,6 @@
         "Ranqu\u00edl"
     ],
     "name:ron_x_preferred":[
-        "R\u00e1nquil"
-    ],
-    "name:rum_x_preferred":[
         "R\u00e1nquil"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +94,7 @@
         }
     ],
     "wof:id":102017325,
-    "wof:lastmodified":1513938769,
+    "wof:lastmodified":1561749829,
     "wof:name":"\u00d1ipas",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

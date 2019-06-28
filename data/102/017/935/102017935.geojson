@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000671,
-    "geom:area_square_m":6823054.02708,
+    "geom:area_square_m":6823054.027078,
     "geom:bbox":"-72.0537441953,-34.6557720362,-72.0209630867,-34.6287215375",
     "geom:latitude":-34.643568,
     "geom:longitude":-72.038952,
@@ -16,10 +16,10 @@
     "mps:longitude":-72.040903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Bucalemu"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Bucalemu"
     ],
     "name:sco_x_preferred":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":102017935,
-    "wof:lastmodified":1527637777,
+    "wof:lastmodified":1561749830,
     "wof:name":"Bucalemu",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002297,
-    "geom:area_square_m":23348199.816686,
+    "geom:area_square_m":23348199.816713,
     "geom:bbox":"-71.2957015946,-34.7461091239,-71.2189475064,-34.6829335716",
     "geom:latitude":-34.714749,
     "geom:longitude":-71.258309,
@@ -22,16 +22,10 @@
     "name:bak_x_preferred":[
         "\u0427\u0435\u043f\u0438\u043a\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Ch\u00e9pica"
-    ],
     "name:cat_x_preferred":[
         "Ch\u00e9pica"
     ],
-    "name:chi_x_preferred":[
-        "\u5207\u76ae\u5361"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ch\u00e9pica"
     ],
     "name:eng_x_preferred":[
@@ -43,10 +37,7 @@
     "name:fas_x_preferred":[
         "\u0686\u067e\u06cc\u06a9\u0627\u060c \u0634\u06cc\u0644\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Ch\u00e9pica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ch\u00e9pica"
     ],
     "name:ita_x_preferred":[
@@ -67,13 +58,10 @@
     "name:oci_x_preferred":[
         "Ch\u00e9pica"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u067e\u06cc\u06a9\u0627\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Ch\u00e9pica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ch\u00e9pica"
     ],
     "name:rus_x_preferred":[
@@ -87,6 +75,9 @@
     ],
     "name:swe_x_preferred":[
         "Ch\u00e9pica"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u76ae\u5361"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Libertador General Bernardo O'Higgins",
@@ -135,7 +126,7 @@
         }
     ],
     "wof:id":102017841,
-    "wof:lastmodified":1527637778,
+    "wof:lastmodified":1561749831,
     "wof:name":"Ch\u00e9pica",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

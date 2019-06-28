@@ -32,19 +32,10 @@
     "mps:longitude":-73.161373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0555\u057d\u0578\u0580\u0576\u0578"
-    ],
     "name:cat_x_preferred":[
         "Osorno"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u7d22\u5c14\u8bfa\u7701"
-    ],
     "name:deu_x_preferred":[
-        "Osorno"
-    ],
-    "name:dut_x_preferred":[
         "Osorno"
     ],
     "name:eng_x_preferred":[
@@ -57,14 +48,20 @@
     "name:epo_x_preferred":[
         "Provinco Osorno"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0633\u0648\u0631\u0646\u0648"
+    ],
     "name:fra_x_preferred":[
         "Osorno"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province d$Osorno"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e1\u05d5\u05e8\u05e0\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u057d\u0578\u0580\u0576\u0578"
     ],
     "name:ind_x_preferred":[
         "Provinsi Osorno"
@@ -87,9 +84,6 @@
     "name:nob_x_preferred":[
         "Provincia de Osorno"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0633\u0648\u0631\u0646\u0648"
-    ],
     "name:pol_x_preferred":[
         "Osorno"
     ],
@@ -99,7 +93,7 @@
     "name:ron_x_preferred":[
         "Osorno"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Provincia Osorno"
     ],
     "name:rus_x_preferred":[
@@ -122,6 +116,9 @@
     ],
     "name:war_x_preferred":[
         "Osorno"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u7d22\u5c14\u8bfa\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DE LOS LAGOS",
@@ -169,7 +166,7 @@
         }
     ],
     "wof:id":102063121,
-    "wof:lastmodified":1554488632,
+    "wof:lastmodified":1561749776,
     "wof:name":"Osorno",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

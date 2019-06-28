@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006489,
-    "geom:area_square_m":66936787.874975,
+    "geom:area_square_m":66936787.875003,
     "geom:bbox":"-71.6919157652,-33.532237224,-71.5926420602,-33.4086770347",
     "geom:latitude":-33.467964,
     "geom:longitude":-71.640713,
@@ -20,19 +20,13 @@
     "name:ara_x_preferred":[
         "\u0622\u064a\u0644 \u062a\u0627\u0628\u0648"
     ],
-    "name:baq_x_preferred":[
-        "El Tabo"
-    ],
     "name:cat_x_preferred":[
         "El Tabo"
     ],
     "name:ceb_x_preferred":[
         "El Tabo"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u5854\u6ce2"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "El Tabo"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +38,7 @@
     "name:fas_x_preferred":[
         "\u0627\u0644 \u062a\u0627\u0628\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "El Tabo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "El Tabo"
     ],
     "name:ita_x_preferred":[
@@ -65,16 +56,10 @@
     "name:oci_x_preferred":[
         "El Tabo"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644 \u062a\u0627\u0628\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "El Tabo"
     ],
     "name:ron_x_preferred":[
-        "El Tabo"
-    ],
-    "name:rum_x_preferred":[
         "El Tabo"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +132,7 @@
         }
     ],
     "wof:id":102017669,
-    "wof:lastmodified":1527637773,
+    "wof:lastmodified":1561749827,
     "wof:name":"El Tabo",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

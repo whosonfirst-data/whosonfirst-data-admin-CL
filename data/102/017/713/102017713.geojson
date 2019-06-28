@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001444,
-    "geom:area_square_m":14611236.858834,
+    "geom:area_square_m":14611236.858831,
     "geom:bbox":"-72.0428173884,-35.1064448406,-71.9879458396,-35.0614637847",
     "geom:latitude":-35.088149,
     "geom:longitude":-72.018898,
@@ -19,22 +19,16 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0648\u0631\u064a\u0628\u062a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Curepto"
-    ],
     "name:cat_x_preferred":[
         "Curepto"
     ],
     "name:ceb_x_preferred":[
         "Curepto"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u96f7\u666e\u6258"
-    ],
     "name:dan_x_preferred":[
         "Curepto"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Curepto"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +41,6 @@
         "\u06a9\u06cc\u0648\u0631\u067e\u062a\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Curepto"
-    ],
-    "name:fre_x_preferred":[
-        "Curepto"
-    ],
-    "name:ger_x_preferred":[
         "Curepto"
     ],
     "name:ita_x_preferred":[
@@ -73,16 +61,10 @@
     "name:oci_x_preferred":[
         "Curepto"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0648\u0631\u067e\u062a\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Curepto"
     ],
     "name:ron_x_preferred":[
-        "Curepto"
-    ],
-    "name:rum_x_preferred":[
         "Curepto"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +120,7 @@
         }
     ],
     "wof:id":102017713,
-    "wof:lastmodified":1527637775,
+    "wof:lastmodified":1561749828,
     "wof:name":"Curepto",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

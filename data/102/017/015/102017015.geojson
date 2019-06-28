@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004076,
-    "geom:area_square_m":38426629.690879,
+    "geom:area_square_m":38426629.690874,
     "geom:bbox":"-73.0104213212,-40.3597339311,-72.9099866122,-40.283092901",
     "geom:latitude":-40.325155,
     "geom:longitude":-72.961569,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u0628\u064a\u0646\u0648"
     ],
-    "name:baq_x_preferred":[
-        "R\u00edo Bueno"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u044b\u0430-\u0411\u0443\u044d\u043d\u0430"
     ],
@@ -33,13 +30,7 @@
     "name:ceb_x_preferred":[
         "R\u00edo Bueno"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u5967\u5e03\u57c3\u8afe"
-    ],
     "name:deu_x_preferred":[
-        "R\u00edo Bueno"
-    ],
-    "name:dut_x_preferred":[
         "R\u00edo Bueno"
     ],
     "name:eng_x_preferred":[
@@ -49,12 +40,6 @@
         "R\u00edo Bueno"
     ],
     "name:fra_x_preferred":[
-        "R\u00edo Bueno"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00edo Bueno"
-    ],
-    "name:ger_x_preferred":[
         "R\u00edo Bueno"
     ],
     "name:ita_x_preferred":[
@@ -81,9 +66,6 @@
     "name:ron_x_preferred":[
         "R\u00edo Bueno"
     ],
-    "name:rum_x_preferred":[
-        "R\u00edo Bueno"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043e-\u0411\u0443\u044d\u043d\u043e"
     ],
@@ -95,6 +77,9 @@
     ],
     "name:unk_x_variant":[
         "Ciudad de R\u00edo Bueno"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u5e03\u57c3\u8afe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chile",
@@ -236,7 +221,7 @@
         }
     ],
     "wof:id":102017015,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749824,
     "wof:name":"R\u00edo Bueno",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

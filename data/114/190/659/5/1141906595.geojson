@@ -19,22 +19,16 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0631\u064a\u0647\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Quirihue"
-    ],
     "name:cat_x_preferred":[
-        "Quirihue"
-    ],
-    "name:chi_x_preferred":[
-        "\u57fa\u91cc\u97cb"
-    ],
-    "name:dut_x_preferred":[
         "Quirihue"
     ],
     "name:eng_x_preferred":[
         "Quirihue"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Quirihue"
+    ],
+    "name:fra_x_preferred":[
         "Quirihue"
     ],
     "name:ita_x_preferred":[
@@ -46,13 +40,16 @@
     "name:nan_x_preferred":[
         "Quirihue"
     ],
+    "name:nld_x_preferred":[
+        "Quirihue"
+    ],
     "name:oci_x_preferred":[
         "Quirihue"
     ],
     "name:por_x_preferred":[
         "Quirihue"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Quirihue"
     ],
     "name:rus_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Quirihue"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u91cc\u97cb"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chile",
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":1141906595,
-    "wof:lastmodified":1553816735,
+    "wof:lastmodified":1561749895,
     "wof:name":"Quirihue",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

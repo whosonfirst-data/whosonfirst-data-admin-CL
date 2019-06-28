@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00136,
-    "geom:area_square_m":12770017.542354,
+    "geom:area_square_m":12770017.542347,
     "geom:bbox":"-73.0214500781,-40.6104446943,-72.9648754729,-40.5590638482",
     "geom:latitude":-40.58324,
     "geom:longitude":-72.993717,
@@ -23,9 +23,6 @@
         "\u0623\u0648\u0633\u0648\u0631\u0646\u0648"
     ],
     "name:aze_x_preferred":[
-        "Osorno"
-    ],
-    "name:baq_x_preferred":[
         "Osorno"
     ],
     "name:bar_x_preferred":[
@@ -46,17 +43,14 @@
     "name:ceb_x_preferred":[
         "Osorno"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u7d22\u5c14\u8bfa"
-    ],
     "name:dan_x_preferred":[
         "Osorno"
     ],
     "name:deu_x_preferred":[
         "Osorno"
     ],
-    "name:dut_x_preferred":[
-        "Osorno"
+    "name:ell_x_preferred":[
+        "\u039f\u03c3\u03cc\u03c1\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Osorno"
@@ -79,20 +73,8 @@
     "name:fra_x_preferred":[
         "Osorno"
     ],
-    "name:fre_x_preferred":[
-        "Osorno"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e1\u10dd\u10e0\u10dc\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Osorno"
-    ],
     "name:glg_x_preferred":[
         "Osorno"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c3\u03cc\u03c1\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0ab0\u0acd\u0aa8\u0acb"
@@ -104,9 +86,6 @@
         "\u0913\u0938\u094b\u0930\u094d\u0928\u094b"
     ],
     "name:hun_x_preferred":[
-        "Osorno"
-    ],
-    "name:ice_x_preferred":[
         "Osorno"
     ],
     "name:ind_x_preferred":[
@@ -139,7 +118,7 @@
     "name:mar_x_preferred":[
         "\u0913\u0938\u0930\u094d\u0928\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Osorno"
     ],
     "name:nan_x_preferred":[
@@ -154,9 +133,6 @@
     "name:oci_x_preferred":[
         "Osorno"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0633\u0648\u0631\u0646\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Osorno"
     ],
@@ -167,9 +143,6 @@
         "Osorno"
     ],
     "name:ron_x_preferred":[
-        "Osorno"
-    ],
-    "name:rum_x_preferred":[
         "Osorno"
     ],
     "name:rus_x_preferred":[
@@ -265,7 +238,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637583,
+    "wof:lastmodified":1561749817,
     "wof:name":"Osorno",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

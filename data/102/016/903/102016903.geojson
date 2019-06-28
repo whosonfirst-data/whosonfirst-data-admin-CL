@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000987,
-    "geom:area_square_m":11586738.400912,
+    "geom:area_square_m":11586738.400908,
     "geom:bbox":"-69.613341782,-18.3062030567,-69.5614628317,-18.2568317896",
     "geom:latitude":-18.274335,
     "geom:longitude":-69.586503,
@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Socoroma"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Socoroma"
     ],
     "name:eng_x_preferred":[
         "Socoroma"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Socoroma"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Socoroma"
     ],
     "name:spa_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":102016903,
-    "wof:lastmodified":1527637598,
+    "wof:lastmodified":1561749820,
     "wof:name":"Socoroma",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

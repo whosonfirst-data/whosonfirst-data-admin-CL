@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001662,
-    "geom:area_square_m":15641652.243622,
+    "geom:area_square_m":15641652.243612,
     "geom:bbox":"-73.032415994,-40.4601308391,-72.9868757724,-40.3919437045",
     "geom:latitude":-40.422372,
     "geom:longitude":-73.013458,
@@ -18,22 +18,13 @@
     "mps:longitude":-73.012016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "San Pablo"
-    ],
-    "name:chi_x_preferred":[
-        "\u8056\u5df4\u52c3\u7f85"
-    ],
-    "name:dut_x_preferred":[
-        "San Pablo"
-    ],
     "name:eng_x_preferred":[
         "San Pablo"
     ],
     "name:eus_x_preferred":[
         "San Pablo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Pablo"
     ],
     "name:ita_x_preferred":[
@@ -55,9 +46,6 @@
         "San Pablo"
     ],
     "name:ron_x_preferred":[
-        "San Pablo"
-    ],
-    "name:rum_x_preferred":[
         "San Pablo"
     ],
     "name:rus_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":102016949,
-    "wof:lastmodified":1553815716,
+    "wof:lastmodified":1561749820,
     "wof:name":"San Pablo",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

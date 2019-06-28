@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008988,
-    "geom:area_square_m":89065732.604903,
+    "geom:area_square_m":89065732.604858,
     "geom:bbox":"-73.1746491377,-36.7960895187,-73.0316162109,-36.6529977922",
     "geom:latitude":-36.733605,
     "geom:longitude":-73.105025,
@@ -26,9 +26,6 @@
     "name:afr_x_preferred":[
         "Talcahuano"
     ],
-    "name:alb_x_preferred":[
-        "Talcahuano"
-    ],
     "name:ang_x_preferred":[
         "Talcawano"
     ],
@@ -45,9 +42,6 @@
         "Talkawanu"
     ],
     "name:aze_x_preferred":[
-        "Talcahuano"
-    ],
-    "name:baq_x_preferred":[
         "Talcahuano"
     ],
     "name:bel_x_preferred":[
@@ -80,16 +74,13 @@
     "name:cha_x_preferred":[
         "Talcahuano"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u723e\u5361\u74e6\u8afe"
-    ],
     "name:chy_x_preferred":[
         "Talcahuano"
     ],
     "name:cos_x_preferred":[
         "Talcahuano"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Talcahuano"
     ],
     "name:dan_x_preferred":[
@@ -98,8 +89,8 @@
     "name:deu_x_preferred":[
         "Talcahuano"
     ],
-    "name:dut_x_preferred":[
-        "Talcahuano"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bb\u03ba\u03b1\u03c7\u03bf\u03c5\u03ac\u03bd\u03bf"
     ],
     "name:eml_x_preferred":[
         "Talcahuano"
@@ -125,13 +116,7 @@
     "name:fra_x_preferred":[
         "Talcahuano"
     ],
-    "name:fre_x_preferred":[
-        "Talcahuano"
-    ],
     "name:gag_x_preferred":[
-        "Talcahuano"
-    ],
-    "name:ger_x_preferred":[
         "Talcahuano"
     ],
     "name:gle_x_preferred":[
@@ -139,9 +124,6 @@
     ],
     "name:glg_x_preferred":[
         "Talcahuano"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bb\u03ba\u03b1\u03c7\u03bf\u03c5\u03ac\u03bd\u03bf"
     ],
     "name:grn_x_preferred":[
         "Talcahuano"
@@ -206,17 +188,14 @@
     "name:lmo_x_preferred":[
         "Talcahuano"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u043b\u043a\u0430\u0443\u0430\u043d\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0932\u0915\u0941\u0906\u0928\u094b"
     ],
-    "name:may_x_preferred":[
-        "Talcahuano"
-    ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u043b\u043a\u0430\u0443\u0430\u043d\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Talcahuano"
     ],
     "name:mwl_x_preferred":[
         "Talcahuano"
@@ -242,9 +221,6 @@
     "name:pap_x_preferred":[
         "Talcahuano"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0644\u06a9\u0627\u0647\u0648\u0627\u0646\u0648"
-    ],
     "name:pms_x_preferred":[
         "Talcahuano"
     ],
@@ -261,9 +237,6 @@
         "Talcahuano"
     ],
     "name:ron_x_preferred":[
-        "Talcahuano"
-    ],
-    "name:rum_x_preferred":[
         "Talcahuano"
     ],
     "name:rus_x_preferred":[
@@ -318,9 +291,6 @@
         "Talcahuano"
     ],
     "name:war_x_preferred":[
-        "Talcahuano"
-    ],
-    "name:wel_x_preferred":[
         "Talcahuano"
     ],
     "name:yid_x_preferred":[
@@ -472,7 +442,7 @@
         }
     ],
     "wof:id":102016891,
-    "wof:lastmodified":1527637600,
+    "wof:lastmodified":1561749821,
     "wof:name":"Talcahuano",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

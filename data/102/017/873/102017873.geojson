@@ -20,16 +20,10 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0637\u0627\u062c\u0646\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Cartagena"
-    ],
     "name:ceb_x_preferred":[
         "Cartagena"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5854\u8d6b\u7d0d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cartagena"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
     ],
     "name:fra_x_preferred":[
         "Carthag\u00e8ne"
-    ],
-    "name:fre_x_preferred":[
-        "Carthag\u00e8ne"
-    ],
-    "name:ger_x_preferred":[
-        "Cartagena"
     ],
     "name:glg_x_preferred":[
         "Cartagena"
@@ -66,9 +54,6 @@
         "Cartagena"
     ],
     "name:ron_x_preferred":[
-        "Cartagena"
-    ],
-    "name:rum_x_preferred":[
         "Cartagena"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +123,7 @@
         }
     ],
     "wof:id":102017873,
-    "wof:lastmodified":1535389833,
+    "wof:lastmodified":1561749825,
     "wof:name":"Cartagena",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

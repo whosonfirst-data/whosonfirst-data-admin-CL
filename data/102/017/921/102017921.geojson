@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003503,
-    "geom:area_square_m":34576033.795031,
+    "geom:area_square_m":34576033.79504,
     "geom:bbox":"-72.4386020358,-37.0685654517,-72.3502144654,-36.9979344635",
     "geom:latitude":-37.035231,
     "geom:longitude":-72.387923,
@@ -20,19 +20,13 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0631\u064a\u0631\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Cabrero"
-    ],
     "name:cat_x_preferred":[
         "Cabrero"
     ],
     "name:ceb_x_preferred":[
         "Cabrero"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5e03\u96f7\u7f85"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cabrero"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +35,7 @@
     "name:eus_x_preferred":[
         "Cabrero"
     ],
-    "name:fre_x_preferred":[
-        "Cabrero"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cabrero"
     ],
     "name:glg_x_preferred":[
@@ -69,9 +60,6 @@
         "Cabrero"
     ],
     "name:ron_x_preferred":[
-        "Cabrero"
-    ],
-    "name:rum_x_preferred":[
         "Cabrero"
     ],
     "name:rus_x_preferred":[
@@ -151,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637782,
+    "wof:lastmodified":1561749836,
     "wof:name":"Cabrero",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

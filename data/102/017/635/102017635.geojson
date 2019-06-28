@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002993,
-    "geom:area_square_m":28293345.641182,
+    "geom:area_square_m":28293345.641187,
     "geom:bbox":"-72.4610671219,-40.150090234,-72.3497263081,-40.1068891501",
     "geom:latitude":-40.128268,
     "geom:longitude":-72.401245,
@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0648\u062a\u0631\u0648\u0646\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Futrono"
-    ],
     "name:bul_x_preferred":[
         "\u0424\u0443\u0442\u0440\u043e\u043d\u043e"
     ],
@@ -31,10 +28,7 @@
     "name:ceb_x_preferred":[
         "Futrono"
     ],
-    "name:chi_x_preferred":[
-        "\u5bcc\u7279\u7f85\u8afe"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Futrono"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +40,7 @@
     "name:fas_x_preferred":[
         "\u0641\u06cc\u0648\u062a\u0631\u0648\u0646\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Futrono"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Futrono"
     ],
     "name:ita_x_preferred":[
@@ -67,16 +58,10 @@
     "name:oci_x_preferred":[
         "Futrono"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u06cc\u0648\u062a\u0631\u0648\u0646\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Futrono"
     ],
     "name:ron_x_preferred":[
-        "Futrono"
-    ],
-    "name:rum_x_preferred":[
         "Futrono"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +126,7 @@
         }
     ],
     "wof:id":102017635,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1561749827,
     "wof:name":"Futrono",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

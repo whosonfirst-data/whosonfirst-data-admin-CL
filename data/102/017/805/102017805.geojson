@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002607,
-    "geom:area_square_m":26027365.906809,
+    "geom:area_square_m":26027365.906811,
     "geom:bbox":"-72.8339883737,-36.1890171212,-72.7678237127,-36.1066809369",
     "geom:latitude":-36.150456,
     "geom:longitude":-72.80204,
@@ -19,19 +19,13 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628 \u0643\u064a\u0648 \u0643\u064a\u0648\u0631\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Cobquecura"
-    ],
     "name:cat_x_preferred":[
         "Cobquecura"
     ],
     "name:ceb_x_preferred":[
         "Cobquecura"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5e03\u514b\u5eab\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cobquecura"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +40,7 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0628\u06a9\u06cc\u0648\u06a9\u06cc\u0648\u0631\u0627\u060c \u0634\u06cc\u0644\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Cobquecura"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cobquecura"
     ],
     "name:ita_x_preferred":[
@@ -70,16 +61,10 @@
     "name:oci_x_preferred":[
         "Cobquecura"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0628\u06a9\u06cc\u0648\u06a9\u06cc\u0648\u0631\u0627\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Cobquecura"
     ],
     "name:ron_x_preferred":[
-        "Cobquecura"
-    ],
-    "name:rum_x_preferred":[
         "Cobquecura"
     ],
     "name:rus_x_preferred":[
@@ -144,7 +129,7 @@
         }
     ],
     "wof:id":102017805,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1561749828,
     "wof:name":"Cobquecura",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

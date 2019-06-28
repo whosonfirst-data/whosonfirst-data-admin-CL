@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00434,
-    "geom:area_square_m":43444570.25823,
+    "geom:area_square_m":43444570.258222,
     "geom:bbox":"-72.4054782547,-35.9914572873,-72.2624830384,-35.8666911958",
     "geom:latitude":-35.940857,
     "geom:longitude":-72.340434,
@@ -24,9 +24,6 @@
     "name:arn_x_preferred":[
         "Cristian C\u00e1ceres"
     ],
-    "name:baq_x_preferred":[
-        "Cauquenes"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u0995\u09c1\u09af\u09bc\u09c7\u09a8\u09c7\u099a"
     ],
@@ -36,16 +33,13 @@
     "name:ceb_x_preferred":[
         "Cauquenes"
     ],
-    "name:chi_x_preferred":[
-        "\u8003\u514b\u5167\u65af"
-    ],
     "name:dan_x_preferred":[
         "Cauquenes"
     ],
     "name:deu_x_preferred":[
         "Cauquenes"
     ],
-    "name:dut_x_preferred":[
+    "name:ell_x_preferred":[
         "Cauquenes"
     ],
     "name:eng_x_preferred":[
@@ -58,15 +52,6 @@
         "Cauquenes"
     ],
     "name:fra_x_preferred":[
-        "Cauquenes"
-    ],
-    "name:fre_x_preferred":[
-        "Cauquenes"
-    ],
-    "name:ger_x_preferred":[
-        "Cauquenes"
-    ],
-    "name:gre_x_preferred":[
         "Cauquenes"
     ],
     "name:guj_x_preferred":[
@@ -99,7 +84,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0949\u0915\u094d\u0935\u0947\u0928\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cauquenes"
     ],
     "name:nan_x_preferred":[
@@ -121,9 +106,6 @@
         "Cauquenes"
     ],
     "name:ron_x_preferred":[
-        "Cauquenes"
-    ],
-    "name:rum_x_preferred":[
         "Cauquenes"
     ],
     "name:rus_x_preferred":[
@@ -320,7 +302,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1513929787,
+    "wof:lastmodified":1561749826,
     "wof:name":"Cauquenes",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

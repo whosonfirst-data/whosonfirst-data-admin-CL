@@ -22,9 +22,6 @@
     "name:ace_x_preferred":[
         "Vitacura"
     ],
-    "name:alb_x_preferred":[
-        "Vitacura"
-    ],
     "name:ang_x_preferred":[
         "Vitacura"
     ],
@@ -40,9 +37,6 @@
     "name:aze_x_preferred":[
         "Vitacura"
     ],
-    "name:baq_x_preferred":[
-        "Vitacura"
-    ],
     "name:bre_x_preferred":[
         "Vitacura"
     ],
@@ -52,9 +46,6 @@
     "name:ceb_x_preferred":[
         "Vitacura"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u5854\u5eab\u62c9"
-    ],
     "name:cos_x_preferred":[
         "Vitacura"
     ],
@@ -62,9 +53,6 @@
         "Vitacura"
     ],
     "name:deu_x_preferred":[
-        "Vitacura"
-    ],
-    "name:dut_x_preferred":[
         "Vitacura"
     ],
     "name:eng_x_preferred":[
@@ -80,12 +68,6 @@
         "\u0648\u06cc\u062a\u0627\u06a9\u0648\u0631\u0627"
     ],
     "name:fra_x_preferred":[
-        "Vitacura"
-    ],
-    "name:fre_x_preferred":[
-        "Vitacura"
-    ],
-    "name:ger_x_preferred":[
         "Vitacura"
     ],
     "name:gle_x_preferred":[
@@ -130,9 +112,6 @@
     "name:nov_x_preferred":[
         "Vitacura"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u062a\u0627\u06a9\u0648\u0631\u0627"
-    ],
     "name:pms_x_preferred":[
         "Vitacura"
     ],
@@ -149,9 +128,6 @@
         "Vitacura"
     ],
     "name:ron_x_preferred":[
-        "Vitacura"
-    ],
-    "name:rum_x_preferred":[
         "Vitacura"
     ],
     "name:rus_x_preferred":[
@@ -238,7 +214,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1535389832,
+    "wof:lastmodified":1561749818,
     "wof:name":"Vitacura",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

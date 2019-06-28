@@ -30,9 +30,6 @@
     "name:aka_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:alb_x_preferred":[
-        "Concepci\u00f3n"
-    ],
     "name:als_x_preferred":[
         "Concepci\u00f3n"
     ],
@@ -58,9 +55,6 @@
     "name:arg_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0576\u057d\u0565\u057a\u057d\u0575\u0578\u0576"
-    ],
     "name:arz_x_preferred":[
         "\u0643\u0648\u0646\u0633\u0628\u0633\u064a\u0648\u0646 \u060c \u062a\u0634\u064a\u0644\u0649"
     ],
@@ -74,9 +68,6 @@
         "Konsepsion"
     ],
     "name:bam_x_preferred":[
-        "Concepci\u00f3n"
-    ],
-    "name:baq_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:bar_x_preferred":[
@@ -115,11 +106,11 @@
     "name:cdo_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:cha_x_preferred":[
+    "name:ces_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u5eb7\u585e\u666e\u897f\u7fc1"
+    "name:cha_x_preferred":[
+        "Concepci\u00f3n"
     ],
     "name:chv_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u00e7\u0438\u043e\u043d"
@@ -139,7 +130,7 @@
     "name:csb_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:dan_x_preferred":[
@@ -152,9 +143,6 @@
         "Concepci\u00f3n"
     ],
     "name:dsb_x_preferred":[
-        "Concepci\u00f3n"
-    ],
-    "name:dut_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:ell_x_preferred":[
@@ -173,6 +161,9 @@
         "Koncepciono"
     ],
     "name:est_x_preferred":[
+        "Concepci\u00f3n"
+    ],
+    "name:eus_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:ewe_x_preferred":[
@@ -196,9 +187,6 @@
     "name:fra_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Concepci\u00f3n"
-    ],
     "name:frp_x_preferred":[
         "Concepci\u00f3n"
     ],
@@ -214,12 +202,6 @@
     "name:gag_x_preferred":[
         "Concepcion"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10e1\u10d4\u10e4\u10e1\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Concepci\u00f3n"
-    ],
     "name:gla_x_preferred":[
         "Concepci\u00f3n"
     ],
@@ -234,9 +216,6 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf3a\ud800\udf49\ud800\udf3d\ud800\udf38\ud800\udf34\ud800\udf40\ud800\udf38\ud800\udf39\ud800\udf49\ud800\udf3d"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bd\u03c3\u03b5\u03c0\u03c3\u03b9\u03cc\u03bd"
     ],
     "name:grn_x_preferred":[
         "Concepci\u00f3n"
@@ -280,8 +259,8 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u0576\u057d\u0565\u057a\u057d\u056b\u0578\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Concepci\u00f3n"
+    "name:hye_x_variant":[
+        "\u053f\u0578\u0576\u057d\u0565\u057a\u057d\u0575\u0578\u0576"
     ],
     "name:ido_x_preferred":[
         "Concepci\u00f3n"
@@ -296,6 +275,9 @@
         "Concepci\u00f3n"
     ],
     "name:ind_x_preferred":[
+        "Concepci\u00f3n"
+    ],
+    "name:isl_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -388,17 +370,8 @@
     "name:lzh_x_preferred":[
         "\u5eb7\u8cfd\u666e\u897f\u7fc1"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u0438\u043e\u043d"
-    ],
-    "name:mao_x_preferred":[
-        "Concepci\u00f3n"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0928\u094d\u0938\u0947\u092a\u094d\u0938\u093f\u092f\u093e\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Concepci\u00f3n"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u0438\u043e\u043d"
@@ -412,8 +385,14 @@
     "name:mon_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u0448\u043e\u043d"
     ],
+    "name:mri_x_preferred":[
+        "Concepci\u00f3n"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u043e\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Concepci\u00f3n"
     ],
     "name:mwl_x_preferred":[
         "Concepci\u00f3n"
@@ -431,6 +410,9 @@
         "Concepci\u00f3n"
     ],
     "name:nds_x_preferred":[
+        "Concepci\u00f3n"
+    ],
+    "name:nld_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:nno_x_preferred":[
@@ -478,9 +460,6 @@
     "name:pdc_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0646\u0633\u067e\u0633\u06cc\u0648\u0646\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:pfl_x_preferred":[
         "Concepci\u00f3n"
     ],
@@ -511,11 +490,11 @@
     "name:roh_x_preferred":[
         "Concepci\u00f3n"
     ],
+    "name:ron_x_preferred":[
+        "Concepci\u00f3n"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u043e\u043dce\u043f\u0441\u0456\u043e\u043d"
-    ],
-    "name:rum_x_preferred":[
-        "Concepci\u00f3n"
     ],
     "name:rup_x_preferred":[
         "Concepci\u00f3n"
@@ -544,7 +523,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0db1\u0dca\u0dc3\u0dd2\u0db4\u0dd2\u0dc3\u0dd2\u0dba\u0ddc\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:slv_x_preferred":[
@@ -566,6 +545,9 @@
         "Concepcion"
     ],
     "name:spa_x_variant":[
+        "Concepci\u00f3n"
+    ],
+    "name:sqi_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:srd_x_preferred":[
@@ -665,9 +647,6 @@
         "Concepci\u00f3n"
     ],
     "name:war_x_preferred":[
-        "Concepci\u00f3n"
-    ],
-    "name:wel_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:wln_x_preferred":[
@@ -847,7 +826,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1535389833,
+    "wof:lastmodified":1561749831,
     "wof:megacity":0,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":102063171,

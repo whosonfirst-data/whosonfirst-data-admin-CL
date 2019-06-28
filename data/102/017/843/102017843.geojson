@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001396,
-    "geom:area_square_m":14011441.579812,
+    "geom:area_square_m":14011441.579817,
     "geom:bbox":"-72.5592671553,-35.7599782735,-72.5151960412,-35.697369243",
     "geom:latitude":-35.733334,
     "geom:longitude":-72.536937,
@@ -19,16 +19,10 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Chanco"
-    ],
     "name:cat_x_preferred":[
         "Chanco"
     ],
-    "name:chi_x_preferred":[
-        "\u9322\u79d1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chanco"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +31,13 @@
     "name:epo_x_preferred":[
         "Chanco"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Chanco"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0646\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Chanco"
     ],
     "name:ita_x_preferred":[
@@ -55,16 +52,16 @@
     "name:nan_x_preferred":[
         "Chanco"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Chanco"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0646\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    "name:oci_x_preferred":[
+        "Chanco"
     ],
     "name:por_x_preferred":[
         "Chanco"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chanco"
     ],
     "name:rus_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Chanco"
+    ],
+    "name:zho_x_preferred":[
+        "\u9322\u79d1"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Maule",
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":102017843,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749826,
     "wof:name":"Chanco",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

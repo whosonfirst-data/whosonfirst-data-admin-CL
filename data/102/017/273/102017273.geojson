@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00698,
-    "geom:area_square_m":66462161.990945,
+    "geom:area_square_m":66462161.990966,
     "geom:bbox":"-72.3950726393,-39.728863446,-72.2619052971,-39.5585871952",
     "geom:latitude":-39.642638,
     "geom:longitude":-72.332032,
@@ -17,19 +17,10 @@
     "mps:longitude":-72.336609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Panguipulli"
-    ],
     "name:cat_x_preferred":[
         "Panguipulli"
     ],
     "name:ceb_x_preferred":[
-        "Panguipulli"
-    ],
-    "name:chi_x_preferred":[
-        "\u6f58\u5409\u666e\u4f0a"
-    ],
-    "name:dut_x_preferred":[
         "Panguipulli"
     ],
     "name:ell_x_preferred":[
@@ -45,15 +36,6 @@
         "\u067e\u0627\u0646\u06af\u0648\u06cc\u06cc \u067e\u0648\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Panguipulli"
-    ],
-    "name:fre_x_preferred":[
-        "Panguipulli"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bd\u03b3\u03ba\u03b9\u03c0\u03bf\u03cd\u03b3\u03b9"
-    ],
-    "name:ice_x_preferred":[
         "Panguipulli"
     ],
     "name:isl_x_preferred":[
@@ -77,9 +59,6 @@
     "name:oci_x_preferred":[
         "Panguipulli"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0646\u06af\u0648\u06cc\u06cc \u067e\u0648\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Panguipulli"
     ],
@@ -87,9 +66,6 @@
         "Panguipulli"
     ],
     "name:ron_x_preferred":[
-        "Panguipulli"
-    ],
-    "name:rum_x_preferred":[
         "Panguipulli"
     ],
     "name:rus_x_preferred":[
@@ -155,7 +131,7 @@
         }
     ],
     "wof:id":102017273,
-    "wof:lastmodified":1527637771,
+    "wof:lastmodified":1561749824,
     "wof:name":"Panguipulli",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

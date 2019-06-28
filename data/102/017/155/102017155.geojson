@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000369,
-    "geom:area_square_m":3113637.544601,
+    "geom:area_square_m":3113637.544598,
     "geom:bbox":"-72.8360271297,-47.0379425051,-72.8097249999,-47.0199580787",
     "geom:latitude":-47.02895,
     "geom:longitude":-72.822876,
@@ -17,13 +17,13 @@
     "mps:longitude":-72.822876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puerto Bertrand"
     ],
     "name:eng_x_preferred":[
         "Puerto Bertrand"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Puerto Bertrand"
     ],
     "name:spa_x_preferred":[
@@ -86,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1513937836,
+    "wof:lastmodified":1561749831,
     "wof:name":"Puerto Bertrand",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

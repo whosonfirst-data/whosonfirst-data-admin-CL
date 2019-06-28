@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005566,
-    "geom:area_square_m":51828087.14395,
+    "geom:area_square_m":51828087.143977,
     "geom:bbox":"-73.0874707455,-41.200058908,-72.9867456812,-41.1055351814",
     "geom:latitude":-41.144328,
     "geom:longitude":-73.040515,
@@ -23,19 +23,10 @@
     "name:aze_x_preferred":[
         "Frutillar"
     ],
-    "name:baq_x_preferred":[
-        "Frutillar"
-    ],
     "name:cat_x_preferred":[
         "Frutillar"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u9b6f\u8482\u4e9e\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Frutillar"
-    ],
-    "name:dut_x_preferred":[
         "Frutillar"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "\u0641\u0631\u0648\u062a\u06cc\u0644\u0627\u0631\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Frutillar"
-    ],
-    "name:fre_x_preferred":[
-        "Frutillar"
-    ],
-    "name:ger_x_preferred":[
         "Frutillar"
     ],
     "name:ita_x_preferred":[
@@ -74,16 +59,10 @@
     "name:oci_x_preferred":[
         "Frutillar"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062a\u06cc\u0644\u0627\u0631\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Frutillar"
     ],
     "name:ron_x_preferred":[
-        "Frutillar"
-    ],
-    "name:rum_x_preferred":[
         "Frutillar"
     ],
     "name:rus_x_preferred":[
@@ -145,7 +124,7 @@
         }
     ],
     "wof:id":102017641,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1561749833,
     "wof:name":"Frutillar",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002015,
-    "geom:area_square_m":19852014.579904,
+    "geom:area_square_m":19852014.579898,
     "geom:bbox":"-72.9769557929,-37.1912104806,-72.9187358102,-37.1381734566",
     "geom:latitude":-37.165933,
     "geom:longitude":-72.951927,
@@ -21,9 +21,6 @@
     "name:aze_x_preferred":[
         "Santa Juana"
     ],
-    "name:baq_x_preferred":[
-        "Santa Juana"
-    ],
     "name:bre_x_preferred":[
         "Santa Juana"
     ],
@@ -33,13 +30,7 @@
     "name:cbk_zam_x_preferred":[
         "Santa Juana"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u963f\u7d0d"
-    ],
     "name:deu_x_preferred":[
-        "Santa Juana"
-    ],
-    "name:dut_x_preferred":[
         "Santa Juana"
     ],
     "name:eng_x_preferred":[
@@ -49,12 +40,6 @@
         "Santa Juana"
     ],
     "name:fra_x_preferred":[
-        "Santa Juana"
-    ],
-    "name:fre_x_preferred":[
-        "Santa Juana"
-    ],
-    "name:ger_x_preferred":[
         "Santa Juana"
     ],
     "name:glg_x_preferred":[
@@ -94,9 +79,6 @@
         "Santa Juana"
     ],
     "name:ron_x_preferred":[
-        "Santa Juana"
-    ],
-    "name:rum_x_preferred":[
         "Santa Juana"
     ],
     "name:rus_x_preferred":[
@@ -170,7 +152,7 @@
         }
     ],
     "wof:id":102016921,
-    "wof:lastmodified":1553815716,
+    "wof:lastmodified":1561749821,
     "wof:name":"Santa Juana",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

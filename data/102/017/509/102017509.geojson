@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0633\u064a\u0631\u064a\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0561 \u054d\u0565\u0580\u0565\u0576\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0644\u0627 \u0633\u064a\u0631\u064a\u0646\u0627"
     ],
@@ -39,9 +36,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041b\u0430-\u0421\u0435\u0440\u0435\u043d\u0430"
-    ],
-    "name:baq_x_preferred":[
-        "La Serena"
     ],
     "name:bar_x_preferred":[
         "La Serena"
@@ -67,8 +61,8 @@
     "name:ceb_x_preferred":[
         "La Serena"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u585e\u96f7\u7eb3"
+    "name:cym_x_preferred":[
+        "La Serena"
     ],
     "name:dan_x_preferred":[
         "La Serena"
@@ -76,8 +70,8 @@
     "name:deu_x_preferred":[
         "La Serena"
     ],
-    "name:dut_x_preferred":[
-        "La Serena"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a3\u03b5\u03c1\u03ad\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "La Serena"
@@ -97,19 +91,10 @@
     "name:fra_x_preferred":[
         "La Serena"
     ],
-    "name:fre_x_preferred":[
-        "La Serena"
-    ],
     "name:frp_x_preferred":[
         "La Serena"
     ],
     "name:fur_x_preferred":[
-        "La Serena"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10e1\u10d4\u10e0\u10d4\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "La Serena"
     ],
     "name:gle_x_preferred":[
@@ -117,9 +102,6 @@
     ],
     "name:glg_x_preferred":[
         "La Serena"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u03a3\u03b5\u03c1\u03ad\u03bd\u03b1"
     ],
     "name:gsw_x_preferred":[
         "La Serena"
@@ -184,16 +166,13 @@
     "name:lit_x_preferred":[
         "La Serena"
     ],
-    "name:mao_x_preferred":[
-        "La Serena"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093e \u0938\u0947\u0930\u0947\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
         "La Serena"
     ],
-    "name:mri_x_preferred":[
+    "name:msa_x_preferred":[
         "La Serena"
     ],
     "name:nah_x_preferred":[
@@ -217,9 +196,6 @@
     "name:oci_x_preferred":[
         "La Serena"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0633\u0631\u0646\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u0627\u0633\u06cc\u0631\u06cc\u0646\u0627"
     ],
@@ -236,9 +212,6 @@
         "La Serena"
     ],
     "name:ron_x_preferred":[
-        "La Serena"
-    ],
-    "name:rum_x_preferred":[
         "La Serena"
     ],
     "name:rus_x_preferred":[
@@ -290,9 +263,6 @@
         "La Serena"
     ],
     "name:war_x_preferred":[
-        "La Serena"
-    ],
-    "name:wel_x_preferred":[
         "La Serena"
     ],
     "name:yid_x_preferred":[
@@ -452,7 +422,7 @@
         }
     ],
     "wof:id":102017509,
-    "wof:lastmodified":1535389833,
+    "wof:lastmodified":1561749831,
     "wof:name":"La Serena",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000544,
-    "geom:area_square_m":5659988.459883,
+    "geom:area_square_m":5659988.459882,
     "geom:bbox":"-71.5041943837,-32.7503226078,-71.4695004684,-32.7272195708",
     "geom:latitude":-32.740497,
     "geom:longitude":-71.488666,
@@ -21,10 +21,10 @@
     "name:ceb_x_preferred":[
         "Ventanas"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Las Ventanas"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Las Ventanas"
     ],
     "name:spa_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":102016831,
-    "wof:lastmodified":1527637600,
+    "wof:lastmodified":1561749821,
     "wof:name":"Ventanas",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

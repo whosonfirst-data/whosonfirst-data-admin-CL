@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003188,
-    "geom:area_square_m":34622263.598315,
+    "geom:area_square_m":34622263.598327,
     "geom:bbox":"-70.8116114154,-28.6080137461,-70.7142651323,-28.5513785233",
     "geom:latitude":-28.57984,
     "geom:longitude":-70.761931,
@@ -29,17 +29,11 @@
     "name:bak_x_preferred":[
         "\u0412\u0430\u043b\u0435\u043d\u0430\u0440"
     ],
-    "name:baq_x_preferred":[
-        "Vallenar"
-    ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09af\u09bc\u09c7\u09a8\u09be\u09b0"
     ],
     "name:ceb_x_preferred":[
         "Vallenar"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u8036\u7d0d\u723e"
     ],
     "name:dan_x_preferred":[
         "Vallenar"
@@ -47,8 +41,8 @@
     "name:deu_x_preferred":[
         "Vallenar"
     ],
-    "name:dut_x_preferred":[
-        "Vallenar"
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb\u03bb\u03b5\u03bd\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Vallenar"
@@ -61,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Vallenar"
-    ],
-    "name:fre_x_preferred":[
-        "Vallenar"
-    ],
-    "name:ger_x_preferred":[
-        "Vallenar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03bb\u03bb\u03b5\u03bd\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac5\u0ab2\u0ac7\u0aa8\u0abe\u0ab0"
@@ -101,7 +86,7 @@
     "name:mar_x_preferred":[
         "\u0935\u0932\u0947\u0928\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Vallenar"
     ],
     "name:nan_x_preferred":[
@@ -120,9 +105,6 @@
         "Vallenar"
     ],
     "name:ron_x_preferred":[
-        "Vallenar"
-    ],
-    "name:rum_x_preferred":[
         "Vallenar"
     ],
     "name:rus_x_preferred":[
@@ -310,7 +292,7 @@
         }
     ],
     "wof:id":102016835,
-    "wof:lastmodified":1527637596,
+    "wof:lastmodified":1561749819,
     "wof:name":"Vallenar",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

@@ -20,14 +20,14 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u0986\u09b8\u09bf\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u68ee\u6e2f"
-    ],
     "name:dan_x_preferred":[
         "Puerto Aisen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puerto Ais\u00e9n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u0391\u03ca\u03c3\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Puerto Ais\u00e9n"
@@ -35,14 +35,8 @@
     "name:fin_x_preferred":[
         "Puerto Ais\u00e9n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Ais\u00e9n"
-    ],
-    "name:ger_x_preferred":[
-        "Puerto Ais\u00e9n"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u0391\u03ca\u03c3\u03ad\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0aaf\u0ac1\u0ab0\u0acd\u0a9f\u0acb \u0a86\u0aaf\u0ab8\u0ac7\u0aa8"
@@ -74,8 +68,11 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u0906\u092f\u0938\u0947\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Puerto Aisen"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Ais\u00e9n"
     ],
     "name:nob_x_preferred":[
         "Puerto Aisen"
@@ -86,7 +83,7 @@
     "name:por_x_preferred":[
         "Puerto Ais\u00e9n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Puerto Ays\u00e9n"
     ],
     "name:rus_x_preferred":[
@@ -124,6 +121,9 @@
     ],
     "name:war_x_preferred":[
         "Puerto Ais\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u68ee\u6e2f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chile",
@@ -244,7 +244,7 @@
         }
     ],
     "wof:id":1141908659,
-    "wof:lastmodified":1513937836,
+    "wof:lastmodified":1561749895,
     "wof:name":"Puerto Aisen",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",

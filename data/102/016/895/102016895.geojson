@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009126,
-    "geom:area_square_m":93908043.283532,
+    "geom:area_square_m":93908043.283543,
     "geom:bbox":"-70.9826660157,-33.7304714123,-70.8345491755,-33.6329154958",
     "geom:latitude":-33.674285,
     "geom:longitude":-70.90388,
@@ -19,19 +19,10 @@
     "mps:longitude":-70.883098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Talagante"
-    ],
     "name:ceb_x_preferred":[
         "Talagante"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u7518\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Talagante"
-    ],
-    "name:dut_x_preferred":[
         "Talagante"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +32,6 @@
         "Talagante"
     ],
     "name:fra_x_preferred":[
-        "Talagante"
-    ],
-    "name:fre_x_preferred":[
-        "Talagante"
-    ],
-    "name:ger_x_preferred":[
         "Talagante"
     ],
     "name:ita_x_preferred":[
@@ -74,9 +59,6 @@
         "Talagante"
     ],
     "name:ron_x_preferred":[
-        "Talagante"
-    ],
-    "name:rum_x_preferred":[
         "Talagante"
     ],
     "name:rus_x_preferred":[
@@ -154,7 +136,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1553815716,
+    "wof:lastmodified":1561749819,
     "wof:name":"Talagante",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

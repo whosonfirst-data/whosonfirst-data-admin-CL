@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002384,
-    "geom:area_square_m":23555368.01056,
+    "geom:area_square_m":23555368.010555,
     "geom:bbox":"-72.9796742436,-36.991817846,-72.8995380205,-36.9452728354",
     "geom:latitude":-36.972493,
     "geom:longitude":-72.941473,
@@ -31,9 +31,6 @@
     "name:aze_x_preferred":[
         "Hualqui"
     ],
-    "name:baq_x_preferred":[
-        "Hualqui"
-    ],
     "name:cat_x_preferred":[
         "Hualqui"
     ],
@@ -43,10 +40,7 @@
     "name:ceb_x_preferred":[
         "Hualqui"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u723e\u57fa"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hualqui"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +50,6 @@
         "Hualqui"
     ],
     "name:fra_x_preferred":[
-        "Hualqui"
-    ],
-    "name:fre_x_preferred":[
-        "Hualqui"
-    ],
-    "name:ger_x_preferred":[
         "Hualqui"
     ],
     "name:glg_x_preferred":[
@@ -119,9 +107,6 @@
         "Hualqui"
     ],
     "name:ron_x_preferred":[
-        "Hualqui"
-    ],
-    "name:rum_x_preferred":[
         "Hualqui"
     ],
     "name:rus_x_preferred":[
@@ -195,7 +180,7 @@
         }
     ],
     "wof:id":102017623,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1561749832,
     "wof:name":"Hualqui",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

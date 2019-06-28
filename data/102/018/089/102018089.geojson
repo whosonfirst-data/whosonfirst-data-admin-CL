@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000963,
-    "geom:area_square_m":10214978.179669,
+    "geom:area_square_m":10214978.179663,
     "geom:bbox":"-71.2293381652,-31.0007533688,-71.2084058814,-30.9450412367",
     "geom:latitude":-30.9729,
     "geom:longitude":-71.218872,
@@ -19,19 +19,10 @@
     "name:bak_x_preferred":[
         "\u041f\u0443\u043d\u0438\u0442\u0430\u043a\u0438"
     ],
-    "name:baq_x_preferred":[
-        "Punitaqui"
-    ],
     "name:cat_x_preferred":[
         "Punitaqui"
     ],
     "name:ceb_x_preferred":[
-        "Punitaqui"
-    ],
-    "name:chi_x_preferred":[
-        "\u666e\u5c3c\u5854\u57fa"
-    ],
-    "name:dut_x_preferred":[
         "Punitaqui"
     ],
     "name:eng_x_preferred":[
@@ -40,7 +31,7 @@
     "name:eus_x_preferred":[
         "Punitaqui"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Punitaqui"
     ],
     "name:heb_x_preferred":[
@@ -77,9 +68,6 @@
         "Punitaqui"
     ],
     "name:ron_x_preferred":[
-        "Punitaqui"
-    ],
-    "name:rum_x_preferred":[
         "Punitaqui"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +123,7 @@
         }
     ],
     "wof:id":102018089,
-    "wof:lastmodified":1527637581,
+    "wof:lastmodified":1561749816,
     "wof:name":"Punitaqui",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

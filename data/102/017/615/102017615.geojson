@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000461,
-    "geom:area_square_m":5246660.45335,
+    "geom:area_square_m":5246660.453355,
     "geom:bbox":"-70.2947825782,-22.9117746006,-70.2752857381,-22.8835914212",
     "geom:latitude":-22.897683,
     "geom:longitude":-70.285034,
@@ -25,9 +25,6 @@
     "name:ast_x_preferred":[
         "Hornitos"
     ],
-    "name:baq_x_preferred":[
-        "Hornitos"
-    ],
     "name:bar_x_preferred":[
         "Hornitos"
     ],
@@ -37,10 +34,13 @@
     "name:cat_x_preferred":[
         "Hornitos"
     ],
+    "name:ces_x_preferred":[
+        "Hornitos"
+    ],
     "name:cos_x_preferred":[
         "Hornitos"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Hornitos"
     ],
     "name:dan_x_preferred":[
@@ -49,7 +49,7 @@
     "name:deu_x_preferred":[
         "Hornito"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Hornitos"
     ],
     "name:eng_x_preferred":[
@@ -58,22 +58,22 @@
     "name:est_x_preferred":[
         "Hornitos"
     ],
+    "name:eus_x_preferred":[
+        "Hornitos"
+    ],
     "name:fin_x_preferred":[
         "Hornitos"
     ],
     "name:fra_x_preferred":[
         "Hornito"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Hornitos"
     ],
     "name:frp_x_preferred":[
         "Hornitos"
     ],
     "name:fur_x_preferred":[
-        "Hornitos"
-    ],
-    "name:ger_x_preferred":[
         "Hornitos"
     ],
     "name:gla_x_preferred":[
@@ -91,9 +91,6 @@
     "name:hrv_x_preferred":[
         "Hornitos"
     ],
-    "name:ice_x_preferred":[
-        "Hornitos"
-    ],
     "name:ido_x_preferred":[
         "Hornitos"
     ],
@@ -108,6 +105,9 @@
     ],
     "name:isl_x_preferred":[
         "Hraunketill"
+    ],
+    "name:isl_x_variant":[
+        "Hornitos"
     ],
     "name:ita_x_preferred":[
         "Hornitos"
@@ -127,13 +127,13 @@
     "name:ltz_x_preferred":[
         "Hornitos"
     ],
-    "name:may_x_preferred":[
-        "Hornitos"
-    ],
     "name:min_x_preferred":[
         "Hornitos"
     ],
     "name:mlg_x_preferred":[
+        "Hornitos"
+    ],
+    "name:msa_x_preferred":[
         "Hornitos"
     ],
     "name:nap_x_preferred":[
@@ -144,6 +144,9 @@
     ],
     "name:nld_x_preferred":[
         "Hornito"
+    ],
+    "name:nld_x_variant":[
+        "Hornitos"
     ],
     "name:nno_x_preferred":[
         "Hornitos"
@@ -172,7 +175,7 @@
     "name:roh_x_preferred":[
         "Hornitos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hornitos"
     ],
     "name:scn_x_preferred":[
@@ -181,7 +184,7 @@
     "name:sco_x_preferred":[
         "Hornitos"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hornitos"
     ],
     "name:slv_x_preferred":[
@@ -215,9 +218,6 @@
         "Hornitos"
     ],
     "name:vol_x_preferred":[
-        "Hornitos"
-    ],
-    "name:wel_x_preferred":[
         "Hornitos"
     ],
     "name:wln_x_preferred":[
@@ -266,7 +266,7 @@
         }
     ],
     "wof:id":102017615,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1561749833,
     "wof:name":"Hornito",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

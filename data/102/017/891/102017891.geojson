@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":3133435.379651,
+    "geom:area_square_m":3133435.379649,
     "geom:bbox":"-69.437619642,-19.3253644078,-69.4185815167,-19.307290165",
     "geom:latitude":-19.316327,
     "geom:longitude":-69.428101,
@@ -19,19 +19,13 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0646\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Cami\u00f1a"
-    ],
     "name:cat_x_preferred":[
         "Cami\u00f1a"
     ],
     "name:ceb_x_preferred":[
         "Cami\u00f1a"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u7c73\u5c3c\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cami\u00f1a"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
         "Cami\u00f1a"
     ],
     "name:fra_x_preferred":[
-        "Cami\u00f1a"
-    ],
-    "name:fre_x_preferred":[
-        "Cami\u00f1a"
-    ],
-    "name:ger_x_preferred":[
         "Cami\u00f1a"
     ],
     "name:ita_x_preferred":[
@@ -73,7 +61,7 @@
     "name:roh_x_preferred":[
         "Cami\u00f1a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cami\u00f1a"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Cami\u00f1a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7c73\u5c3c\u4e9e"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Tarapaca",
@@ -132,7 +123,7 @@
         }
     ],
     "wof:id":102017891,
-    "wof:lastmodified":1527637780,
+    "wof:lastmodified":1561749834,
     "wof:name":"Cami\u00f1a",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

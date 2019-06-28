@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000592,
-    "geom:area_square_m":6244725.102306,
+    "geom:area_square_m":6244725.102313,
     "geom:bbox":"-71.5809508901,-31.4798523137,-71.4500623414,-31.3868320967",
     "geom:latitude":-31.433355,
     "geom:longitude":-71.515521,
@@ -22,22 +22,13 @@
     "name:bak_x_preferred":[
         "\u041a\u0430\u043d\u0435\u043b\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Canela"
-    ],
     "name:cat_x_preferred":[
         "Canela"
     ],
     "name:ceb_x_preferred":[
         "Canela Baja"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5167\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Canela"
-    ],
-    "name:dut_x_preferred":[
         "Canela"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +37,7 @@
     "name:eus_x_preferred":[
         "Canela"
     ],
-    "name:fre_x_preferred":[
-        "Canela"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Canela"
     ],
     "name:ita_x_preferred":[
@@ -80,9 +68,6 @@
         "Canela"
     ],
     "name:ron_x_preferred":[
-        "Canela"
-    ],
-    "name:rum_x_preferred":[
         "Canela"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +135,7 @@
         }
     ],
     "wof:id":102017885,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1561749832,
     "wof:name":"Canela Baja",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

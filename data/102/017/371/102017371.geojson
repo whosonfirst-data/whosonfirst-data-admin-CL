@@ -16,19 +16,10 @@
     "mps:longitude":-71.69439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Melipeuco"
-    ],
     "name:cat_x_preferred":[
         "Melipeuco"
     ],
     "name:ceb_x_preferred":[
-        "Melipeuco"
-    ],
-    "name:chi_x_preferred":[
-        "\u6885\u5229\u4f69\u70cf\u79d1"
-    ],
-    "name:dut_x_preferred":[
         "Melipeuco"
     ],
     "name:eng_x_preferred":[
@@ -37,7 +28,7 @@
     "name:eus_x_preferred":[
         "Melipeuco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Melipeuco"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +50,6 @@
         "Melipeuco"
     ],
     "name:ron_x_preferred":[
-        "Melipeuco"
-    ],
-    "name:rum_x_preferred":[
         "Melipeuco"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +116,7 @@
         }
     ],
     "wof:id":102017371,
-    "wof:lastmodified":1527637775,
+    "wof:lastmodified":1561749829,
     "wof:name":"Melipeuco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

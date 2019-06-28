@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
-    "geom:area_square_m":165612.188395,
+    "geom:area_square_m":165612.188394,
     "geom:bbox":"-71.6901591431,-33.4458440746,-71.6821708505,-33.4372706325",
     "geom:latitude":-33.441248,
     "geom:longitude":-71.686129,
@@ -19,10 +19,10 @@
     "name:ceb_x_preferred":[
         "Isla Negra"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Isla Negra"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Isla Negra"
     ],
     "name:por_x_preferred":[
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102018023,
-    "wof:lastmodified":1527637576,
+    "wof:lastmodified":1561749813,
     "wof:name":"Isla Negra",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

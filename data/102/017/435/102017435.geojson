@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00161,
-    "geom:area_square_m":15281458.493016,
+    "geom:area_square_m":15281458.493008,
     "geom:bbox":"-72.8283794954,-39.8829148594,-72.7782324831,-39.8290646385",
     "geom:latitude":-39.859013,
     "geom:longitude":-72.800454,
@@ -17,19 +17,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
-    "name:baq_x_preferred":[
-        "Los Lagos"
-    ],
     "name:cat_x_preferred":[
         "Los Lagos"
     ],
     "name:ceb_x_preferred":[
         "Los Lagos"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u65af\u62c9\u6208\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Los Lagos"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +35,7 @@
     "name:fas_x_preferred":[
         "\u0644\u0648\u0633 \u0644\u0627\u06af\u0648\u0633"
     ],
-    "name:fre_x_preferred":[
-        "Los Lagos"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Los Lagos"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
     "name:oci_x_preferred":[
         "Los Lagos"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0633 \u0644\u0627\u06af\u0648\u0633"
-    ],
     "name:pol_x_preferred":[
         "Los Lagos"
     ],
@@ -72,9 +60,6 @@
         "Los Lagos"
     ],
     "name:ron_x_preferred":[
-        "Los Lagos"
-    ],
-    "name:rum_x_preferred":[
         "Los Lagos"
     ],
     "name:rus_x_preferred":[
@@ -237,7 +222,7 @@
         }
     ],
     "wof:id":102017435,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749834,
     "wof:name":"Los Lagos",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001524,
-    "geom:area_square_m":15837921.650486,
+    "geom:area_square_m":15837921.650498,
     "geom:bbox":"-71.2515218232,-32.8565180101,-71.2081947132,-32.8070530367",
     "geom:latitude":-32.831402,
     "geom:longitude":-71.229425,
@@ -16,16 +16,10 @@
     "mps:longitude":-71.226843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "La Cruz"
-    ],
     "name:cat_x_preferred":[
         "La Cruz"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u514b\u9b6f\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Cruz"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +28,7 @@
     "name:eus_x_preferred":[
         "La Cruz"
     ],
-    "name:fre_x_preferred":[
-        "La Cruz"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "La Cruz"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +50,6 @@
         "La Cruz"
     ],
     "name:ron_x_preferred":[
-        "La Cruz"
-    ],
-    "name:rum_x_preferred":[
         "La Cruz"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":102017563,
-    "wof:lastmodified":1527637777,
+    "wof:lastmodified":1561749830,
     "wof:name":"La Cruz",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002002,
-    "geom:area_square_m":20430806.905035,
+    "geom:area_square_m":20430806.905036,
     "geom:bbox":"-71.6362348868,-34.4113861262,-71.5705575743,-34.3389621332",
     "geom:latitude":-34.377062,
     "geom:longitude":-71.601612,
@@ -22,13 +22,7 @@
     "name:bak_x_preferred":[
         "\u041c\u0430\u0440\u0447\u0438\u0443\u044d"
     ],
-    "name:baq_x_preferred":[
-        "Marchihue"
-    ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5947\u572d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Marchihue"
     ],
     "name:ell_x_preferred":[
@@ -40,14 +34,11 @@
     "name:eus_x_preferred":[
         "Marchig\u00fce"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_variant":[
         "Marchihue"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Marchihue"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03c4\u03c3\u03af\u03b3\u03bf\u03c5\u03b5"
     ],
     "name:ita_x_preferred":[
         "Marchig\u00fce"
@@ -64,13 +55,13 @@
     "name:nld_x_preferred":[
         "Marchig\u00fce"
     ],
+    "name:nld_x_variant":[
+        "Marchihue"
+    ],
     "name:por_x_preferred":[
         "Marchig\u00fce"
     ],
     "name:ron_x_preferred":[
-        "Marchig\u00fce"
-    ],
-    "name:rum_x_preferred":[
         "Marchig\u00fce"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +75,9 @@
     ],
     "name:unk_x_variant":[
         "Marchig\u00fce"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5947\u572d"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Libertador General Bernardo O'Higgins",
@@ -132,7 +126,7 @@
         }
     ],
     "wof:id":102017391,
-    "wof:lastmodified":1527637769,
+    "wof:lastmodified":1561749822,
     "wof:name":"Marchihue",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

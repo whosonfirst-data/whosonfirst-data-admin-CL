@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002337,
-    "geom:area_square_m":25594387.13975,
+    "geom:area_square_m":25594387.139748,
     "geom:bbox":"-70.31713231,-28.1633726721,-69.7694788587,-27.4261392641",
     "geom:latitude":-27.674704,
     "geom:longitude":-70.152858,
@@ -22,22 +22,13 @@
     "name:bak_x_preferred":[
         "\u0422\u044c\u0435\u0440\u0440\u0430-\u0410\u043c\u0430\u0440\u0438\u043b\u044c\u044f"
     ],
-    "name:baq_x_preferred":[
-        "Tierra Amarilla"
-    ],
-    "name:chi_x_preferred":[
-        "\u8482\u62c9\u963f\u99ac\u91cc\u5229\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Tierra Amarilla"
-    ],
     "name:eng_x_preferred":[
         "Tierra Amarilla"
     ],
     "name:eus_x_preferred":[
         "Tierra Amarilla"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tierra Amarilla"
     ],
     "name:glg_x_preferred":[
@@ -62,9 +53,6 @@
         "Tierra Amarilla"
     ],
     "name:ron_x_preferred":[
-        "Tierra Amarilla"
-    ],
-    "name:rum_x_preferred":[
         "Tierra Amarilla"
     ],
     "name:rus_x_preferred":[
@@ -221,7 +209,7 @@
         }
     ],
     "wof:id":102016877,
-    "wof:lastmodified":1527637599,
+    "wof:lastmodified":1561749821,
     "wof:name":"Tierra Amarilla",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

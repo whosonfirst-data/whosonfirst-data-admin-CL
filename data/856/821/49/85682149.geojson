@@ -28,14 +28,8 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0645\u0648\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0578\u0582\u056c\u0565"
-    ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0443\u043b\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Maule eskualdea"
     ],
     "name:bar_x_preferred":[
         "Regi\u00f3n del Maule"
@@ -55,17 +49,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 del Maule"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u4e4c\u83b1\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Region Maule"
     ],
     "name:dan_x_preferred":[
         "Maule-regionen"
     ],
-    "name:dut_x_preferred":[
-        "Maule"
+    "name:deu_x_preferred":[
+        "Regi\u00f3n del Maule"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Del Maule"
@@ -73,23 +67,20 @@
     "name:epo_x_preferred":[
         "Maule"
     ],
+    "name:eus_x_preferred":[
+        "Maule eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0645\u0627\u0626\u0648\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Maule"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion du Maule"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e3\u10da\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Regi\u00f3n del Maule"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Maule"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acc\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -103,6 +94,9 @@
     "name:hun_x_preferred":[
         "Maule r\u00e9gi\u00f3"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0578\u0582\u056c\u0565"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Maule"
     ],
@@ -114,6 +108,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb2\u0cc6 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e3\u10da\u10d4"
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uc6b8\ub808 \uc8fc"
@@ -133,7 +130,7 @@
     "name:mar_x_preferred":[
         "\u092e\u094c\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Maule Region"
     ],
     "name:mwl_x_preferred":[
@@ -145,14 +142,14 @@
     "name:nan_x_preferred":[
         "Maule"
     ],
+    "name:nld_x_preferred":[
+        "Maule"
+    ],
     "name:nob_x_preferred":[
         "Maule"
     ],
     "name:oci_x_preferred":[
         "Region del Maule"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0645\u0627\u0626\u0648\u0644\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u0624\u0644\u06d2 \u0631\u06cc\u062c\u0646"
@@ -169,7 +166,7 @@
     "name:roh_x_preferred":[
         "Regi\u00f3n del Maule"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Maule"
     ],
     "name:rus_x_preferred":[
@@ -181,7 +178,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dde\u0dbd\u0dda \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Maule"
     ],
     "name:spa_x_preferred":[
@@ -222,6 +219,9 @@
     ],
     "name:war_x_preferred":[
         "VII Rehiyon han Maule"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u4e4c\u83b1\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHL",
@@ -338,7 +338,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550725,
+    "wof:lastmodified":1561749859,
     "wof:name":"Del Maule",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

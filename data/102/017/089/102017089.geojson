@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":3117512.130278,
+    "geom:area_square_m":3117512.130279,
     "geom:bbox":"-72.1200909385,-37.6884746828,-72.0974385139,-37.6704709061",
     "geom:latitude":-37.679473,
     "geom:longitude":-72.108765,
@@ -16,19 +16,10 @@
     "mps:longitude":-72.108765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Quilaco"
-    ],
     "name:cat_x_preferred":[
         "Quilaco"
     ],
     "name:ceb_x_preferred":[
-        "Quilaco"
-    ],
-    "name:chi_x_preferred":[
-        "\u57fa\u62c9\u79d1"
-    ],
-    "name:dut_x_preferred":[
         "Quilaco"
     ],
     "name:eng_x_preferred":[
@@ -37,7 +28,7 @@
     "name:eus_x_preferred":[
         "Quilaco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Quilaco"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +50,6 @@
         "Quilaco"
     ],
     "name:ron_x_preferred":[
-        "Quilaco"
-    ],
-    "name:rum_x_preferred":[
         "Quilaco"
     ],
     "name:rus_x_preferred":[
@@ -130,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637778,
+    "wof:lastmodified":1561749831,
     "wof:name":"Quilaco",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00208,
-    "geom:area_square_m":23833900.422636,
+    "geom:area_square_m":23833900.42266,
     "geom:bbox":"-70.2288095203,-22.1226650161,-70.1737194272,-22.0613361599",
     "geom:latitude":-22.09257,
     "geom:longitude":-70.200184,
@@ -20,25 +20,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:baq_x_preferred":[
-        "Tocopilla"
-    ],
     "name:cat_x_preferred":[
         "Tocopilla"
     ],
     "name:ceb_x_preferred":[
         "Tocopilla"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u79d1\u76ae\u4e9a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tocopilla"
     ],
     "name:deu_x_preferred":[
-        "Tocopilla"
-    ],
-    "name:dut_x_preferred":[
         "Tocopilla"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u062a\u0648\u06a9\u0648\u067e\u06cc\u0644\u0627"
     ],
     "name:fra_x_preferred":[
-        "Tocopilla"
-    ],
-    "name:fre_x_preferred":[
-        "Tocopilla"
-    ],
-    "name:ger_x_preferred":[
         "Tocopilla"
     ],
     "name:glg_x_preferred":[
@@ -92,9 +77,6 @@
     "name:nor_x_preferred":[
         "Tocopilla"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u06a9\u0648\u067e\u06cc\u0644\u0627"
-    ],
     "name:pol_x_preferred":[
         "Tocopilla"
     ],
@@ -102,9 +84,6 @@
         "Tocopilla"
     ],
     "name:ron_x_preferred":[
-        "Tocopilla"
-    ],
-    "name:rum_x_preferred":[
         "Tocopilla"
     ],
     "name:rus_x_preferred":[
@@ -277,7 +256,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1553815716,
+    "wof:lastmodified":1561749819,
     "wof:name":"Tocopilla",
     "wof:parent_id":102063093,
     "wof:placetype":"locality",

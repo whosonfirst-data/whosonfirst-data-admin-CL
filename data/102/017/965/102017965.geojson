@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001419,
-    "geom:area_square_m":13481073.487548,
+    "geom:area_square_m":13481073.487553,
     "geom:bbox":"-72.9993427349,-39.8217598995,-72.9430361535,-39.7784291844",
     "geom:latitude":-39.797595,
     "geom:longitude":-72.969028,
@@ -22,10 +22,10 @@
     "name:ceb_x_preferred":[
         "Antilhue"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Antilhue"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Antilhue"
     ],
     "name:spa_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":102017965,
-    "wof:lastmodified":1527637770,
+    "wof:lastmodified":1561749822,
     "wof:name":"Antilhue",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

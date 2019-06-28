@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009817,
-    "geom:area_square_m":91152569.288722,
+    "geom:area_square_m":91152569.288711,
     "geom:bbox":"-73.0545445622,-41.409775832,-72.9098134279,-41.1820535654",
     "geom:latitude":-41.330665,
     "geom:longitude":-72.977694,
@@ -24,22 +24,13 @@
     "name:aze_x_preferred":[
         "Puerto Varas"
     ],
-    "name:baq_x_preferred":[
-        "Puerto Varas"
-    ],
     "name:cat_x_preferred":[
         "Puerto Varas"
     ],
     "name:ceb_x_preferred":[
         "Puerto Varas"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u65af\u6e2f"
-    ],
     "name:deu_x_preferred":[
-        "Puerto Varas"
-    ],
-    "name:dut_x_preferred":[
         "Puerto Varas"
     ],
     "name:eng_x_preferred":[
@@ -52,15 +43,6 @@
         "Puerto Varas"
     ],
     "name:fra_x_preferred":[
-        "Puerto Varas"
-    ],
-    "name:fre_x_preferred":[
-        "Puerto Varas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d5\u10d0\u10e0\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Puerto Varas"
     ],
     "name:glg_x_preferred":[
@@ -78,6 +60,9 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30a8\u30eb\u30c8\u30fb\u30d0\u30e9\u30b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d5\u10d0\u10e0\u10d0\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud478\uc5d0\ub974\ud1a0\ubc14\ub77c\uc2a4"
     ],
@@ -87,7 +72,7 @@
     "name:lit_x_preferred":[
         "Puerto Varasas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e \u0412\u0430\u0440\u0430\u0441"
     ],
     "name:nan_x_preferred":[
@@ -121,9 +106,6 @@
         "Puerto Varas"
     ],
     "name:ron_x_preferred":[
-        "Puerto Varas"
-    ],
-    "name:rum_x_preferred":[
         "Puerto Varas"
     ],
     "name:rus_x_preferred":[
@@ -296,7 +278,7 @@
         }
     ],
     "wof:id":102017135,
-    "wof:lastmodified":1527637769,
+    "wof:lastmodified":1561749822,
     "wof:name":"Puerto Varas",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

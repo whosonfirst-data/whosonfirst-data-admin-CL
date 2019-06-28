@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003374,
-    "geom:area_square_m":34321436.340899,
+    "geom:area_square_m":34321436.340886,
     "geom:bbox":"-71.2407620765,-34.6919219676,-71.1530337959,-34.628716009",
     "geom:latitude":-34.659143,
     "geom:longitude":-71.194521,
@@ -19,19 +19,10 @@
     "name:bak_x_preferred":[
         "\u041d\u0430\u043d\u043a\u0430\u0433\u0443\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Nancagua"
-    ],
     "name:cat_x_preferred":[
         "Nancagua"
     ],
     "name:ceb_x_preferred":[
-        "Nancagua"
-    ],
-    "name:chi_x_preferred":[
-        "\u5357\u5361\u74dc"
-    ],
-    "name:dut_x_preferred":[
         "Nancagua"
     ],
     "name:eng_x_preferred":[
@@ -40,7 +31,7 @@
     "name:eus_x_preferred":[
         "Nancagua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nancagua"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
         "Nancagua"
     ],
     "name:ron_x_preferred":[
-        "Nancagua"
-    ],
-    "name:rum_x_preferred":[
         "Nancagua"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":102017345,
-    "wof:lastmodified":1527637781,
+    "wof:lastmodified":1561749835,
     "wof:name":"Nancagua",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

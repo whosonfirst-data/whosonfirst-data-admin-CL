@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004249,
-    "geom:area_square_m":43739967.281154,
+    "geom:area_square_m":43739967.281134,
     "geom:bbox":"-70.5045480452,-33.710509591,-70.3181913485,-33.5644213535",
     "geom:latitude":-33.632398,
     "geom:longitude":-70.384484,
@@ -18,16 +18,7 @@
     "mps:longitude":-70.353472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "San Jos\u00e9 de Maipo"
-    ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f55\u585e\u5fb7\u9081\u6ce2"
-    ],
     "name:deu_x_preferred":[
-        "San Jos\u00e9 de Maipo"
-    ],
-    "name:dut_x_preferred":[
         "San Jos\u00e9 de Maipo"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +27,7 @@
     "name:eus_x_preferred":[
         "San Jos\u00e9 de Maipo"
     ],
-    "name:fre_x_preferred":[
-        "San Jos\u00e9 de Maipo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San Jos\u00e9 de Maipo"
     ],
     "name:ita_x_preferred":[
@@ -58,9 +46,6 @@
         "San Jos\u00e9 de Maipo"
     ],
     "name:ron_x_preferred":[
-        "San Jos\u00e9 de Maipo"
-    ],
-    "name:rum_x_preferred":[
         "San Jos\u00e9 de Maipo"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637598,
+    "wof:lastmodified":1561749820,
     "wof:name":"San Jos\u00e9 de Maipo",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00285,
-    "geom:area_square_m":29122911.60347,
+    "geom:area_square_m":29122911.603479,
     "geom:bbox":"-70.8671824524,-34.3046710923,-70.7795490787,-34.2376437487",
     "geom:latitude":-34.273319,
     "geom:longitude":-70.821697,
@@ -22,16 +22,7 @@
     "name:bak_x_preferred":[
         "\u0420\u0435\u043a\u0438\u043d\u043e\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Requ\u00ednoa"
-    ],
     "name:cat_x_preferred":[
-        "Requ\u00ednoa"
-    ],
-    "name:chi_x_preferred":[
-        "\u96f7\u57fa\u8afe\u963f"
-    ],
-    "name:dut_x_preferred":[
         "Requ\u00ednoa"
     ],
     "name:eng_x_preferred":[
@@ -40,7 +31,7 @@
     "name:eus_x_preferred":[
         "Requ\u00ednoa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Requ\u00ednoa"
     ],
     "name:ita_x_preferred":[
@@ -64,9 +55,6 @@
     "name:ron_x_preferred":[
         "Requ\u00ednoa"
     ],
-    "name:rum_x_preferred":[
-        "Requ\u00ednoa"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u043a\u0438\u043d\u043e\u0430"
     ],
@@ -75,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Requ\u00ednoa"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u57fa\u8afe\u963f"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Libertador General Bernardo O'Higgins",
@@ -123,7 +114,7 @@
         }
     ],
     "wof:id":102017031,
-    "wof:lastmodified":1527637773,
+    "wof:lastmodified":1561749827,
     "wof:name":"Requ\u00ednoa",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

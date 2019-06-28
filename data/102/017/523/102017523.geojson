@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001175,
-    "geom:area_square_m":11573831.058253,
+    "geom:area_square_m":11573831.05826,
     "geom:bbox":"-73.2019042969,-37.1865785952,-73.1631809407,-37.1381722927",
     "geom:latitude":-37.161783,
     "geom:longitude":-73.182396,
@@ -16,14 +16,14 @@
     "mps:longitude":-73.177212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Laraquete"
-    ],
     "name:eng_x_preferred":[
         "Laraquetoski"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30e9\u30b1\u30c6"
+    ],
+    "name:nld_x_preferred":[
+        "Laraquete"
     ],
     "name:spa_x_preferred":[
         "Laraquete"
@@ -79,7 +79,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637782,
+    "wof:lastmodified":1561749836,
     "wof:name":"Laraquete",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

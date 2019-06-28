@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004829,
-    "geom:area_square_m":50047520.768896,
+    "geom:area_square_m":50047520.768914,
     "geom:bbox":"-71.4920741238,-33.0890475307,-71.3940194761,-33.0187513751",
     "geom:latitude":-33.050074,
     "geom:longitude":-71.440025,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u0628\u0648\u064a\u0647"
     ],
-    "name:baq_x_preferred":[
-        "Quilpu\u00e9"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b2\u09aa\u09c1\u09af\u09bc\u09c7"
     ],
@@ -32,17 +29,14 @@
     "name:ceb_x_preferred":[
         "Quilpu\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u723e\u666e\u57c3"
-    ],
     "name:dan_x_preferred":[
         "Quilpu\u00e9"
     ],
     "name:deu_x_preferred":[
         "Quilpu\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Quilpu\u00e9"
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bb\u03c0\u03bf\u03cd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Quilpu\u00e9"
@@ -58,15 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Quilpu\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Quilpu\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Quilpu\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03bb\u03c0\u03bf\u03cd\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0abf\u0ab2\u0acd\u0aaa\u0ac1"
@@ -98,10 +83,13 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u0935\u093f\u0932\u094d\u092a\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Quilpue"
     ],
     "name:nan_x_preferred":[
+        "Quilpu\u00e9"
+    ],
+    "name:nld_x_preferred":[
         "Quilpu\u00e9"
     ],
     "name:nob_x_preferred":[
@@ -116,7 +104,7 @@
     "name:por_x_preferred":[
         "Quilpu\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Quilpu\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -219,7 +207,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637778,
+    "wof:lastmodified":1561749832,
     "wof:name":"Quilpu\u00e9",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

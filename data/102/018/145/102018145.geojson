@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003362,
-    "geom:area_square_m":33984461.144833,
+    "geom:area_square_m":33984461.144852,
     "geom:bbox":"-71.9988982865,-35.3039567222,-71.6583540764,-34.9985030816",
     "geom:latitude":-35.175256,
     "geom:longitude":-71.894891,
@@ -19,28 +19,25 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0648\u0631\u064a\u0628\u062a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Curepto"
-    ],
     "name:cat_x_preferred":[
         "Curepto"
-    ],
-    "name:chi_x_preferred":[
-        "\u5eab\u96f7\u666e\u6258"
     ],
     "name:dan_x_preferred":[
         "Curepto"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Curepto"
     ],
     "name:eng_x_preferred":[
         "Curepto"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Curepto"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0648\u0631\u067e\u062a\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Curepto"
     ],
     "name:ita_x_preferred":[
@@ -55,16 +52,16 @@
     "name:nan_x_preferred":[
         "Curepto"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Curepto"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0648\u0631\u067e\u062a\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    "name:oci_x_preferred":[
+        "Curepto"
     ],
     "name:por_x_preferred":[
         "Curepto"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Curepto"
     ],
     "name:rus_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Curepto"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u96f7\u666e\u6258"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":102018145,
-    "wof:lastmodified":1527637578,
+    "wof:lastmodified":1561749814,
     "wof:name":"Curepto",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

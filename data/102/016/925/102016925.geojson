@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007523,
-    "geom:area_square_m":76531148.79997,
+    "geom:area_square_m":76531148.800014,
     "geom:bbox":"-71.4165419642,-34.6828867311,-71.2519126602,-34.5699063809",
     "geom:latitude":-34.638284,
     "geom:longitude":-71.342417,
@@ -25,19 +25,10 @@
     "name:bak_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
-    "name:baq_x_preferred":[
-        "Santa Cruz"
-    ],
     "name:ceb_x_preferred":[
         "Santa Cruz"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u514b\u9b6f\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Santa Cruz"
-    ],
-    "name:dut_x_preferred":[
         "Santa Cruz"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +37,7 @@
     "name:eus_x_preferred":[
         "Santa Cruz"
     ],
-    "name:fre_x_preferred":[
-        "Santa Cruz"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Cruz"
     ],
     "name:ita_x_preferred":[
@@ -71,9 +59,6 @@
         "Santa Cruz"
     ],
     "name:ron_x_preferred":[
-        "Santa Cruz"
-    ],
-    "name:rum_x_preferred":[
         "Santa Cruz"
     ],
     "name:rus_x_preferred":[
@@ -142,7 +127,7 @@
         }
     ],
     "wof:id":102016925,
-    "wof:lastmodified":1553815716,
+    "wof:lastmodified":1561749820,
     "wof:name":"Santa Cruz",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

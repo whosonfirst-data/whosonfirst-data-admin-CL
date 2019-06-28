@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000928,
-    "geom:area_square_m":9576259.597415,
+    "geom:area_square_m":9576259.597409,
     "geom:bbox":"-70.7574462891,-33.4131022137,-70.6805419922,-33.3901725623",
     "geom:latitude":-33.40288,
     "geom:longitude":-70.723491,
@@ -16,19 +16,10 @@
     "mps:longitude":-70.740916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Renca"
-    ],
     "name:cat_x_preferred":[
         "Renca"
     ],
     "name:ceb_x_preferred":[
-        "Renca"
-    ],
-    "name:chi_x_preferred":[
-        "\u502b\u5361"
-    ],
-    "name:dut_x_preferred":[
         "Renca"
     ],
     "name:eng_x_preferred":[
@@ -37,7 +28,7 @@
     "name:eus_x_preferred":[
         "Renca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Renca"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +50,6 @@
         "Renca"
     ],
     "name:ron_x_preferred":[
-        "Renca"
-    ],
-    "name:rum_x_preferred":[
         "Renca"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637780,
+    "wof:lastmodified":1561749833,
     "wof:name":"Renca",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

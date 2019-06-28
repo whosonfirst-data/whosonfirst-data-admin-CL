@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001157,
-    "geom:area_square_m":11121515.872315,
+    "geom:area_square_m":11121515.872313,
     "geom:bbox":"-73.1090759454,-39.0089821305,-73.0310654157,-38.963215683",
     "geom:latitude":-38.988909,
     "geom:longitude":-73.075154,
@@ -18,16 +18,7 @@
     "mps:longitude":-73.086397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Teodoro Schmidt"
-    ],
-    "name:chi_x_preferred":[
-        "\u7279\u5967\u591a\u7f85\u65bd\u7c73\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Teodoro Schmidt"
-    ],
-    "name:dut_x_preferred":[
         "Teodoro Schmidt"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +27,7 @@
     "name:eus_x_preferred":[
         "Teodoro Schmidt"
     ],
-    "name:fre_x_preferred":[
-        "Teodoro Schmidt"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Teodoro Schmidt"
     ],
     "name:ita_x_preferred":[
@@ -61,9 +49,6 @@
         "Teodoro Schmidt"
     ],
     "name:ron_x_preferred":[
-        "Teodoro Schmidt"
-    ],
-    "name:rum_x_preferred":[
         "Teodoro Schmidt"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":102016879,
-    "wof:lastmodified":1527637599,
+    "wof:lastmodified":1561749820,
     "wof:name":"Teodoro Schmidt",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

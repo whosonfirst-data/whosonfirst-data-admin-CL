@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003514,
-    "geom:area_square_m":32937999.955577,
+    "geom:area_square_m":32937999.955567,
     "geom:bbox":"-72.6259597269,-40.7271193582,-72.3139186472,-40.667471071",
     "geom:latitude":-40.699496,
     "geom:longitude":-72.495747,
@@ -20,19 +20,13 @@
     "name:arn_x_preferred":[
         "Puyewe"
     ],
-    "name:baq_x_preferred":[
-        "Puyehue"
-    ],
     "name:cat_x_preferred":[
         "Puyehue"
     ],
     "name:ceb_x_preferred":[
         "Puyehue"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u8036\u97cb"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puyehue"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "Puyehue"
     ],
     "name:fra_x_preferred":[
-        "Puyehue"
-    ],
-    "name:fre_x_preferred":[
-        "Puyehue"
-    ],
-    "name:ger_x_preferred":[
         "Puyehue"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +60,6 @@
         "Puyehue"
     ],
     "name:ron_x_preferred":[
-        "Puyehue"
-    ],
-    "name:rum_x_preferred":[
         "Puyehue"
     ],
     "name:rus_x_preferred":[
@@ -143,7 +128,7 @@
         }
     ],
     "wof:id":102017103,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749822,
     "wof:name":"Puyehue",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

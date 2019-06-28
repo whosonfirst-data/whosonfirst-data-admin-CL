@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002292,
-    "geom:area_square_m":22426830.560811,
+    "geom:area_square_m":22426830.560816,
     "geom:bbox":"-72.6254666357,-37.7145587976,-72.5671007005,-37.6356789858",
     "geom:latitude":-37.676096,
     "geom:longitude":-72.596082,
@@ -19,16 +19,7 @@
     "name:arn_x_preferred":[
         "Renaico"
     ],
-    "name:baq_x_preferred":[
-        "Renaico"
-    ],
     "name:cat_x_preferred":[
-        "Renaico"
-    ],
-    "name:chi_x_preferred":[
-        "\u96f7\u5948\u79d1"
-    ],
-    "name:dut_x_preferred":[
         "Renaico"
     ],
     "name:eng_x_preferred":[
@@ -37,7 +28,7 @@
     "name:eus_x_preferred":[
         "Renaico"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Renaico"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
         "Renaico"
     ],
     "name:ron_x_preferred":[
-        "Renaico"
-    ],
-    "name:rum_x_preferred":[
         "Renaico"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":102017037,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1561749828,
     "wof:name":"Renaico",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

@@ -32,17 +32,8 @@
     "mps:longitude":-69.0402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0549\u0561\u0576\u0575\u0561\u0580\u0561\u056c"
-    ],
     "name:bak_x_preferred":[
         "\u0427\u0430\u043d\u044c\u044f\u0440\u0430\u043b\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u67e5\u5c3c\u4e9e\u62c9\u723e\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Cha\u00f1aral"
     ],
     "name:eng_x_preferred":[
         "Cha\u00f1aral"
@@ -52,17 +43,20 @@
         "Cha\u00f1aral",
         "Cha\u00f1aral Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Cha\u00f1aral"
     ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10dc\u10d8\u10d0\u10e0\u10d0\u10da\u10d8"
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0576\u0575\u0561\u0580\u0561\u056c"
     ],
     "name:ita_x_preferred":[
         "Provincia di Cha\u00f1aral"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30cb\u30e3\u30e9\u30eb\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10d8\u10d0\u10e0\u10d0\u10da\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ucc28\ub0d0\ub784 \ud604"
@@ -71,6 +65,9 @@
         "\u010canjaralio provincija"
     ],
     "name:nan_x_preferred":[
+        "Cha\u00f1aral"
+    ],
+    "name:nld_x_preferred":[
         "Cha\u00f1aral"
     ],
     "name:nob_x_preferred":[
@@ -82,7 +79,7 @@
     "name:que_x_preferred":[
         "Cha\u00f1aral pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Cha\u00f1aral"
     ],
     "name:rus_x_preferred":[
@@ -102,6 +99,9 @@
     ],
     "name:war_x_preferred":[
         "Cha\u00f1aral"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u5c3c\u4e9e\u62c9\u723e\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DE ATACAMA",
@@ -149,7 +149,7 @@
         }
     ],
     "wof:id":102063133,
-    "wof:lastmodified":1554488625,
+    "wof:lastmodified":1561749751,
     "wof:name":"Cha\u00f1aral",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

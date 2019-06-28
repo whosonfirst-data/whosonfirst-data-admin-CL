@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003313,
-    "geom:area_square_m":31841328.69897,
+    "geom:area_square_m":31841328.698977,
     "geom:bbox":"-72.6696223191,-39.0239193813,-72.5916129035,-38.9546763108",
     "geom:latitude":-38.987761,
     "geom:longitude":-72.632051,
@@ -20,22 +20,13 @@
     "name:arn_x_preferred":[
         "Pitrufqu\u00e9n"
     ],
-    "name:baq_x_preferred":[
-        "Pitrufqu\u00e9n"
-    ],
     "name:cat_x_preferred":[
         "Pitrufqu\u00e9n"
     ],
     "name:ceb_x_preferred":[
         "Pitrufqu\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u7279\u9b6f\u592b\u80af"
-    ],
     "name:deu_x_preferred":[
-        "Pitrufqu\u00e9n"
-    ],
-    "name:dut_x_preferred":[
         "Pitrufqu\u00e9n"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +35,7 @@
     "name:eus_x_preferred":[
         "Pitrufqu\u00e9n"
     ],
-    "name:fre_x_preferred":[
-        "Pitrufqu\u00e9n"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pitrufqu\u00e9n"
     ],
     "name:ita_x_preferred":[
@@ -74,9 +62,6 @@
     "name:ron_x_preferred":[
         "Pitrufqu\u00e9n"
     ],
-    "name:rum_x_preferred":[
-        "Pitrufqu\u00e9n"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0442\u0440\u0443\u0444\u043a\u0435\u043d"
     ],
@@ -85,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Pitrufqu\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u7279\u9b6f\u592b\u80af"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Araucania",
@@ -134,7 +122,7 @@
         }
     ],
     "wof:id":102017197,
-    "wof:lastmodified":1527637777,
+    "wof:lastmodified":1561749831,
     "wof:name":"Pitrufqu\u00e9n",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

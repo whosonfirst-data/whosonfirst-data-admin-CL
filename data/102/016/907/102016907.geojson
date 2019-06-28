@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003373,
-    "geom:area_square_m":38411404.672686,
+    "geom:area_square_m":38411404.67267,
     "geom:bbox":"-69.3499599435,-23.0432759422,-69.0667777735,-22.8532228428",
     "geom:latitude":-22.944949,
     "geom:longitude":-69.198844,
@@ -18,16 +18,7 @@
     "mps:longitude":-69.310601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Sierra Gorda"
-    ],
     "name:ceb_x_preferred":[
-        "Sierra Gorda"
-    ],
-    "name:chi_x_preferred":[
-        "\u8b1d\u62c9\u6208\u9054"
-    ],
-    "name:dut_x_preferred":[
         "Sierra Gorda"
     ],
     "name:eng_x_preferred":[
@@ -39,7 +30,7 @@
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0631\u0627 \u06af\u0648\u0631\u062f\u0627"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sierra Gorda"
     ],
     "name:ita_x_preferred":[
@@ -54,16 +45,10 @@
     "name:nld_x_preferred":[
         "Sierra Gorda"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0631\u0627 \u06af\u0648\u0631\u062f\u0627"
-    ],
     "name:por_x_preferred":[
         "Sierra Gorda"
     ],
     "name:ron_x_preferred":[
-        "Sierra Gorda"
-    ],
-    "name:rum_x_preferred":[
         "Sierra Gorda"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637594,
+    "wof:lastmodified":1561749818,
     "wof:name":"Sierra Gorda",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

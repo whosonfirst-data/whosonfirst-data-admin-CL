@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005981,
-    "geom:area_square_m":57237683.185193,
+    "geom:area_square_m":57237683.185154,
     "geom:bbox":"-72.2631691458,-39.3560425521,-72.1521108828,-39.2445240828",
     "geom:latitude":-39.296608,
     "geom:longitude":-72.21436,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0643\u0627\u0646 \u0641\u064a\u0644\u0627\u0631\u064a\u0643\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Villarrica"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u043b\u044c\u044f\u0440\u044b\u043a\u0430"
     ],
@@ -38,16 +35,7 @@
     "name:ces_x_preferred":[
         "Villarrica"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u4e9e\u91cc\u5361"
-    ],
-    "name:cze_x_preferred":[
-        "Villarrica"
-    ],
     "name:deu_x_preferred":[
-        "Villarrica"
-    ],
-    "name:dut_x_preferred":[
         "Villarrica"
     ],
     "name:eng_x_preferred":[
@@ -62,16 +50,7 @@
     "name:fra_x_preferred":[
         "Villarrica"
     ],
-    "name:fre_x_preferred":[
-        "Villarrica"
-    ],
-    "name:ger_x_preferred":[
-        "Villarrica"
-    ],
     "name:glg_x_preferred":[
-        "Villarrica"
-    ],
-    "name:ice_x_preferred":[
         "Villarrica"
     ],
     "name:isl_x_preferred":[
@@ -98,9 +77,6 @@
     "name:oci_x_preferred":[
         "Villarrica"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0644\u0627\u0631\u06cc\u06a9\u0627"
-    ],
     "name:pms_x_preferred":[
         "Villarrica"
     ],
@@ -114,9 +90,6 @@
         "Villarrica"
     ],
     "name:ron_x_preferred":[
-        "Villarrica"
-    ],
-    "name:rum_x_preferred":[
         "Villarrica"
     ],
     "name:rus_x_preferred":[
@@ -280,7 +253,7 @@
         }
     ],
     "wof:id":102016805,
-    "wof:lastmodified":1553815716,
+    "wof:lastmodified":1561749819,
     "wof:name":"Villarrica",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

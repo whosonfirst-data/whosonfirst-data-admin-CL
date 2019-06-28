@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":3123718.423518,
+    "geom:area_square_m":3123718.423512,
     "geom:bbox":"-70.647339001,-33.3533120785,-70.6258542833,-33.335279704",
     "geom:latitude":-33.344296,
     "geom:longitude":-70.636597,
@@ -29,9 +29,6 @@
     "name:aym_x_preferred":[
         "Las Condes"
     ],
-    "name:baq_x_preferred":[
-        "Las Condes"
-    ],
     "name:cat_x_preferred":[
         "Las Condes"
     ],
@@ -41,13 +38,7 @@
     "name:ceb_x_preferred":[
         "Las Condes"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u5b54\u5fb7\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Las Condes"
-    ],
-    "name:dut_x_preferred":[
         "Las Condes"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "Las Condes"
     ],
     "name:fra_x_preferred":[
-        "Las Condes"
-    ],
-    "name:fre_x_preferred":[
-        "Las Condes"
-    ],
-    "name:ger_x_preferred":[
         "Las Condes"
     ],
     "name:glg_x_preferred":[
@@ -117,9 +102,6 @@
         "Las Condes"
     ],
     "name:ron_x_preferred":[
-        "Las Condes"
-    ],
-    "name:rum_x_preferred":[
         "Las Condes"
     ],
     "name:rus_x_preferred":[
@@ -203,7 +185,7 @@
         }
     ],
     "wof:id":102017517,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1561749828,
     "wof:name":"Las Condes",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

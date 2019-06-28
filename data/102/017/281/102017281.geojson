@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007034,
-    "geom:area_square_m":72248736.187548,
+    "geom:area_square_m":72248736.187531,
     "geom:bbox":"-70.7792356226,-33.9222240641,-70.6587566069,-33.773721126",
     "geom:latitude":-33.828036,
     "geom:longitude":-70.728645,
@@ -17,22 +17,13 @@
     "mps:longitude":-70.730303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Paine"
-    ],
     "name:cat_x_preferred":[
         "Paine"
     ],
     "name:ceb_x_preferred":[
         "Paine"
     ],
-    "name:chi_x_preferred":[
-        "\u6d3e\u5167"
-    ],
     "name:deu_x_preferred":[
-        "Paine"
-    ],
-    "name:dut_x_preferred":[
         "Paine"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +32,7 @@
     "name:eus_x_preferred":[
         "Paine"
     ],
-    "name:fre_x_preferred":[
-        "Paine"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Paine"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +54,6 @@
         "Paine"
     ],
     "name:ron_x_preferred":[
-        "Paine"
-    ],
-    "name:rum_x_preferred":[
         "Paine"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +125,7 @@
         }
     ],
     "wof:id":102017281,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749826,
     "wof:name":"Paine",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

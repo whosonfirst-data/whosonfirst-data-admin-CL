@@ -33,9 +33,6 @@
     "mps:longitude":-72.964095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Concepci\u00f3n"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u062b\u0628\u062b\u064a\u0648\u0646"
     ],
@@ -45,9 +42,6 @@
     "name:arg_x_preferred":[
         "Provincia de Concepci\u00f3n"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0576\u057d\u0565\u057a\u057d\u056b\u0578\u0576"
-    ],
     "name:ast_x_preferred":[
         "Provincia de Concepci\u00f3n"
     ],
@@ -56,9 +50,6 @@
     ],
     "name:aze_x_preferred":[
         "Konsepsion vilay\u0259ti"
-    ],
-    "name:baq_x_preferred":[
-        "Concepci\u00f3n probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0430\u043d\u0441\u044d\u043f\u0441\u044c\u0451\u043d"
@@ -75,26 +66,29 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Concepci\u00f3n"
     ],
+    "name:ces_x_preferred":[
+        "Provincie Concepci\u00f3n"
+    ],
     "name:cha_x_preferred":[
         "Probensia Concepci\u00f3n"
-    ],
-    "name:chi_x_preferred":[
-        "\u5eb7\u8cfd\u666e\u897f\u7fc1\u7701"
     ],
     "name:cos_x_preferred":[
         "Pruvincia di Concepci\u00f3n"
     ],
-    "name:cze_x_preferred":[
-        "Provincie Concepci\u00f3n"
+    "name:cym_x_preferred":[
+        "Talaith Concepci\u00f3n"
     ],
     "name:dan_x_preferred":[
         "Concepci\u00f3n"
     ],
+    "name:deu_x_preferred":[
+        "Provinz Concepci\u00f3n"
+    ],
     "name:diq_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Concepci\u00f3n"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039a\u03bf\u03bd\u03c3\u03b5\u03c0\u03c3\u03b9\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Concepci\u00f3n"
@@ -110,29 +104,26 @@
     "name:est_x_preferred":[
         "Concepci\u00f3ni provints"
     ],
+    "name:eus_x_preferred":[
+        "Concepci\u00f3n probintzia"
+    ],
     "name:ext_x_preferred":[
         "Prov\u00edncia de Concepci\u00f3n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0646\u0633\u067e\u0633\u06cc\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Concepci\u00f3nin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Concepci\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10e1\u10d4\u10e4\u10e1\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Concepci\u00f3n"
     ],
     "name:gle_x_preferred":[
         "C\u00faige Concepci\u00f3n"
     ],
     "name:glg_x_preferred":[
         "Provincia de Concepci\u00f3n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039a\u03bf\u03bd\u03c3\u03b5\u03c0\u03c3\u03b9\u03cc\u03bd"
     ],
     "name:hat_x_preferred":[
         "Concepci\u00f3n"
@@ -142,6 +133,9 @@
     ],
     "name:hun_x_preferred":[
         "Concepci\u00f3n tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0576\u057d\u0565\u057a\u057d\u056b\u0578\u0576"
     ],
     "name:ido_x_preferred":[
         "Provinco di Concepci\u00f3n"
@@ -160,6 +154,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30f3\u30bb\u30d7\u30b7\u30aa\u30f3\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10e1\u10d4\u10e4\u10e1\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ucf58\uc149\uc2dc\uc628 \ud604"
@@ -185,14 +182,14 @@
     "name:ltz_x_preferred":[
         "Prov\u00ebnz Concepci\u00f3n"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u0438\u043e\u043d"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Concepci\u00f3n"
     ],
     "name:mlt_x_preferred":[
         "Provin\u010bja ta' Concepci\u00f3n"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Concepci\u00f3n"
     ],
     "name:mwl_x_preferred":[
         "Concepci\u00f3n"
@@ -205,6 +202,9 @@
     ],
     "name:nds_x_preferred":[
         "Provinz Concepci\u00f3n"
+    ],
+    "name:nld_x_preferred":[
+        "Concepci\u00f3n"
     ],
     "name:nob_x_preferred":[
         "Provincia de Concepci\u00f3n"
@@ -221,9 +221,6 @@
     "name:pdc_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0646\u0633\u067e\u0633\u06cc\u0648\u0646"
-    ],
     "name:pms_x_preferred":[
         "Concepci\u00f3n"
     ],
@@ -239,7 +236,7 @@
     "name:roh_x_preferred":[
         "Provinza da Concepci\u00f3n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Concepci\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -251,13 +248,16 @@
     "name:sgs_x_preferred":[
         "Konsepsjuona provinc\u0117j\u0117"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Provincia Concepci\u00f3n"
     ],
     "name:slv_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:spa_x_preferred":[
+        "Concepci\u00f3n"
+    ],
+    "name:sqi_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:srp_x_preferred":[
@@ -296,9 +296,6 @@
     "name:war_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:wel_x_preferred":[
-        "Talaith Concepci\u00f3n"
-    ],
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10dc\u10e1\u10d4\u10de\u10e1\u10d8\u10dd\u10dc\u10d8"
     ],
@@ -307,6 +304,9 @@
     ],
     "name:zea_x_preferred":[
         "Concepci\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eb7\u8cfd\u666e\u897f\u7fc1\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DEL BIO-BIO",
@@ -368,7 +368,7 @@
         }
     ],
     "wof:id":102063171,
-    "wof:lastmodified":1555038996,
+    "wof:lastmodified":1561749809,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

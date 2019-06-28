@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008891,
-    "geom:area_square_m":89634989.356633,
+    "geom:area_square_m":89634989.35657,
     "geom:bbox":"-72.526273556,-35.5009917371,-72.3064992805,-35.2769771771",
     "geom:latitude":-35.383087,
     "geom:longitude":-72.417043,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0633\u062a\u064a\u062a\u0633\u064a\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Constituci\u00f3n"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09a8\u09cd\u09b8\u099f\u09bf\u099f\u09bf\u0989\u09b6\u09a8"
     ],
@@ -33,8 +30,8 @@
     "name:ceb_x_preferred":[
         "Constituci\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u65af\u8482\u5716\u897f\u7fc1"
+    "name:cym_x_preferred":[
+        "Constituci\u00f3n"
     ],
     "name:dan_x_preferred":[
         "Constituci\u00f3n"
@@ -42,8 +39,8 @@
     "name:deu_x_preferred":[
         "Constituci\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Constituci\u00f3n"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03c3\u03c4\u03b9\u03c4\u03bf\u03c5\u03c3\u03b9\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Constituci\u00f3n"
@@ -59,15 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Constituci\u00f3n"
-    ],
-    "name:fre_x_preferred":[
-        "Constituci\u00f3n"
-    ],
-    "name:ger_x_preferred":[
-        "Constituci\u00f3n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bd\u03c3\u03c4\u03b9\u03c4\u03bf\u03c5\u03c3\u03b9\u03cc\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aa8\u0acd\u0ab8\u0acd\u0a9f\u0abf\u0a9f\u0acd\u0aaf\u0ac1\u0ab8\u0abf\u0a93\u0aa8"
@@ -102,10 +90,13 @@
     "name:mar_x_preferred":[
         "\u0915\u0949\u0928\u094d\u0938\u094d\u091f\u093f\u091f\u093f\u091c\u093f\u092f\u094b\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Constitucion"
     ],
     "name:nan_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:nld_x_preferred":[
         "Constituci\u00f3n"
     ],
     "name:nob_x_preferred":[
@@ -114,16 +105,13 @@
     "name:oci_x_preferred":[
         "Constituci\u00f3n"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0646\u0633\u062a\u06cc\u062a\u0633\u06cc\u0648\u0646\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Constituci\u00f3n"
     ],
     "name:por_x_preferred":[
         "Constituci\u00f3n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Constituci\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -164,9 +152,6 @@
     ],
     "name:vie_x_preferred":[
         "Constitucion"
-    ],
-    "name:wel_x_preferred":[
-        "Constituci\u00f3n"
     ],
     "name:zho_x_preferred":[
         "\u5b54\u65af\u8482\u5716\u897f\u7fc1"
@@ -311,7 +296,7 @@
         }
     ],
     "wof:id":102017755,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749822,
     "wof:name":"Constituci\u00f3n",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

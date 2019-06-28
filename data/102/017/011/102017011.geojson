@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000702,
-    "geom:area_square_m":6574411.410364,
+    "geom:area_square_m":6574411.410368,
     "geom:bbox":"-73.2302329663,-40.8103398079,-73.1955499427,-40.7819351809",
     "geom:latitude":-40.795613,
     "geom:longitude":-73.214091,
@@ -20,16 +20,7 @@
     "mps:longitude":-73.215493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "R\u00edo Negro"
-    ],
-    "name:chi_x_preferred":[
-        "\u91cc\u5967\u5167\u683c\u7f85"
-    ],
     "name:deu_x_preferred":[
-        "R\u00edo Negro"
-    ],
-    "name:dut_x_preferred":[
         "R\u00edo Negro"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "R\u00edo Negro"
     ],
     "name:fra_x_preferred":[
-        "R\u00edo Negro"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00edo Negro"
-    ],
-    "name:ger_x_preferred":[
         "R\u00edo Negro"
     ],
     "name:ita_x_preferred":[
@@ -68,14 +53,14 @@
     "name:ron_x_preferred":[
         "R\u00edo Negro"
     ],
-    "name:rum_x_preferred":[
-        "R\u00edo Negro"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043e-\u041d\u0435\u0433\u0440\u043e"
     ],
     "name:spa_x_preferred":[
         "R\u00edo Negro"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u5167\u683c\u7f85"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Los Lagos",
@@ -136,7 +121,7 @@
         }
     ],
     "wof:id":102017011,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749832,
     "wof:name":"R\u00edo Negro",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001921,
-    "geom:area_square_m":19818842.909508,
+    "geom:area_square_m":19818842.909515,
     "geom:bbox":"-70.576171875,-33.4772721878,-70.4992675781,-33.4257107761",
     "geom:latitude":-33.451358,
     "geom:longitude":-70.53316,
@@ -16,26 +16,20 @@
     "mps:longitude":-70.516054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053c\u0561 \u054c\u0565\u0575\u0576\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "La Reina"
-    ],
     "name:cat_x_preferred":[
         "La Reina"
     ],
     "name:ceb_x_preferred":[
         "La Reina"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u96f7\u7d0d"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "La Reina"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Reina"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a1\u03ad\u03b9\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "La Reina"
@@ -43,14 +37,11 @@
     "name:eus_x_preferred":[
         "La Reina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Reina"
     ],
-    "name:ger_x_preferred":[
-        "La Reina"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u03a1\u03ad\u03b9\u03bd\u03b1"
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u054c\u0565\u0575\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "La Reina"
@@ -79,13 +70,10 @@
     "name:ron_x_preferred":[
         "La Reina"
     ],
-    "name:rum_x_preferred":[
-        "La Reina"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0430-\u0420\u0435\u0439\u043d\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "La Reina"
     ],
     "name:spa_x_preferred":[
@@ -160,7 +148,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749828,
     "wof:name":"La Reina",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

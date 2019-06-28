@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001048,
-    "geom:area_square_m":10793189.629421,
+    "geom:area_square_m":10793189.629423,
     "geom:bbox":"-70.8520999993,-33.6756189949,-70.7629394531,-33.5825911639",
     "geom:latitude":-33.642017,
     "geom:longitude":-70.822681,
@@ -18,10 +18,10 @@
     "mps:longitude":-70.837297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Lonqu\u00e9n"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Lonqu\u00e9n"
     ],
     "name:spa_x_preferred":[
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":102016913,
-    "wof:lastmodified":1513937906,
+    "wof:lastmodified":1561749820,
     "wof:name":"Santo Domingo de Lonqu\u00e9n",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

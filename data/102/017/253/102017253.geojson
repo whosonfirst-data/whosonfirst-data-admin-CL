@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001301,
-    "geom:area_square_m":12856730.771412,
+    "geom:area_square_m":12856730.771422,
     "geom:bbox":"-72.119985219,-36.9983934968,-72.0755692147,-36.9540573974",
     "geom:latitude":-36.97568,
     "geom:longitude":-72.094914,
@@ -16,19 +16,10 @@
     "mps:longitude":-72.094916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pemuco"
-    ],
     "name:cat_x_preferred":[
         "Pemuco"
     ],
     "name:ceb_x_preferred":[
-        "Pemuco"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f69\u7a46\u79d1"
-    ],
-    "name:dut_x_preferred":[
         "Pemuco"
     ],
     "name:eng_x_preferred":[
@@ -37,7 +28,7 @@
     "name:eus_x_preferred":[
         "Pemuco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pemuco"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +50,6 @@
         "Pemuco"
     ],
     "name:ron_x_preferred":[
-        "Pemuco"
-    ],
-    "name:rum_x_preferred":[
         "Pemuco"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":102017253,
-    "wof:lastmodified":1527637780,
+    "wof:lastmodified":1561749833,
     "wof:name":"Pemuco",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

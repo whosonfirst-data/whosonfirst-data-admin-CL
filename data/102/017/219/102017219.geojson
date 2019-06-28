@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002395,
-    "geom:area_square_m":25080194.655063,
+    "geom:area_square_m":25080194.655058,
     "geom:bbox":"-71.5480675322,-32.1799755571,-71.4880371094,-32.1139502658",
     "geom:latitude":-32.144575,
     "geom:longitude":-71.517369,
@@ -22,14 +22,14 @@
     "name:ceb_x_preferred":[
         "Pichidangui"
     ],
-    "name:dut_x_preferred":[
-        "Pichidangui"
-    ],
     "name:eng_x_preferred":[
         "Pichidangui"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30c1\u30c0\u30f3\u30ae"
+    ],
+    "name:nld_x_preferred":[
+        "Pichidangui"
     ],
     "name:spa_x_preferred":[
         "Pichidangui"
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102017219,
-    "wof:lastmodified":1527637772,
+    "wof:lastmodified":1561749825,
     "wof:name":"Pichidangui",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

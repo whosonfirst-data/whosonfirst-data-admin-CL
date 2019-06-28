@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002384,
-    "geom:area_square_m":24785731.67808,
+    "geom:area_square_m":24785731.678077,
     "geom:bbox":"-71.2329774928,-32.817280002,-71.1694335937,-32.7545532948",
     "geom:latitude":-32.787678,
     "geom:longitude":-71.201687,
@@ -16,22 +16,13 @@
     "mps:longitude":-71.204795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "La Calera"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0430 \u041a\u0430\u043b\u0435\u0440\u0430"
     ],
     "name:cat_x_preferred":[
         "La Calera"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5361\u840a\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "La Calera"
-    ],
-    "name:dut_x_preferred":[
         "La Calera"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +31,7 @@
     "name:eus_x_preferred":[
         "La Calera"
     ],
-    "name:fre_x_preferred":[
-        "La Calera"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "La Calera"
     ],
     "name:ita_x_preferred":[
@@ -68,9 +56,6 @@
         "La Calera"
     ],
     "name:ron_x_preferred":[
-        "La Calera"
-    ],
-    "name:rum_x_preferred":[
         "La Calera"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +123,7 @@
         }
     ],
     "wof:id":102017569,
-    "wof:lastmodified":1527637769,
+    "wof:lastmodified":1561749822,
     "wof:name":"La Calera",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

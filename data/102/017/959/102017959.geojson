@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002504,
-    "geom:area_square_m":24624123.378278,
+    "geom:area_square_m":24624123.378282,
     "geom:bbox":"-71.768477047,-37.3398607575,-71.6360628019,-37.2956407549",
     "geom:latitude":-37.3221,
     "geom:longitude":-71.695534,
@@ -19,19 +19,13 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u064a\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Antuco"
-    ],
     "name:cat_x_preferred":[
         "Antuco"
     ],
     "name:ceb_x_preferred":[
         "Antuco"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5716\u79d1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Antuco"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,7 @@
     "name:eus_x_preferred":[
         "Antuco"
     ],
-    "name:fre_x_preferred":[
-        "Antuco"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Antuco"
     ],
     "name:grn_x_preferred":[
@@ -68,9 +59,6 @@
         "Antuco"
     ],
     "name:ron_x_preferred":[
-        "Antuco"
-    ],
-    "name:rum_x_preferred":[
         "Antuco"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637776,
+    "wof:lastmodified":1561749830,
     "wof:name":"Antuco",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

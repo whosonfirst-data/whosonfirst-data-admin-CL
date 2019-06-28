@@ -33,19 +33,10 @@
     "mps:longitude":-72.267699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u056c\u0565\u0576\u0561"
-    ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Palena"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u83b1\u7eb3\u7701"
-    ],
     "name:deu_x_preferred":[
-        "Palena"
-    ],
-    "name:dut_x_preferred":[
         "Palena"
     ],
     "name:eng_x_preferred":[
@@ -61,8 +52,11 @@
     "name:fra_x_preferred":[
         "Palena"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province de Palena"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u056c\u0565\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "provincia di Palena"
@@ -94,7 +88,7 @@
     "name:por_x_preferred":[
         "Palena"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Palena"
     ],
     "name:rus_x_preferred":[
@@ -117,6 +111,9 @@
     ],
     "name:war_x_preferred":[
         "Palena"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u83b1\u7eb3\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DE LOS LAGOS",
@@ -178,7 +175,7 @@
         }
     ],
     "wof:id":102063169,
-    "wof:lastmodified":1554488647,
+    "wof:lastmodified":1561749753,
     "wof:name":"Palena",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

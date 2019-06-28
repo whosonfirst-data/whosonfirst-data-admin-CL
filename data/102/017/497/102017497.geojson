@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000985,
-    "geom:area_square_m":9646864.591826,
+    "geom:area_square_m":9646864.591822,
     "geom:bbox":"-73.6801503228,-37.6210666983,-73.6355249992,-37.5921651105",
     "geom:latitude":-37.607296,
     "geom:longitude":-73.656492,
@@ -33,9 +33,6 @@
     "name:aze_x_preferred":[
         "Lebu"
     ],
-    "name:baq_x_preferred":[
-        "Lebu"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09ac\u09c1"
     ],
@@ -48,17 +45,14 @@
     "name:ceb_x_preferred":[
         "Lebu"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u5e03"
-    ],
     "name:dan_x_preferred":[
         "Lebu"
     ],
     "name:deu_x_preferred":[
         "Lebu"
     ],
-    "name:dut_x_preferred":[
-        "Lebu"
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03bc\u03c0\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Lebu"
@@ -75,17 +69,8 @@
     "name:fra_x_preferred":[
         "Lebu"
     ],
-    "name:fre_x_preferred":[
-        "Lebu"
-    ],
-    "name:ger_x_preferred":[
-        "Lebu"
-    ],
     "name:glg_x_preferred":[
         "Lebu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03bc\u03c0\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0aac\u0ac1"
@@ -135,7 +120,7 @@
     "name:mar_x_preferred":[
         "\u0932\u0947\u092c\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lebu"
     ],
     "name:nah_x_preferred":[
@@ -166,9 +151,6 @@
         "Lebu"
     ],
     "name:ron_x_preferred":[
-        "Lebu"
-    ],
-    "name:rum_x_preferred":[
         "Lebu"
     ],
     "name:rus_x_preferred":[
@@ -362,7 +344,7 @@
         }
     ],
     "wof:id":102017497,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749827,
     "wof:name":"Lebu",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

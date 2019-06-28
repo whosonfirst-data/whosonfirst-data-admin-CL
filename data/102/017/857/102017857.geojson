@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1913714.839341,
+    "geom:area_square_m":1913714.839344,
     "geom:bbox":"-70.7327270508,-33.5104844046,-70.7189941406,-33.4841447261",
     "geom:latitude":-33.494432,
     "geom:longitude":-70.726128,
@@ -19,25 +19,19 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0627\u064a\u0644\u0648\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Cerrillos"
-    ],
     "name:cat_x_preferred":[
         "Cerrillos"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u91cc\u7565\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cerrillos"
     ],
     "name:eng_x_preferred":[
         "Cerrillos"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Cerrillos"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cerrillos"
     ],
     "name:ita_x_preferred":[
@@ -49,13 +43,16 @@
     "name:nan_x_preferred":[
         "Cerrillos"
     ],
+    "name:nld_x_preferred":[
+        "Cerrillos"
+    ],
     "name:oci_x_preferred":[
         "Cerrillos"
     ],
     "name:por_x_preferred":[
         "Cerrillos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cerrillos"
     ],
     "name:rus_x_preferred":[
@@ -66,6 +63,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0440\u0438\u0459\u043e\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u91cc\u7565\u65af"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":102017857,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749826,
     "wof:name":"Cerrillos",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

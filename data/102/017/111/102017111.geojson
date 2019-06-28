@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001952,
-    "geom:area_square_m":20333846.848377,
+    "geom:area_square_m":20333846.8484,
     "geom:bbox":"-70.7461308971,-32.6530171144,-70.7000982852,-32.5887169546",
     "geom:latitude":-32.624302,
     "geom:longitude":-70.722749,
@@ -16,9 +16,6 @@
     "mps:longitude":-70.720007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Putaendo"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u0443\u0442\u0430\u0435\u043d\u0434\u043e"
     ],
@@ -28,12 +25,6 @@
     "name:ceb_x_preferred":[
         "Putaendo"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u5854\u6069\u591a"
-    ],
-    "name:dut_x_preferred":[
-        "Putaendo"
-    ],
     "name:eng_x_preferred":[
         "Putaendo"
     ],
@@ -41,9 +32,6 @@
         "Putaendo"
     ],
     "name:fra_x_preferred":[
-        "Putaendo"
-    ],
-    "name:fre_x_preferred":[
         "Putaendo"
     ],
     "name:ita_x_preferred":[
@@ -68,9 +56,6 @@
         "Putaendo"
     ],
     "name:ron_x_preferred":[
-        "Putaendo"
-    ],
-    "name:rum_x_preferred":[
         "Putaendo"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +120,7 @@
         }
     ],
     "wof:id":102017111,
-    "wof:lastmodified":1527637775,
+    "wof:lastmodified":1561749828,
     "wof:name":"Putaendo",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

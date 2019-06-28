@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001775,
-    "geom:area_square_m":17737802.68132,
+    "geom:area_square_m":17737802.681319,
     "geom:bbox":"-71.801254489,-36.0891868523,-71.7461108355,-36.0356519963",
     "geom:latitude":-36.061315,
     "geom:longitude":-71.772314,
@@ -16,19 +16,13 @@
     "mps:longitude":-71.763517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Retiro"
-    ],
     "name:cat_x_preferred":[
         "Retiro"
     ],
     "name:ceb_x_preferred":[
         "Retiro"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u8482\u7f85"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Retiro"
     ],
     "name:eng_x_preferred":[
@@ -38,9 +32,6 @@
         "Retiro"
     ],
     "name:fra_x_preferred":[
-        "Retiro"
-    ],
-    "name:fre_x_preferred":[
         "Retiro"
     ],
     "name:ita_x_preferred":[
@@ -67,9 +58,6 @@
     "name:ron_x_preferred":[
         "Retiro"
     ],
-    "name:rum_x_preferred":[
-        "Retiro"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0442\u0438\u0440\u043e"
     ],
@@ -77,9 +65,6 @@
         "Retiro"
     ],
     "name:swe_x_preferred":[
-        "Retiro"
-    ],
-    "name:wel_x_preferred":[
         "Retiro"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -135,7 +120,7 @@
         }
     ],
     "wof:id":102017029,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1561749832,
     "wof:name":"Retiro",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

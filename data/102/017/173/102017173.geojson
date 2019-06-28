@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000421,
-    "geom:area_square_m":4345908.580195,
+    "geom:area_square_m":4345908.5802,
     "geom:bbox":"-70.6251852322,-33.3626490555,-70.5928939971,-33.3444568745",
     "geom:latitude":-33.352523,
     "geom:longitude":-70.6079,
@@ -22,25 +22,19 @@
     "name:aym_x_preferred":[
         "Providencia"
     ],
-    "name:baq_x_preferred":[
-        "Providencia"
-    ],
     "name:cat_x_preferred":[
         "Providencia"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u7f85\u7dad\u767b\u897f\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Providencia"
     ],
     "name:eng_x_preferred":[
         "Providencia"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Providencia"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Providencia"
     ],
     "name:glg_x_preferred":[
@@ -61,6 +55,9 @@
     "name:nan_x_preferred":[
         "Providencia"
     ],
+    "name:nld_x_preferred":[
+        "Providencia"
+    ],
     "name:oci_x_preferred":[
         "Providencia"
     ],
@@ -73,7 +70,7 @@
     "name:que_x_preferred":[
         "Providencia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Providencia"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:war_x_preferred":[
         "Providencia"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u7f85\u7dad\u767b\u897f\u4e9e"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
@@ -142,7 +142,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749828,
     "wof:name":"Providencia",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006144,
-    "geom:area_square_m":56651997.174464,
+    "geom:area_square_m":56651997.174463,
     "geom:bbox":"-73.2194241242,-41.8253632648,-73.0855099098,-41.7336246562",
     "geom:latitude":-41.779426,
     "geom:longitude":-73.151361,
@@ -24,25 +24,16 @@
     "name:arn_x_preferred":[
         "Kallf\u00fcko"
     ],
-    "name:baq_x_preferred":[
-        "Calbuco"
-    ],
     "name:cat_x_preferred":[
         "Calbuco"
     ],
     "name:ceb_x_preferred":[
         "Calbuco"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u723e\u5e03\u79d1"
-    ],
     "name:dan_x_preferred":[
         "Calbuco"
     ],
     "name:deu_x_preferred":[
-        "Calbuco"
-    ],
-    "name:dut_x_preferred":[
         "Calbuco"
     ],
     "name:eng_x_preferred":[
@@ -51,10 +42,7 @@
     "name:eus_x_preferred":[
         "Calbuco"
     ],
-    "name:fre_x_preferred":[
-        "Calbuco"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Calbuco"
     ],
     "name:ita_x_preferred":[
@@ -78,13 +66,10 @@
     "name:ron_x_preferred":[
         "Calbuco"
     ],
-    "name:rum_x_preferred":[
-        "Calbuco"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u044c\u0431\u0443\u043a\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Calbuco"
     ],
     "name:spa_x_preferred":[
@@ -239,7 +224,7 @@
         }
     ],
     "wof:id":102017901,
-    "wof:lastmodified":1527637770,
+    "wof:lastmodified":1561749823,
     "wof:name":"Calbuco",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

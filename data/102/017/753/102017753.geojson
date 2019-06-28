@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001163,
-    "geom:area_square_m":11335431.831904,
+    "geom:area_square_m":11335431.8319,
     "geom:bbox":"-73.2435042685,-38.0289762876,-73.1960118157,-37.9914827308",
     "geom:latitude":-38.010071,
     "geom:longitude":-73.223816,
@@ -22,22 +22,13 @@
     "name:aze_x_preferred":[
         "Contulmo"
     ],
-    "name:baq_x_preferred":[
-        "Contulmo"
-    ],
     "name:cat_x_preferred":[
         "Contulmo"
     ],
     "name:ceb_x_preferred":[
         "Contulmo"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u5716\u723e\u83ab"
-    ],
     "name:deu_x_preferred":[
-        "Contulmo"
-    ],
-    "name:dut_x_preferred":[
         "Contulmo"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +41,6 @@
         "\u06a9\u0648\u0646\u062a\u06cc\u0648\u0644\u0645\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Contulmo"
-    ],
-    "name:fre_x_preferred":[
-        "Contulmo"
-    ],
-    "name:ger_x_preferred":[
         "Contulmo"
     ],
     "name:ita_x_preferred":[
@@ -73,16 +58,10 @@
     "name:oci_x_preferred":[
         "Contulmo"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0646\u062a\u06cc\u0648\u0644\u0645\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Contulmo"
     ],
     "name:ron_x_preferred":[
-        "Contulmo"
-    ],
-    "name:rum_x_preferred":[
         "Contulmo"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +126,7 @@
         }
     ],
     "wof:id":102017753,
-    "wof:lastmodified":1527637770,
+    "wof:lastmodified":1561749823,
     "wof:name":"Contulmo",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003783,
-    "geom:area_square_m":35344499.110916,
+    "geom:area_square_m":35344499.110909,
     "geom:bbox":"-72.9445908927,-41.0676460273,-72.8110179108,-40.8172775831",
     "geom:latitude":-40.915471,
     "geom:longitude":-72.873879,
@@ -16,22 +16,13 @@
     "mps:longitude":-72.844849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Puerto Octay"
-    ],
     "name:cat_x_preferred":[
         "Puerto Octay"
     ],
     "name:ceb_x_preferred":[
         "Puerto Octay"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u514b\u6cf0\u6e2f"
-    ],
     "name:deu_x_preferred":[
-        "Puerto Octay"
-    ],
-    "name:dut_x_preferred":[
         "Puerto Octay"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +32,6 @@
         "Puerto Octay"
     ],
     "name:fra_x_preferred":[
-        "Puerto Octay"
-    ],
-    "name:fre_x_preferred":[
-        "Puerto Octay"
-    ],
-    "name:ger_x_preferred":[
         "Puerto Octay"
     ],
     "name:ita_x_preferred":[
@@ -71,9 +56,6 @@
         "Puerto Octay"
     ],
     "name:ron_x_preferred":[
-        "Puerto Octay"
-    ],
-    "name:rum_x_preferred":[
         "Puerto Octay"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +120,7 @@
         }
     ],
     "wof:id":102017139,
-    "wof:lastmodified":1527637777,
+    "wof:lastmodified":1561749831,
     "wof:name":"Puerto Octay",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

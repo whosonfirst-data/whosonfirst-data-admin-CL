@@ -21,25 +21,19 @@
     "name:afr_x_preferred":[
         "Quinta Normal"
     ],
-    "name:baq_x_preferred":[
-        "Quinta Normal"
-    ],
     "name:cat_x_preferred":[
         "Quinta Normal"
     ],
-    "name:chi_x_preferred":[
-        "\u91d1\u5854\u8afe\u99ac\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Quinta Normal"
     ],
     "name:eng_x_preferred":[
         "Quinta Normal"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Quinta Normal"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Quinta Normal"
     ],
     "name:glg_x_preferred":[
@@ -54,13 +48,16 @@
     "name:nan_x_preferred":[
         "Quinta Normal"
     ],
+    "name:nld_x_preferred":[
+        "Quinta Normal"
+    ],
     "name:oci_x_preferred":[
         "Quinta Normal"
     ],
     "name:por_x_preferred":[
         "Quinta Normal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Quinta Normal"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +130,7 @@
         }
     ],
     "wof:id":1108980111,
-    "wof:lastmodified":1513937870,
+    "wof:lastmodified":1561749884,
     "wof:name":"Quinta Normal",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

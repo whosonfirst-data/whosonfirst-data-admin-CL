@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009064,
-    "geom:area_square_m":92493179.425628,
+    "geom:area_square_m":92493179.4257,
     "geom:bbox":"-70.9001599626,-34.4476421348,-70.7685404517,-34.3015896418",
     "geom:latitude":-34.385119,
     "geom:longitude":-70.83463,
@@ -20,19 +20,10 @@
     "name:bak_x_preferred":[
         "\u0420\u0435\u043d\u0433\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Rengo"
-    ],
     "name:cat_x_preferred":[
         "Rengo"
     ],
     "name:ceb_x_preferred":[
-        "Rengo"
-    ],
-    "name:chi_x_preferred":[
-        "\u502b\u6208"
-    ],
-    "name:dut_x_preferred":[
         "Rengo"
     ],
     "name:eng_x_preferred":[
@@ -45,9 +36,6 @@
         "Rengo"
     ],
     "name:fra_x_preferred":[
-        "Rengo"
-    ],
-    "name:fre_x_preferred":[
         "Rengo"
     ],
     "name:ita_x_preferred":[
@@ -78,9 +66,6 @@
         "Rengo"
     ],
     "name:ron_x_preferred":[
-        "Rengo"
-    ],
-    "name:rum_x_preferred":[
         "Rengo"
     ],
     "name:rus_x_preferred":[
@@ -152,7 +137,7 @@
         }
     ],
     "wof:id":102017033,
-    "wof:lastmodified":1527637780,
+    "wof:lastmodified":1561749834,
     "wof:name":"Rengo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

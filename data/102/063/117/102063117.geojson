@@ -36,23 +36,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u057f\u0575\u0561\u0563\u0578"
-    ],
     "name:aze_x_preferred":[
         "Santyaqo vilay\u0259ti"
-    ],
-    "name:baq_x_preferred":[
-        "Santiago probintzia"
     ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043d\u0442\u2019\u044f\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u5730\u4e9a\u54e5\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Santiago"
+    "name:deu_x_preferred":[
+        "Provinz Santiago"
     ],
     "name:eng_x_preferred":[
         "Santiago"
@@ -61,14 +52,20 @@
         "Santiago",
         "Santiago Province"
     ],
-    "name:fre_x_preferred":[
-        "province de Santiago du Chili"
+    "name:eus_x_preferred":[
+        "Santiago probintzia"
     ],
-    "name:ger_x_preferred":[
-        "Provinz Santiago"
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "province de Santiago du Chili"
     ],
     "name:hun_x_preferred":[
         "Santiago tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0575\u0561\u0563\u0578"
     ],
     "name:ita_x_preferred":[
         "provincia di Santiago"
@@ -82,11 +79,11 @@
     "name:nan_x_preferred":[
         "Santiago"
     ],
+    "name:nld_x_preferred":[
+        "Santiago"
+    ],
     "name:nob_x_preferred":[
         "Provincia de Santiago"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
     ],
     "name:pol_x_preferred":[
         "Santiago"
@@ -94,7 +91,7 @@
     "name:por_x_preferred":[
         "Santiago"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Santiago"
     ],
     "name:rus_x_preferred":[
@@ -117,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Santiago"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"METROPOLITANA",
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":102063117,
-    "wof:lastmodified":1555039005,
+    "wof:lastmodified":1561749776,
     "wof:name":"Santiago",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

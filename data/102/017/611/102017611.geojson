@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000824,
-    "geom:area_square_m":7573591.563358,
+    "geom:area_square_m":7573591.563354,
     "geom:bbox":"-72.4861166201,-41.980741148,-72.4482728024,-41.9464071414",
     "geom:latitude":-41.963254,
     "geom:longitude":-72.467685,
@@ -16,16 +16,10 @@
     "mps:longitude":-72.469217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Hualaihu\u00e9"
-    ],
     "name:cat_x_preferred":[
         "Hualaihu\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u840a\u97cb"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hualaihu\u00e9"
     ],
     "name:ell_x_preferred":[
@@ -39,15 +33,6 @@
     ],
     "name:fra_x_preferred":[
         "Hualaihu\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Hualaihu\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Hualaihu\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b1\u03bb\u03b1\u03ca\u03bf\u03c5\u03ad"
     ],
     "name:ita_x_preferred":[
         "Hualaihu\u00e9"
@@ -73,9 +58,6 @@
     "name:ron_x_preferred":[
         "Hualaihu\u00e9"
     ],
-    "name:rum_x_preferred":[
-        "Hualaihu\u00e9"
-    ],
     "name:rus_x_preferred":[
         "\u0423\u0430\u043b\u0430\u0439\u0443\u044d"
     ],
@@ -84,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "Gualaihuen"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u840a\u97cb"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Los Lagos",
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":102017611,
-    "wof:lastmodified":1527637773,
+    "wof:lastmodified":1561749826,
     "wof:name":"Hualaihu\u00e9",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003207,
-    "geom:area_square_m":29642051.027252,
+    "geom:area_square_m":29642051.027243,
     "geom:bbox":"-73.6258916168,-41.6860187834,-73.4920183086,-41.5694657986",
     "geom:latitude":-41.624102,
     "geom:longitude":-73.577036,
@@ -16,16 +16,10 @@
     "mps:longitude":-73.592637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Maull\u00edn"
-    ],
     "name:cat_x_preferred":[
         "Maull\u00edn"
     ],
-    "name:chi_x_preferred":[
-        "\u6bdb\u6797"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Maull\u00edn"
     ],
     "name:ell_x_preferred":[
@@ -39,15 +33,6 @@
     ],
     "name:fra_x_preferred":[
         "Maull\u00edn"
-    ],
-    "name:fre_x_preferred":[
-        "Maull\u00edn"
-    ],
-    "name:ger_x_preferred":[
-        "Maull\u00edn"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bf\u03c5\u03b3\u03af\u03bd"
     ],
     "name:ita_x_preferred":[
         "Maull\u00edn"
@@ -70,14 +55,14 @@
     "name:ron_x_preferred":[
         "Maull\u00edn"
     ],
-    "name:rum_x_preferred":[
-        "Maull\u00edn"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0443\u043b\u044c\u0438\u043d"
     ],
     "name:spa_x_preferred":[
         "Maull\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bdb\u6797"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Los Lagos",
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":102017377,
-    "wof:lastmodified":1527637775,
+    "wof:lastmodified":1561749828,
     "wof:name":"Maull\u00edn",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

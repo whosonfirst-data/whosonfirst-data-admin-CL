@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002373,
-    "geom:area_square_m":24036442.081435,
+    "geom:area_square_m":24036442.081421,
     "geom:bbox":"-71.3616608048,-35.0435041211,-71.2745094462,-34.9714920341",
     "geom:latitude":-35.009751,
     "geom:longitude":-71.321514,
@@ -18,16 +18,7 @@
     "mps:longitude":-71.32858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Sagrada Familia"
-    ],
     "name:ceb_x_preferred":[
-        "Sagrada Familia"
-    ],
-    "name:chi_x_preferred":[
-        "\u85a9\u683c\u62c9\u9054\u6cd5\u7c73\u5229\u4e9e"
-    ],
-    "name:dut_x_preferred":[
         "Sagrada Familia"
     ],
     "name:eng_x_preferred":[
@@ -37,9 +28,6 @@
         "Sagrada Familia"
     ],
     "name:fra_x_preferred":[
-        "Sagrada Fam\u00edlia"
-    ],
-    "name:fre_x_preferred":[
         "Sagrada Fam\u00edlia"
     ],
     "name:ita_x_preferred":[
@@ -61,9 +49,6 @@
         "Sagrada Familia"
     ],
     "name:ron_x_preferred":[
-        "Sagrada Familia"
-    ],
-    "name:rum_x_preferred":[
         "Sagrada Familia"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":102016999,
-    "wof:lastmodified":1527637594,
+    "wof:lastmodified":1561749818,
     "wof:name":"Sagrada Familia",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

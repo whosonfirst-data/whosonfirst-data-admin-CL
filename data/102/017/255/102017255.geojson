@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000494,
-    "geom:area_square_m":5037246.350358,
+    "geom:area_square_m":5037246.350359,
     "geom:bbox":"-70.8452368906,-34.5019888305,-70.8234641935,-34.4749063258",
     "geom:latitude":-34.488448,
     "geom:longitude":-70.834351,
@@ -19,10 +19,10 @@
     "name:ceb_x_preferred":[
         "Pelequ\u00e9n"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Pelequ\u00e9n"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Pelequ\u00e9n"
     ],
     "name:spa_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":102017255,
-    "wof:lastmodified":1527637781,
+    "wof:lastmodified":1561749834,
     "wof:name":"Pelequ\u00e9n",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

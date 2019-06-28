@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001675,
-    "geom:area_square_m":17812550.890656,
+    "geom:area_square_m":17812550.890669,
     "geom:bbox":"-71.4380400788,-30.7177968985,-71.3622472921,-30.6430739586",
     "geom:latitude":-30.672158,
     "geom:longitude":-71.391656,
@@ -22,41 +22,35 @@
     "name:bak_x_preferred":[
         "\u041e\u0432\u0430\u043b\u044c\u0435"
     ],
-    "name:baq_x_preferred":[
-        "Ovalle"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09ad\u09be\u09af\u09bc\u09c7"
     ],
     "name:cat_x_preferred":[
         "Ovalle"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u74e6\u5217"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ovalle"
     ],
     "name:dan_x_preferred":[
         "Ovalle"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ovalle"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03b2\u03ac\u03b3\u03b9\u03b5"
+    ],
     "name:eng_x_preferred":[
+        "Ovalle"
+    ],
+    "name:eus_x_preferred":[
         "Ovalle"
     ],
     "name:fin_x_preferred":[
         "Ovalle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ovalle"
-    ],
-    "name:ger_x_preferred":[
-        "Ovalle"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03b2\u03ac\u03b3\u03b9\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab5\u0ab2"
@@ -91,10 +85,13 @@
     "name:mar_x_preferred":[
         "\u0913\u0935\u0932\u094d\u0932\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ovalle"
     ],
     "name:nan_x_preferred":[
+        "Ovalle"
+    ],
+    "name:nld_x_preferred":[
         "Ovalle"
     ],
     "name:nob_x_preferred":[
@@ -109,7 +106,7 @@
     "name:por_x_preferred":[
         "Ovalle"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ovalle"
     ],
     "name:rus_x_preferred":[
@@ -151,6 +148,9 @@
     "name:war_x_preferred":[
         "Ovalle"
     ],
+    "name:zho_x_preferred":[
+        "\u5967\u74e6\u5217"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":102018081,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749816,
     "wof:name":"Ovalle",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005588,
-    "geom:area_square_m":59474442.839604,
+    "geom:area_square_m":59474442.83956,
     "geom:bbox":"-71.2622581164,-30.6516550017,-71.1315439021,-30.5485133581",
     "geom:latitude":-30.598602,
     "geom:longitude":-71.194037,
@@ -24,9 +24,6 @@
     "name:bak_x_preferred":[
         "\u041e\u0432\u0430\u043b\u044c\u0435"
     ],
-    "name:baq_x_preferred":[
-        "Ovalle"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09ad\u09be\u09af\u09bc\u09c7"
     ],
@@ -36,10 +33,7 @@
     "name:ceb_x_preferred":[
         "Ovalle"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u74e6\u5217"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ovalle"
     ],
     "name:dan_x_preferred":[
@@ -48,8 +42,8 @@
     "name:deu_x_preferred":[
         "Ovalle"
     ],
-    "name:dut_x_preferred":[
-        "Ovalle"
+    "name:ell_x_preferred":[
+        "\u039f\u03b2\u03ac\u03b3\u03b9\u03b5"
     ],
     "name:eng_x_preferred":[
         "Ovalle"
@@ -62,15 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Ovalle"
-    ],
-    "name:fre_x_preferred":[
-        "Ovalle"
-    ],
-    "name:ger_x_preferred":[
-        "Ovalle"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03b2\u03ac\u03b3\u03b9\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab5\u0ab2"
@@ -105,7 +90,7 @@
     "name:mar_x_preferred":[
         "\u0913\u0935\u0932\u094d\u0932\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ovalle"
     ],
     "name:nan_x_preferred":[
@@ -130,9 +115,6 @@
         "Ovalle"
     ],
     "name:ron_x_preferred":[
-        "Ovalle"
-    ],
-    "name:rum_x_preferred":[
         "Ovalle"
     ],
     "name:rus_x_preferred":[
@@ -320,7 +302,7 @@
         }
     ],
     "wof:id":102017293,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1561749827,
     "wof:name":"Ovalle",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

@@ -26,14 +26,8 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0623\u0631\u064a\u0643\u0627 \u0648\u0628\u0627\u0631\u064a\u0646\u0643\u0648\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u056b\u056f\u0561 \u0587 \u054a\u0561\u0580\u056b\u0576\u0561\u056f\u0578\u057f\u0561"
-    ],
     "name:bak_x_preferred":[
         "\u0410\u0440\u0438\u043a\u0430"
-    ],
-    "name:baq_x_preferred":[
-        "Arica eta Parinacota eskualdea"
     ],
     "name:bar_x_preferred":[
         "Regi\u00f3n de Arica y Parinacota"
@@ -47,17 +41,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Arica i Parinacota"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u91cc\u5361\u548c\u5e15\u91cc\u7eb3\u79d1\u5854\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Region Arica y Parinacota"
     ],
     "name:dan_x_preferred":[
         "Arica og Parinacota-regionen"
     ],
-    "name:dut_x_preferred":[
-        "Arica y Parinacota"
+    "name:deu_x_preferred":[
+        "Regi\u00f3n de Arica y Parinacota"
     ],
     "name:eng_x_preferred":[
         "Arica and Parinacota"
@@ -68,17 +59,17 @@
     "name:est_x_preferred":[
         "Arica y Parinacota"
     ],
+    "name:eus_x_preferred":[
+        "Arica eta Parinacota eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0622\u0631\u06cc\u06a9\u0627 \u0648 \u067e\u0627\u0631\u06cc\u0646\u0627\u06a9\u0648\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Arica-Parinacota"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion d'Arica et Parinacota"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d8\u10d9\u10d0 \u10d3\u10d0 \u10de\u10d0\u10e0\u10d8\u10dc\u10d0\u10d9\u10dd\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Regi\u00f3n de Arica y Parinacota"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Arica e Parinacota"
@@ -86,11 +77,17 @@
     "name:hrv_x_preferred":[
         "XV. regija Arica i Parinacota"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u056b\u056f\u0561 \u0587 \u054a\u0561\u0580\u056b\u0576\u0561\u056f\u0578\u057f\u0561"
+    ],
     "name:ita_x_preferred":[
         "regione di Arica e Parinacota"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ea\u30ab\u30fb\u30a4\u30fb\u30d1\u30ea\u30ca\u30b3\u30fc\u30bf\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d8\u10d9\u10d0 \u10d3\u10d0 \u10de\u10d0\u10e0\u10d8\u10dc\u10d0\u10d9\u10dd\u10e2\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc544\ub9ac\uce74 \uc774 \ud30c\ub9ac\ub098\ucf54\ud0c0 \uc8fc"
@@ -107,14 +104,14 @@
     "name:nan_x_preferred":[
         "Arica e Parinacota"
     ],
+    "name:nld_x_preferred":[
+        "Arica y Parinacota"
+    ],
     "name:nob_x_preferred":[
         "Arica y Parinacota"
     ],
     "name:oci_x_preferred":[
         "Region d'Arica e Parinacota"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0622\u0631\u06cc\u06a9\u0627 \u0648 \u067e\u0627\u0631\u06cc\u0646\u0627\u06a9\u0648\u062a\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0631\u06cc\u0633\u0627 \u062a\u06d2 \u067e\u0631\u06cc\u0646\u0627\u06a9\u0648\u062a\u0627 \u0631\u06cc\u062c\u0646"
@@ -131,7 +128,7 @@
     "name:roh_x_preferred":[
         "Regi\u00f3n de Arica y Parinacota"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Arica \u0219i Parinacota"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +137,7 @@
     "name:sco_x_preferred":[
         "Arica y Parinacota Region"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Arica y Parinacota"
     ],
     "name:spa_x_preferred":[
@@ -166,6 +163,9 @@
     ],
     "name:war_x_preferred":[
         "XV Rehiyon han Arica ngan Parinacota"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u91cc\u5361\u548c\u5e15\u91cc\u7eb3\u79d1\u5854\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHL",
@@ -271,7 +271,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553551423,
+    "wof:lastmodified":1561749883,
     "wof:name":"Arica y Parinacota",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

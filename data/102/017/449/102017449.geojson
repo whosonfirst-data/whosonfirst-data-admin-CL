@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":3118936.060186,
+    "geom:area_square_m":3118936.060189,
     "geom:bbox":"-71.2852547403,-38.4582917757,-71.2623525553,-38.4402815864",
     "geom:latitude":-38.449287,
     "geom:longitude":-71.273804,
@@ -17,16 +17,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
-    "name:baq_x_preferred":[
-        "Lonquimay"
-    ],
     "name:cat_x_preferred":[
         "Lonquimay"
     ],
-    "name:chi_x_preferred":[
-        "\u9686\u57fa\u9081"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lonquimay"
     ],
     "name:eng_x_preferred":[
@@ -35,10 +29,7 @@
     "name:eus_x_preferred":[
         "Lonquimay"
     ],
-    "name:fre_x_preferred":[
-        "Lonquimay"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lonquimay"
     ],
     "name:ita_x_preferred":[
@@ -63,9 +54,6 @@
         "Lonquimay"
     ],
     "name:ron_x_preferred":[
-        "Lonquimay"
-    ],
-    "name:rum_x_preferred":[
         "Lonquimay"
     ],
     "name:rus_x_preferred":[
@@ -222,7 +210,7 @@
         }
     ],
     "wof:id":102017449,
-    "wof:lastmodified":1527637771,
+    "wof:lastmodified":1561749824,
     "wof:name":"Lonquimay",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

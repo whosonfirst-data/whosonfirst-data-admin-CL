@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003432,
-    "geom:area_square_m":35447634.86247,
+    "geom:area_square_m":35447634.862443,
     "geom:bbox":"-70.5871582031,-33.3764123512,-70.4772949219,-33.3077415153",
     "geom:latitude":-33.343257,
     "geom:longitude":-70.534087,
@@ -25,9 +25,6 @@
     "name:ast_x_preferred":[
         "Lo Barnechea"
     ],
-    "name:baq_x_preferred":[
-        "Lo Barnechea"
-    ],
     "name:cat_x_preferred":[
         "Lo Barnechea"
     ],
@@ -37,10 +34,7 @@
     "name:ceb_x_preferred":[
         "Lo Barnechea"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u5df4\u723e\u5167\u5207\u963f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lo Barnechea"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +44,6 @@
         "Lo Barnechea"
     ],
     "name:fra_x_preferred":[
-        "Lo Barnechea"
-    ],
-    "name:fre_x_preferred":[
-        "Lo Barnechea"
-    ],
-    "name:ger_x_preferred":[
         "Lo Barnechea"
     ],
     "name:glg_x_preferred":[
@@ -92,9 +80,6 @@
         "Lo Barnechea"
     ],
     "name:ron_x_preferred":[
-        "Lo Barnechea"
-    ],
-    "name:rum_x_preferred":[
         "Lo Barnechea"
     ],
     "name:rus_x_preferred":[
@@ -172,7 +157,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637773,
+    "wof:lastmodified":1561749826,
     "wof:name":"Lo Barnechea",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

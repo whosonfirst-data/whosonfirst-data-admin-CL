@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007863,
-    "geom:area_square_m":81692204.533159,
+    "geom:area_square_m":81692204.533072,
     "geom:bbox":"-71.015625,-32.8839889833,-70.8786004552,-32.7872742872",
     "geom:latitude":-32.834281,
     "geom:longitude":-70.948667,
@@ -17,17 +17,11 @@
     "mps:longitude":-70.946615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Llay-Llay"
-    ],
     "name:ceb_x_preferred":[
         "Llaillay"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u827e\u5229\u827e"
-    ],
-    "name:dut_x_preferred":[
-        "Llaillay"
+    "name:deu_x_preferred":[
+        "Llay-Llay"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03ac\u03b9-\u0393\u03b9\u03ac\u03b9"
@@ -38,14 +32,8 @@
     "name:eus_x_preferred":[
         "Llay-Llay"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Llay-Llay"
-    ],
-    "name:ger_x_preferred":[
-        "Llay-Llay"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03ac\u03b9-\u0393\u03b9\u03ac\u03b9"
     ],
     "name:ita_x_preferred":[
         "Llaillay"
@@ -63,9 +51,6 @@
         "Llaillay"
     ],
     "name:ron_x_preferred":[
-        "Llay-Llay"
-    ],
-    "name:rum_x_preferred":[
         "Llay-Llay"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +119,7 @@
         }
     ],
     "wof:id":102017469,
-    "wof:lastmodified":1527637780,
+    "wof:lastmodified":1561749833,
     "wof:name":"Llaillay",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

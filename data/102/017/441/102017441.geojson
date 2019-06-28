@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019484,
-    "geom:area_square_m":191249260.073888,
+    "geom:area_square_m":191249260.073851,
     "geom:bbox":"-72.4276846707,-37.618883159,-72.2403001658,-37.2082013825",
     "geom:latitude":-37.45725,
     "geom:longitude":-72.335329,
@@ -42,9 +42,6 @@
     "name:aze_x_variant":[
         "Los Anceles"
     ],
-    "name:baq_x_preferred":[
-        "Los \u00c1ngeles"
-    ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b2\u09be \u09b2\u09b8 \u098f\u099e\u09cd\u099c\u09c7\u09b2\u09c7\u09b8"
     ],
@@ -63,17 +60,17 @@
     "name:ceb_x_preferred":[
         "Los \u00c1ngeles"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u6851\u8d6b\u840a\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Los \u00c1ngeles"
     ],
     "name:dan_x_preferred":[
         "Los \u00c1ngeles"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Los \u00c1ngeles"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c2 \u0386\u03bd\u03c4\u03b6\u03b5\u03bb\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Los Angeles"
@@ -88,23 +85,20 @@
     "name:est_x_preferred":[
         "Los \u00c1ngeles"
     ],
+    "name:eus_x_preferred":[
+        "Los \u00c1ngeles"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u0633 \u0622\u0646\u062e\u0644\u0633"
     ],
     "name:fin_x_preferred":[
         "Los \u00c1ngeles"
     ],
-    "name:fre_x_preferred":[
-        "Los \u00c1ngeles"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Los \u00c1ngeles"
     ],
     "name:glg_x_preferred":[
         "Los \u00c1ngeles"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c2 \u0386\u03bd\u03c4\u03b6\u03b5\u03bb\u03b5\u03c2"
     ],
     "name:grn_x_preferred":[
         "Los \u00c1ngeles"
@@ -160,13 +154,16 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0932\u093e \u0932\u0949\u0938 \u090f\u0902\u091c\u0932\u094d\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Villa Los Angeles"
     ],
     "name:nah_x_preferred":[
         "Los \u00c1ngeles"
     ],
     "name:nan_x_preferred":[
+        "Los \u00c1ngeles"
+    ],
+    "name:nld_x_preferred":[
         "Los \u00c1ngeles"
     ],
     "name:nob_x_preferred":[
@@ -177,9 +174,6 @@
     ],
     "name:pap_x_preferred":[
         "Los \u00c1ngeles"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0633 \u0622\u0646\u062e\u0644\u0633"
     ],
     "name:pms_x_preferred":[
         "Los \u00c1ngeles"
@@ -196,7 +190,7 @@
     "name:rmy_x_preferred":[
         "Los \u00c1ngeles"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Los \u00c1ngeles"
     ],
     "name:rus_x_preferred":[
@@ -324,7 +318,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749825,
     "wof:name":"Los \u00c1ngeles",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",
