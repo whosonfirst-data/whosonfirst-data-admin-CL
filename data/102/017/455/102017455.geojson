@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002153,
-    "geom:area_square_m":20584194.525529,
+    "geom:area_square_m":20584194.525518,
     "geom:bbox":"-72.6504550864,-39.3900209757,-72.569580439,-39.3380396029",
     "geom:latitude":-39.363911,
     "geom:longitude":-72.613115,
@@ -21,16 +21,10 @@
     "name:arn_x_preferred":[
         "Cabeza de un grupo"
     ],
-    "name:baq_x_preferred":[
-        "Loncoche"
-    ],
     "name:cat_x_preferred":[
         "Loncoche"
     ],
-    "name:chi_x_preferred":[
-        "\u502b\u79d1\u5207"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Loncoche"
     ],
     "name:eng_x_preferred":[
@@ -39,10 +33,7 @@
     "name:eus_x_preferred":[
         "Loncoche"
     ],
-    "name:fre_x_preferred":[
-        "Loncoche"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Loncoche"
     ],
     "name:ita_x_preferred":[
@@ -67,9 +58,6 @@
         "Loncoche"
     ],
     "name:ron_x_preferred":[
-        "Loncoche"
-    ],
-    "name:rum_x_preferred":[
         "Loncoche"
     ],
     "name:rus_x_preferred":[
@@ -223,7 +211,7 @@
         }
     ],
     "wof:id":102017455,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749827,
     "wof:name":"Loncoche",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

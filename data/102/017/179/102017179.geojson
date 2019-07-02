@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002852,
-    "geom:area_square_m":21075249.63077,
+    "geom:area_square_m":21075249.630769,
     "geom:bbox":"-70.4868091341,-53.3300162509,-70.3359507372,-53.2792188885",
     "geom:latitude":-53.303947,
     "geom:longitude":-70.409457,
@@ -16,12 +16,6 @@
     "mps:longitude":-70.370479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0580\u057e\u0565\u0576\u056b\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Porvenir"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u0440\u0432\u0435\u043d\u0456\u0440"
     ],
@@ -31,13 +25,7 @@
     "name:ceb_x_preferred":[
         "Porvenir"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u97cb\u5c3c\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Porvenir"
-    ],
-    "name:dut_x_preferred":[
         "Porvenir"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +35,6 @@
         "Porvenir"
     ],
     "name:fra_x_preferred":[
-        "Porvenir"
-    ],
-    "name:fre_x_preferred":[
-        "Porvenir"
-    ],
-    "name:ger_x_preferred":[
         "Porvenir"
     ],
     "name:hrv_x_preferred":[
@@ -89,9 +71,6 @@
         "Porvenir"
     ],
     "name:ron_x_preferred":[
-        "Porvenir"
-    ],
-    "name:rum_x_preferred":[
         "Porvenir"
     ],
     "name:rus_x_preferred":[
@@ -168,7 +147,7 @@
         }
     ],
     "wof:id":102017179,
-    "wof:lastmodified":1527637782,
+    "wof:lastmodified":1561749835,
     "wof:name":"Porvenir",
     "wof:parent_id":102063185,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003832,
-    "geom:area_square_m":39307409.400144,
+    "geom:area_square_m":39307409.400126,
     "geom:bbox":"-71.8119564475,-33.968316865,-71.7134344978,-33.9024454998",
     "geom:latitude":-33.938894,
     "geom:longitude":-71.758463,
@@ -19,28 +19,19 @@
     "name:bak_x_preferred":[
         "\u041d\u0430\u0432\u0438\u0434\u0430\u0434"
     ],
-    "name:baq_x_preferred":[
-        "Navidad"
-    ],
     "name:cat_x_preferred":[
         "Navidad"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u7dad\u9054\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Navidad"
-    ],
-    "name:dut_x_preferred":[
         "Navidad"
     ],
     "name:eng_x_preferred":[
         "Navidad"
     ],
-    "name:fra_x_preferred":[
+    "name:eus_x_preferred":[
         "Navidad"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Navidad"
     ],
     "name:ita_x_preferred":[
@@ -61,7 +52,7 @@
     "name:por_x_preferred":[
         "Navidad"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Navidad"
     ],
     "name:rus_x_preferred":[
@@ -75,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Navidad"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u7dad\u9054\u5fb7"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Libertador General Bernardo O'Higgins",
@@ -122,7 +116,7 @@
         }
     ],
     "wof:id":102017339,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749823,
     "wof:name":"Navidad",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

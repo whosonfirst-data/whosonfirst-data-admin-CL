@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00259,
-    "geom:area_square_m":25148391.951429,
+    "geom:area_square_m":25148391.951434,
     "geom:bbox":"-72.7024597512,-38.2773806139,-72.6137003251,-38.231332194",
     "geom:latitude":-38.254692,
     "geom:longitude":-72.661263,
@@ -22,19 +22,13 @@
     "name:arn_x_preferred":[
         "Tray\u00e9n"
     ],
-    "name:baq_x_preferred":[
-        "Traigu\u00e9n"
-    ],
-    "name:chi_x_preferred":[
-        "\u7279\u8cf4\u6839"
-    ],
-    "name:dut_x_preferred":[
-        "Traigu\u00e9n"
-    ],
     "name:eng_x_preferred":[
         "Traigu\u00e9n"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Traigu\u00e9n"
+    ],
+    "name:fra_x_preferred":[
         "Traigu\u00e9n"
     ],
     "name:ita_x_preferred":[
@@ -49,10 +43,13 @@
     "name:nan_x_preferred":[
         "Traigu\u00e9n"
     ],
+    "name:nld_x_preferred":[
+        "Traigu\u00e9n"
+    ],
     "name:por_x_preferred":[
         "Traigu\u00e9n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Traigu\u00e9n"
     ],
     "name:rus_x_preferred":[
@@ -114,7 +111,7 @@
         }
     ],
     "wof:id":102016853,
-    "wof:lastmodified":1527637600,
+    "wof:lastmodified":1561749821,
     "wof:name":"Traigu\u00e9n",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

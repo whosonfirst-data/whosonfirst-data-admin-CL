@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000764,
-    "geom:area_square_m":7455912.537138,
+    "geom:area_square_m":7455912.537135,
     "geom:bbox":"-73.3945467875,-37.9055396754,-73.3498368575,-37.8788507821",
     "geom:latitude":-37.891121,
     "geom:longitude":-73.37172,
@@ -22,22 +22,13 @@
     "name:aze_x_preferred":[
         "Ca\u00f1ete"
     ],
-    "name:baq_x_preferred":[
-        "Ca\u00f1ete"
-    ],
     "name:cat_x_preferred":[
         "Ca\u00f1ete"
     ],
     "name:ceb_x_preferred":[
         "Ca\u00f1ete"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u6d85\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Ca\u00f1ete"
-    ],
-    "name:dut_x_preferred":[
         "Ca\u00f1ete"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +41,6 @@
         "Ca\u00f1ete"
     ],
     "name:fra_x_preferred":[
-        "Ca\u00f1ete"
-    ],
-    "name:fre_x_preferred":[
-        "Ca\u00f1ete"
-    ],
-    "name:ger_x_preferred":[
         "Ca\u00f1ete"
     ],
     "name:glg_x_preferred":[
@@ -97,7 +82,7 @@
     "name:por_x_preferred":[
         "Ca\u00f1ete"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ca\u00f1ete"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +99,9 @@
     ],
     "name:war_x_preferred":[
         "Ca\u00f1ete"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6d85\u7279"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -153,7 +141,7 @@
         }
     ],
     "wof:id":102018147,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749818,
     "wof:name":"Ca\u00f1ete",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

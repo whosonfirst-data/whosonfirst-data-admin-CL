@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002546,
-    "geom:area_square_m":24982573.089132,
+    "geom:area_square_m":24982573.089145,
     "geom:bbox":"-73.3834982033,-37.4969451559,-73.3169402748,-37.4353252566",
     "geom:latitude":-37.470448,
     "geom:longitude":-73.351552,
@@ -24,22 +24,13 @@
     "name:aze_x_preferred":[
         "Curanilahue"
     ],
-    "name:baq_x_preferred":[
-        "Curanilahue"
-    ],
     "name:cat_x_preferred":[
         "Curanilahue"
     ],
     "name:ceb_x_preferred":[
         "Curanilahue"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u62c9\u5c3c\u62c9\u97cb"
-    ],
     "name:deu_x_preferred":[
-        "Curanilahue"
-    ],
-    "name:dut_x_preferred":[
         "Curanilahue"
     ],
     "name:eng_x_preferred":[
@@ -52,12 +43,6 @@
         "\u06a9\u06cc\u0648\u0631\u0627\u0646\u0627\u06cc\u0644\u0627\u0647\u06cc\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Curanilahue"
-    ],
-    "name:fre_x_preferred":[
-        "Curanilahue"
-    ],
-    "name:ger_x_preferred":[
         "Curanilahue"
     ],
     "name:ita_x_preferred":[
@@ -75,16 +60,10 @@
     "name:oci_x_preferred":[
         "Curanilahue"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0648\u0631\u0627\u0646\u0627\u06cc\u0644\u0627\u0647\u06cc\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Curanilahue"
     ],
     "name:ron_x_preferred":[
-        "Curanilahue"
-    ],
-    "name:rum_x_preferred":[
         "Curanilahue"
     ],
     "name:rus_x_preferred":[
@@ -245,7 +224,7 @@
         }
     ],
     "wof:id":102017719,
-    "wof:lastmodified":1527637781,
+    "wof:lastmodified":1561749835,
     "wof:name":"Curanilahue",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

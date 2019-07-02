@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000964,
-    "geom:area_square_m":10245322.500839,
+    "geom:area_square_m":10245322.500847,
     "geom:bbox":"-70.987608878,-30.7083534302,-70.9118047608,-30.6903163339",
     "geom:latitude":-30.699335,
     "geom:longitude":-70.952784,
@@ -20,19 +20,10 @@
     "name:bak_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435-\u041f\u0430\u0442\u0440\u0438\u044f"
     ],
-    "name:baq_x_preferred":[
-        "Monte Patria"
-    ],
     "name:cat_x_preferred":[
         "Monte Patria"
     ],
     "name:ceb_x_preferred":[
-        "Monte Patria"
-    ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u5e15\u7279\u91cc\u4e9e"
-    ],
-    "name:dut_x_preferred":[
         "Monte Patria"
     ],
     "name:eng_x_preferred":[
@@ -41,7 +32,7 @@
     "name:eus_x_preferred":[
         "Monte Patria"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Monte Patria"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +63,6 @@
         "Monte Patria"
     ],
     "name:ron_x_preferred":[
-        "Monte Patria"
-    ],
-    "name:rum_x_preferred":[
         "Monte Patria"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +128,7 @@
         }
     ],
     "wof:id":102017353,
-    "wof:lastmodified":1527637770,
+    "wof:lastmodified":1561749823,
     "wof:name":"Monte Patria",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

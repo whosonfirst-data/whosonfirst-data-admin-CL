@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004399,
-    "geom:area_square_m":44581020.380272,
+    "geom:area_square_m":44581020.38025,
     "geom:bbox":"-71.1859130859,-34.9985152057,-71.0101688444,-34.9264705157",
     "geom:latitude":-34.962454,
     "geom:longitude":-71.089549,
@@ -16,19 +16,10 @@
     "mps:longitude":-71.051725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Romeral"
-    ],
     "name:cat_x_preferred":[
         "Romeral"
     ],
     "name:ceb_x_preferred":[
-        "Romeral"
-    ],
-    "name:chi_x_preferred":[
-        "\u7f85\u6885\u62c9\u723e"
-    ],
-    "name:dut_x_preferred":[
         "Romeral"
     ],
     "name:eng_x_preferred":[
@@ -37,7 +28,7 @@
     "name:eus_x_preferred":[
         "Romeral"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Romeral"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
         "Romeral"
     ],
     "name:ron_x_preferred":[
-        "Romeral"
-    ],
-    "name:rum_x_preferred":[
         "Romeral"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":102017003,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1561749833,
     "wof:name":"Romeral",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

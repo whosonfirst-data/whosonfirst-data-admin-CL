@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001817,
-    "geom:area_square_m":16918150.268304,
+    "geom:area_square_m":16918150.268298,
     "geom:bbox":"-73.4610112458,-41.1690506764,-73.3822523839,-41.1324283683",
     "geom:latitude":-41.152921,
     "geom:longitude":-73.419231,
@@ -16,16 +16,10 @@
     "mps:longitude":-73.419981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Fresia"
-    ],
     "name:cat_x_preferred":[
         "Fresia"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u96f7\u897f\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fresia"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +28,7 @@
     "name:eus_x_preferred":[
         "Fresia"
     ],
-    "name:fre_x_preferred":[
-        "Fresia"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fresia"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
         "Fresia"
     ],
     "name:ron_x_preferred":[
-        "Fresia"
-    ],
-    "name:rum_x_preferred":[
         "Fresia"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":102017643,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749824,
     "wof:name":"Fresia",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

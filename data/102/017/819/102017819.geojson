@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006445,
-    "geom:area_square_m":58657366.780198,
+    "geom:area_square_m":58657366.780189,
     "geom:bbox":"-73.8458161492,-42.6658863956,-73.7182617187,-42.5057017875",
     "geom:latitude":-42.601395,
     "geom:longitude":-73.786989,
@@ -26,28 +26,22 @@
     "name:arn_x_preferred":[
         "Trongch\u00fc"
     ],
-    "name:baq_x_preferred":[
-        "Chonchi"
-    ],
     "name:cat_x_preferred":[
         "Chonchi"
     ],
-    "name:chi_x_preferred":[
-        "\u74ca\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chonchi"
     ],
     "name:eng_x_preferred":[
         "Chonchi"
     ],
+    "name:eus_x_preferred":[
+        "Chonchi"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0648\u0646\u0686\u06cc\u060c \u0634\u06cc\u0644\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Chonchi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chonchi"
     ],
     "name:glg_x_preferred":[
@@ -65,19 +59,19 @@
     "name:nan_x_preferred":[
         "Chonchi"
     ],
+    "name:nld_x_preferred":[
+        "Chonchi"
+    ],
     "name:nob_x_preferred":[
         "Chonchi"
     ],
     "name:oci_x_preferred":[
         "Chonchi"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0646\u0686\u06cc\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Chonchi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chonchi"
     ],
     "name:rus_x_preferred":[
@@ -151,7 +145,7 @@
         }
     ],
     "wof:id":102017819,
-    "wof:lastmodified":1534531064,
+    "wof:lastmodified":1561749825,
     "wof:name":"Chonchi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

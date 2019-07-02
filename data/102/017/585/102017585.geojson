@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002523,
-    "geom:area_square_m":26556389.584638,
+    "geom:area_square_m":26556389.584635,
     "geom:bbox":"-71.2294121406,-31.66707266,-71.1314323416,-31.6022717818",
     "geom:latitude":-31.637419,
     "geom:longitude":-71.178031,
@@ -24,22 +24,13 @@
     "name:bak_x_preferred":[
         "\u0418\u043b\u044c\u044f\u043f\u0435\u043b\u044c"
     ],
-    "name:baq_x_preferred":[
-        "Illapel"
-    ],
     "name:cat_x_preferred":[
         "Illapel"
     ],
     "name:ceb_x_preferred":[
         "Illapel"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u4e9e\u4f69\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Illapel"
-    ],
-    "name:dut_x_preferred":[
         "Illapel"
     ],
     "name:ell_x_preferred":[
@@ -54,15 +45,6 @@
     "name:fra_x_preferred":[
         "Illapel"
     ],
-    "name:fre_x_preferred":[
-        "Illapel"
-    ],
-    "name:ger_x_preferred":[
-        "Illapel"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03b3\u03b9\u03b1\u03c0\u03ad\u03bb"
-    ],
     "name:ita_x_preferred":[
         "Illapel"
     ],
@@ -75,7 +57,7 @@
     "name:lit_x_preferred":[
         "Iljapelis"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0418\u043b\u0458\u0430\u043f\u0435\u043b"
     ],
     "name:nan_x_preferred":[
@@ -100,9 +82,6 @@
         "Illapel"
     ],
     "name:ron_x_preferred":[
-        "Illapel"
-    ],
-    "name:rum_x_preferred":[
         "Illapel"
     ],
     "name:rus_x_preferred":[
@@ -275,7 +254,7 @@
         }
     ],
     "wof:id":102017585,
-    "wof:lastmodified":1527637781,
+    "wof:lastmodified":1561749835,
     "wof:name":"Illapel",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

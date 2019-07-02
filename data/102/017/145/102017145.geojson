@@ -40,9 +40,6 @@
     "name:aze_x_preferred":[
         "Puerto Montt"
     ],
-    "name:baq_x_preferred":[
-        "Puerto Montt"
-    ],
     "name:bar_x_preferred":[
         "Puerto Montt"
     ],
@@ -67,13 +64,7 @@
     "name:ces_x_preferred":[
         "Puerto Montt"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u6e2f"
-    ],
     "name:chy_x_preferred":[
-        "Puerto Montt"
-    ],
-    "name:cze_x_preferred":[
         "Puerto Montt"
     ],
     "name:dan_x_preferred":[
@@ -83,9 +74,6 @@
         "Puerto Montt"
     ],
     "name:diq_x_preferred":[
-        "Puerto Montt"
-    ],
-    "name:dut_x_preferred":[
         "Puerto Montt"
     ],
     "name:ell_x_preferred":[
@@ -115,16 +103,7 @@
     "name:fra_x_preferred":[
         "Puerto Montt"
     ],
-    "name:fre_x_preferred":[
-        "Puerto Montt"
-    ],
     "name:frp_x_preferred":[
-        "Puerto Montt"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10db\u10dd\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Puerto Montt"
     ],
     "name:gle_x_preferred":[
@@ -132,9 +111,6 @@
     ],
     "name:glg_x_preferred":[
         "Puerto Montt"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03bf\u03bd\u03c4"
     ],
     "name:grn_x_preferred":[
         "Puerto Montt"
@@ -158,9 +134,6 @@
         "Puerto Montt"
     ],
     "name:hun_x_preferred":[
-        "Puerto Montt"
-    ],
-    "name:ice_x_preferred":[
         "Puerto Montt"
     ],
     "name:ind_x_preferred":[
@@ -202,17 +175,14 @@
     "name:lmo_x_preferred":[
         "Puerto Montt"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0443\u0435\u0440\u0442\u043e \u041c\u043e\u043d\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u092f\u0942\u0930\u094d\u091f\u094b \u092e\u0949\u0928\u094d\u091f"
     ],
-    "name:may_x_preferred":[
-        "Puerto Montt"
-    ],
     "name:mkd_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e \u041c\u043e\u043d\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Puerto Montt"
     ],
     "name:nah_x_preferred":[
         "Puerto Montt"
@@ -238,9 +208,6 @@
     "name:oci_x_preferred":[
         "Puerto Montt"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u062a\u0648 \u0645\u0648\u0646\u062a"
-    ],
     "name:pms_x_preferred":[
         "Puerto Montt"
     ],
@@ -263,9 +230,6 @@
         "Puerto Montt"
     ],
     "name:ron_x_preferred":[
-        "Puerto Montt"
-    ],
-    "name:rum_x_preferred":[
         "Puerto Montt"
     ],
     "name:rus_x_preferred":[
@@ -486,7 +450,7 @@
         }
     ],
     "wof:id":102017145,
-    "wof:lastmodified":1535389833,
+    "wof:lastmodified":1561749828,
     "wof:megacity":0,
     "wof:name":"Puerto Montt",
     "wof:parent_id":102063135,

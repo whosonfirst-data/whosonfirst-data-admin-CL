@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001452,
-    "geom:area_square_m":16609477.559212,
+    "geom:area_square_m":16609477.559218,
     "geom:bbox":"-69.69049636,-22.3743499528,-69.6381168342,-22.3257997433",
     "geom:latitude":-22.343905,
     "geom:longitude":-69.663271,
@@ -19,19 +19,13 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0627 \u0625\u064a\u0644\u064a\u0646\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Mar\u00eda Elena"
-    ],
     "name:bre_x_preferred":[
         "Mar\u00eda Elena"
     ],
     "name:cat_x_preferred":[
         "Mar\u00eda Elena"
     ],
-    "name:chi_x_preferred":[
-        "\u746a\u8389\u4e9e\u57c3\u7433\u5a1c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mar\u00eda Elena"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,7 @@
     "name:eus_x_preferred":[
         "Mar\u00eda Elena"
     ],
-    "name:fre_x_preferred":[
-        "Mar\u00eda Elena"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mar\u00eda Elena"
     ],
     "name:ita_x_preferred":[
@@ -76,7 +67,7 @@
     "name:por_x_preferred":[
         "Mar\u00eda Elena"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mar\u00eda Elena"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +81,9 @@
     ],
     "name:unk_x_variant":[
         "Mar\u00eda Elena"
+    ],
+    "name:zho_x_preferred":[
+        "\u746a\u8389\u4e9e\u57c3\u7433\u5a1c"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Antofagasta",
@@ -137,7 +131,7 @@
         }
     ],
     "wof:id":102017309,
-    "wof:lastmodified":1513937748,
+    "wof:lastmodified":1561749822,
     "wof:name":"Oficina Mar\u00eda Elena",
     "wof:parent_id":102063093,
     "wof:placetype":"locality",

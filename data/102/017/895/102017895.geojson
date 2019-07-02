@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001452,
-    "geom:area_square_m":15076577.338044,
+    "geom:area_square_m":15076577.338045,
     "geom:bbox":"-70.669255684,-32.8932169123,-70.6091308594,-32.8519034574",
     "geom:latitude":-32.872025,
     "geom:longitude":-70.642112,
@@ -19,19 +19,13 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a \u0627\u0631\u063a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Calle Larga"
-    ],
     "name:cat_x_preferred":[
         "Calle Larga"
     ],
     "name:ceb_x_preferred":[
         "Calle Larga"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u840a\u62c9\u723e\u52a0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Calle Larga"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,7 @@
     "name:eus_x_preferred":[
         "Calle Larga"
     ],
-    "name:fre_x_preferred":[
-        "Calle Larga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Calle Larga"
     ],
     "name:ita_x_preferred":[
@@ -65,9 +56,6 @@
         "Calle Larga"
     ],
     "name:ron_x_preferred":[
-        "Calle Larga"
-    ],
-    "name:rum_x_preferred":[
         "Calle Larga"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":102017895,
-    "wof:lastmodified":1527637773,
+    "wof:lastmodified":1561749826,
     "wof:name":"Calle Larga",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

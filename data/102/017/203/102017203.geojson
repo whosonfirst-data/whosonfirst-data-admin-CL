@@ -16,16 +16,7 @@
     "mps:longitude":-70.57507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pirque"
-    ],
     "name:cat_x_preferred":[
-        "Pirque"
-    ],
-    "name:chi_x_preferred":[
-        "\u76ae\u723e\u514b"
-    ],
-    "name:dut_x_preferred":[
         "Pirque"
     ],
     "name:eng_x_preferred":[
@@ -35,9 +26,6 @@
         "Pirque"
     ],
     "name:fra_x_preferred":[
-        "Pirque"
-    ],
-    "name:fre_x_preferred":[
         "Pirque"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +50,6 @@
         "Pirque"
     ],
     "name:ron_x_preferred":[
-        "Pirque"
-    ],
-    "name:rum_x_preferred":[
         "Pirque"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +117,7 @@
         }
     ],
     "wof:id":102017203,
-    "wof:lastmodified":1535389833,
+    "wof:lastmodified":1561749827,
     "wof:name":"Pirque",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001154,
-    "geom:area_square_m":12343067.211612,
+    "geom:area_square_m":12343067.211611,
     "geom:bbox":"-70.5343653122,-30.1493980404,-70.4806496133,-30.1119725913",
     "geom:latitude":-30.131488,
     "geom:longitude":-70.503374,
@@ -19,16 +19,13 @@
     "name:deu_x_preferred":[
         "Pisco Elqui"
     ],
-    "name:dut_x_preferred":[
-        "Pisco Elqui"
-    ],
     "name:eng_x_preferred":[
         "Pisco Elqui"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pisco Elqui"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Pisco Elqui"
     ],
     "name:rus_x_preferred":[
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":102017199,
-    "wof:lastmodified":1527637777,
+    "wof:lastmodified":1561749831,
     "wof:name":"Pisco Elqui",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

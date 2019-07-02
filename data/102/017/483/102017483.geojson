@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008083,
-    "geom:area_square_m":83823643.25617,
+    "geom:area_square_m":83823643.25614,
     "geom:bbox":"-71.3394306298,-33.0683338426,-71.2081680809,-32.9489642517",
     "geom:latitude":-33.00143,
     "geom:longitude":-71.266273,
@@ -18,22 +18,13 @@
     "mps:longitude":-71.25984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Limache"
-    ],
     "name:cat_x_preferred":[
         "Limache"
     ],
     "name:ceb_x_preferred":[
         "Limache"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u99ac\u5207"
-    ],
     "name:deu_x_preferred":[
-        "Limache"
-    ],
-    "name:dut_x_preferred":[
         "Limache"
     ],
     "name:eng_x_preferred":[
@@ -43,12 +34,6 @@
         "Limache"
     ],
     "name:fra_x_preferred":[
-        "Limache"
-    ],
-    "name:fre_x_preferred":[
-        "Limache"
-    ],
-    "name:ger_x_preferred":[
         "Limache"
     ],
     "name:ita_x_preferred":[
@@ -73,9 +58,6 @@
         "Limache"
     ],
     "name:ron_x_preferred":[
-        "Limache"
-    ],
-    "name:rum_x_preferred":[
         "Limache"
     ],
     "name:rus_x_preferred":[
@@ -152,7 +134,7 @@
         }
     ],
     "wof:id":102017483,
-    "wof:lastmodified":1527637772,
+    "wof:lastmodified":1561749825,
     "wof:name":"Limache",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

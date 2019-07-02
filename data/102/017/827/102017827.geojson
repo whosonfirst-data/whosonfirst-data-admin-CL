@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014216,
-    "geom:area_square_m":141113366.137488,
+    "geom:area_square_m":141113366.137519,
     "geom:bbox":"-72.1525090574,-36.6818276594,-71.9437796892,-36.5138770997",
     "geom:latitude":-36.605973,
     "geom:longitude":-72.058079,
@@ -45,9 +45,6 @@
     "name:aze_x_preferred":[
         "\u00c7ilyan"
     ],
-    "name:baq_x_preferred":[
-        "Chill\u00e1n"
-    ],
     "name:bar_x_preferred":[
         "Chill\u00e1n"
     ],
@@ -63,20 +60,23 @@
     "name:cat_x_preferred":[
         "Chill\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u5ec9"
+    "name:ces_x_preferred":[
+        "Chill\u00e1n"
     ],
     "name:cos_x_preferred":[
         "Chill\u00e1n"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Chill\u00e1n"
     ],
     "name:dan_x_preferred":[
         "Chill\u00e1n"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chill\u00e1n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bb\u03ac\u03bd"
     ],
     "name:eml_x_preferred":[
         "Chill\u00e1n"
@@ -90,26 +90,26 @@
     "name:est_x_preferred":[
         "Chill\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Chill\u00e1n"
+    ],
     "name:ext_x_preferred":[
         "Chill\u00e1n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0644\u0627\u0646\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fin_x_preferred":[
         "Chill\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chill\u00e1n"
     ],
     "name:frp_x_preferred":[
         "Chill\u00e1n"
     ],
-    "name:ger_x_preferred":[
-        "Chill\u00e1n"
-    ],
     "name:glg_x_preferred":[
         "Chill\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b9\u03bb\u03ac\u03bd"
     ],
     "name:grn_x_preferred":[
         "Chill\u00e1n"
@@ -180,13 +180,16 @@
     "name:mar_x_preferred":[
         "\u091a\u093f\u0932\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Chillan"
     ],
     "name:nah_x_preferred":[
         "Chill\u00e1n"
     ],
     "name:nan_x_preferred":[
+        "Chill\u00e1n"
+    ],
+    "name:nld_x_preferred":[
         "Chill\u00e1n"
     ],
     "name:nob_x_preferred":[
@@ -200,9 +203,6 @@
     ],
     "name:pap_x_preferred":[
         "Chill\u00e1n"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0644\u0627\u0646\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:pih_x_preferred":[
         "Chill\u00e1n"
@@ -222,7 +222,7 @@
     "name:rmy_x_preferred":[
         "Chill\u00e1n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chill\u00e1n"
     ],
     "name:rus_x_preferred":[
@@ -276,8 +276,8 @@
     "name:war_x_preferred":[
         "Chill\u00e1n"
     ],
-    "name:wel_x_preferred":[
-        "Chill\u00e1n"
+    "name:zho_x_preferred":[
+        "\u5947\u5ec9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chile",
@@ -419,7 +419,7 @@
         }
     ],
     "wof:id":102017827,
-    "wof:lastmodified":1527637771,
+    "wof:lastmodified":1561749824,
     "wof:name":"Chill\u00e1n",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
-    "geom:area_square_m":3123365.912205,
+    "geom:area_square_m":3123365.912202,
     "geom:bbox":"-70.9548786635,-32.7269925466,-70.9335489836,-32.7089613966",
     "geom:latitude":-32.717977,
     "geom:longitude":-70.944214,
@@ -19,25 +19,19 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u062a\u064a\u0645\u064a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Catemu"
-    ],
     "name:cat_x_preferred":[
         "Catemu"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u7279\u7a46"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Catemu"
     ],
     "name:eng_x_preferred":[
         "Catemu"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Catemu"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Catemu"
     ],
     "name:ita_x_preferred":[
@@ -52,13 +46,16 @@
     "name:nan_x_preferred":[
         "Catemu"
     ],
+    "name:nld_x_preferred":[
+        "Catemu"
+    ],
     "name:oci_x_preferred":[
         "Catemu"
     ],
     "name:por_x_preferred":[
         "Catemu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Catemu"
     ],
     "name:rus_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Catemu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7279\u7a46"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":102018083,
-    "wof:lastmodified":1527637576,
+    "wof:lastmodified":1561749813,
     "wof:name":"Catemu",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001755,
-    "geom:area_square_m":17686160.466269,
+    "geom:area_square_m":17686160.466271,
     "geom:bbox":"-71.7791896386,-35.4383503267,-71.7022705078,-35.4024313131",
     "geom:latitude":-35.418267,
     "geom:longitude":-71.741412,
@@ -16,19 +16,10 @@
     "mps:longitude":-71.745992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pencahue"
-    ],
     "name:cat_x_preferred":[
         "Pencahue"
     ],
     "name:ceb_x_preferred":[
-        "Pencahue"
-    ],
-    "name:chi_x_preferred":[
-        "\u5f6d\u5361\u97cb"
-    ],
-    "name:dut_x_preferred":[
         "Pencahue"
     ],
     "name:eng_x_preferred":[
@@ -38,9 +29,6 @@
         "Pencahue"
     ],
     "name:fra_x_preferred":[
-        "Pencahue"
-    ],
-    "name:fre_x_preferred":[
         "Pencahue"
     ],
     "name:ita_x_preferred":[
@@ -65,9 +53,6 @@
         "Pencahue"
     ],
     "name:ron_x_preferred":[
-        "Pencahue"
-    ],
-    "name:rum_x_preferred":[
         "Pencahue"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +120,7 @@
         }
     ],
     "wof:id":102017245,
-    "wof:lastmodified":1527637772,
+    "wof:lastmodified":1561749825,
     "wof:name":"Pencahue",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

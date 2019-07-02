@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015109,
-    "geom:area_square_m":145773607.456443,
+    "geom:area_square_m":145773607.456337,
     "geom:bbox":"-72.7075195312,-38.7862949614,-72.4570870015,-38.6207419956",
     "geom:latitude":-38.717256,
     "geom:longitude":-72.581874,
@@ -36,9 +36,6 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u0648\u0643\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0565\u0574\u0578\u0582\u056f\u0578"
-    ],
     "name:arn_x_preferred":[
         "Temuko"
     ],
@@ -49,9 +46,6 @@
         "Temuko"
     ],
     "name:aze_x_preferred":[
-        "Temuco"
-    ],
-    "name:baq_x_preferred":[
         "Temuco"
     ],
     "name:bar_x_preferred":[
@@ -75,19 +69,13 @@
     "name:ceb_x_preferred":[
         "Temuco"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u6728\u79d1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Temuco"
     ],
     "name:dan_x_preferred":[
         "Temuco"
     ],
     "name:deu_x_preferred":[
-        "Temuco"
-    ],
-    "name:dut_x_preferred":[
         "Temuco"
     ],
     "name:ell_x_preferred":[
@@ -117,16 +105,7 @@
     "name:fra_x_preferred":[
         "Temuco"
     ],
-    "name:fre_x_preferred":[
-        "Temuco"
-    ],
     "name:frp_x_preferred":[
-        "Temuco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10db\u10e3\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Temuco"
     ],
     "name:gle_x_preferred":[
@@ -134,9 +113,6 @@
     ],
     "name:glg_x_preferred":[
         "Temuco"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bc\u03bf\u03cd\u03ba\u03bf"
     ],
     "name:grn_x_preferred":[
         "Temuco"
@@ -164,9 +140,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054f\u0565\u0574\u0578\u0582\u056f\u0578"
-    ],
-    "name:ice_x_preferred":[
-        "Temuco"
     ],
     "name:ile_x_preferred":[
         "Temuco"
@@ -213,20 +186,17 @@
     "name:lmo_x_preferred":[
         "Temuco"
     ],
-    "name:mac_x_preferred":[
-        "\u0422e\u043c\u0443\u043a\u043e"
-    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d46\u0d2e\u0d4d\u0d2f\u0d42\u0d15\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u0924\u0947\u092e\u0942\u0915\u094b"
     ],
-    "name:may_x_preferred":[
-        "Temuco"
-    ],
     "name:mkd_x_preferred":[
         "\u0422e\u043c\u0443\u043a\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Temuco"
     ],
     "name:nah_x_preferred":[
         "Temuco"
@@ -249,9 +219,6 @@
     "name:oci_x_preferred":[
         "Temuco"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0645\u0648\u06a9\u0648"
-    ],
     "name:pms_x_preferred":[
         "Temuco"
     ],
@@ -273,9 +240,6 @@
     "name:ron_x_preferred":[
         "Temuco"
     ],
-    "name:rum_x_preferred":[
-        "Temuco"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043c\u0443\u043a\u043e"
     ],
@@ -286,9 +250,6 @@
         "\u0da7\u0dd9\u0db8\u0dd4\u0d9a\u0ddd"
     ],
     "name:slk_x_preferred":[
-        "Temuco"
-    ],
-    "name:slo_x_preferred":[
         "Temuco"
     ],
     "name:slv_x_preferred":[
@@ -508,7 +469,7 @@
         }
     ],
     "wof:id":102016885,
-    "wof:lastmodified":1534379256,
+    "wof:lastmodified":1561749821,
     "wof:name":"Temuco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

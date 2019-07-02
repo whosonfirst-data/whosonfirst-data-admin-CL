@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001857,
-    "geom:area_square_m":18309513.980053,
+    "geom:area_square_m":18309513.980071,
     "geom:bbox":"-72.58143458,-37.1386717782,-72.5369700489,-37.0770925585",
     "geom:latitude":-37.104855,
     "geom:longitude":-72.556456,
@@ -22,19 +22,10 @@
     "name:arg_x_preferred":[
         "Yumbel"
     ],
-    "name:baq_x_preferred":[
-        "Yumbel"
-    ],
     "name:ceb_x_preferred":[
         "Yumbel"
     ],
-    "name:chi_x_preferred":[
-        "\u96f2\u8c9d\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Yumbel"
-    ],
-    "name:dut_x_preferred":[
         "Yumbel"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +35,6 @@
         "Yumbel"
     ],
     "name:fra_x_preferred":[
-        "Yumbel"
-    ],
-    "name:fre_x_preferred":[
-        "Yumbel"
-    ],
-    "name:ger_x_preferred":[
         "Yumbel"
     ],
     "name:glg_x_preferred":[
@@ -89,9 +74,6 @@
         "Yumbel"
     ],
     "name:ron_x_preferred":[
-        "Yumbel"
-    ],
-    "name:rum_x_preferred":[
         "Yumbel"
     ],
     "name:rus_x_preferred":[
@@ -170,7 +152,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637599,
+    "wof:lastmodified":1561749820,
     "wof:name":"Yumbel",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

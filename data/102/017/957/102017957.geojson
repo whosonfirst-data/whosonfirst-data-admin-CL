@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005449,
-    "geom:area_square_m":53647112.253215,
+    "geom:area_square_m":53647112.253217,
     "geom:bbox":"-73.3505037188,-37.2786915471,-73.1855829828,-37.1711308896",
     "geom:latitude":-37.230599,
     "geom:longitude":-73.264518,
@@ -20,22 +20,13 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u0648\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Arauco"
-    ],
     "name:cat_x_preferred":[
         "Arauco"
     ],
     "name:ceb_x_preferred":[
         "Arauco"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u52de\u79d1"
-    ],
     "name:deu_x_preferred":[
-        "Arauco"
-    ],
-    "name:dut_x_preferred":[
         "Arauco"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +35,7 @@
     "name:eus_x_preferred":[
         "Arauco"
     ],
-    "name:fre_x_preferred":[
-        "Arauco"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Arauco"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +60,6 @@
         "Arauco"
     ],
     "name:ron_x_preferred":[
-        "Arauco"
-    ],
-    "name:rum_x_preferred":[
         "Arauco"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637776,
+    "wof:lastmodified":1561749830,
     "wof:name":"Arauco",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

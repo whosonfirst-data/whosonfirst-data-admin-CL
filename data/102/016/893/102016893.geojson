@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013748,
-    "geom:area_square_m":138506215.447856,
+    "geom:area_square_m":138506215.447925,
     "geom:bbox":"-71.7572257146,-35.5188784741,-71.5704118334,-35.3711350228",
     "geom:latitude":-35.439253,
     "geom:longitude":-71.650054,
@@ -35,9 +35,6 @@
     "name:aze_x_preferred":[
         "Talca"
     ],
-    "name:baq_x_preferred":[
-        "Talca"
-    ],
     "name:bar_x_preferred":[
         "Talca"
     ],
@@ -62,22 +59,16 @@
     "name:ces_x_preferred":[
         "Talca"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u723e\u5361"
-    ],
     "name:chy_x_preferred":[
         "Talca"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Talca"
     ],
     "name:dan_x_preferred":[
         "Talca"
     ],
     "name:deu_x_preferred":[
-        "Talca"
-    ],
-    "name:dut_x_preferred":[
         "Talca"
     ],
     "name:ell_x_preferred":[
@@ -101,20 +92,8 @@
     "name:fra_x_preferred":[
         "Talca"
     ],
-    "name:fre_x_preferred":[
-        "Talca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10da\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Talca"
-    ],
     "name:glg_x_preferred":[
         "Talca"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ac\u03bb\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0ab2\u0acd\u0a95\u0abe"
@@ -170,7 +149,7 @@
     "name:mar_x_preferred":[
         "\u091f\u093e\u0932\u094d\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Talca"
     ],
     "name:nah_x_preferred":[
@@ -194,9 +173,6 @@
     "name:oci_x_preferred":[
         "Talca"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0644\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Talca"
     ],
@@ -210,9 +186,6 @@
         "Talca"
     ],
     "name:ron_x_preferred":[
-        "Talca"
-    ],
-    "name:rum_x_preferred":[
         "Talca"
     ],
     "name:rus_x_preferred":[
@@ -267,9 +240,6 @@
         "Talca"
     ],
     "name:war_x_preferred":[
-        "Talca"
-    ],
-    "name:wel_x_preferred":[
         "Talca"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -421,7 +391,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1513937927,
+    "wof:lastmodified":1561749819,
     "wof:name":"Talca",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000774,
-    "geom:area_square_m":7353525.845737,
+    "geom:area_square_m":7353525.845739,
     "geom:bbox":"-72.4719918702,-39.7795486524,-72.4266915443,-39.7531014674",
     "geom:latitude":-39.76736,
     "geom:longitude":-72.44887,
@@ -19,14 +19,14 @@
     "name:ceb_x_preferred":[
         "Ri\u00f1ihue"
     ],
-    "name:dut_x_preferred":[
-        "Ri\u00f1ihue"
-    ],
     "name:eng_x_preferred":[
         "Ri\u00f1ihue"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30cb\u30a6\u30a7"
+    ],
+    "name:nld_x_preferred":[
+        "Ri\u00f1ihue"
     ],
     "name:swe_x_preferred":[
         "Ri\u00f1ihue"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":102017021,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749833,
     "wof:name":"Ri\u00f1ihue",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

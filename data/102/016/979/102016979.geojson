@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009952,
-    "geom:area_square_m":103482030.326232,
+    "geom:area_square_m":103482030.326289,
     "geom:bbox":"-70.7791017837,-32.814978397,-70.6040969728,-32.6904718938",
     "geom:latitude":-32.758902,
     "geom:longitude":-70.702057,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0641\u064a\u0644\u064a\u0628\u064a"
     ],
-    "name:baq_x_preferred":[
-        "San Felipe"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u09ab\u09bf\u09b2\u09bf\u09aa\u09c7"
     ],
@@ -38,8 +35,8 @@
     "name:ceb_x_preferred":[
         "San Felipe"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u8cbb\u5229\u4f69"
+    "name:cym_x_preferred":[
+        "San Felipe"
     ],
     "name:dan_x_preferred":[
         "San Felipe"
@@ -47,8 +44,8 @@
     "name:deu_x_preferred":[
         "San Felipe"
     ],
-    "name:dut_x_preferred":[
-        "San Felipe"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a6\u03b5\u03bb\u03af\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "San Felipe"
@@ -62,17 +59,8 @@
     "name:fra_x_preferred":[
         "San Felipe"
     ],
-    "name:fre_x_preferred":[
-        "San Felipe"
-    ],
-    "name:ger_x_preferred":[
-        "San Felipe"
-    ],
     "name:glg_x_preferred":[
         "San Felipe"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a6\u03b5\u03bb\u03af\u03c0\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0aab\u0ac7\u0ab2\u0abf\u0aaa"
@@ -104,7 +92,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u092b\u0947\u0932\u0940\u092a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Felipe"
     ],
     "name:nan_x_preferred":[
@@ -123,9 +111,6 @@
         "San Felipe"
     ],
     "name:ron_x_preferred":[
-        "San Felipe"
-    ],
-    "name:rum_x_preferred":[
         "San Felipe"
     ],
     "name:rus_x_preferred":[
@@ -165,9 +150,6 @@
         "San Felipe"
     ],
     "name:war_x_preferred":[
-        "San Felipe"
-    ],
-    "name:wel_x_preferred":[
         "San Felipe"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -316,7 +298,7 @@
         }
     ],
     "wof:id":102016979,
-    "wof:lastmodified":1553815716,
+    "wof:lastmodified":1561749819,
     "wof:name":"San Felipe",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

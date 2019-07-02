@@ -32,17 +32,8 @@
     "mps:longitude":-71.032191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0549\u0578\u0561\u057a\u0561"
-    ],
     "name:bak_x_preferred":[
         "\u0427\u043e\u0430\u043f\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u55ac\u963f\u5e15\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Choapa"
     ],
     "name:eng_x_preferred":[
         "Choapa"
@@ -54,20 +45,23 @@
     "name:epo_x_preferred":[
         "Provinco Choapa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Choapa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10dd\u10d0\u10de\u10d0"
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d5\u05d0\u05e4\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0561\u057a\u0561"
     ],
     "name:ita_x_preferred":[
         "provincia di Choapa"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e7\u30a2\u30d1\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10d0\u10de\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ucd08\uc544\ud30c \ud604"
@@ -76,6 +70,9 @@
         "\u010coapos provincija"
     ],
     "name:nan_x_preferred":[
+        "Choapa"
+    ],
+    "name:nld_x_preferred":[
         "Choapa"
     ],
     "name:nob_x_preferred":[
@@ -90,7 +87,7 @@
     "name:ron_x_preferred":[
         "Choapa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Provincia Choapa"
     ],
     "name:rus_x_preferred":[
@@ -110,6 +107,9 @@
     ],
     "name:war_x_preferred":[
         "Choapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u55ac\u963f\u5e15\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DE COQUIMBO",
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":102063179,
-    "wof:lastmodified":1555038993,
+    "wof:lastmodified":1561749806,
     "wof:name":"Choapa",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

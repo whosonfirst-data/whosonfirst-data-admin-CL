@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002512,
-    "geom:area_square_m":26196362.460193,
+    "geom:area_square_m":26196362.460199,
     "geom:bbox":"-71.4712071764,-32.5326705567,-71.3840178949,-32.4845339982",
     "geom:latitude":-32.504845,
     "geom:longitude":-71.429549,
@@ -16,9 +16,6 @@
     "mps:longitude":-71.437437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Papudo"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0434\u043e"
     ],
@@ -28,19 +25,13 @@
     "name:ceb_x_preferred":[
         "Papudo"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u666e\u591a"
-    ],
-    "name:dut_x_preferred":[
-        "Papudo"
-    ],
     "name:eng_x_preferred":[
         "Papudo"
     ],
     "name:eus_x_preferred":[
         "Papudo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Papudo"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
         "Papudo"
     ],
     "name:ron_x_preferred":[
-        "Papudo"
-    ],
-    "name:rum_x_preferred":[
         "Papudo"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":102017267,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1561749827,
     "wof:name":"Papudo",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002414,
-    "geom:area_square_m":28005572.367909,
+    "geom:area_square_m":28005572.367914,
     "geom:bbox":"-69.8112076532,-20.338210315,-69.6712069792,-20.1655316916",
     "geom:latitude":-20.256364,
     "geom:longitude":-69.771078,
@@ -20,22 +20,13 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u0648 \u0623\u0644\u0645\u0648\u0646\u062a\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Pozo Almonte"
-    ],
     "name:cat_x_preferred":[
         "Pozo Almonte"
     ],
     "name:ceb_x_preferred":[
         "Pozo Almonte"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u7d22\u963f\u723e\u8499\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Pozo Almonte"
-    ],
-    "name:dut_x_preferred":[
         "Pozo Almonte"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Pozo Almonte"
     ],
     "name:fra_x_preferred":[
-        "Pozo Almonte"
-    ],
-    "name:fre_x_preferred":[
-        "Pozo Almonte"
-    ],
-    "name:ger_x_preferred":[
         "Pozo Almonte"
     ],
     "name:glg_x_preferred":[
@@ -75,9 +60,6 @@
         "Pozo Almonte"
     ],
     "name:ron_x_preferred":[
-        "Pozo Almonte"
-    ],
-    "name:rum_x_preferred":[
         "Pozo Almonte"
     ],
     "name:rus_x_preferred":[
@@ -240,7 +222,7 @@
         }
     ],
     "wof:id":102017175,
-    "wof:lastmodified":1534379257,
+    "wof:lastmodified":1561749829,
     "wof:name":"Pozo Almonte",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

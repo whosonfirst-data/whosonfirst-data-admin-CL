@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001407,
-    "geom:area_square_m":14572649.506638,
+    "geom:area_square_m":14572649.506637,
     "geom:bbox":"-70.9768943783,-33.1143619774,-70.9115296401,-33.0687187152",
     "geom:latitude":-33.086788,
     "geom:longitude":-70.938506,
@@ -18,19 +18,10 @@
     "mps:longitude":-70.934244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Tiltil"
-    ],
     "name:bul_x_preferred":[
         "\u0422\u0438\u043b\u0442\u0438\u043b"
     ],
     "name:ceb_x_preferred":[
-        "Tiltil"
-    ],
-    "name:chi_x_preferred":[
-        "\u8482\u723e\u8482\u723e"
-    ],
-    "name:dut_x_preferred":[
         "Tiltil"
     ],
     "name:eng_x_preferred":[
@@ -39,7 +30,7 @@
     "name:eus_x_preferred":[
         "Tiltil"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tiltil"
     ],
     "name:ita_x_preferred":[
@@ -61,9 +52,6 @@
         "Tiltil"
     ],
     "name:ron_x_preferred":[
-        "Tiltil"
-    ],
-    "name:rum_x_preferred":[
         "Tiltil"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +116,7 @@
         }
     ],
     "wof:id":102016875,
-    "wof:lastmodified":1527637595,
+    "wof:lastmodified":1561749819,
     "wof:name":"Tiltil",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

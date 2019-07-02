@@ -145,9 +145,6 @@
     "name:cym_x_preferred":[
         "Santiago de Chile"
     ],
-    "name:cze_x_preferred":[
-        "Santiago de Chile"
-    ],
     "name:dan_x_preferred":[
         "Santiago de Chile"
     ],
@@ -225,9 +222,6 @@
     ],
     "name:glv_x_preferred":[
         "Santiago"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd\u03c4\u03b9\u03ac\u03b3\u03ba\u03bf"
     ],
     "name:grn_x_preferred":[
         "Santiago de Chile"
@@ -491,9 +485,6 @@
     "name:ron_x_preferred":[
         "Santiago de Chile"
     ],
-    "name:rum_x_preferred":[
-        "Santiago de Chile"
-    ],
     "name:run_x_preferred":[
         "Santiago de Chile"
     ],
@@ -656,7 +647,6 @@
     ],
     "name:zho_x_variant":[
         "\u8056\u5730\u4e9e\u54e5",
-        "\u5723\u5730\u4e9a\u54e5",
         "\u8056\u5730\u7259\u54e5"
     ],
     "name:zho_yue_x_preferred":[
@@ -718,7 +708,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1537303670,
+    "wof:lastmodified":1561749819,
     "wof:name":"Santiago",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

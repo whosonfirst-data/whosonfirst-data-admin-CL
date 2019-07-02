@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00114,
-    "geom:area_square_m":11064200.41655,
+    "geom:area_square_m":11064200.416551,
     "geom:bbox":"-72.2900390625,-38.2860025449,-72.1962222816,-38.2399291884",
     "geom:latitude":-38.260787,
     "geom:longitude":-72.24292,
@@ -19,25 +19,16 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0643\u062a\u0648\u0631\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Victoria"
-    ],
-    "name:chi_x_preferred":[
-        "\u7dad\u591a\u5229\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Victoria"
     ],
     "name:eng_x_preferred":[
         "Victoria"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Victoria"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10e5\u10e2\u10dd\u10e0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Victoria"
     ],
     "name:ita_x_preferred":[
@@ -46,16 +37,22 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30af\u30c8\u30ea\u30a2"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10e5\u10e2\u10dd\u10e0\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ube45\ud1a0\ub9ac\uc544"
     ],
     "name:nan_x_preferred":[
         "Victoria"
     ],
+    "name:nld_x_preferred":[
+        "Victoria"
+    ],
     "name:por_x_preferred":[
         "Victoria"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Victoria"
     ],
     "name:rus_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1\u060c \u0686\u0644\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u591a\u5229\u4e9e"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":102018181,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749815,
     "wof:name":"Victoria",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

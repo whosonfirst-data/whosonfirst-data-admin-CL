@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003928,
-    "geom:area_square_m":40470791.292851,
+    "geom:area_square_m":40470791.292883,
     "geom:bbox":"-70.878076579,-33.6008938012,-70.7903512891,-33.5260657696",
     "geom:latitude":-33.564792,
     "geom:longitude":-70.829141,
@@ -16,22 +16,13 @@
     "mps:longitude":-70.82382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Padre Hurtado"
-    ],
     "name:cat_x_preferred":[
         "Padre Hurtado"
     ],
     "name:ceb_x_preferred":[
         "Padre Hurtado"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u5fb7\u96f7\u70cf\u723e\u5854\u591a"
-    ],
     "name:deu_x_preferred":[
-        "Padre Hurtado"
-    ],
-    "name:dut_x_preferred":[
         "Padre Hurtado"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +31,7 @@
     "name:eus_x_preferred":[
         "Padre Hurtado"
     ],
-    "name:fre_x_preferred":[
-        "Padre Hurtado"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Padre Hurtado"
     ],
     "name:ita_x_preferred":[
@@ -65,9 +53,6 @@
         "Padre Hurtado"
     ],
     "name:ron_x_preferred":[
-        "Padre Hurtado"
-    ],
-    "name:rum_x_preferred":[
         "Padre Hurtado"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +123,7 @@
         }
     ],
     "wof:id":102017291,
-    "wof:lastmodified":1527637780,
+    "wof:lastmodified":1561749834,
     "wof:name":"Padre Hurtado",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004552,
-    "geom:area_square_m":47176342.363227,
+    "geom:area_square_m":47176342.363247,
     "geom:bbox":"-71.4028930664,-33.079841846,-71.2960626961,-33.0134690623",
     "geom:latitude":-33.047005,
     "geom:longitude":-71.356833,
@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Villa Alemana"
     ],
-    "name:alb_x_preferred":[
-        "Villa Alemana"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u0622\u0644\u064a\u0645\u0627\u0646\u0627"
     ],
@@ -41,9 +38,6 @@
         "Villa Alemana"
     ],
     "name:aze_x_preferred":[
-        "Villa Alemana"
-    ],
-    "name:baq_x_preferred":[
         "Villa Alemana"
     ],
     "name:ben_x_preferred":[
@@ -61,17 +55,14 @@
     "name:ceb_x_preferred":[
         "Villa Alemana"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u840a\u99ac\u7d0d\u93ae"
-    ],
     "name:dan_x_preferred":[
         "Villa Alemana"
     ],
     "name:deu_x_preferred":[
         "Villa Alemana"
     ],
-    "name:dut_x_preferred":[
-        "Villa Alemana"
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b1 \u0391\u03bb\u03b5\u03bc\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Villa Alemana"
@@ -94,13 +85,10 @@
     "name:fra_x_preferred":[
         "Villa Alemana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa Alemana"
     ],
     "name:gag_x_preferred":[
-        "Villa Alemana"
-    ],
-    "name:ger_x_preferred":[
         "Villa Alemana"
     ],
     "name:gle_x_preferred":[
@@ -108,9 +96,6 @@
     ],
     "name:glg_x_preferred":[
         "Villa Alemana"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bb\u03bb\u03b1 \u0391\u03bb\u03b5\u03bc\u03ac\u03bd\u03b1"
     ],
     "name:grn_x_preferred":[
         "Villa Alemana"
@@ -166,7 +151,7 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0932\u093e \u0906\u0932\u092e\u092e\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Villa Alemana"
     ],
     "name:nah_x_preferred":[
@@ -190,9 +175,6 @@
     "name:pap_x_preferred":[
         "Villa Alemana"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0627 \u0622\u0644\u0645\u0627\u0646\u0627"
-    ],
     "name:pms_x_preferred":[
         "Villa Alemana"
     ],
@@ -206,9 +188,6 @@
         "Villa Alemana"
     ],
     "name:ron_x_preferred":[
-        "Villa Alemana"
-    ],
-    "name:rum_x_preferred":[
         "Villa Alemana"
     ],
     "name:rus_x_preferred":[
@@ -326,7 +305,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637599,
+    "wof:lastmodified":1561749821,
     "wof:name":"Villa Alemana",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

@@ -17,28 +17,25 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0631\u064a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Cochrane"
-    ],
     "name:cat_x_preferred":[
         "Cochrane"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u514b\u62c9\u5167"
     ],
     "name:dan_x_preferred":[
         "Cochrane"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cochrane"
     ],
     "name:eng_x_preferred":[
         "Cochrane"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Cochrane"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u0631\u06cc\u0646\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Cochrane"
     ],
     "name:ita_x_preferred":[
@@ -56,11 +53,11 @@
     "name:nan_x_preferred":[
         "Cochrane"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Cochrane"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u06a9\u0631\u06cc\u0646\u060c \u0634\u06cc\u0644\u06cc"
+    "name:oci_x_preferred":[
+        "Cochrane"
     ],
     "name:pol_x_preferred":[
         "Cochrane"
@@ -68,7 +65,7 @@
     "name:por_x_preferred":[
         "Cochrane"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cochrane"
     ],
     "name:rus_x_preferred":[
@@ -82,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "Cochrane"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u514b\u62c9\u5167"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chile",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":1141907809,
-    "wof:lastmodified":1553816736,
+    "wof:lastmodified":1561749895,
     "wof:name":"Cochrane",
     "wof:parent_id":102063085,
     "wof:placetype":"locality",

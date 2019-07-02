@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001448,
-    "geom:area_square_m":14739854.807915,
+    "geom:area_square_m":14739854.807914,
     "geom:bbox":"-71.0595703125,-34.6377000858,-71.0045056758,-34.5925507643",
     "geom:latitude":-34.612145,
     "geom:longitude":-71.033814,
@@ -19,25 +19,19 @@
     "name:bak_x_preferred":[
         "\u041f\u043b\u0430\u0441\u0438\u043b\u044c\u044f"
     ],
-    "name:baq_x_preferred":[
-        "Placilla"
-    ],
     "name:cat_x_preferred":[
         "Placilla"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u62c9\u897f\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Placilla"
     ],
     "name:eng_x_preferred":[
         "Placilla"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Placilla"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Placilla"
     ],
     "name:ita_x_preferred":[
@@ -49,13 +43,16 @@
     "name:nan_x_preferred":[
         "Placilla"
     ],
+    "name:nld_x_preferred":[
+        "Placilla"
+    ],
     "name:oci_x_preferred":[
         "Placilla"
     ],
     "name:por_x_preferred":[
         "Placilla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Placilla"
     ],
     "name:rus_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Placilla"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u897f\u4e9e"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":102018113,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749818,
     "wof:name":"Placilla",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":3132219.694878,
+    "geom:area_square_m":3132219.694877,
     "geom:bbox":"-70.2176633947,-19.6050542294,-70.1985963335,-19.5869840755",
     "geom:latitude":-19.596019,
     "geom:longitude":-70.20813,
@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Pisagua"
     ],
-    "name:dut_x_preferred":[
-        "Pisagua"
-    ],
     "name:eng_x_preferred":[
         "Pisagua"
     ],
     "name:fra_x_preferred":[
-        "Pisagua"
-    ],
-    "name:fre_x_preferred":[
-        "Pisagua"
-    ],
-    "name:ger_x_preferred":[
         "Pisagua"
     ],
     "name:ita_x_preferred":[
@@ -42,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30b5\u30b0\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Pisagua"
     ],
     "name:spa_x_preferred":[
         "Pisagua"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":102017201,
-    "wof:lastmodified":1527637780,
+    "wof:lastmodified":1561749834,
     "wof:name":"Pisagua",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

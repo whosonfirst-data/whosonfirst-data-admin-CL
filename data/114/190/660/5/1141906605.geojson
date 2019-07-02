@@ -19,25 +19,22 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0646\u0634\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Chonchi"
-    ],
     "name:cat_x_preferred":[
         "Chonchi"
     ],
-    "name:chi_x_preferred":[
-        "\u74ca\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chonchi"
     ],
     "name:eng_x_preferred":[
         "Chonchi"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Chonchi"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0646\u0686\u06cc\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Chonchi"
     ],
     "name:glg_x_preferred":[
@@ -55,19 +52,19 @@
     "name:nan_x_preferred":[
         "Chonchi"
     ],
+    "name:nld_x_preferred":[
+        "Chonchi"
+    ],
     "name:nob_x_preferred":[
         "Chonchi"
     ],
     "name:oci_x_preferred":[
         "Chonchi"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0646\u0686\u06cc\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Chonchi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chonchi"
     ],
     "name:rus_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:spa_x_preferred":[
         "Chonchi"
+    ],
+    "name:zho_x_preferred":[
+        "\u74ca\u5947"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chile",
@@ -195,7 +195,7 @@
         }
     ],
     "wof:id":1141906605,
-    "wof:lastmodified":1534531064,
+    "wof:lastmodified":1561749894,
     "wof:name":"Chonchi",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

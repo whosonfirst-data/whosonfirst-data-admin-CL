@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":5011415.589836,
+    "geom:area_square_m":5011415.58983,
     "geom:bbox":"-72.6361511878,-35.5993274144,-72.6140930709,-35.5723752449",
     "geom:latitude":-35.585852,
     "geom:longitude":-72.625122,
@@ -19,19 +19,13 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Chanco"
-    ],
     "name:cat_x_preferred":[
         "Chanco"
     ],
     "name:ceb_x_preferred":[
         "Chanco"
     ],
-    "name:chi_x_preferred":[
-        "\u9322\u79d1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chanco"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +38,6 @@
         "\u0634\u0627\u0646\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Chanco"
-    ],
-    "name:fre_x_preferred":[
-        "Chanco"
-    ],
-    "name:ger_x_preferred":[
         "Chanco"
     ],
     "name:ita_x_preferred":[
@@ -70,16 +58,10 @@
     "name:oci_x_preferred":[
         "Chanco"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0646\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Chanco"
     ],
     "name:ron_x_preferred":[
-        "Chanco"
-    ],
-    "name:rum_x_preferred":[
         "Chanco"
     ],
     "name:rus_x_preferred":[
@@ -136,7 +118,7 @@
         }
     ],
     "wof:id":102018137,
-    "wof:lastmodified":1527637581,
+    "wof:lastmodified":1561749816,
     "wof:name":"Chanco",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

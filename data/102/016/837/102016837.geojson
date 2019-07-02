@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017289,
-    "geom:area_square_m":164193459.535711,
+    "geom:area_square_m":164193459.535745,
     "geom:bbox":"-73.4168358748,-39.8976703135,-73.1407758122,-39.7108574751",
     "geom:latitude":-39.82191,
     "geom:longitude":-73.252271,
@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u062f\u064a\u0641\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u056c\u0564\u056b\u057e\u056b\u0561"
-    ],
     "name:ast_x_preferred":[
         "Valdivia"
     ],
@@ -39,9 +36,6 @@
         "Valdivia"
     ],
     "name:aze_x_preferred":[
-        "Valdivia"
-    ],
-    "name:baq_x_preferred":[
         "Valdivia"
     ],
     "name:bar_x_preferred":[
@@ -65,19 +59,16 @@
     "name:ceb_x_preferred":[
         "Valdivia"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u5c14\u8fea\u7ef4\u4e9a"
+    "name:ces_x_preferred":[
+        "Valdivia"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Valdivia"
     ],
     "name:dan_x_preferred":[
         "Valdivia"
     ],
     "name:deu_x_preferred":[
-        "Valdivia"
-    ],
-    "name:dut_x_preferred":[
         "Valdivia"
     ],
     "name:ell_x_preferred":[
@@ -107,23 +98,11 @@
     "name:fra_x_preferred":[
         "Valdivia"
     ],
-    "name:fre_x_preferred":[
-        "Valdivia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10da\u10d3\u10d8\u10d5\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Valdivia"
-    ],
     "name:gle_x_preferred":[
         "Valdivia"
     ],
     "name:glg_x_preferred":[
         "Valdivia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03bb\u03b4\u03af\u03b2\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ab2\u0acd\u0aa1\u0ac0\u0ab5\u0abf\u0aaf\u0abe"
@@ -146,8 +125,8 @@
     "name:hun_x_preferred":[
         "Valvidia"
     ],
-    "name:ice_x_preferred":[
-        "Valdivia"
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u056c\u0564\u056b\u057e\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Valdivia"
@@ -188,7 +167,7 @@
     "name:mar_x_preferred":[
         "\u0935\u0932\u094d\u0926\u093f\u0935\u094d\u0939\u093f\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Valdivia"
     ],
     "name:nah_x_preferred":[
@@ -212,9 +191,6 @@
     "name:oci_x_preferred":[
         "Valdivia"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0644\u062f\u06cc\u0628\u06cc\u0627"
-    ],
     "name:pms_x_preferred":[
         "Valdivia"
     ],
@@ -233,9 +209,6 @@
     "name:ron_x_preferred":[
         "Valdivia"
     ],
-    "name:rum_x_preferred":[
-        "Valdivia"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0434\u0438\u0432\u0438\u044f"
     ],
@@ -248,7 +221,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dbd\u0dca\u0daf\u0dd2\u0dc0\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Valdivia"
     ],
     "name:slv_x_preferred":[
@@ -297,9 +270,6 @@
         "Valdivia"
     ],
     "name:war_x_preferred":[
-        "Valdivia"
-    ],
-    "name:wel_x_preferred":[
         "Valdivia"
     ],
     "name:yid_x_preferred":[
@@ -455,7 +425,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637601,
+    "wof:lastmodified":1561749821,
     "wof:megacity":0,
     "wof:name":"Valdivia",
     "wof:parent_id":102063183,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006667,
-    "geom:area_square_m":61368255.705971,
+    "geom:area_square_m":61368255.705945,
     "geom:bbox":"-73.900589273,-42.0215751962,-73.7556521126,-41.8155432959",
     "geom:latitude":-41.895367,
     "geom:longitude":-73.821959,
@@ -27,9 +27,6 @@
     "name:aym_x_preferred":[
         "Ancud"
     ],
-    "name:baq_x_preferred":[
-        "Ancud"
-    ],
     "name:cat_x_preferred":[
         "Ancud"
     ],
@@ -39,13 +36,7 @@
     "name:ceb_x_preferred":[
         "Ancud"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5eab\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Ancud"
-    ],
-    "name:dut_x_preferred":[
         "Ancud"
     ],
     "name:ell_x_preferred":[
@@ -63,17 +54,8 @@
     "name:fra_x_preferred":[
         "Ancud"
     ],
-    "name:fre_x_preferred":[
-        "Ancud"
-    ],
-    "name:ger_x_preferred":[
-        "Ancud"
-    ],
     "name:glg_x_preferred":[
         "Ancud"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03ba\u03bf\u03cd\u03b4"
     ],
     "name:hbs_x_preferred":[
         "Ancud"
@@ -102,9 +84,6 @@
     "name:oci_x_preferred":[
         "Ancud"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u06a9\u0627\u062f"
-    ],
     "name:pms_x_preferred":[
         "Ancud"
     ],
@@ -118,9 +97,6 @@
         "Ancud"
     ],
     "name:ron_x_preferred":[
-        "Ancud"
-    ],
-    "name:rum_x_preferred":[
         "Ancud"
     ],
     "name:rus_x_preferred":[
@@ -294,7 +270,7 @@
         }
     ],
     "wof:id":102017971,
-    "wof:lastmodified":1527637775,
+    "wof:lastmodified":1561749829,
     "wof:name":"Ancud",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

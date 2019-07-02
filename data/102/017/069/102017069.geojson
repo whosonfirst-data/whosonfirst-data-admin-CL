@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004392,
-    "geom:area_square_m":44838111.807548,
+    "geom:area_square_m":44838111.807578,
     "geom:bbox":"-70.999026898,-34.3841919642,-70.8728027344,-34.3185466994",
     "geom:latitude":-34.351344,
     "geom:longitude":-70.945969,
@@ -19,16 +19,7 @@
     "name:bak_x_preferred":[
         "\u041a\u0438\u043d\u0442\u0430-\u0434\u0435-\u0422\u0438\u043b\u044c\u043a\u043e\u043a\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Quinta de Tilcoco"
-    ],
     "name:cat_x_preferred":[
-        "Quinta de Tilcoco"
-    ],
-    "name:chi_x_preferred":[
-        "\u6606\u5854\u5fb7\u8482\u723e\u79d1\u79d1"
-    ],
-    "name:dut_x_preferred":[
         "Quinta de Tilcoco"
     ],
     "name:eng_x_preferred":[
@@ -37,7 +28,7 @@
     "name:eus_x_preferred":[
         "Quinta de Tilcoco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Quinta de Tilcoco"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
         "Quinta de Tilcoco"
     ],
     "name:ron_x_preferred":[
-        "Quinta de Tilcoco"
-    ],
-    "name:rum_x_preferred":[
         "Quinta de Tilcoco"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":102017069,
-    "wof:lastmodified":1527637781,
+    "wof:lastmodified":1561749834,
     "wof:name":"Quinta de Tilcoco",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001498,
-    "geom:area_square_m":13571896.424438,
+    "geom:area_square_m":13571896.424436,
     "geom:bbox":"-73.4942994704,-42.9050905026,-73.4478394294,-42.8629362513",
     "geom:latitude":-42.885794,
     "geom:longitude":-73.47101,
@@ -19,20 +19,11 @@
     "name:arn_x_preferred":[
         "Keilen"
     ],
-    "name:baq_x_preferred":[
-        "Queil\u00e9n"
-    ],
     "name:cat_x_preferred":[
         "Queil\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u502b"
-    ],
     "name:deu_x_preferred":[
         "Queilen"
-    ],
-    "name:dut_x_preferred":[
-        "Queil\u00e9n"
     ],
     "name:eng_x_preferred":[
         "Queil\u00e9n"
@@ -40,11 +31,8 @@
     "name:eus_x_preferred":[
         "Queil\u00e9n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Queil\u00e9n"
-    ],
-    "name:ger_x_preferred":[
-        "Queilen"
     ],
     "name:glg_x_preferred":[
         "Queil\u00e9n"
@@ -73,14 +61,14 @@
     "name:ron_x_preferred":[
         "Queil\u00e9n"
     ],
-    "name:rum_x_preferred":[
-        "Queil\u00e9n"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0439\u043b\u0435\u043d"
     ],
     "name:spa_x_preferred":[
         "Queil\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u502b"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Los Lagos",
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":102017099,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1561749827,
     "wof:name":"Queil\u00e9n",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

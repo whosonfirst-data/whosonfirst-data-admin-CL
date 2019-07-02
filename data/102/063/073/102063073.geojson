@@ -32,18 +32,6 @@
     "mps:longitude":-69.54374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u057f\u0578\u0586\u0561\u0563\u0561\u057d\u057f\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Antofagasta probintzia"
-    ],
-    "name:chi_x_preferred":[
-        "\u5b89\u6258\u6cd5\u52a0\u65af\u5854\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Antofagasta"
-    ],
     "name:eng_x_preferred":[
         "Antofagasta"
     ],
@@ -54,17 +42,26 @@
     "name:epo_x_preferred":[
         "Antofagasta"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Antofagasta probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0646\u062a\u0648\u0641\u0627\u06af\u0627\u0633\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
         "province d'Antofagasta"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10dd\u10e4\u10d0\u10d2\u10d0\u10e1\u10e2\u10d0"
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u057f\u0578\u0586\u0561\u0563\u0561\u057d\u057f\u0561"
     ],
     "name:ita_x_preferred":[
         "provincia di Antofagasta"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c8\u30d5\u30a1\u30ac\u30b9\u30bf\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10dd\u10e4\u10d0\u10d2\u10d0\u10e1\u10e2\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc548\ud1a0\ud30c\uac00\uc2a4\ud0c0 \ud604"
@@ -75,11 +72,11 @@
     "name:nan_x_preferred":[
         "Antofagasta"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Antofagasta"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0646\u062a\u0648\u0641\u0627\u06af\u0627\u0633\u062a\u0627"
+    "name:nob_x_preferred":[
+        "Antofagasta"
     ],
     "name:pol_x_preferred":[
         "Antofagasta"
@@ -87,7 +84,7 @@
     "name:por_x_preferred":[
         "Antofagasta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Antofagasta"
     ],
     "name:rus_x_preferred":[
@@ -110,6 +107,9 @@
     ],
     "name:war_x_preferred":[
         "Antofagasta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6258\u6cd5\u52a0\u65af\u5854\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DE ANTOFAGASTA",
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":102063073,
-    "wof:lastmodified":1555039012,
+    "wof:lastmodified":1561749793,
     "wof:name":"Antofagasta",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

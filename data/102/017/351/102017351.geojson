@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001413,
-    "geom:area_square_m":13821846.745916,
+    "geom:area_square_m":13821846.745914,
     "geom:bbox":"-72.2739076427,-37.734110709,-72.2265196561,-37.6878578818",
     "geom:latitude":-37.714728,
     "geom:longitude":-72.248854,
@@ -20,22 +20,13 @@
     "name:arn_x_preferred":[
         "Molchen"
     ],
-    "name:baq_x_preferred":[
-        "Mulch\u00e9n"
-    ],
     "name:cat_x_preferred":[
         "Mulch\u00e9n"
     ],
     "name:ceb_x_preferred":[
         "Mulch\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u723e\u7434"
-    ],
     "name:deu_x_preferred":[
-        "Mulch\u00e9n"
-    ],
-    "name:dut_x_preferred":[
         "Mulch\u00e9n"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +35,7 @@
     "name:eus_x_preferred":[
         "Mulch\u00e9n"
     ],
-    "name:fre_x_preferred":[
-        "Mulch\u00e9n"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mulch\u00e9n"
     ],
     "name:ita_x_preferred":[
@@ -74,9 +62,6 @@
     "name:ron_x_preferred":[
         "Mulch\u00e9n"
     ],
-    "name:rum_x_preferred":[
-        "Mulch\u00e9n"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u043b\u044c\u0447\u0435\u043d"
     ],
@@ -91,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Mulch\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u723e\u7434"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Biobio",
@@ -144,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749831,
     "wof:name":"Mulch\u00e9n",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

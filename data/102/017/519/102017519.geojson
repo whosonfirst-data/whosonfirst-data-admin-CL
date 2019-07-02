@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001352,
-    "geom:area_square_m":13816541.984069,
+    "geom:area_square_m":13816541.98407,
     "geom:bbox":"-71.3395912694,-34.3048104548,-71.273932508,-34.2754419537",
     "geom:latitude":-34.290533,
     "geom:longitude":-71.307779,
@@ -19,19 +19,13 @@
     "name:bak_x_preferred":[
         "\u041b\u0430\u0441-\u041a\u0430\u0431\u0440\u0430\u0441"
     ],
-    "name:baq_x_preferred":[
-        "Las Cabras"
-    ],
     "name:cat_x_preferred":[
         "Las Cabras"
     ],
     "name:ceb_x_preferred":[
         "Las Cabras"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u5361\u5e03\u62c9\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Las Cabras"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,7 @@
     "name:eus_x_preferred":[
         "Las Cabras"
     ],
-    "name:fre_x_preferred":[
-        "Las Cabras"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Cabras"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
         "Las Cabras"
     ],
     "name:ron_x_preferred":[
-        "Las Cabras"
-    ],
-    "name:rum_x_preferred":[
         "Las Cabras"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +123,7 @@
         }
     ],
     "wof:id":102017519,
-    "wof:lastmodified":1527637775,
+    "wof:lastmodified":1561749828,
     "wof:name":"Las Cabras",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

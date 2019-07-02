@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00155,
-    "geom:area_square_m":15282992.25715,
+    "geom:area_square_m":15282992.257133,
     "geom:bbox":"-72.4495962205,-37.1123890055,-72.3721817482,-37.0768524515",
     "geom:latitude":-37.094001,
     "geom:longitude":-72.414243,
@@ -19,13 +19,10 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0644 \u0627\u0644\u0646\u0633\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0565\u057c\u0561\u0576 \u0561\u0580\u056e\u056b\u057e"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u0997\u09be\u099f\u09a8 \u0997\u09b2"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mount Eagle"
     ],
     "name:eng_x_preferred":[
@@ -34,11 +31,14 @@
     "name:epo_x_preferred":[
         "Monto Aglo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Monte Aguila"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e0\u05d8\u05d4 \u05d0\u05d2\u05d0\u05d9\u05dc\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u057c\u0561\u0576 \u0561\u0580\u056e\u056b\u057e"
     ],
     "name:ita_x_preferred":[
         "Monte Aquila"
@@ -120,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1513937743,
+    "wof:lastmodified":1561749823,
     "wof:name":"Monte \u00c1guila",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

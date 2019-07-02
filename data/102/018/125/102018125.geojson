@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":3119807.866921,
+    "geom:area_square_m":3119807.86692,
     "geom:bbox":"-71.7131916467,-34.8183007773,-71.6913492384,-34.8002854437",
     "geom:latitude":-34.809293,
     "geom:longitude":-71.70227,
@@ -19,9 +19,6 @@
     "name:afr_x_preferred":[
         "Lolol"
     ],
-    "name:alb_x_preferred":[
-        "Lolol"
-    ],
     "name:arg_x_preferred":[
         "Lolol"
     ],
@@ -33,9 +30,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041b\u043e\u043b\u043e\u043b\u044c"
-    ],
-    "name:baq_x_preferred":[
-        "Lolol"
     ],
     "name:bar_x_preferred":[
         "Lolol"
@@ -52,13 +46,13 @@
     "name:ceb_x_preferred":[
         "Lolol"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u6d1b\u723e"
+    "name:ces_x_preferred":[
+        "Lolol"
     ],
     "name:cos_x_preferred":[
         "Lolol"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Lolol"
     ],
     "name:dan_x_preferred":[
@@ -68,9 +62,6 @@
         "Lolol"
     ],
     "name:dsb_x_preferred":[
-        "Lolol"
-    ],
-    "name:dut_x_preferred":[
         "Lolol"
     ],
     "name:eml_x_preferred":[
@@ -97,16 +88,10 @@
     "name:fra_x_preferred":[
         "Lolol"
     ],
-    "name:fre_x_preferred":[
-        "Lolol"
-    ],
     "name:frr_x_preferred":[
         "Lolol"
     ],
     "name:fry_x_preferred":[
-        "Lolol"
-    ],
-    "name:ger_x_preferred":[
         "Lolol"
     ],
     "name:glg_x_preferred":[
@@ -124,10 +109,10 @@
     "name:hun_x_preferred":[
         "Lolol"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Lolol"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Lolol"
     ],
     "name:ita_x_preferred":[
@@ -187,9 +172,6 @@
     "name:ron_x_preferred":[
         "Lolol"
     ],
-    "name:rum_x_preferred":[
-        "Lolol"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043b\u043e\u043b\u044c"
     ],
@@ -199,7 +181,7 @@
     "name:sco_x_preferred":[
         "Lolol"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lolol"
     ],
     "name:slv_x_preferred":[
@@ -209,6 +191,9 @@
         "Lolol"
     ],
     "name:spa_x_preferred":[
+        "Lolol"
+    ],
+    "name:sqi_x_preferred":[
         "Lolol"
     ],
     "name:srd_x_preferred":[
@@ -224,9 +209,6 @@
         "Lolol"
     ],
     "name:vls_x_preferred":[
-        "Lolol"
-    ],
-    "name:wel_x_preferred":[
         "Lolol"
     ],
     "name:wln_x_preferred":[
@@ -276,7 +258,7 @@
         }
     ],
     "wof:id":102018125,
-    "wof:lastmodified":1527637585,
+    "wof:lastmodified":1561749818,
     "wof:name":"Lolol",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

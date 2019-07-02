@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
-    "geom:area_square_m":3693218.682577,
+    "geom:area_square_m":3693218.68257,
     "geom:bbox":"-71.54296875,-32.981020149,-71.5209960938,-32.9533681458",
     "geom:latitude":-32.968134,
     "geom:longitude":-71.529526,
@@ -31,16 +31,10 @@
     "name:fra_x_preferred":[
         "Re\u00f1aca"
     ],
-    "name:fre_x_preferred":[
-        "Re\u00f1aca"
-    ],
     "name:glg_x_preferred":[
         "Re\u00f1aca"
     ],
     "name:ron_x_preferred":[
-        "Re\u00f1aca"
-    ],
-    "name:rum_x_preferred":[
         "Re\u00f1aca"
     ],
     "name:spa_x_preferred":[
@@ -83,7 +77,7 @@
         }
     ],
     "wof:id":102017039,
-    "wof:lastmodified":1513937875,
+    "wof:lastmodified":1561749828,
     "wof:name":"Re\u00f1aca",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

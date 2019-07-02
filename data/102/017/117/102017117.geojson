@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000925,
-    "geom:area_square_m":9005764.866496,
+    "geom:area_square_m":9005764.866498,
     "geom:bbox":"-73.0896967011,-38.0527727084,-73.0504409036,-38.0196144792",
     "geom:latitude":-38.03496,
     "geom:longitude":-73.070667,
@@ -16,16 +16,10 @@
     "mps:longitude":-73.071041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pur\u00e9n"
-    ],
     "name:cat_x_preferred":[
         "Pur\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u502b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pur\u00e9n"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
         "Pur\u00e9n"
     ],
     "name:fra_x_preferred":[
-        "Pur\u00e9n"
-    ],
-    "name:fre_x_preferred":[
-        "Pur\u00e9n"
-    ],
-    "name:ger_x_preferred":[
         "Pur\u00e9n"
     ],
     "name:ita_x_preferred":[
@@ -67,14 +55,14 @@
     "name:ron_x_preferred":[
         "Pur\u00e9n"
     ],
-    "name:rum_x_preferred":[
-        "Pur\u00e9n"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u0440\u0435\u043d"
     ],
     "name:spa_x_preferred":[
         "Pur\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u502b"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Araucania",
@@ -123,7 +111,7 @@
         }
     ],
     "wof:id":102017117,
-    "wof:lastmodified":1527637776,
+    "wof:lastmodified":1561749829,
     "wof:name":"Pur\u00e9n",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

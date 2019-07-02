@@ -32,9 +32,6 @@
     "mps:longitude":-71.840339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u0578\u0562\u056b\u0578"
-    ],
     "name:aym_x_preferred":[
         "Biob\u00edo jisk'a suyu"
     ],
@@ -44,14 +41,11 @@
     "name:cat_x_preferred":[
         "B\u00edo-B\u00edo"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u5967\u6bd4\u5967\u7701"
-    ],
     "name:deu_x_preferred":[
         "B\u00edo-B\u00edo"
     ],
-    "name:dut_x_preferred":[
-        "Biob\u00edo"
+    "name:deu_x_variant":[
+        "Provinz Biob\u00edo"
     ],
     "name:eng_x_preferred":[
         "Biob\u00edo"
@@ -64,20 +58,17 @@
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0648\u0628\u06cc\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Biob\u00edo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10dd-\u10d1\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Biob\u00edo"
     ],
     "name:hat_x_preferred":[
         "Biob\u00edo"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d5\u05d1\u05d9\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0578\u0562\u056b\u0578"
     ],
     "name:ita_x_preferred":[
         "provincia di Biob\u00edo"
@@ -118,7 +109,7 @@
     "name:que_x_preferred":[
         "Biyubiyu pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Biob\u00edo"
     ],
     "name:rus_x_preferred":[
@@ -138,6 +129,9 @@
     ],
     "name:war_x_preferred":[
         "Biob\u00edo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5967\u6bd4\u5967\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DEL BIO-BIO",
@@ -184,7 +178,7 @@
         }
     ],
     "wof:id":102063151,
-    "wof:lastmodified":1555039000,
+    "wof:lastmodified":1561749751,
     "wof:name":"B\u00edo-B\u00edo",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

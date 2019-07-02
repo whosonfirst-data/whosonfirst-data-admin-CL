@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000299,
-    "geom:area_square_m":3123801.296289,
+    "geom:area_square_m":3123801.296288,
     "geom:bbox":"-70.8669481481,-32.3843386855,-70.8456982539,-32.366305631",
     "geom:latitude":-32.375322,
     "geom:longitude":-70.856323,
@@ -19,28 +19,19 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u064a\u0644\u062f\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Cabildo"
-    ],
     "name:cat_x_preferred":[
         "Cabildo"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u6bd4\u723e\u591a"
-    ],
     "name:deu_x_preferred":[
-        "Cabildo"
-    ],
-    "name:dut_x_preferred":[
         "Cabildo"
     ],
     "name:eng_x_preferred":[
         "Cabildo"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Cabildo"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cabildo"
     ],
     "name:ita_x_preferred":[
@@ -58,13 +49,16 @@
     "name:nan_x_preferred":[
         "Cabildo"
     ],
+    "name:nld_x_preferred":[
+        "Cabildo"
+    ],
     "name:oci_x_preferred":[
         "Cabildo"
     ],
     "name:por_x_preferred":[
         "Cabildo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cabildo"
     ],
     "name:rus_x_preferred":[
@@ -75,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Cabildo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6bd4\u723e\u591a"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -114,7 +111,7 @@
         }
     ],
     "wof:id":102018093,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749817,
     "wof:name":"Cabildo",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

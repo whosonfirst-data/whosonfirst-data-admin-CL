@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001208,
-    "geom:area_square_m":12336982.841022,
+    "geom:area_square_m":12336982.841026,
     "geom:bbox":"-71.4082684355,-34.3980695656,-71.3728078889,-34.2754424506",
     "geom:latitude":-34.327748,
     "geom:longitude":-71.387496,
@@ -19,9 +19,6 @@
     "name:bak_x_preferred":[
         "\u041f\u0438\u0447\u0438\u0434\u0435\u0433\u0443\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Pichidegua"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u0447\u0438\u0434\u0435\u0433\u0443\u0430"
     ],
@@ -31,19 +28,13 @@
     "name:ceb_x_preferred":[
         "Pichidegua"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u5947\u5fb7\u74dc"
-    ],
-    "name:dut_x_preferred":[
-        "Pichidegua"
-    ],
     "name:eng_x_preferred":[
         "Pichidegua"
     ],
     "name:eus_x_preferred":[
         "Pichidegua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pichidegua"
     ],
     "name:ita_x_preferred":[
@@ -65,9 +56,6 @@
         "Pichidegua"
     ],
     "name:ron_x_preferred":[
-        "Pichidegua"
-    ],
-    "name:rum_x_preferred":[
         "Pichidegua"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":102018115,
-    "wof:lastmodified":1527637584,
+    "wof:lastmodified":1561749818,
     "wof:name":"Pichidegua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

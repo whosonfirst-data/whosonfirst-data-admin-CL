@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019771,
-    "geom:area_square_m":146799369.008249,
+    "geom:area_square_m":146799369.008176,
     "geom:bbox":"-70.9701784685,-53.2577658237,-70.7974873387,-52.9363429212",
     "geom:latitude":-53.097154,
     "geom:longitude":-70.891771,
@@ -48,9 +48,6 @@
     "name:aym_x_preferred":[
         "Punta Arenas"
     ],
-    "name:baq_x_preferred":[
-        "Punta Arenas"
-    ],
     "name:bar_x_preferred":[
         "Punta Arenas"
     ],
@@ -78,13 +75,7 @@
     "name:ces_x_preferred":[
         "Punta Arenas"
     ],
-    "name:chi_x_preferred":[
-        "\u84ec\u5854\u963f\u96f7\u7eb3\u65af"
-    ],
     "name:cym_x_preferred":[
-        "Punta Arenas"
-    ],
-    "name:cze_x_preferred":[
         "Punta Arenas"
     ],
     "name:dan_x_preferred":[
@@ -94,9 +85,6 @@
         "Punta Arenas"
     ],
     "name:diq_x_preferred":[
-        "Punta Arenas"
-    ],
-    "name:dut_x_preferred":[
         "Punta Arenas"
     ],
     "name:ell_x_preferred":[
@@ -126,18 +114,6 @@
     "name:fra_x_preferred":[
         "Punta Arenas"
     ],
-    "name:fre_x_preferred":[
-        "Punta Arenas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10dc\u10e2\u10d0-\u10d0\u10e0\u10d4\u10dc\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Punta Arenas"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03cd\u03bd\u03c4\u03b1 \u0391\u03c1\u03ad\u03bd\u03b1\u03c2"
-    ],
     "name:grn_x_preferred":[
         "Punta Arenas"
     ],
@@ -163,9 +139,6 @@
         "Punta Arenas"
     ],
     "name:hun_x_preferred":[
-        "Punta Arenas"
-    ],
-    "name:ice_x_preferred":[
         "Punta Arenas"
     ],
     "name:ind_x_preferred":[
@@ -208,14 +181,14 @@
     "name:mar_x_preferred":[
         "\u092a\u0902\u091f\u093e \u090f\u0930\u0947\u0928\u093e\u0938"
     ],
-    "name:may_x_preferred":[
-        "Punta Arenas"
-    ],
     "name:mon_x_preferred":[
         "\u041f\u0443\u043d\u0442\u0430 \u0410\u0440\u0435\u043d\u0430\u0441"
     ],
     "name:mrj_x_preferred":[
         "\u041f\u0443\u043d\u0442\u0430 \u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Punta Arenas"
     ],
     "name:nah_x_preferred":[
         "Punta Arenas"
@@ -244,9 +217,6 @@
     "name:oss_x_preferred":[
         "\u041f\u0443\u043d\u0442\u0430-\u0410\u0440\u0435\u043d\u0430\u0441"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0646\u062a\u0627 \u0622\u0631\u0646\u0627\u0633"
-    ],
     "name:pms_x_preferred":[
         "Punta Arenas"
     ],
@@ -265,9 +235,6 @@
     "name:ron_x_preferred":[
         "Punta Arenas"
     ],
-    "name:rum_x_preferred":[
-        "Punta Arenas"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u043d\u0442\u0430-\u0410\u0440\u0435\u043d\u0430\u0441"
     ],
@@ -284,9 +251,6 @@
         "\u0db4\u0dd4\u0db1\u0dca\u0da7\u0dcf \u0d87\u0dbb\u0dd3\u0db1\u0dcf\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Punta Arenas"
-    ],
-    "name:slo_x_preferred":[
         "Punta Arenas"
     ],
     "name:slv_x_preferred":[
@@ -339,9 +303,6 @@
         "Punta Arenas"
     ],
     "name:war_x_preferred":[
-        "Punta Arenas"
-    ],
-    "name:wel_x_preferred":[
         "Punta Arenas"
     ],
     "name:yid_x_preferred":[
@@ -511,7 +472,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1513937858,
+    "wof:lastmodified":1561749835,
     "wof:megacity":0,
     "wof:name":"Punta Arenas",
     "wof:parent_id":102063075,

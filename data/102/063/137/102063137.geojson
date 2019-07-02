@@ -33,23 +33,11 @@
     "mps:longitude":-70.167012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0580\u0564\u056b\u056c\u0575\u0565\u0580\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Cordillera probintzia"
-    ],
     "name:bos_x_preferred":[
         "Kordiljeri"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u8fea\u52d2\u62c9\u7701"
-    ],
     "name:deu_x_preferred":[
         "Kordillere"
-    ],
-    "name:dut_x_preferred":[
-        "Cordillera"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c1\u03b4\u03b9\u03bb\u03b9\u03ad\u03c1\u03b1"
@@ -64,14 +52,20 @@
     "name:epo_x_preferred":[
         "Kordilero"
     ],
+    "name:eus_x_preferred":[
+        "Cordillera probintzia"
+    ],
     "name:fra_x_preferred":[
         "Cordill\u00e8re"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province de Cordillera"
     ],
     "name:hun_x_preferred":[
         "Kordiller\u00e1k"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0580\u0564\u056b\u056c\u0575\u0565\u0580\u0561"
     ],
     "name:ita_x_preferred":[
         "provincia di Cordillera"
@@ -85,6 +79,9 @@
     "name:nan_x_preferred":[
         "Cordillera"
     ],
+    "name:nld_x_preferred":[
+        "Cordillera"
+    ],
     "name:nob_x_preferred":[
         "Provincia de Cordillera"
     ],
@@ -94,7 +91,7 @@
     "name:por_x_preferred":[
         "Cordillera"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Cordillera"
     ],
     "name:rus_x_preferred":[
@@ -117,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Cordillera"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u8fea\u52d2\u62c9\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"METROPOLITANA",
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":102063137,
-    "wof:lastmodified":1554488626,
+    "wof:lastmodified":1561749781,
     "wof:name":"Cordillera",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

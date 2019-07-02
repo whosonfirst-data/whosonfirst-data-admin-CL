@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002444,
-    "geom:area_square_m":24216925.416385,
+    "geom:area_square_m":24216925.416384,
     "geom:bbox":"-72.3286991919,-36.7874971313,-72.2733558709,-36.7254769613",
     "geom:latitude":-36.755428,
     "geom:longitude":-72.304443,
@@ -20,35 +20,23 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0646\u064a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u056c\u0576\u0565\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Bulnes"
-    ],
     "name:cat_x_preferred":[
         "Bulnes"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u723e\u5167\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Bulnes"
-    ],
-    "name:dut_x_preferred":[
         "Bulnes"
     ],
     "name:eng_x_preferred":[
         "Bulnes"
     ],
+    "name:eus_x_preferred":[
+        "Bulnes"
+    ],
     "name:fra_x_preferred":[
         "Bulnes"
     ],
-    "name:fre_x_preferred":[
-        "Bulnes"
-    ],
-    "name:ger_x_preferred":[
-        "Bulnes"
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u056c\u0576\u0565\u057d"
     ],
     "name:ita_x_preferred":[
         "Bulnes"
@@ -62,6 +50,9 @@
     "name:nan_x_preferred":[
         "Bulnes"
     ],
+    "name:nld_x_preferred":[
+        "Bulnes"
+    ],
     "name:oci_x_preferred":[
         "Bulnes"
     ],
@@ -71,7 +62,7 @@
     "name:por_x_preferred":[
         "Bulnes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bulnes"
     ],
     "name:rus_x_preferred":[
@@ -82,6 +73,9 @@
     ],
     "name:swe_x_preferred":[
         "Bulnes"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u723e\u5167\u65af"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Biobio",
@@ -130,7 +124,7 @@
         }
     ],
     "wof:id":102017927,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749835,
     "wof:name":"Bulnes",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

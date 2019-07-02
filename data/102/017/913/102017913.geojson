@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002528,
-    "geom:area_square_m":25770333.512041,
+    "geom:area_square_m":25770333.512036,
     "geom:bbox":"-72.0427330127,-34.511035528,-71.9880243107,-34.4278521509",
     "geom:latitude":-34.468202,
     "geom:longitude":-72.01498,
@@ -19,7 +19,7 @@
     "name:arn_x_preferred":[
         "penepenepenepenepene"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "C\u00e1huil"
     ],
     "name:eng_x_preferred":[
@@ -28,14 +28,11 @@
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0648\u06cc\u0644"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "C\u00e1huil"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "C\u00e1huil"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0648\u06cc\u0644"
     ],
     "name:por_x_preferred":[
         "C\u00e1huil"
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":102017913,
-    "wof:lastmodified":1527637776,
+    "wof:lastmodified":1561749829,
     "wof:name":"C\u00e1huil",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

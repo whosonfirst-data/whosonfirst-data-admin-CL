@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004227,
-    "geom:area_square_m":43191482.151527,
+    "geom:area_square_m":43191482.151547,
     "geom:bbox":"-71.1198686659,-34.3116186959,-70.9992758551,-34.2435947297",
     "geom:latitude":-34.279812,
     "geom:longitude":-71.064633,
@@ -22,19 +22,13 @@
     "name:bak_x_preferred":[
         "\u041a\u043e\u043b\u044c\u0442\u0430\u0443\u043a\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Coltauco"
-    ],
     "name:cat_x_preferred":[
         "Coltauco"
     ],
     "name:ceb_x_preferred":[
         "Coltauco"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u723e\u9676\u79d1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Coltauco"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +40,7 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0644\u062a\u0627\u06cc\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Coltauco"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Coltauco"
     ],
     "name:ita_x_preferred":[
@@ -67,16 +58,10 @@
     "name:oci_x_preferred":[
         "Coltauco"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0644\u062a\u0627\u06cc\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Coltauco"
     ],
     "name:ron_x_preferred":[
-        "Coltauco"
-    ],
-    "name:rum_x_preferred":[
         "Coltauco"
     ],
     "name:rus_x_preferred":[
@@ -144,7 +129,7 @@
         }
     ],
     "wof:id":102017767,
-    "wof:lastmodified":1527637777,
+    "wof:lastmodified":1561749830,
     "wof:name":"Coltauco",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

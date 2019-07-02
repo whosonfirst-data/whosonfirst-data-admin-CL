@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000324,
-    "geom:area_square_m":3118205.391545,
+    "geom:area_square_m":3118205.391546,
     "geom:bbox":"-72.5817184874,-38.9470515769,-72.5586625095,-38.9290449147",
     "geom:latitude":-38.938048,
     "geom:longitude":-72.57019,
@@ -19,19 +19,13 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u0631\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Freire"
-    ],
     "name:cat_x_preferred":[
         "Freire"
     ],
     "name:ceb_x_preferred":[
         "Freire"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u96f7\u96f7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Freire"
     ],
     "name:eng_x_preferred":[
@@ -43,10 +37,7 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u06cc\u0631\u06cc\u060c \u0634\u06cc\u0644\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Freire"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Freire"
     ],
     "name:ita_x_preferred":[
@@ -70,16 +61,10 @@
     "name:oci_x_preferred":[
         "Freire"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u06cc\u0631\u06cc\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Freire"
     ],
     "name:ron_x_preferred":[
-        "Freire"
-    ],
-    "name:rum_x_preferred":[
         "Freire"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +124,7 @@
         }
     ],
     "wof:id":102018197,
-    "wof:lastmodified":1553815718,
+    "wof:lastmodified":1561749816,
     "wof:name":"Freire",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

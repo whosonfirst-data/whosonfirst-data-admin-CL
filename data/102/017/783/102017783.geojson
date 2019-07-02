@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005178,
-    "geom:area_square_m":51983419.794163,
+    "geom:area_square_m":51983419.794092,
     "geom:bbox":"-71.4414098637,-35.7778088505,-71.3726219813,-35.6438241259",
     "geom:latitude":-35.712362,
     "geom:longitude":-71.408693,
@@ -26,10 +26,7 @@
     "name:ceb_x_preferred":[
         "Colb\u00fan"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u723e\u6587"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Colb\u00fan"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +36,6 @@
         "\u06a9\u0648\u0644\u0628\u0648\u0646\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Colb\u00fan"
-    ],
-    "name:fre_x_preferred":[
-        "Colb\u00fan"
-    ],
-    "name:ger_x_preferred":[
         "Colb\u00fan"
     ],
     "name:ita_x_preferred":[
@@ -65,16 +56,10 @@
     "name:oci_x_preferred":[
         "Colb\u00fan"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0644\u0628\u0648\u0646\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Colb\u00fan"
     ],
     "name:ron_x_preferred":[
-        "Colb\u00fan"
-    ],
-    "name:rum_x_preferred":[
         "Colb\u00fan"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +122,7 @@
         }
     ],
     "wof:id":102017783,
-    "wof:lastmodified":1527637776,
+    "wof:lastmodified":1561749829,
     "wof:name":"Colb\u00fan",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

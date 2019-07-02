@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004516,
-    "geom:area_square_m":46025177.505916,
+    "geom:area_square_m":46025177.505893,
     "geom:bbox":"-71.5044106401,-34.5200932673,-71.3508116124,-34.429617975",
     "geom:latitude":-34.482216,
     "geom:longitude":-71.420108,
@@ -19,19 +19,10 @@
     "name:bak_x_preferred":[
         "\u041f\u0435\u0440\u0430\u043b\u0438\u043b\u044c\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Peralillo"
-    ],
     "name:cat_x_preferred":[
         "Peralillo"
     ],
     "name:ceb_x_preferred":[
-        "Peralillo"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f69\u62c9\u5229\u7d04"
-    ],
-    "name:dut_x_preferred":[
         "Peralillo"
     ],
     "name:eng_x_preferred":[
@@ -40,7 +31,7 @@
     "name:eus_x_preferred":[
         "Peralillo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Peralillo"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
         "Peralillo"
     ],
     "name:ron_x_preferred":[
-        "Peralillo"
-    ],
-    "name:rum_x_preferred":[
         "Peralillo"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":102017237,
-    "wof:lastmodified":1527637780,
+    "wof:lastmodified":1561749834,
     "wof:name":"Peralillo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

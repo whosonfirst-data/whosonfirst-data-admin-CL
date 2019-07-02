@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003612,
-    "geom:area_square_m":38658918.904703,
+    "geom:area_square_m":38658918.904692,
     "geom:bbox":"-70.5480860072,-30.1303944227,-70.4504388088,-29.9930022846",
     "geom:latitude":-30.065102,
     "geom:longitude":-70.499385,
@@ -19,15 +19,6 @@
     "name:bak_x_preferred":[
         "\u041f\u0430\u0439\u0433\u0443\u0430\u043d\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Paiguano"
-    ],
-    "name:chi_x_preferred":[
-        "\u6d3e\u74e6\u8afe"
-    ],
-    "name:dut_x_preferred":[
-        "Paihuano"
-    ],
     "name:eng_x_preferred":[
         "Paiguano"
     ],
@@ -37,7 +28,7 @@
     "name:eus_x_preferred":[
         "Paiguano"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Paiguano"
     ],
     "name:ita_x_preferred":[
@@ -68,9 +59,6 @@
         "Paiguano"
     ],
     "name:ron_x_preferred":[
-        "Paiguano"
-    ],
-    "name:rum_x_preferred":[
         "Paiguano"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +123,7 @@
         }
     ],
     "wof:id":102017287,
-    "wof:lastmodified":1527637771,
+    "wof:lastmodified":1561749825,
     "wof:name":"Paiguano",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

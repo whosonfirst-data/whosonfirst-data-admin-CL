@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001162,
-    "geom:area_square_m":11049500.166011,
+    "geom:area_square_m":11049500.166009,
     "geom:bbox":"-71.867736351,-39.754209083,-71.8334352458,-39.7108643267",
     "geom:latitude":-39.73463,
     "geom:longitude":-71.852421,
@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Liqui\u00f1e"
     ],
-    "name:dut_x_preferred":[
-        "Liqui\u00f1e"
-    ],
     "name:eng_x_preferred":[
         "Liqui\u00f1e"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Liqui\u00f1e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Liqui\u00f1e"
     ],
     "name:spa_x_preferred":[
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":102017473,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1561749833,
     "wof:name":"Liqui\u00f1e",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

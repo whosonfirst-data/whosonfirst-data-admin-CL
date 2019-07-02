@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001897,
-    "geom:area_square_m":16134905.541423,
+    "geom:area_square_m":16134905.541409,
     "geom:bbox":"-71.7482564549,-46.5565169883,-71.689241166,-46.4931840614",
     "geom:latitude":-46.533229,
     "geom:longitude":-71.722369,
@@ -20,22 +20,13 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0644\u064a \u0634\u064a\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Chile Chico"
-    ],
     "name:cat_x_preferred":[
         "Chile Chico"
     ],
     "name:ceb_x_preferred":[
         "Chile Chico"
     ],
-    "name:chi_x_preferred":[
-        "\u5c0f\u667a\u5229"
-    ],
     "name:deu_x_preferred":[
-        "Chile Chico"
-    ],
-    "name:dut_x_preferred":[
         "Chile Chico"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "\u0634\u06cc\u0644\u06cc \u0634\u06cc\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Chile Chico"
-    ],
-    "name:fre_x_preferred":[
-        "Chile Chico"
-    ],
-    "name:ger_x_preferred":[
         "Chile Chico"
     ],
     "name:ita_x_preferred":[
@@ -77,9 +62,6 @@
     "name:oci_x_preferred":[
         "Chile Chico"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0644\u06cc \u0634\u06cc\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Chile Chico"
     ],
@@ -87,9 +69,6 @@
         "Chile Chico"
     ],
     "name:ron_x_preferred":[
-        "Chile Chico"
-    ],
-    "name:rum_x_preferred":[
         "Chile Chico"
     ],
     "name:rus_x_preferred":[
@@ -161,7 +140,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637771,
+    "wof:lastmodified":1561749824,
     "wof:name":"Chile Chico",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

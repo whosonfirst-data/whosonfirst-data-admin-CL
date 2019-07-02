@@ -33,17 +33,8 @@
     "mps:longitude":-70.885109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0574\u0561\u0580\u056b"
-    ],
     "name:bak_x_preferred":[
         "\u041b\u0438\u043c\u0430\u0440\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u5229\u99ac\u91cc\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Limar\u00ed"
     ],
     "name:eng_x_preferred":[
         "Limar\u00ed"
@@ -53,17 +44,23 @@
         "Limar\u00ed",
         "Limar\u00ed Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u06cc\u0645\u0627\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "province de Limar\u00ed"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10d0\u10e0\u10d8"
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u0561\u0580\u056b"
     ],
     "name:ita_x_preferred":[
         "provincia di Limar\u00ed"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30de\u30ea\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10db\u10d0\u10e0\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ub9c8\ub9ac \ud604"
@@ -74,11 +71,11 @@
     "name:nan_x_preferred":[
         "Limar\u00ed"
     ],
+    "name:nld_x_preferred":[
+        "Limar\u00ed"
+    ],
     "name:nob_x_preferred":[
         "Provincia de Limar\u00ed"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0644\u06cc\u0645\u0627\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Limar\u00ed"
@@ -86,7 +83,7 @@
     "name:por_x_preferred":[
         "Limar\u00ed"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Limar\u00ed"
     ],
     "name:rus_x_preferred":[
@@ -106,6 +103,9 @@
     ],
     "name:war_x_preferred":[
         "Limar\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u99ac\u91cc\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DE COQUIMBO",
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":102063113,
-    "wof:lastmodified":1555039005,
+    "wof:lastmodified":1561749807,
     "wof:name":"Limar\u00ed",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

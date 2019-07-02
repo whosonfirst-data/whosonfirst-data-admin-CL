@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00573,
-    "geom:area_square_m":63066206.060131,
+    "geom:area_square_m":63066206.060115,
     "geom:bbox":"-70.8773933542,-27.1903795344,-70.7803218632,-27.0452097609",
     "geom:latitude":-27.107057,
     "geom:longitude":-70.828372,
@@ -26,22 +26,13 @@
     "name:bak_x_variant":[
         "\u041a\u0430\u043b\u044c\u0434\u0435\u0440\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Caldera"
-    ],
     "name:cat_x_preferred":[
         "Caldera"
     ],
     "name:ceb_x_preferred":[
         "Caldera"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u723e\u5fb7\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Caldera"
-    ],
-    "name:dut_x_preferred":[
         "Caldera"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "Caldera"
     ],
     "name:fra_x_preferred":[
-        "Caldera"
-    ],
-    "name:fre_x_preferred":[
-        "Caldera"
-    ],
-    "name:ger_x_preferred":[
         "Caldera"
     ],
     "name:ita_x_preferred":[
@@ -84,9 +69,6 @@
         "Caldera"
     ],
     "name:ron_x_preferred":[
-        "Caldera"
-    ],
-    "name:rum_x_preferred":[
         "Caldera"
     ],
     "name:rus_x_preferred":[
@@ -243,7 +225,7 @@
         }
     ],
     "wof:id":102017899,
-    "wof:lastmodified":1534379257,
+    "wof:lastmodified":1561749834,
     "wof:name":"Caldera",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

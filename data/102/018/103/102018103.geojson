@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001184,
-    "geom:area_square_m":12115507.040015,
+    "geom:area_square_m":12115507.040024,
     "geom:bbox":"-71.7460610459,-34.1390031203,-71.7024249556,-34.1005219133",
     "geom:latitude":-34.118869,
     "geom:longitude":-71.725297,
@@ -22,9 +22,6 @@
     "name:bak_x_preferred":[
         "\u041b\u0438\u0442\u0443\u044d\u0447\u0435"
     ],
-    "name:baq_x_preferred":[
-        "Litueche"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u0442\u0443\u0435\u0447\u0435"
     ],
@@ -34,10 +31,7 @@
     "name:ceb_x_preferred":[
         "Litueche"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u5716\u57c3\u5207"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Litueche"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +40,7 @@
     "name:eus_x_preferred":[
         "Litueche"
     ],
-    "name:fre_x_preferred":[
-        "Litueche"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Litueche"
     ],
     "name:ita_x_preferred":[
@@ -74,9 +65,6 @@
         "Litueche"
     ],
     "name:ron_x_preferred":[
-        "Litueche"
-    ],
-    "name:rum_x_preferred":[
         "Litueche"
     ],
     "name:rus_x_preferred":[
@@ -136,7 +124,7 @@
         }
     ],
     "wof:id":102018103,
-    "wof:lastmodified":1527637574,
+    "wof:lastmodified":1561749812,
     "wof:name":"Litueche",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

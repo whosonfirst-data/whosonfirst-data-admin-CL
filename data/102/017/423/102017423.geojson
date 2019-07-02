@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00945,
-    "geom:area_square_m":99240572.386518,
+    "geom:area_square_m":99240572.386492,
     "geom:bbox":"-71.5589931198,-32.1070569526,-71.4719739348,-31.5554814297",
     "geom:latitude":-31.863294,
     "geom:longitude":-71.511911,
@@ -22,19 +22,13 @@
     "name:bak_x_preferred":[
         "\u041b\u043e\u0441-\u0412\u0438\u043b\u043e\u0441"
     ],
-    "name:baq_x_preferred":[
-        "Los Vilos"
-    ],
     "name:cat_x_preferred":[
         "Los Vilos"
     ],
     "name:ceb_x_preferred":[
         "Los Vilos"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u65af\u6bd4\u6d1b\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Los Vilos"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +38,6 @@
         "Los Vilos"
     ],
     "name:fra_x_preferred":[
-        "Los Vilos"
-    ],
-    "name:fre_x_preferred":[
-        "Los Vilos"
-    ],
-    "name:ger_x_preferred":[
         "Los Vilos"
     ],
     "name:ita_x_preferred":[
@@ -80,9 +68,6 @@
         "Los Vilos"
     ],
     "name:ron_x_preferred":[
-        "Los Vilos"
-    ],
-    "name:rum_x_preferred":[
         "Los Vilos"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +132,7 @@
         }
     ],
     "wof:id":102017423,
-    "wof:lastmodified":1527637773,
+    "wof:lastmodified":1561749826,
     "wof:name":"Los Vilos",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

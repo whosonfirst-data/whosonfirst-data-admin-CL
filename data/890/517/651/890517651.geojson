@@ -34,9 +34,6 @@
     "name:aze_x_preferred":[
         "Puerto Montt"
     ],
-    "name:baq_x_preferred":[
-        "Puerto Montt"
-    ],
     "name:bar_x_preferred":[
         "Puerto Montt"
     ],
@@ -52,23 +49,23 @@
     "name:cat_x_preferred":[
         "Puerto Montt"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u6e2f"
-    ],
-    "name:chy_x_preferred":[
+    "name:ces_x_preferred":[
         "Puerto Montt"
     ],
-    "name:cze_x_preferred":[
+    "name:chy_x_preferred":[
         "Puerto Montt"
     ],
     "name:dan_x_preferred":[
         "Puerto Montt"
     ],
+    "name:deu_x_preferred":[
+        "Puerto Montt"
+    ],
     "name:diq_x_preferred":[
         "Puerto Montt"
     ],
-    "name:dut_x_preferred":[
-        "Puerto Montt"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03bf\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Puerto Montt"
@@ -76,19 +73,19 @@
     "name:epo_x_preferred":[
         "Puerto Montt"
     ],
+    "name:eus_x_preferred":[
+        "Puerto Montt"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u062a\u0648 \u0645\u0648\u0646\u062a"
+    ],
     "name:fin_x_preferred":[
         "Puerto Montt"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Montt"
     ],
     "name:frp_x_preferred":[
-        "Puerto Montt"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10db\u10dd\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Puerto Montt"
     ],
     "name:gle_x_preferred":[
@@ -96,9 +93,6 @@
     ],
     "name:glg_x_preferred":[
         "Puerto Montt"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03bf\u03bd\u03c4"
     ],
     "name:grn_x_preferred":[
         "Puerto Montt"
@@ -121,10 +115,10 @@
     "name:hun_x_preferred":[
         "Puerto Montt"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Puerto Montt"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Puerto Montt"
     ],
     "name:ita_x_preferred":[
@@ -138,6 +132,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccb \u0cae\u0cbe\u0c82\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10db\u10dd\u10dc\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud478\uc5d0\ub974\ud1a0\ubaac\ud2b8"
@@ -157,13 +154,13 @@
     "name:lmo_x_preferred":[
         "Puerto Montt"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0443\u0435\u0440\u0442\u043e \u041c\u043e\u043d\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u092f\u0942\u0930\u094d\u091f\u094b \u092e\u0949\u0928\u094d\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e \u041c\u043e\u043d\u0442"
+    ],
+    "name:msa_x_preferred":[
         "Puerto Montt"
     ],
     "name:nah_x_preferred":[
@@ -175,6 +172,9 @@
     "name:nap_x_preferred":[
         "Puerto Montt"
     ],
+    "name:nld_x_preferred":[
+        "Puerto Montt"
+    ],
     "name:nob_x_preferred":[
         "Puerto Montt"
     ],
@@ -183,9 +183,6 @@
     ],
     "name:oci_x_preferred":[
         "Puerto Montt"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u062a\u0648 \u0645\u0648\u0646\u062a"
     ],
     "name:pms_x_preferred":[
         "Puerto Montt"
@@ -208,7 +205,7 @@
     "name:roh_x_preferred":[
         "Puerto Montt"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Puerto Montt"
     ],
     "name:rus_x_preferred":[
@@ -274,6 +271,9 @@
     "name:zha_x_preferred":[
         "Puerto Montt"
     ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u6e2f"
+    ],
     "qs:name":"Puerto Montt",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Los Lagos",
@@ -312,7 +312,7 @@
         }
     ],
     "wof:id":890517651,
-    "wof:lastmodified":1534379257,
+    "wof:lastmodified":1561749887,
     "wof:name":"Puerto Montt",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

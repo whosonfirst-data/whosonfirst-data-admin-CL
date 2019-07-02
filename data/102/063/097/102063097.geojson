@@ -33,20 +33,11 @@
     "mps:longitude":-71.426597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0576\u0561\u0580\u0565\u057d"
-    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041b\u0456\u043d\u0430\u0440\u044d\u0441"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Linares"
-    ],
-    "name:chi_x_preferred":[
-        "\u5229\u7d0d\u96f7\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Linares"
     ],
     "name:eng_x_preferred":[
         "Linares"
@@ -55,11 +46,14 @@
         "Linares",
         "Linares Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u06cc\u0646\u0627\u0631\u0633"
+    ],
+    "name:fra_x_preferred":[
         "province de Linares"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10dc\u10d0\u10e0\u10d4\u10e1\u10d8"
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0576\u0561\u0580\u0565\u057d"
     ],
     "name:ita_x_preferred":[
         "provincia di Linares"
@@ -67,22 +61,25 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30ca\u30ec\u30b9\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10dc\u10d0\u10e0\u10d4\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\ub098\ub808\uc2a4 \ud604"
     ],
     "name:nan_x_preferred":[
         "Linares"
     ],
+    "name:nld_x_preferred":[
+        "Linares"
+    ],
     "name:nob_x_preferred":[
         "Provincia de Linares"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0644\u06cc\u0646\u0627\u0631\u0633"
     ],
     "name:por_x_preferred":[
         "Linares"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Linares"
     ],
     "name:rus_x_preferred":[
@@ -102,6 +99,9 @@
     ],
     "name:war_x_preferred":[
         "Linares"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u7d0d\u96f7\u65af\u7701"
     ],
     "qs:a0":"Chile",
     "qs:a1":"DEL MAULE",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":102063097,
-    "wof:lastmodified":1555039009,
+    "wof:lastmodified":1561749768,
     "wof:name":"Linares",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003818,
-    "geom:area_square_m":37828274.680587,
+    "geom:area_square_m":37828274.680603,
     "geom:bbox":"-73.0428097882,-36.7784924046,-72.9628413127,-36.7004314107",
     "geom:latitude":-36.740536,
     "geom:longitude":-73.004262,
@@ -23,9 +23,6 @@
     "name:aym_x_preferred":[
         "Penco"
     ],
-    "name:baq_x_preferred":[
-        "Penco"
-    ],
     "name:cat_x_preferred":[
         "Penco"
     ],
@@ -38,13 +35,7 @@
     "name:cha_x_preferred":[
         "Penco"
     ],
-    "name:chi_x_preferred":[
-        "\u5f6d\u79d1"
-    ],
     "name:deu_x_preferred":[
-        "Penco"
-    ],
-    "name:dut_x_preferred":[
         "Penco"
     ],
     "name:eng_x_preferred":[
@@ -60,12 +51,6 @@
         "Penco"
     ],
     "name:fra_x_preferred":[
-        "Penco"
-    ],
-    "name:fre_x_preferred":[
-        "Penco"
-    ],
-    "name:ger_x_preferred":[
         "Penco"
     ],
     "name:glg_x_preferred":[
@@ -120,9 +105,6 @@
         "Penco"
     ],
     "name:ron_x_preferred":[
-        "Penco"
-    ],
-    "name:rum_x_preferred":[
         "Penco"
     ],
     "name:rus_x_preferred":[
@@ -203,7 +185,7 @@
         }
     ],
     "wof:id":102017243,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749825,
     "wof:name":"Penco",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

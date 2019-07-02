@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004223,
-    "geom:area_square_m":41738261.369663,
+    "geom:area_square_m":41738261.369649,
     "geom:bbox":"-73.0648069519,-36.9808471961,-72.9874306049,-36.8796203522",
     "geom:latitude":-36.928407,
     "geom:longitude":-73.024338,
@@ -29,9 +29,6 @@
     "name:aze_x_preferred":[
         "Chiguayante"
     ],
-    "name:baq_x_preferred":[
-        "Chiguayante"
-    ],
     "name:cat_x_preferred":[
         "Chiguayante"
     ],
@@ -44,13 +41,7 @@
     "name:cha_x_preferred":[
         "Chiguayante"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u74dc\u63da\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Chiguayante"
-    ],
-    "name:dut_x_preferred":[
         "Chiguayante"
     ],
     "name:eng_x_preferred":[
@@ -68,13 +59,7 @@
     "name:fra_x_preferred":[
         "Chiguayante"
     ],
-    "name:fre_x_preferred":[
-        "Chiguayante"
-    ],
     "name:gag_x_preferred":[
-        "Chiguayante"
-    ],
-    "name:ger_x_preferred":[
         "Chiguayante"
     ],
     "name:glg_x_preferred":[
@@ -128,9 +113,6 @@
     "name:oci_x_preferred":[
         "Chiguayante"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u06af\u0648\u0627\u0646\u062a\u06cc\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Chiguayante"
     ],
@@ -144,9 +126,6 @@
         "Chiguayante"
     ],
     "name:ron_x_preferred":[
-        "Chiguayante"
-    ],
-    "name:rum_x_preferred":[
         "Chiguayante"
     ],
     "name:rus_x_preferred":[
@@ -225,7 +204,7 @@
         }
     ],
     "wof:id":102017833,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1561749827,
     "wof:name":"Chiguayante",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

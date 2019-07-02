@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000973,
-    "geom:area_square_m":9349691.243943,
+    "geom:area_square_m":9349691.243946,
     "geom:bbox":"-72.109317195,-39.0580514995,-71.9983540619,-38.9973798473",
     "geom:latitude":-39.029144,
     "geom:longitude":-72.057503,
@@ -19,22 +19,16 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Cunco"
-    ],
     "name:cat_x_preferred":[
         "Cunco"
     ],
     "name:ceb_x_preferred":[
         "Cunco"
     ],
-    "name:chi_x_preferred":[
-        "\u6606\u79d1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Cunco"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cunco"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +40,7 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0646\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Cunco"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cunco"
     ],
     "name:ita_x_preferred":[
@@ -73,22 +64,16 @@
     "name:oci_x_preferred":[
         "Cunco"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0646\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Cunco"
     ],
     "name:ron_x_preferred":[
         "Cunco"
     ],
-    "name:rum_x_preferred":[
-        "Cunco"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u043d\u043a\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cunco"
     ],
     "name:spa_x_preferred":[
@@ -142,7 +127,7 @@
         }
     ],
     "wof:id":102018193,
-    "wof:lastmodified":1527637575,
+    "wof:lastmodified":1561749812,
     "wof:name":"Cunco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008483,
-    "geom:area_square_m":83769707.839543,
+    "geom:area_square_m":83769707.839528,
     "geom:bbox":"-73.1966617822,-37.0729059002,-73.1165084513,-36.9036593172",
     "geom:latitude":-36.997832,
     "geom:longitude":-73.15599,
@@ -30,9 +30,6 @@
     "name:aze_x_preferred":[
         "Coronel"
     ],
-    "name:baq_x_preferred":[
-        "Coronel"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09b0\u09cb\u09a8\u09c7\u09b2"
     ],
@@ -48,17 +45,14 @@
     "name:ceb_x_preferred":[
         "Coronel"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7f85\u5167\u723e"
-    ],
     "name:dan_x_preferred":[
         "Coronel"
     ],
     "name:deu_x_preferred":[
         "Coronel"
     ],
-    "name:dut_x_preferred":[
-        "Coronel"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03bf\u03bd\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "Coronel"
@@ -78,20 +72,11 @@
     "name:fra_x_preferred":[
         "Coronel"
     ],
-    "name:fre_x_preferred":[
-        "Coronel"
-    ],
     "name:gag_x_preferred":[
-        "Coronel"
-    ],
-    "name:ger_x_preferred":[
         "Coronel"
     ],
     "name:glg_x_preferred":[
         "Coronel"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03bf\u03bd\u03ad\u03bb"
     ],
     "name:grn_x_preferred":[
         "Coronel"
@@ -144,7 +129,7 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u094b\u0928\u0947\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Coronel"
     ],
     "name:nan_x_preferred":[
@@ -159,9 +144,6 @@
     "name:oci_x_preferred":[
         "Coronel"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0648\u0646\u0644"
-    ],
     "name:pol_x_preferred":[
         "Coronel"
     ],
@@ -175,9 +157,6 @@
         "Coronel"
     ],
     "name:ron_x_preferred":[
-        "Coronel"
-    ],
-    "name:rum_x_preferred":[
         "Coronel"
     ],
     "name:rus_x_preferred":[
@@ -371,7 +350,7 @@
         }
     ],
     "wof:id":102017739,
-    "wof:lastmodified":1527637770,
+    "wof:lastmodified":1561749822,
     "wof:name":"Coronel",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

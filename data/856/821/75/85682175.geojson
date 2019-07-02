@@ -28,12 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0623\u0646\u062a\u0648\u0641\u0627\u063a\u0627\u0633\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u057f\u0578\u0586\u0561\u0563\u0561\u057d\u057f\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Antofagasta eskualdea"
-    ],
     "name:bar_x_preferred":[
         "Regi\u00f3n de Antofagasta"
     ],
@@ -49,17 +43,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Antofagasta"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u6258\u6cd5\u52a0\u65af\u5854\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Region Antofagasta"
     ],
     "name:dan_x_preferred":[
         "Antofagasta-regionen"
     ],
-    "name:dut_x_preferred":[
-        "Antofagasta"
+    "name:deu_x_preferred":[
+        "Regi\u00f3n de Antofagasta"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03bf\u03c6\u03b1\u03b3\u03ba\u03ac\u03c3\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "De Antofagasta"
@@ -70,23 +64,20 @@
     "name:est_x_preferred":[
         "Antofagasta piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Antofagasta eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0622\u0646\u062a\u0648\u0641\u0627\u06af\u0627\u0633\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Antofagastan alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion d'Antofagasta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10dd\u10e4\u10d0\u10d2\u10d0\u10e1\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Regi\u00f3n de Antofagasta"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Antofagasta"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03c4\u03bf\u03c6\u03b1\u03b3\u03ba\u03ac\u03c3\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0a9f\u0acb\u0aab\u0a97\u0abe\u0ab8\u0acd\u0a9f\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -100,6 +91,9 @@
     "name:hrv_x_preferred":[
         "II . regija Antofagasta"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u057f\u0578\u0586\u0561\u0563\u0561\u057d\u057f\u0561"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Antofagasta"
     ],
@@ -111,6 +105,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c86\u0c82\u0c9f\u0cca\u0cab\u0cbe\u0c97\u0cb8\u0ccd\u0c9f\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10dd\u10e4\u10d0\u10d2\u10d0\u10e1\u10e2\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc548\ud1a0\ud30c\uac00\uc2a4\ud0c0 \uc8fc"
@@ -127,7 +124,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0901\u091f\u094b\u092b\u093e\u0917\u0938\u094d\u0924\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Antofagasta Region"
     ],
     "name:mwl_x_preferred":[
@@ -139,14 +136,14 @@
     "name:nan_x_preferred":[
         "Antofagasta"
     ],
+    "name:nld_x_preferred":[
+        "Antofagasta"
+    ],
     "name:nob_x_preferred":[
         "Antofagasta"
     ],
     "name:oci_x_preferred":[
         "Region d'Antofagasta"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0622\u0646\u062a\u0648\u0641\u0627\u06af\u0627\u0633\u062a\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0646\u062a\u0648\u0641\u0627\u06af\u0627\u0633\u062a\u0627 \u0631\u06cc\u062c\u0646"
@@ -163,7 +160,7 @@
     "name:roh_x_preferred":[
         "Regi\u00f3n de Antofagasta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Antofagasta"
     ],
     "name:rus_x_preferred":[
@@ -175,7 +172,7 @@
     "name:sin_x_preferred":[
         "\u0d85\u0db1\u0dca\u0da7\u0ddd\u0dc6\u0d9c\u0dc3\u0dca\u0da7\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Antofagasta"
     ],
     "name:spa_x_preferred":[
@@ -216,6 +213,9 @@
     ],
     "name:war_x_preferred":[
         "II Rehiyon han Antofagasta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6258\u6cd5\u52a0\u65af\u5854\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHL",
@@ -332,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550791,
+    "wof:lastmodified":1561749848,
     "wof:name":"De Antofagasta",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

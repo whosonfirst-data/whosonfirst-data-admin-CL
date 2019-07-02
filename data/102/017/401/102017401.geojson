@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00249,
-    "geom:area_square_m":25396355.439303,
+    "geom:area_square_m":25396355.439306,
     "geom:bbox":"-70.9660810317,-34.474819341,-70.9113588941,-34.4024282897",
     "geom:latitude":-34.439947,
     "geom:longitude":-70.937947,
@@ -19,9 +19,6 @@
     "name:bak_x_preferred":[
         "\u041c\u0430\u043b\u044c\u043e\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Malloa"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043e\u0430"
     ],
@@ -31,10 +28,7 @@
     "name:ceb_x_preferred":[
         "Malloa"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7d04\u963f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Malloa"
     ],
     "name:eng_x_preferred":[
@@ -43,10 +37,7 @@
     "name:eus_x_preferred":[
         "Malloa"
     ],
-    "name:fre_x_preferred":[
-        "Malloa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Malloa"
     ],
     "name:ita_x_preferred":[
@@ -68,9 +59,6 @@
         "Malloa"
     ],
     "name:ron_x_preferred":[
-        "Malloa"
-    ],
-    "name:rum_x_preferred":[
         "Malloa"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +126,7 @@
         }
     ],
     "wof:id":102017401,
-    "wof:lastmodified":1527637773,
+    "wof:lastmodified":1561749826,
     "wof:name":"Malloa",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

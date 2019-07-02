@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003954,
-    "geom:area_square_m":40682684.535933,
+    "geom:area_square_m":40682684.53592,
     "geom:bbox":"-71.0538703507,-33.7105065776,-70.9497070312,-33.6420625048",
     "geom:latitude":-33.679914,
     "geom:longitude":-70.999359,
@@ -24,25 +24,22 @@
     "name:ara_x_preferred":[
         "\u0622\u064a\u0644 \u0645\u0648\u0646\u062a\u064a"
     ],
-    "name:baq_x_preferred":[
-        "El Monte"
-    ],
     "name:cat_x_preferred":[
         "El Monte"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u8499\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "El Monte"
     ],
     "name:eng_x_preferred":[
         "El Monte"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "El Monte"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0645\u0648\u0646\u062a\u0647\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "El Monte"
     ],
     "name:ita_x_preferred":[
@@ -54,16 +51,16 @@
     "name:nan_x_preferred":[
         "El Monte"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "El Monte"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644 \u0645\u0648\u0646\u062a\u0647\u060c \u0634\u06cc\u0644\u06cc"
+    "name:oci_x_preferred":[
+        "El Monte"
     ],
     "name:por_x_preferred":[
         "El Monte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "El Monte"
     ],
     "name:rus_x_preferred":[
@@ -80,6 +77,9 @@
     ],
     "name:unk_x_variant":[
         "El Monte Las Mercedes"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u8499\u7279"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":102017679,
-    "wof:lastmodified":1513937132,
+    "wof:lastmodified":1561749833,
     "wof:name":"El Monte",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

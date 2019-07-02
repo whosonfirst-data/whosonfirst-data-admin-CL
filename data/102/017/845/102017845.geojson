@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001419,
-    "geom:area_square_m":15720512.546729,
+    "geom:area_square_m":15720512.546739,
     "geom:bbox":"-70.6576015793,-26.3664456707,-70.6018592677,-26.326242589",
     "geom:latitude":-26.347896,
     "geom:longitude":-70.626669,
@@ -22,22 +22,16 @@
     "name:bak_x_preferred":[
         "\u0427\u0430\u043d\u044c\u044f\u0440\u0430\u043b\u044c"
     ],
-    "name:baq_x_preferred":[
-        "Cha\u00f1aral"
-    ],
     "name:bre_x_preferred":[
         "Cha\u00f1aral"
     ],
     "name:cat_x_preferred":[
         "Cha\u00f1aral"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u5c3c\u4e9e\u62c9\u723e"
-    ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Cha\u00f1aral"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cha\u00f1aral"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +44,6 @@
         "\u0634\u0627\u0646\u0627\u0631\u0627\u0644\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Cha\u00f1aral"
-    ],
-    "name:fre_x_preferred":[
-        "Cha\u00f1aral"
-    ],
-    "name:ger_x_preferred":[
         "Cha\u00f1aral"
     ],
     "name:ita_x_preferred":[
@@ -73,14 +61,14 @@
     "name:nan_x_preferred":[
         "Cha\u00f1aral"
     ],
+    "name:nld_x_preferred":[
+        "Cha\u00f1aral"
+    ],
     "name:nob_x_preferred":[
         "Cha\u00f1aral"
     ],
     "name:oci_x_preferred":[
         "Cha\u00f1aral"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0646\u0627\u0631\u0627\u0644\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Cha\u00f1aral"
@@ -88,7 +76,7 @@
     "name:por_x_preferred":[
         "Cha\u00f1aral"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cha\u00f1aral"
     ],
     "name:rus_x_preferred":[
@@ -116,9 +104,6 @@
         "Cha\u00f1aral de las Animas"
     ],
     "name:war_x_preferred":[
-        "Cha\u00f1aral"
-    ],
-    "name:wel_x_preferred":[
         "Cha\u00f1aral"
     ],
     "name:zho_x_preferred":[
@@ -174,7 +159,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1513929816,
+    "wof:lastmodified":1561749824,
     "wof:name":"Cha\u00f1aral",
     "wof:parent_id":102063133,
     "wof:placetype":"locality",

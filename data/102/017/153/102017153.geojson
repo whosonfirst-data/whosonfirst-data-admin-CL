@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00126,
-    "geom:area_square_m":11064433.568575,
+    "geom:area_square_m":11064433.568577,
     "geom:bbox":"-72.7256325175,-44.7440229234,-72.664689064,-44.7162766093",
     "geom:latitude":-44.730332,
     "geom:longitude":-72.693001,
@@ -20,22 +20,13 @@
     "name:ceb_x_preferred":[
         "Puerto Cisnes"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u65af\u5167\u65af\u6e2f"
-    ],
     "name:deu_x_preferred":[
-        "Puerto Cisnes"
-    ],
-    "name:dut_x_preferred":[
         "Puerto Cisnes"
     ],
     "name:eng_x_preferred":[
         "Puerto Cisnes"
     ],
-    "name:fre_x_preferred":[
-        "Puerto Cisnes"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Cisnes"
     ],
     "name:ita_x_preferred":[
@@ -47,10 +38,10 @@
     "name:lit_x_preferred":[
         "Puerto Sisnesas"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Puerto Cisnes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Puerto Cisnes"
     ],
     "name:spa_x_preferred":[
@@ -120,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637776,
+    "wof:lastmodified":1561749829,
     "wof:name":"Puerto Cisnes",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",

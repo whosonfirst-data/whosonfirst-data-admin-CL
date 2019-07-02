@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00132,
-    "geom:area_square_m":12242974.914633,
+    "geom:area_square_m":12242974.91463,
     "geom:bbox":"-73.4857746221,-41.4146600888,-73.437140099,-41.3781082324",
     "geom:latitude":-41.395928,
     "geom:longitude":-73.462904,
@@ -16,19 +16,13 @@
     "mps:longitude":-73.464872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Los Muermos"
-    ],
     "name:cat_x_preferred":[
         "Los Muermos"
     ],
     "name:ceb_x_preferred":[
         "Los Muermos"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u65af\u7a46\u57c3\u723e\u83ab\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Los Muermos"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +31,7 @@
     "name:eus_x_preferred":[
         "Los Muermos"
     ],
-    "name:fre_x_preferred":[
-        "Los Muermos"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Los Muermos"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +53,6 @@
         "Los Muermos"
     ],
     "name:ron_x_preferred":[
-        "Los Muermos"
-    ],
-    "name:rum_x_preferred":[
         "Los Muermos"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":102017429,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1561749832,
     "wof:name":"Los Muermos",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

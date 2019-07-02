@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000956,
-    "geom:area_square_m":9849840.83602,
+    "geom:area_square_m":9849840.836019,
     "geom:bbox":"-70.9220204816,-33.5549874502,-70.8895039342,-33.518643374",
     "geom:latitude":-33.535342,
     "geom:longitude":-70.90688,
@@ -16,25 +16,19 @@
     "mps:longitude":-70.907189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Padre Hurtado"
-    ],
     "name:cat_x_preferred":[
         "Padre Hurtado"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u5fb7\u96f7\u70cf\u723e\u5854\u591a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Padre Hurtado"
     ],
     "name:eng_x_preferred":[
         "Padre Hurtado"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Padre Hurtado"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Padre Hurtado"
     ],
     "name:ita_x_preferred":[
@@ -46,13 +40,16 @@
     "name:nan_x_preferred":[
         "Padre Hurtado"
     ],
+    "name:nld_x_preferred":[
+        "Padre Hurtado"
+    ],
     "name:oci_x_preferred":[
         "Padre Hurtado"
     ],
     "name:por_x_preferred":[
         "Padre Hurtado"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Padre Hurtado"
     ],
     "name:rus_x_preferred":[
@@ -66,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Padre Hurtado"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5fb7\u96f7\u70cf\u723e\u5854\u591a"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":102018085,
-    "wof:lastmodified":1527637577,
+    "wof:lastmodified":1561749813,
     "wof:name":"Padre Hurtado",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

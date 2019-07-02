@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001419,
-    "geom:area_square_m":14758943.43609,
+    "geom:area_square_m":14758943.436101,
     "geom:bbox":"-70.8669940905,-32.7916722476,-70.8017078378,-32.7459261053",
     "geom:latitude":-32.767924,
     "geom:longitude":-70.835538,
@@ -17,19 +17,10 @@
     "mps:longitude":-70.843202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Panquehue"
-    ],
     "name:cat_x_preferred":[
         "Panquehue"
     ],
     "name:ceb_x_preferred":[
-        "Panquehue"
-    ],
-    "name:chi_x_preferred":[
-        "\u6f58\u514b\u97cb"
-    ],
-    "name:dut_x_preferred":[
         "Panquehue"
     ],
     "name:eng_x_preferred":[
@@ -38,7 +29,7 @@
     "name:eus_x_preferred":[
         "Panquehue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Panquehue"
     ],
     "name:ita_x_preferred":[
@@ -60,9 +51,6 @@
         "Panquehue"
     ],
     "name:ron_x_preferred":[
-        "Panquehue"
-    ],
-    "name:rum_x_preferred":[
         "Panquehue"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":102017271,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1561749833,
     "wof:name":"Panquehue",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

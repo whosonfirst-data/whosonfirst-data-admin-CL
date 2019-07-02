@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.76322,
-    "geom:area_square_m":37063217478.570312,
+    "geom:area_square_m":37063217478.574814,
     "geom:bbox":"-73.9614425889,-38.4924641973,-70.9849325767,-36.0055596825",
     "geom:latitude":-37.200125,
     "geom:longitude":-72.247269,
@@ -40,9 +40,6 @@
     "name:arg_x_preferred":[
         "Universidat del B\u00edo-B\u00edo"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u0578\u0562\u056b\u0578"
-    ],
     "name:arn_x_preferred":[
         "B\u00edo B\u00edo"
     ],
@@ -57,9 +54,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0411\u0438\u043e-\u0411\u0438\u043e"
-    ],
-    "name:baq_x_preferred":[
-        "Biob\u00edo eskualdea"
     ],
     "name:bar_x_preferred":[
         "Regi\u00f3n del B\u00edo-B\u00edo"
@@ -85,20 +79,23 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 del B\u00edo-B\u00edo"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u5965\u6bd4\u5965\u5927\u533a"
+    "name:ces_x_preferred":[
+        "Region B\u00edo-B\u00edo"
     ],
     "name:cos_x_preferred":[
         "Regione di l'Biob\u00edo"
     ],
-    "name:cze_x_preferred":[
-        "Region B\u00edo-B\u00edo"
+    "name:cym_x_preferred":[
+        "B\u00edo B\u00edo Region"
     ],
     "name:dan_x_preferred":[
         "Biob\u00edo-regionen"
     ],
-    "name:dut_x_preferred":[
-        "B\u00edo-B\u00edo"
+    "name:deu_x_preferred":[
+        "Regi\u00f3n del B\u00edo-B\u00edo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03c0\u03af\u03bf \u039c\u03c0\u03af\u03bf"
     ],
     "name:eng_x_preferred":[
         "Del Bio-Bio"
@@ -109,29 +106,26 @@
     "name:est_x_preferred":[
         "B\u00edo-B\u00edo piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Biob\u00edo eskualdea"
+    ],
     "name:ext_x_preferred":[
         "Regi\u00f3n del Biob\u00edo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u0628\u06cc\u0648"
     ],
     "name:fin_x_preferred":[
         "Biob\u00edon alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion du Biob\u00edo"
     ],
     "name:frp_x_preferred":[
         "R\u00e8g\u00b7ion du Biob\u00edo"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10dd-\u10d1\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Regi\u00f3n del B\u00edo-B\u00edo"
-    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Biob\u00edo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03c0\u03af\u03bf \u039c\u03c0\u03af\u03bf"
     ],
     "name:gsw_x_preferred":[
         "Region Biob\u00edo"
@@ -148,8 +142,8 @@
     "name:hun_x_preferred":[
         "Biob\u00edo r\u00e9gi\u00f3"
     ],
-    "name:ice_x_preferred":[
-        "Biob\u00edo-fylki"
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0578\u0562\u056b\u0578"
     ],
     "name:ido_x_preferred":[
         "Regiono di Biob\u00edo"
@@ -160,6 +154,9 @@
     "name:ind_x_preferred":[
         "Wilayah B\u00edo B\u00edo"
     ],
+    "name:isl_x_preferred":[
+        "Biob\u00edo-fylki"
+    ],
     "name:ita_x_preferred":[
         "regione del B\u00edo B\u00edo"
     ],
@@ -168,6 +165,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb0\u0cc6\u0c9c\u0cbf\u0caf\u0cbe\u0ca8\u0ccd \u0cae\u0cb9\u0cbe\u0ca8\u0c97\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dd-\u10d1\u10d8\u10dd"
     ],
     "name:kor_x_preferred":[
         "\ube44\uc624\ube44\uc624 \uc8fc"
@@ -193,7 +193,7 @@
     "name:mar_x_preferred":[
         "\u0930\u0940\u091c\u0928 \u092e\u0947\u091f\u094d\u0930\u094b\u092a\u0949\u0932\u093f\u091f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Region metropolitana"
     ],
     "name:mwl_x_preferred":[
@@ -207,6 +207,9 @@
     ],
     "name:nds_x_preferred":[
         "Region B\u00edo-B\u00edo"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00edo-B\u00edo"
     ],
     "name:nob_x_preferred":[
         "Biob\u00edo"
@@ -222,9 +225,6 @@
     ],
     "name:pap_x_preferred":[
         "Biob\u00edo"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0648\u0628\u06cc\u0648"
     ],
     "name:pms_x_preferred":[
         "Region d\u00ebl Biob\u00edo"
@@ -244,7 +244,7 @@
     "name:roh_x_preferred":[
         "Regi\u00f3n del Biob\u00edo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Biob\u00edo"
     ],
     "name:rus_x_preferred":[
@@ -262,7 +262,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db4\u0ddc\u0dbd\u0dd2\u0da7\u0db1\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Biob\u00edo"
     ],
     "name:spa_x_preferred":[
@@ -310,14 +310,14 @@
     "name:war_x_preferred":[
         "VIII Rehiyon han Biob\u00edo"
     ],
-    "name:wel_x_preferred":[
-        "B\u00edo B\u00edo Region"
-    ],
     "name:wln_x_preferred":[
         "Redjon del Biob\u00edo"
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05d9\u05d0\u05d1\u05d9\u05d0 \u05e8\u05d0\u05d9\u05d0\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5965\u6bd4\u5965\u5927\u533a"
     ],
     "qs:a0":"Chile",
     "qs:a0_lc":"CHL",
@@ -372,7 +372,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814862,
+    "wof:lastmodified":1561749855,
     "wof:name":"Del Bio-Bio",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

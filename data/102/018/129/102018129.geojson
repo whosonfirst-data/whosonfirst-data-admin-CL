@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
-    "geom:area_square_m":136774.690095,
+    "geom:area_square_m":136774.690096,
     "geom:bbox":"-70.7038879395,-33.9753955268,-70.6938320203,-33.9706979974",
     "geom:latitude":-33.972979,
     "geom:longitude":-70.697394,
@@ -19,22 +19,16 @@
     "name:bak_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0430\u0441\u0430\u043b\u044c"
     ],
-    "name:baq_x_preferred":[
-        "Mostazal"
-    ],
     "name:cat_x_preferred":[
-        "Mostazal"
-    ],
-    "name:chi_x_preferred":[
-        "\u83ab\u65af\u5854\u85a9\u723e"
-    ],
-    "name:dut_x_preferred":[
         "Mostazal"
     ],
     "name:eng_x_preferred":[
         "Mostazal"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Mostazal"
+    ],
+    "name:fra_x_preferred":[
         "Mostazal"
     ],
     "name:ita_x_preferred":[
@@ -46,13 +40,16 @@
     "name:nan_x_preferred":[
         "Mostazal"
     ],
+    "name:nld_x_preferred":[
+        "Mostazal"
+    ],
     "name:oci_x_preferred":[
         "Mostazal"
     ],
     "name:por_x_preferred":[
         "Mostazal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mostazal"
     ],
     "name:rus_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Mostazal"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u5854\u85a9\u723e"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":102018129,
-    "wof:lastmodified":1527637579,
+    "wof:lastmodified":1561749814,
     "wof:name":"Mostazal",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

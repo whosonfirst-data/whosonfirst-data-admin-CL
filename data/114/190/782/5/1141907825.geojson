@@ -17,28 +17,22 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0644\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Quell\u00f3n"
-    ],
     "name:cat_x_preferred":[
         "Quell\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u5229\u7fc1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Quell\u00f3n"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Quell\u00f3n"
     ],
     "name:eng_x_preferred":[
         "Quell\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Quell\u00f3n"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Quell\u00f3n"
     ],
     "name:glg_x_preferred":[
@@ -62,6 +56,9 @@
     "name:nan_x_preferred":[
         "Quell\u00f3n"
     ],
+    "name:nld_x_preferred":[
+        "Quell\u00f3n"
+    ],
     "name:oci_x_preferred":[
         "Quell\u00f3n"
     ],
@@ -74,7 +71,7 @@
     "name:por_x_preferred":[
         "Quell\u00f3n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Quell\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "Quell\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5229\u7fc1"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chile",
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":1141907825,
-    "wof:lastmodified":1513937861,
+    "wof:lastmodified":1561749895,
     "wof:name":"Quellon",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

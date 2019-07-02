@@ -19,19 +19,13 @@
     "name:arn_x_preferred":[
         "Llank\u00fcnwe"
     ],
-    "name:baq_x_preferred":[
-        "Llanquihue"
-    ],
     "name:cat_x_preferred":[
         "Llanquihue"
     ],
     "name:ceb_x_preferred":[
         "Llanquihue"
     ],
-    "name:chi_x_preferred":[
-        "\u5ef6\u57fa\u97cb"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Llanquihue"
     ],
     "name:ell_x_preferred":[
@@ -45,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Llanquihue"
-    ],
-    "name:fre_x_preferred":[
-        "Llanquihue"
-    ],
-    "name:ger_x_preferred":[
-        "Llanquihue"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03bd\u03ba\u03af\u03bf\u03c5\u03b5"
     ],
     "name:ind_x_preferred":[
         "Llanquihue"
@@ -89,9 +74,6 @@
         "Llanquihue"
     ],
     "name:ron_x_preferred":[
-        "Llanquihue"
-    ],
-    "name:rum_x_preferred":[
         "Llanquihue"
     ],
     "name:rus_x_preferred":[
@@ -160,7 +142,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637780,
+    "wof:lastmodified":1561749833,
     "wof:name":"Llanquihue",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

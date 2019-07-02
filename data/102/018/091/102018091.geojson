@@ -16,25 +16,19 @@
     "mps:longitude":-71.396956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Petorca"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0435\u0442\u043e\u0440\u043a\u0430"
     ],
     "name:cat_x_preferred":[
         "Petorca"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u6258\u723e\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Petorca"
-    ],
     "name:eng_x_preferred":[
         "Petorca"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Petorca"
+    ],
+    "name:fra_x_preferred":[
         "Petorca"
     ],
     "name:heb_x_preferred":[
@@ -52,13 +46,16 @@
     "name:nan_x_preferred":[
         "Petorca"
     ],
+    "name:nld_x_preferred":[
+        "Petorca"
+    ],
     "name:oci_x_preferred":[
         "Petorca"
     ],
     "name:por_x_preferred":[
         "Petorca"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Petorca"
     ],
     "name:rus_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Petorca"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u6258\u723e\u5361"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Valpara\u00edso",
@@ -116,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1513937819,
+    "wof:lastmodified":1561749813,
     "wof:name":"Petorca",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

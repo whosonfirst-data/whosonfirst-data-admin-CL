@@ -28,14 +28,8 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0644\u064a\u0648 \u063a\u0627\u0631\u062b\u064a\u0627 \u0641\u0631\u0646\u0627\u0646\u062f\u064a\u062b"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u057d \u054c\u056b\u0578\u057d"
-    ],
     "name:bak_x_preferred":[
         "\u041b\u043e\u0441-\u0420\u0438\u043e\u0441"
-    ],
-    "name:baq_x_preferred":[
-        "Los R\u00edos eskualdea"
     ],
     "name:bar_x_preferred":[
         "Regi\u00f3n de Los R\u00edos"
@@ -55,38 +49,35 @@
     "name:cat_x_preferred":[
         "Julio Garc\u00eda Fern\u00e1ndez de los R\u00edos"
     ],
-    "name:chi_x_preferred":[
-        "\u6cb3\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Region Los R\u00edos"
     ],
     "name:dan_x_preferred":[
         "Los R\u00edos-regionen"
     ],
-    "name:dut_x_preferred":[
-        "Los R\u00edos"
+    "name:deu_x_preferred":[
+        "Regi\u00f3n de Los R\u00edos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c2 \u03a1\u03af\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "De Los Rios"
     ],
+    "name:eus_x_preferred":[
+        "Los R\u00edos eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0644\u0648\u0633 \u0631\u06cc\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Los R\u00edos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion des Fleuves"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10e1-\u10e0\u10d8\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Regi\u00f3n de Los R\u00edos"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Los R\u00edos"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c2 \u03a1\u03af\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0ab8 \u0ab0\u0abf\u0aaf\u0acb\u0ab8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -103,11 +94,14 @@
     "name:hun_x_preferred":[
         "Los R\u00edos r\u00e9gi\u00f3"
     ],
-    "name:ice_x_preferred":[
-        "Los R\u00edos-fylki"
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u057d \u054c\u056b\u0578\u057d"
     ],
     "name:ind_x_preferred":[
         "Wilayah Los R\u00edos"
+    ],
+    "name:isl_x_preferred":[
+        "Los R\u00edos-fylki"
     ],
     "name:ita_x_preferred":[
         "regione di Los R\u00edos"
@@ -117,6 +111,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cbe\u0cb8\u0ccd \u0cb0\u0cbf\u0caf\u0ccb\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10e0\u10d8\u10dd\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub85c\uc2a4\ub9ac\uc624\uc2a4 \uc8fc"
@@ -136,7 +133,7 @@
     "name:mar_x_preferred":[
         "\u0932\u0949\u0938 \u0930\u093f\u092f\u094b\u0938 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Los Rios Region"
     ],
     "name:mwl_x_preferred":[
@@ -148,6 +145,9 @@
     "name:nan_x_preferred":[
         "Los Rios"
     ],
+    "name:nld_x_preferred":[
+        "Los R\u00edos"
+    ],
     "name:nob_x_preferred":[
         "Los R\u00edos"
     ],
@@ -156,9 +156,6 @@
     ],
     "name:oci_x_preferred":[
         "Region de Los Rios"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0644\u0648\u0633 \u0631\u06cc\u0648\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0627\u0633 \u0631\u06cc\u0624\u0633 \u0631\u06cc\u062c\u0646"
@@ -172,7 +169,7 @@
     "name:que_x_preferred":[
         "Mayukuna suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Los R\u00edos"
     ],
     "name:rus_x_preferred":[
@@ -184,7 +181,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0ddc\u0dc3\u0dca \u0dbb\u0dd2\u0dba\u0ddd\u0dc3\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Los R\u00edos"
     ],
     "name:spa_x_preferred":[
@@ -219,6 +216,9 @@
     ],
     "name:war_x_preferred":[
         "XIV Rehiyon han Los R\u00edos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u5927\u533a"
     ],
     "qs:a0":"Chile",
     "qs:a0_lc":"CHL",
@@ -273,7 +273,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550785,
+    "wof:lastmodified":1561749858,
     "wof:name":"De Los Rios",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001152,
-    "geom:area_square_m":11161359.341642,
+    "geom:area_square_m":11161359.341646,
     "geom:bbox":"-72.4168398637,-38.4324729303,-72.3609926132,-38.3628058731",
     "geom:latitude":-38.409046,
     "geom:longitude":-72.387098,
@@ -16,19 +16,13 @@
     "mps:longitude":-72.384291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Perquenco"
-    ],
     "name:cat_x_preferred":[
         "Perquenco"
     ],
     "name:ceb_x_preferred":[
         "Perquenco"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u723e\u7434\u79d1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Perquenco"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Perquenco"
     ],
     "name:fra_x_preferred":[
-        "Perquenco"
-    ],
-    "name:fre_x_preferred":[
-        "Perquenco"
-    ],
-    "name:ger_x_preferred":[
         "Perquenco"
     ],
     "name:ita_x_preferred":[
@@ -65,9 +53,6 @@
         "Perquenco"
     ],
     "name:ron_x_preferred":[
-        "Perquenco"
-    ],
-    "name:rum_x_preferred":[
         "Perquenco"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +117,7 @@
         }
     ],
     "wof:id":102017235,
-    "wof:lastmodified":1527637773,
+    "wof:lastmodified":1561749827,
     "wof:name":"Perquenco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

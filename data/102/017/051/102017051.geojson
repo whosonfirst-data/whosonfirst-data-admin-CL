@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005112,
-    "geom:area_square_m":52412829.923535,
+    "geom:area_square_m":52412829.923533,
     "geom:bbox":"-71.4796521488,-34.1890858312,-71.2849813937,-33.7906792361",
     "geom:latitude":-33.980635,
     "geom:longitude":-71.376791,
@@ -16,14 +16,14 @@
     "mps:longitude":-71.374385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Rapel"
-    ],
     "name:eng_x_preferred":[
         "Rapel"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30da\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Rapel"
     ],
     "name:spa_x_preferred":[
         "Rapel"
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102017051,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749834,
     "wof:name":"Rapel",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

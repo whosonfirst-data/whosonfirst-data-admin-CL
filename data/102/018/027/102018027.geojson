@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":1356546.942498,
+    "geom:area_square_m":1356546.942499,
     "geom:bbox":"-70.7327270508,-33.4589427537,-70.7080078119,-33.4451931345",
     "geom:latitude":-33.451442,
     "geom:longitude":-70.71811,
@@ -22,25 +22,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:baq_x_preferred":[
-        "Lo Prado"
-    ],
     "name:cat_x_preferred":[
         "Lo Prado"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u666e\u62c9\u591a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lo Prado"
     ],
     "name:eng_x_preferred":[
         "Lo Prado"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Lo Prado"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lo Prado"
     ],
     "name:ita_x_preferred":[
@@ -52,13 +46,16 @@
     "name:nan_x_preferred":[
         "Lo Prado"
     ],
+    "name:nld_x_preferred":[
+        "Lo Prado"
+    ],
     "name:oci_x_preferred":[
         "Lo Prado"
     ],
     "name:por_x_preferred":[
         "Lo Prado"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lo Prado"
     ],
     "name:rus_x_preferred":[
@@ -72,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Lo Prado"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u666e\u62c9\u591a"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
@@ -121,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637582,
+    "wof:lastmodified":1561749816,
     "wof:name":"Lo Prado",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003511,
-    "geom:area_square_m":36161146.711561,
+    "geom:area_square_m":36161146.711551,
     "geom:bbox":"-70.9330169748,-33.6374889396,-70.84850448,-33.5642834302",
     "geom:latitude":-33.606355,
     "geom:longitude":-70.892684,
@@ -17,22 +17,13 @@
     "mps:longitude":-70.885211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pe\u00f1aflor"
-    ],
     "name:cat_x_preferred":[
         "Pe\u00f1aflor"
     ],
     "name:ceb_x_preferred":[
         "Pe\u00f1aflor"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u5c3c\u4e9e\u5f17\u6d1b\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Pe\u00f1aflor"
-    ],
-    "name:dut_x_preferred":[
         "Pe\u00f1aflor"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Pe\u00f1aflor"
     ],
     "name:fra_x_preferred":[
-        "Pe\u00f1aflor"
-    ],
-    "name:fre_x_preferred":[
-        "Pe\u00f1aflor"
-    ],
-    "name:ger_x_preferred":[
         "Pe\u00f1aflor"
     ],
     "name:ita_x_preferred":[
@@ -71,9 +56,6 @@
     "name:ron_x_preferred":[
         "Pe\u00f1aflor"
     ],
-    "name:rum_x_preferred":[
-        "Pe\u00f1aflor"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u043d\u044c\u044f\u0444\u043b\u043e\u0440"
     ],
@@ -85,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Pe\u00f1aflor"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5c3c\u4e9e\u5f17\u6d1b\u723e"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
@@ -134,7 +119,7 @@
         }
     ],
     "wof:id":102017249,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749833,
     "wof:name":"Pe\u00f1aflor",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

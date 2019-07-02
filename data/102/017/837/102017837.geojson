@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002889,
-    "geom:area_square_m":29861978.831452,
+    "geom:area_square_m":29861978.831447,
     "geom:bbox":"-70.7014248274,-33.3257743026,-70.6121294599,-33.2549370057",
     "geom:latitude":-33.289368,
     "geom:longitude":-70.657368,
@@ -21,13 +21,13 @@
     "name:arn_x_preferred":[
         "chik\u00fcmn-rewe"
     ],
-    "name:dut_x_preferred":[
-        "Chicureo"
-    ],
     "name:eng_x_preferred":[
         "Chicureo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Chicureo"
+    ],
+    "name:nld_x_preferred":[
         "Chicureo"
     ],
     "name:spa_x_colloquial":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":102017837,
-    "wof:lastmodified":1513929824,
+    "wof:lastmodified":1561749834,
     "wof:name":"Chicureo Abajo",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

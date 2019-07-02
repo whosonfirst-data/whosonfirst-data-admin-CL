@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001353,
-    "geom:area_square_m":13803826.22809,
+    "geom:area_square_m":13803826.228086,
     "geom:bbox":"-71.1885447205,-34.4204534416,-71.1420803879,-34.3752340725",
     "geom:latitude":-34.398357,
     "geom:longitude":-71.165908,
@@ -22,19 +22,10 @@
     "name:bak_x_preferred":[
         "\u041f\u0435\u0443\u043c\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Peumo"
-    ],
     "name:cat_x_preferred":[
         "Peumo"
     ],
     "name:ceb_x_preferred":[
-        "Peumo"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f69\u70cf\u83ab"
-    ],
-    "name:dut_x_preferred":[
         "Peumo"
     ],
     "name:eng_x_preferred":[
@@ -43,7 +34,7 @@
     "name:eus_x_preferred":[
         "Peumo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Peumo"
     ],
     "name:ita_x_preferred":[
@@ -68,9 +59,6 @@
         "Peumo"
     ],
     "name:ron_x_preferred":[
-        "Peumo"
-    ],
-    "name:rum_x_preferred":[
         "Peumo"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +126,7 @@
         }
     ],
     "wof:id":102017229,
-    "wof:lastmodified":1527637771,
+    "wof:lastmodified":1561749824,
     "wof:name":"Peumo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

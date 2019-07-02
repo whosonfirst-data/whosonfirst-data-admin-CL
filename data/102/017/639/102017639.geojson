@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000563,
-    "geom:area_square_m":5071859.511922,
+    "geom:area_square_m":5071859.511925,
     "geom:bbox":"-71.8821025493,-43.1961486179,-71.8520280569,-43.1741562457",
     "geom:latitude":-43.185153,
     "geom:longitude":-71.867065,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0648\u062a\u0627\u0644\u064a\u0648\u0641\u064a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Futaleuf\u00fa"
-    ],
     "name:bre_x_preferred":[
         "Futaleuf\u00fa"
     ],
@@ -32,10 +29,7 @@
     "name:ceb_x_preferred":[
         "Futaleuf\u00fa"
     ],
-    "name:chi_x_preferred":[
-        "\u5bcc\u5854\u840a\u70cf\u5bcc"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Futaleuf\u00fa"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +42,6 @@
         "\u0641\u06cc\u0648\u062a\u0627\u0644\u06cc\u0648\u0641\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Futaleuf\u00fa"
-    ],
-    "name:fre_x_preferred":[
-        "Futaleuf\u00fa"
-    ],
-    "name:ger_x_preferred":[
         "Futaleuf\u00fa"
     ],
     "name:ita_x_preferred":[
@@ -74,13 +62,10 @@
     "name:oci_x_preferred":[
         "Futaleuf\u00fa"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u06cc\u0648\u062a\u0627\u0644\u06cc\u0648\u0641\u0648\u060c \u0634\u06cc\u0644\u06cc"
-    ],
     "name:por_x_preferred":[
         "Futaleuf\u00fa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Futaleuf\u00fa"
     ],
     "name:rus_x_preferred":[
@@ -146,7 +131,7 @@
         }
     ],
     "wof:id":102017639,
-    "wof:lastmodified":1553815717,
+    "wof:lastmodified":1561749834,
     "wof:name":"Futaleuf\u00fa",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",
