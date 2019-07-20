@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Peumo"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0626\u0648\u0645\u0648"
+    ],
     "name:fra_x_preferred":[
         "Peumo"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":102017229,
-    "wof:lastmodified":1561749824,
+    "wof:lastmodified":1563581544,
     "wof:name":"Peumo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

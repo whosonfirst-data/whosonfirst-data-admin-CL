@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0623\u0631\u064a\u0643\u0627 \u0648\u0628\u0627\u0631\u064a\u0646\u0643\u0648\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Rex\u00f3n d'Arica y Parinacota"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u0440\u0438\u043a\u0430"
     ],
@@ -53,6 +56,9 @@
     "name:eng_x_preferred":[
         "Arica and Parinacota"
     ],
+    "name:eng_x_variant":[
+        "Arica y Parinacota Region"
+    ],
     "name:epo_x_preferred":[
         "Arikio kaj Parinakotio"
     ],
@@ -71,6 +77,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion d'Arica et Parinacota"
     ],
+    "name:fra_x_variant":[
+        "Arica et Parinacota"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Arica e Parinacota"
     ],
@@ -79,6 +88,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u056b\u056f\u0561 \u0587 \u054a\u0561\u0580\u056b\u0576\u0561\u056f\u0578\u057f\u0561"
+    ],
+    "name:ilo_x_preferred":[
+        "Rehion ti Arica y Parinacota"
+    ],
+    "name:ind_x_preferred":[
+        "Region Arica y Parinacota"
     ],
     "name:ita_x_preferred":[
         "regione di Arica e Parinacota"
@@ -91,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ub9ac\uce74 \uc774 \ud30c\ub9ac\ub098\ucf54\ud0c0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub9ac\uce74\uc774\ud30c\ub9ac\ub098\ucf54\ud0c0\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Arica y Parinacota"
@@ -163,6 +181,9 @@
     ],
     "name:war_x_preferred":[
         "XV Rehiyon han Arica ngan Parinacota"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u91cc\u5361\u642d\u5e15\u91cc\u7eb3\u79d1\u5854\u5927\u533a"
     ],
     "name:zho_x_preferred":[
         "\u963f\u91cc\u5361\u548c\u5e15\u91cc\u7eb3\u79d1\u5854\u5927\u533a"
@@ -271,7 +292,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749883,
+    "wof:lastmodified":1563582132,
     "wof:name":"Arica y Parinacota",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

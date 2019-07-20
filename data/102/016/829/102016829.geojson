@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "Vichuqu\u00e9n"
     ],
+    "name:war_x_preferred":[
+        "San Luis"
+    ],
     "name:zho_x_preferred":[
         "\u7dad\u4e18\u80af"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":102016829,
-    "wof:lastmodified":1561749818,
+    "wof:lastmodified":1563581460,
     "wof:name":"Vichuqu\u00e9n",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

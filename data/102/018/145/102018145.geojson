@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Curepto"
     ],
+    "name:ceb_x_preferred":[
+        "Curepto"
+    ],
     "name:dan_x_preferred":[
         "Curepto"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0648\u0631\u067e\u062a\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u06cc\u0648\u0631\u067e\u062a\u0648"
     ],
     "name:fra_x_preferred":[
         "Curepto"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":102018145,
-    "wof:lastmodified":1561749814,
+    "wof:lastmodified":1563581414,
     "wof:name":"Curepto",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

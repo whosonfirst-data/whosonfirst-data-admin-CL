@@ -19,11 +19,17 @@
     "name:cat_x_preferred":[
         "Romeral"
     ],
+    "name:ceb_x_preferred":[
+        "Romeral"
+    ],
     "name:eng_x_preferred":[
         "Romeral"
     ],
     "name:eus_x_preferred":[
         "Romeral"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645\u0631\u0627\u0644"
     ],
     "name:fra_x_preferred":[
         "Romeral"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":102018131,
-    "wof:lastmodified":1561749815,
+    "wof:lastmodified":1563581423,
     "wof:name":"Romeral",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

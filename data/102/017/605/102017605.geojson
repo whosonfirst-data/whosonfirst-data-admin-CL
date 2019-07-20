@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Huara"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0622\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Huara"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":102017605,
-    "wof:lastmodified":1561749826,
+    "wof:lastmodified":1563581576,
     "wof:name":"Huara",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

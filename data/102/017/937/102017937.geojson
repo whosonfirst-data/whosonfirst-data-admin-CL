@@ -25,17 +25,32 @@
     "name:ang_x_preferred":[
         "Regi\u00f3n del Biob\u00edo"
     ],
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0628\u064a\u0648 \u0628\u064a\u0648"
+    ],
     "name:arg_x_preferred":[
         "Rechi\u00f3n del Biob\u00edo"
     ],
+    "name:arn_x_preferred":[
+        "B\u00edo B\u00edo"
+    ],
     "name:ast_x_preferred":[
         "Rex\u00f3n del Biob\u00edo"
+    ],
+    "name:aze_x_preferred":[
+        "Bio Bio b\u00f6lg\u0259si"
     ],
     "name:bak_x_preferred":[
         "\u0411\u0438\u043e-\u0411\u0438\u043e"
     ],
     "name:bar_x_preferred":[
         "Regi\u00f3n del B\u00edo-B\u00edo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u0411\u0456\u0430-\u0411\u0456\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u099e\u09cd\u099a\u09b2 \u09ae\u09c7\u099f\u09cd\u09b0\u09cb\u09aa\u09b2\u09bf\u099f\u09a8"
     ],
     "name:bos_x_preferred":[
         "Regija B\u00edo-B\u00edo"
@@ -46,8 +61,194 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u043e\u0431\u0438\u043e"
     ],
+    "name:cat_x_preferred":[
+        "regi\u00f3 del B\u00edo-B\u00edo"
+    ],
+    "name:ceb_x_preferred":[
+        "Regi\u00f3n del Biob\u00edo"
+    ],
+    "name:ces_x_preferred":[
+        "Region B\u00edo-B\u00edo"
+    ],
+    "name:cym_x_preferred":[
+        "B\u00edo B\u00edo Region"
+    ],
+    "name:dan_x_preferred":[
+        "Biob\u00edo-regionen"
+    ],
+    "name:deu_x_preferred":[
+        "Regi\u00f3n del B\u00edo-B\u00edo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03c0\u03af\u03bf \u039c\u03c0\u03af\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Biobio Region"
+    ],
+    "name:eng_x_variant":[
+        "B\u00edo B\u00edo Region"
+    ],
+    "name:epo_x_preferred":[
+        "Biob\u00edo"
+    ],
+    "name:est_x_preferred":[
+        "B\u00edo-B\u00edo piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Biob\u00edo eskualdea"
+    ],
+    "name:ext_x_preferred":[
+        "Regi\u00f3n del Biob\u00edo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u0628\u06cc\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Biob\u00edon alue"
+    ],
+    "name:fra_x_preferred":[
+        "Biob\u00edo"
+    ],
+    "name:frp_x_preferred":[
+        "R\u00e8g\u00b7ion du Biob\u00edo"
+    ],
+    "name:frr_x_preferred":[
+        "Regi\u00f3n del B\u00edo-B\u00edo"
+    ],
+    "name:gsw_x_preferred":[
+        "Region Biob\u00edo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0ac0\u0a9c\u0aa8 \u0aae\u0ac7\u0a9f\u0acd\u0ab0\u0acb\u0aaa\u0acb\u0ab2\u0abf\u0a9f\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d5\u05d1\u05d9\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "VIII. regija Biob\u00edo"
+    ],
+    "name:hun_x_preferred":[
+        "Biob\u00edo r\u00e9gi\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0578\u0562\u056b\u0578"
+    ],
+    "name:ilo_x_preferred":[
+        "Rehion ti B\u00edo B\u00edo"
+    ],
+    "name:ina_x_preferred":[
+        "Region del Biob\u00edo"
+    ],
+    "name:ind_x_preferred":[
+        "Wilayah B\u00edo B\u00edo"
+    ],
+    "name:isl_x_preferred":[
+        "Biob\u00edo-fylki"
+    ],
+    "name:ita_x_preferred":[
+        "regione del B\u00edo B\u00edo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30aa\u30d3\u30aa\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cc6\u0c9c\u0cbf\u0caf\u0cbe\u0ca8\u0ccd \u0cae\u0cb9\u0cbe\u0ca8\u0c97\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dd-\u10d1\u10d8\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc624\ube44\uc624\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Rejion del Biob\u00edo"
+    ],
+    "name:lat_x_preferred":[
+        "Regio Biob\u00edo"
+    ],
+    "name:lav_x_preferred":[
+        "Biobio re\u0123ions"
+    ],
+    "name:lim_x_preferred":[
+        "Biob\u00edo"
+    ],
+    "name:lit_x_preferred":[
+        "Biobio regionas"
+    ],
+    "name:lmo_x_preferred":[
+        "Biob\u00edo"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u0940\u091c\u0928 \u092e\u0947\u091f\u094d\u0930\u094b\u092a\u0949\u0932\u093f\u091f\u0928"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u043e\u0431\u0438\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Region metropolitana"
+    ],
+    "name:nah_x_preferred":[
+        "Onohuay\u0101n Biob\u00edo"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00edo-B\u00edo"
+    ],
+    "name:nds_x_preferred":[
+        "Region B\u00edo-B\u00edo"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00edo-B\u00edo"
+    ],
+    "name:nob_x_preferred":[
+        "Biob\u00edo"
+    ],
+    "name:nrm_x_preferred":[
+        "R\u00e9gioun du Biob\u00edo"
+    ],
+    "name:oci_x_preferred":[
+        "Region del Biob\u00edo"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0438\u043e-\u0411\u0438\u043e"
+    ],
+    "name:pap_x_preferred":[
+        "Biob\u00edo"
+    ],
+    "name:pms_x_preferred":[
+        "Region d\u00ebl Biob\u00edo"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u06cc\u0624\u0628\u06cc\u0624 \u0631\u06cc\u062c\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Biob\u00edo"
+    ],
+    "name:que_x_preferred":[
+        "Biyubiyu suyu"
+    ],
+    "name:roh_x_preferred":[
+        "Regi\u00f3n del Biob\u00edo"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Biob\u00edo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043e-\u0411\u0438\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Biob\u00edo"
+    ],
+    "name:sco_x_preferred":[
+        "Biob\u00edo Region"
+    ],
+    "name:sgs_x_preferred":[
+        "Biuobiuo reg\u0117juons"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db4\u0ddc\u0dbd\u0dd2\u0da7\u0db1\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "Biob\u00edo"
     ],
     "name:spa_x_colloquial":[
         "Region del Biobio"
@@ -61,8 +262,59 @@
         "VIII Region",
         "Biob\u00edo"
     ],
+    "name:srd_x_preferred":[
+        "Regi\u00f3n del Biob\u00edo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0433\u0438\u043e\u043d \u0411\u0438\u043e\u0431\u0438\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Regi\u00f3n del BioB\u00edo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0b95\u0bc1\u0ba4\u0bbf  \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0baa\u0bcb\u0bb2\u0bbf\u0ba4\u0bbe\u0ba9\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u043e-\u0411\u0438\u043e"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c40\u0c1c\u0c3f\u0c2f\u0c28\u0c4d \u0c2e\u0c46\u0c1f\u0c4d\u0c30\u0c4b\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c3e\u0c28\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e1a\u0e35\u0e42\u0e2d\u0e1a\u0e35\u0e42\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "B\u00edo-B\u00edo b\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043e\u0431\u0456\u043e"
+    ],
     "name:unk_x_variant":[
         "Octava Regi\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u062c\u0646 \u0645\u06cc\u062a\u0631\u0648\u067e\u0648\u0644\u06cc\u062a\u0627\u0646\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Rejon del Biob\u00edo"
+    ],
+    "name:vie_x_preferred":[
+        "V\u00f9ng B\u00edo B\u00edo"
+    ],
+    "name:vls_x_preferred":[
+        "Regio Biob\u00edo"
+    ],
+    "name:war_x_preferred":[
+        "VIII Rehiyon han Biob\u00edo"
+    ],
+    "name:wln_x_preferred":[
+        "Redjon del Biob\u00edo"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d9\u05d0\u05d1\u05d9\u05d0 \u05e8\u05d0\u05d9\u05d0\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5965\u6bd4\u5965\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHL",
@@ -167,7 +419,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536613854,
+    "wof:lastmodified":1563581535,
     "wof:name":"Regi\u00f3n del Biob\u00edo",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

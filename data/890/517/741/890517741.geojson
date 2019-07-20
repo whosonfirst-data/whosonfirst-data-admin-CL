@@ -14,6 +14,63 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043f\u0443\u0434\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Papudo"
+    ],
+    "name:ceb_x_preferred":[
+        "Papudo"
+    ],
+    "name:eng_x_preferred":[
+        "Papudo"
+    ],
+    "name:eus_x_preferred":[
+        "Papudo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u067e\u0648\u062f\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Papudo"
+    ],
+    "name:ita_x_preferred":[
+        "Papudo"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ud478\ub3c4"
+    ],
+    "name:nan_x_preferred":[
+        "Papudo"
+    ],
+    "name:nld_x_preferred":[
+        "Papudo"
+    ],
+    "name:oci_x_preferred":[
+        "Papudo"
+    ],
+    "name:por_x_preferred":[
+        "Papudo"
+    ],
+    "name:ron_x_preferred":[
+        "Papudo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043f\u0443\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Papudo"
+    ],
+    "name:swe_x_preferred":[
+        "Papudo"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u723e\u57fa"
+    ],
+    "name:zho_x_variant":[
+        "\u5e15\u666e\u591a"
+    ],
     "qs:name":"Papudo",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Valpara\u00edso",
@@ -46,7 +103,7 @@
         }
     ],
     "wof:id":890517741,
-    "wof:lastmodified":1527749996,
+    "wof:lastmodified":1563582295,
     "wof:name":"Papudo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

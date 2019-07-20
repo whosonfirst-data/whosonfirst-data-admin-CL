@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Purranque"
     ],
+    "name:ceb_x_preferred":[
+        "Purranque"
+    ],
     "name:deu_x_preferred":[
         "Purranque"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":102017113,
-    "wof:lastmodified":1561749836,
+    "wof:lastmodified":1563581720,
     "wof:name":"Purranque",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

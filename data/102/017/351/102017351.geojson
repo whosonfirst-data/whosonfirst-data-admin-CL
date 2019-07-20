@@ -35,6 +35,9 @@
     "name:eus_x_preferred":[
         "Mulch\u00e9n"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u0686\u0646"
+    ],
     "name:fra_x_preferred":[
         "Mulch\u00e9n"
     ],
@@ -54,6 +57,9 @@
         "Mulch\u00e9n"
     ],
     "name:oci_x_preferred":[
+        "Mulch\u00e9n"
+    ],
+    "name:pol_x_preferred":[
         "Mulch\u00e9n"
     ],
     "name:por_x_preferred":[
@@ -132,7 +138,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749831,
+    "wof:lastmodified":1563581640,
     "wof:name":"Mulch\u00e9n",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

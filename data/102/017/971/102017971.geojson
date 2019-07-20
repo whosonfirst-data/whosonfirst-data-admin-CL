@@ -24,6 +24,9 @@
     "name:arn_x_preferred":[
         "Anku\u00f1"
     ],
+    "name:ast_x_preferred":[
+        "Ancud"
+    ],
     "name:aym_x_preferred":[
         "Ancud"
     ],
@@ -55,6 +58,9 @@
         "Ancud"
     ],
     "name:glg_x_preferred":[
+        "Ancud"
+    ],
+    "name:grn_x_preferred":[
         "Ancud"
     ],
     "name:hbs_x_preferred":[
@@ -270,7 +276,7 @@
         }
     ],
     "wof:id":102017971,
-    "wof:lastmodified":1561749829,
+    "wof:lastmodified":1563581616,
     "wof:name":"Ancud",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

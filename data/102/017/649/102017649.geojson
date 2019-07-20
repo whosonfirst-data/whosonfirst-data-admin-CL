@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000793,
-    "geom:area_square_m":8185632.886085,
+    "geom:area_square_m":8185632.886092,
     "geom:bbox":"-70.4333496094,-33.3764123512,-70.307248102,-33.3352784068",
     "geom:latitude":-33.356471,
     "geom:longitude":-70.357118,
@@ -30,6 +30,12 @@
     ],
     "name:swe_x_preferred":[
         "Farellones"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b3d\u5df4\u9f8d\u6208"
+    ],
+    "name:zho_x_variant":[
+        "\u6cd5\u96f7\u6d1b\u5c3c\u65af"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":102017649,
-    "wof:lastmodified":1527637778,
+    "wof:lastmodified":1563581661,
     "wof:name":"Farellones",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

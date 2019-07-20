@@ -16,6 +16,207 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "La Arena"
+    ],
+    "name:arg_x_preferred":[
+        "La Arena"
+    ],
+    "name:ast_x_preferred":[
+        "La Arena"
+    ],
+    "name:bar_x_preferred":[
+        "La Arena"
+    ],
+    "name:bre_x_preferred":[
+        "La Arena"
+    ],
+    "name:cat_x_preferred":[
+        "La Arena"
+    ],
+    "name:ceb_x_preferred":[
+        "La Arena"
+    ],
+    "name:ces_x_preferred":[
+        "La Arena"
+    ],
+    "name:cos_x_preferred":[
+        "La Arena"
+    ],
+    "name:cym_x_preferred":[
+        "La Arena"
+    ],
+    "name:dan_x_preferred":[
+        "La Arena"
+    ],
+    "name:deu_x_preferred":[
+        "La Arena"
+    ],
+    "name:eng_x_preferred":[
+        "La Arena"
+    ],
+    "name:epo_x_preferred":[
+        "La Arena"
+    ],
+    "name:est_x_preferred":[
+        "La Arena"
+    ],
+    "name:eus_x_preferred":[
+        "La Arena"
+    ],
+    "name:fin_x_preferred":[
+        "La Arena"
+    ],
+    "name:fra_x_preferred":[
+        "La Arena"
+    ],
+    "name:frp_x_preferred":[
+        "La Arena"
+    ],
+    "name:fur_x_preferred":[
+        "La Arena"
+    ],
+    "name:gla_x_preferred":[
+        "La Arena"
+    ],
+    "name:gle_x_preferred":[
+        "La Arena"
+    ],
+    "name:glg_x_preferred":[
+        "La Arena"
+    ],
+    "name:gsw_x_preferred":[
+        "La Arena"
+    ],
+    "name:hrv_x_preferred":[
+        "La Arena"
+    ],
+    "name:ido_x_preferred":[
+        "La Arena"
+    ],
+    "name:ile_x_preferred":[
+        "La Arena"
+    ],
+    "name:ina_x_preferred":[
+        "La Arena"
+    ],
+    "name:ind_x_preferred":[
+        "La Arena"
+    ],
+    "name:isl_x_preferred":[
+        "La Arena"
+    ],
+    "name:ita_x_preferred":[
+        "La Arena"
+    ],
+    "name:kon_x_preferred":[
+        "La Arena"
+    ],
+    "name:lij_x_preferred":[
+        "La Arena"
+    ],
+    "name:lim_x_preferred":[
+        "La Arena"
+    ],
+    "name:ltz_x_preferred":[
+        "La Arena"
+    ],
+    "name:min_x_preferred":[
+        "La Arena"
+    ],
+    "name:mlg_x_preferred":[
+        "La Arena"
+    ],
+    "name:msa_x_preferred":[
+        "La Arena"
+    ],
+    "name:nap_x_preferred":[
+        "La Arena"
+    ],
+    "name:nds_x_preferred":[
+        "La Arena"
+    ],
+    "name:nld_x_preferred":[
+        "La Arena"
+    ],
+    "name:nno_x_preferred":[
+        "La Arena"
+    ],
+    "name:nob_x_preferred":[
+        "La Arena"
+    ],
+    "name:nrm_x_preferred":[
+        "La Arena"
+    ],
+    "name:oci_x_preferred":[
+        "La Arena"
+    ],
+    "name:pcd_x_preferred":[
+        "La Arena"
+    ],
+    "name:pms_x_preferred":[
+        "La Arena"
+    ],
+    "name:pol_x_preferred":[
+        "La Arena"
+    ],
+    "name:por_x_preferred":[
+        "La Arena"
+    ],
+    "name:roh_x_preferred":[
+        "La Arena"
+    ],
+    "name:ron_x_preferred":[
+        "La Arena"
+    ],
+    "name:scn_x_preferred":[
+        "La Arena"
+    ],
+    "name:sco_x_preferred":[
+        "La Arena"
+    ],
+    "name:slk_x_preferred":[
+        "La Arena"
+    ],
+    "name:slv_x_preferred":[
+        "La Arena"
+    ],
+    "name:spa_x_preferred":[
+        "La Arena"
+    ],
+    "name:srd_x_preferred":[
+        "La Arena"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0410\u0440\u0435\u043d\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "La Arena"
+    ],
+    "name:swe_x_preferred":[
+        "La Arena"
+    ],
+    "name:vec_x_preferred":[
+        "La Arena"
+    ],
+    "name:vie_x_preferred":[
+        "La Arena"
+    ],
+    "name:vls_x_preferred":[
+        "La Arena"
+    ],
+    "name:vol_x_preferred":[
+        "La Arena"
+    ],
+    "name:wln_x_preferred":[
+        "La Arena"
+    ],
+    "name:wol_x_preferred":[
+        "La Arena"
+    ],
+    "name:zul_x_preferred":[
+        "La Arena"
+    ],
     "qs:name":"La Arena",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Los Lagos",
@@ -56,7 +257,7 @@
         }
     ],
     "wof:id":890517601,
-    "wof:lastmodified":1527751201,
+    "wof:lastmodified":1563582325,
     "wof:name":"La Arena",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

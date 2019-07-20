@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Antuco"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062a\u0648\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Antuco"
     ],
@@ -127,7 +130,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749830,
+    "wof:lastmodified":1563581630,
     "wof:name":"Antuco",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

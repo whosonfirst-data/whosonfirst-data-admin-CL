@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000325,
-    "geom:area_square_m":3116528.637338,
+    "geom:area_square_m":3116528.637337,
     "geom:bbox":"-71.9555163385,-39.0921713627,-71.9324229473,-39.0741727495",
     "geom:latitude":-39.083172,
     "geom:longitude":-71.94397,
@@ -15,6 +15,34 @@
     "mps:latitude":-39.083172,
     "mps:longitude":-71.94397,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Lago Colico"
+    ],
+    "name:ceb_x_preferred":[
+        "Lago Colico"
+    ],
+    "name:deu_x_preferred":[
+        "Lago Colico"
+    ],
+    "name:eng_x_preferred":[
+        "Colico Lake"
+    ],
+    "name:fra_x_preferred":[
+        "lac Colico"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0438\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lago Colico"
+    ],
+    "name:swe_x_preferred":[
+        "Lago Colico"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5229\u79d1\u6e56"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -41,7 +69,7 @@
         "wk:page":"Colico Lake"
     },
     "wof:country":"CL",
-    "wof:geomhash":"26c63679f0fec38d5da69c9c9a1839cb",
+    "wof:geomhash":"1f5188c603edd79f565ea738c6d5c479",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +80,7 @@
         }
     ],
     "wof:id":102017777,
-    "wof:lastmodified":1479948189,
+    "wof:lastmodified":1563581621,
     "wof:name":"Lago Colico",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

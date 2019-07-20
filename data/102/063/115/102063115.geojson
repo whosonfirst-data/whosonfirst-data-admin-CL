@@ -56,14 +56,19 @@
     ],
     "name:eng_x_variant":[
         "Chiloe",
-        "Chilo\u00e9",
         "Chilo\u00e9 Province"
     ],
     "name:epo_x_preferred":[
         "\u0108iloeo"
     ],
+    "name:epo_x_variant":[
+        "Provinco Chilo\u00e9"
+    ],
     "name:eus_x_preferred":[
         "Chilo\u00e9 uhartedia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0644\u0648\u0626\u0647"
     ],
     "name:fra_x_preferred":[
         "province de Chilo\u00e9"
@@ -73,6 +78,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0549\u056b\u056c\u0578\u0565"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Chilo\u00e9"
     ],
     "name:ita_x_preferred":[
         "provincia di Chilo\u00e9"
@@ -106,6 +114,9 @@
     ],
     "name:spa_x_preferred":[
         "Archipi\u00e9lago de Chilo\u00e9"
+    ],
+    "name:spa_x_variant":[
+        "Chilo\u00e9"
     ],
     "name:swe_x_preferred":[
         "Provincia de Chilo\u00e9"
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":102063115,
-    "wof:lastmodified":1561749802,
+    "wof:lastmodified":1563581371,
     "wof:name":"Chiloe",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

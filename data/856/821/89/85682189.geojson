@@ -58,6 +58,9 @@
     "name:dan_x_preferred":[
         "Ais\u00e9n"
     ],
+    "name:dan_x_variant":[
+        "Ais\u00e9n-regionen"
+    ],
     "name:deu_x_preferred":[
         "Regi\u00f3n de Ays\u00e9n"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:eng_x_preferred":[
         "De Aisen"
+    ],
+    "name:eng_x_variant":[
+        "Ays\u00e9n Region"
     ],
     "name:epo_x_preferred":[
         "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
@@ -81,6 +87,9 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    ],
+    "name:fra_x_variant":[
+        "Ais\u00e9n"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Ais\u00e9n"
@@ -103,6 +112,9 @@
     "name:hye_x_preferred":[
         "\u0531\u0575\u057d\u0565\u0576"
     ],
+    "name:ilo_x_preferred":[
+        "Rehion ti Ays\u00e9n"
+    ],
     "name:ind_x_preferred":[
         "Region Ais\u00e9n"
     ],
@@ -120,6 +132,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc774\uc13c\ub378\ud5e4\ub124\ub784\uce74\ub97c\ub85c\uc2a4\uc774\ubc14\ub15c\uc2a4\ub378\uce84\ud3ec \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc774\uc13c\ub378\ud5e4\ub124\ub784\uce74\ub97c\ub85c\uc2a4\uc774\ubc14\ub15c\uc2a4\ub378\uce84\ud3ec\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Ais\u00e9n"
     ],
     "name:lat_x_preferred":[
         "Aysenensis"
@@ -150,6 +168,9 @@
     ],
     "name:nob_x_preferred":[
         "Ais\u00e9n"
+    ],
+    "name:nob_x_variant":[
+        "Ays\u00e9n"
     ],
     "name:oci_x_preferred":[
         "Region d'Aisen"
@@ -216,6 +237,12 @@
     ],
     "name:war_x_preferred":[
         "XI Rehiyon han Ais\u00e9n han General Carlos Ib\u00e1\u00f1ez del Campo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u74e6\u6d85\u65af\u5c07\u8ecd\u500b\u827e\u68ee\u5927\u5340"
+    ],
+    "name:yue_x_preferred":[
+        "\u827e\u68ee\u5927\u5340"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u74e6\u6d85\u65af\u5c06\u519b\u827e\u68ee\u5927\u533a"
@@ -333,7 +360,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749844,
+    "wof:lastmodified":1563581822,
     "wof:name":"De Aisen",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

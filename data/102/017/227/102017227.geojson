@@ -28,6 +28,9 @@
     "name:eus_x_preferred":[
         "Pica"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Pica"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":102017227,
-    "wof:lastmodified":1561749824,
+    "wof:lastmodified":1563581548,
     "wof:name":"Pica",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

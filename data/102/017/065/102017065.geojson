@@ -16,6 +16,9 @@
     "mps:longitude":-71.524396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Quinteru"
+    ],
     "name:cat_x_preferred":[
         "Quintero"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:eus_x_preferred":[
         "Quintero"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0646\u062a\u0631\u0648"
     ],
     "name:fra_x_preferred":[
         "Quintero"
@@ -46,6 +52,9 @@
     "name:kor_x_preferred":[
         "\ud0a8\ud14c\ub85c"
     ],
+    "name:ltz_x_preferred":[
+        "Quintero"
+    ],
     "name:nan_x_preferred":[
         "Quintero"
     ],
@@ -53,6 +62,9 @@
         "Quintero"
     ],
     "name:oci_x_preferred":[
+        "Quintero"
+    ],
+    "name:pol_x_preferred":[
         "Quintero"
     ],
     "name:por_x_preferred":[
@@ -126,7 +138,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749826,
+    "wof:lastmodified":1563581571,
     "wof:name":"Quintero",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

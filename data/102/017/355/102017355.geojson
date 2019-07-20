@@ -16,14 +16,104 @@
     "mps:longitude":-72.396398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:afr_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:aka_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:amh_x_preferred":[
+        "\u121e\u1295\u1274 \u12a0\u130a\u120b"
+    ],
+    "name:ang_x_preferred":[
+        "Monte \u00c1guila"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0628\u0644 \u0627\u0644\u0646\u0633\u0631"
+    ],
+    "name:arg_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:arn_x_preferred":[
+        "\u00d1ancomahuida"
+    ],
+    "name:ast_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:aym_x_preferred":[
+        "Monte Aguila"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0648\u0646\u062a\u0647\u0627 \u06af\u0644\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Monte Aqila"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u044d-\u0410\u0433\u0456\u043b\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u0997\u09be\u099f\u09a8 \u0997\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09cb\u09a8\u09cd\u09a4\u09c7 \u0986\u0997\u09bf\u09b2\u09be"
+    ],
+    "name:bis_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:bre_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u0410\u0433\u0438\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Monte \u00c0guila"
+    ],
+    "name:cdo_x_preferred":[
+        "L\u00e2u-\u012dng-s\u0103ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Monte \u00c1guila"
+    ],
     "name:ces_x_preferred":[
         "Mount Eagle"
+    ],
+    "name:ces_x_variant":[
+        "Monte \u00c1guila"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u0410\u0433\u0438\u043b\u0430"
+    ],
+    "name:chy_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:cos_x_preferred":[
+        "Monte \u00c0guila"
+    ],
+    "name:cym_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:dan_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:deu_x_preferred":[
+        "Monte Aguila"
+    ],
+    "name:din_x_preferred":[
+        "Monteaguila"
+    ],
+    "name:diq_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:dsb_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bd\u03c4\u03b5 \u0386\u03b3\u03b9\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Monte \u00c1guila"
@@ -31,29 +121,281 @@
     "name:epo_x_preferred":[
         "Monto Aglo"
     ],
+    "name:est_x_preferred":[
+        "Monte Aguila"
+    ],
+    "name:eus_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:fao_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0648\u0646\u062a\u0647\u0627 \u06af\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Monte \u00c1guila"
+    ],
     "name:fra_x_preferred":[
         "Monte Aguila"
+    ],
+    "name:fra_x_variant":[
+        "Monte \u00c1guila"
+    ],
+    "name:fry_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:ful_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:fur_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:gla_x_preferred":[
+        "Monteaguila"
+    ],
+    "name:gle_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:glg_x_preferred":[
+        "Monte Aguila"
+    ],
+    "name:glv_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:grn_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7 \u0a85\u0a97\u0acd\u0ab2\u0ac0\u0ab2\u0abe"
+    ],
+    "name:hat_x_preferred":[
+        "Monte Aguila"
+    ],
+    "name:hau_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:haw_x_preferred":[
+        "Monte \u00c1guila"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e0\u05d8\u05d4 \u05d0\u05d2\u05d0\u05d9\u05dc\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0947 \u0908\u0917\u0932"
+    ],
+    "name:hrv_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:hun_x_preferred":[
+        "Monteaguila"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0565\u057c\u0561\u0576 \u0561\u0580\u056e\u056b\u057e"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u0576\u057f\u0565 \u0531\u0563\u056b\u056c\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Monteaguila"
+    ],
+    "name:ido_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:ile_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:ilo_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:ina_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:ind_x_preferred":[
+        "Monte Aguila"
+    ],
+    "name:ipk_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:isl_x_preferred":[
+        "Arnarfjall"
     ],
     "name:ita_x_preferred":[
         "Monte Aquila"
     ],
+    "name:jam_x_preferred":[
+        "Montyaaguila"
+    ],
+    "name:jav_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:jbo_x_preferred":[
+        "monteaguila"
+    ],
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c6\u30fb\u30a2\u30ae\u30e9"
+    ],
+    "name:kaa_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:kal_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0c82\u0c9f\u0cc6 \u0c86\u0c97\u0cc1\u0cb2\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10e2\u10d4 \u10d0\u10d8\u10e6\u10e3\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u17c6\u17c4\u1793\u178f\u17c1\u200b\u200b\u17b6\u17c6\u1784\u17bb\u17b7\u179b\u17b6"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0443\u043d\u0442-\u0410\u0434\u043b\u0435\u0440"
+    ],
+    "name:kon_x_preferred":[
+        "Monte \u00c1guila"
     ],
     "name:kor_x_preferred":[
         "\ubaac\ud14c\uc544\uae38\ub77c"
     ],
+    "name:kur_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:lad_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:lat_x_preferred":[
+        "Montis Aquila"
+    ],
+    "name:lav_x_preferred":[
+        "Monteagila"
+    ],
+    "name:lmo_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:ltg_x_preferred":[
+        "Monteagjla"
+    ],
+    "name:ltz_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:lug_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8001\u9df9\u5c71"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d4b\u0d7a\u0d31\u0d4d\u0d31 \u0d05\u0d17\u0d3f\u0d32\u0d3f\u0d32"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0949\u0928\u094d\u091f\u0947 \u0906\u0917\u094d\u0935\u093f\u0932\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u0410\u0433\u0438\u043b\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:mlt_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:mri_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:msa_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u103d\u1014\u103a\u1010\u102e\u1021\u1014\u103a\u1002\u102e\u101c\u102c\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nah_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:nan_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:nau_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u094d\u0935\u093e\u092a\u0941\u0917\u0941\u0902 \u0907\u092e\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:nno_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:nov_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:nya_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:oci_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:olo_x_preferred":[
+        "Monte Agujla"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2e\u0a4b\u0a02\u0a1f \u0a08\u0a17\u0a32"
+    ],
+    "name:pap_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:pih_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:pms_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:pol_x_preferred":[
+        "Monte \u00c1guila"
+    ],
     "name:por_x_preferred":[
         "Monte \u00c1guia"
     ],
+    "name:que_x_preferred":[
+        "Muntiagiya"
+    ],
+    "name:ron_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:run_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:rup_x_preferred":[
+        "Monte \u00c1guila"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435-\u0410\u0433\u0443\u0438\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u043d\u0442\u0435-\u0410\u0433\u0438\u043b\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:sco_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8a\u0d9c\u0dbd\u0dca\u0dc3\u0dca \u0d9a\u0db1\u0dca\u0daf"
+    ],
+    "name:slk_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:slv_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:smo_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:sot_x_preferred":[
+        "Monte \u00c1guila"
     ],
     "name:spa_x_colloquial":[
         "Monte Aguila"
@@ -65,11 +407,104 @@
         "Mte Aguila",
         "Mte \u00c1guila"
     ],
+    "name:sqi_x_preferred":[
+        "Monte Aguila"
+    ],
+    "name:srn_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u0410\u0433\u0438\u043b\u0430"
+    ],
+    "name:ssw_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:swa_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:swe_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:szl_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:tah_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0ba9\u0bcd\u0b9f\u0bc7 \u0b86\u0b95\u0bcd\u0b95\u0bc1\u0bb2\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u0410\u0433\u044c\u043b\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4b\u0c02\u0c1f\u0c47 \u0c05\u0c17\u0c41\u0c32"
+    ],
+    "name:tgl_x_preferred":[
+        "Monte \u00c1guila"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e2d\u0e32\u0e01\u0e35\u0e25\u0e32"
     ],
+    "name:tsn_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:tso_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:tum_x_preferred":[
+        "Monte \u00c1guila"
+    ],
     "name:tur_x_preferred":[
         "Monte Aguila"
+    ],
+    "name:twi_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u0410\u0433\u0456\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0679\u06cc \u0627\u06cc\u06af\u0644"
+    ],
+    "name:uzb_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:ven_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:vie_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:vol_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:war_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:wol_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:xho_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:yid_x_preferred":[
+        "\u05de\u05d0\u05e0\u05d8\u05e2 \u05d0\u05d2\u05d9\u05dc\u05d0"
+    ],
+    "name:yor_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:yue_x_preferred":[
+        "\u8001\u9df9\u5c71"
+    ],
+    "name:zea_x_preferred":[
+        "Monte \u00c1guila"
+    ],
+    "name:zho_x_preferred":[
+        "\u8001\u9df9\u5c71"
+    ],
+    "name:zul_x_preferred":[
+        "IMonteaguila"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Biobio",
@@ -120,7 +555,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749823,
+    "wof:lastmodified":1563581541,
     "wof:name":"Monte \u00c1guila",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Perquenco"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06a9\u0646\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Perquenco"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":102017235,
-    "wof:lastmodified":1561749827,
+    "wof:lastmodified":1563581578,
     "wof:name":"Perquenco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

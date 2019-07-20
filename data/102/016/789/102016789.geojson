@@ -21,11 +21,20 @@
     "name:cat_x_preferred":[
         "Zapallar"
     ],
+    "name:ceb_x_preferred":[
+        "Zapallar"
+    ],
+    "name:deu_x_preferred":[
+        "Zapallar"
+    ],
     "name:eng_x_preferred":[
         "Zapallar"
     ],
     "name:eus_x_preferred":[
         "Zapallar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u067e\u0627\u06cc\u0627\u0631"
     ],
     "name:fra_x_preferred":[
         "Zapallar"
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":102016789,
-    "wof:lastmodified":1561749822,
+    "wof:lastmodified":1563581513,
     "wof:name":"Zapallar",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

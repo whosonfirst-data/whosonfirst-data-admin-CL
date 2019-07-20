@@ -21,11 +21,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0648\u064a\u0645\u0628\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0643\u064a\u0645\u0628\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Coquimbo"
+    ],
     "name:aym_x_preferred":[
         "Coquimbo"
     ],
     "name:aze_x_preferred":[
         "Coquimbo"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043a\u0456\u043c\u0431\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u0995\u09c1\u0987\u09ae\u09cd\u09ac\u09c1"
@@ -170,6 +179,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043a\u0438\u043c\u0431\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c15\u0c4d\u0c35\u0c40\u0c02\u0c2c\u0c4b"
@@ -347,7 +359,7 @@
         }
     ],
     "wof:id":102017747,
-    "wof:lastmodified":1561749828,
+    "wof:lastmodified":1563581608,
     "wof:name":"Coquimbo",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "name:cat_x_preferred":[
         "Los Lagos"
     ],
+    "name:ceb_x_preferred":[
+        "Los Lagos"
+    ],
     "name:deu_x_preferred":[
         "Los Lagos"
     ],
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1141907821,
-    "wof:lastmodified":1561749895,
+    "wof:lastmodified":1563582646,
     "wof:name":"Los Lagos",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

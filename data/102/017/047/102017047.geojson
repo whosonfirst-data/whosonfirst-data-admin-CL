@@ -29,6 +29,9 @@
     "name:eus_x_preferred":[
         "Rauco"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0626\u0648\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Rauco"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102017047,
-    "wof:lastmodified":1561749826,
+    "wof:lastmodified":1563581569,
     "wof:name":"Rauco",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

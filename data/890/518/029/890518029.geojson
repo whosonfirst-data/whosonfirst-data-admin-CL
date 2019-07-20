@@ -13,6 +13,66 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0627\u064a\u0647\u064a\u0648\u0643\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Coihueco"
+    ],
+    "name:ceb_x_preferred":[
+        "Coihueco"
+    ],
+    "name:deu_x_preferred":[
+        "Coihueco"
+    ],
+    "name:eng_x_preferred":[
+        "Coihueco"
+    ],
+    "name:eus_x_preferred":[
+        "Coihueco"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0627\u06cc\u0647\u06cc\u0648\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Coihueco"
+    ],
+    "name:ita_x_preferred":[
+        "Coihueco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30a4\u30a6\u30a8\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\uc774\uc6b0\uc5d0\ucf54"
+    ],
+    "name:nan_x_preferred":[
+        "Coihueco"
+    ],
+    "name:nld_x_preferred":[
+        "Coihueco"
+    ],
+    "name:oci_x_preferred":[
+        "Coihueco"
+    ],
+    "name:por_x_preferred":[
+        "Coihueco"
+    ],
+    "name:ron_x_preferred":[
+        "Coihueco"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u0443\u044d\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Coihueco"
+    ],
+    "name:swe_x_preferred":[
+        "Coihueco"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u4f0a\u97cb\u79d1"
+    ],
     "qs:name":"Coihueco",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Biobio",
@@ -51,7 +111,7 @@
         }
     ],
     "wof:id":890518029,
-    "wof:lastmodified":1527751236,
+    "wof:lastmodified":1563582408,
     "wof:name":"Coihueco",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

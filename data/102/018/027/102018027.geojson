@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Lo Prado"
     ],
+    "name:ceb_x_preferred":[
+        "Lo Prado"
+    ],
     "name:deu_x_preferred":[
         "Lo Prado"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eus_x_preferred":[
         "Lo Prado"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648 \u067e\u0631\u0627\u062f\u0648"
     ],
     "name:fra_x_preferred":[
         "Lo Prado"
@@ -121,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749816,
+    "wof:lastmodified":1563581434,
     "wof:name":"Lo Prado",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

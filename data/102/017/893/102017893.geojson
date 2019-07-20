@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":3133099.12568,
+    "geom:area_square_m":3133099.125679,
     "geom:bbox":"-69.866068373,-19.0244203537,-69.8470663664,-19.0063470428",
     "geom:latitude":-19.015384,
     "geom:longitude":-69.856567,
@@ -16,7 +16,13 @@
     "mps:longitude":-69.856567,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Camarones"
+    ],
     "name:deu_x_preferred":[
+        "Camarones"
+    ],
+    "name:eng_x_preferred":[
         "Camarones"
     ],
     "name:fra_x_preferred":[
@@ -35,6 +41,9 @@
         "Camarones"
     ],
     "name:spa_x_preferred":[
+        "Camarones"
+    ],
+    "name:swe_x_preferred":[
         "Camarones"
     ],
     "qs:a0":"Chile",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":102017893,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1563581589,
     "wof:name":"Camarones",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

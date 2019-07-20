@@ -25,11 +25,17 @@
     "name:eus_x_preferred":[
         "Pinto"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0646\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
         "Pinto"
     ],
     "name:ita_x_preferred":[
         "Pinto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30f3\u30c8"
     ],
     "name:kor_x_preferred":[
         "\ud540\ud1a0"
@@ -63,6 +69,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e73\u6258"
+    ],
+    "name:zho_x_variant":[
+        "\u4e18\u57fa\u5361\u9a6c\u5854"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Biobio",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":102017209,
-    "wof:lastmodified":1561749833,
+    "wof:lastmodified":1563581681,
     "wof:name":"Pinto",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

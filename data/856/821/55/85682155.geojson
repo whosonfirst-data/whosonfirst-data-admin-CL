@@ -34,11 +34,17 @@
     "name:ang_x_preferred":[
         "Eormengyld Biobiwes"
     ],
+    "name:ang_x_variant":[
+        "Regi\u00f3n del Biob\u00edo"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0628\u064a\u0648 \u0628\u064a\u0648"
     ],
     "name:arg_x_preferred":[
         "Universidat del B\u00edo-B\u00edo"
+    ],
+    "name:arg_x_variant":[
+        "Rechi\u00f3n del Biob\u00edo"
     ],
     "name:arn_x_preferred":[
         "B\u00edo B\u00edo"
@@ -46,11 +52,17 @@
     "name:ast_x_preferred":[
         "Universid\u00e1 del B\u00edo-B\u00edo"
     ],
+    "name:ast_x_variant":[
+        "Rex\u00f3n del Biob\u00edo"
+    ],
     "name:aym_x_preferred":[
         "B\u00edo-B\u00edo Jach'a Yati\u00f1 Uta"
     ],
     "name:aze_x_preferred":[
         "Biobio Universiteti"
+    ],
+    "name:aze_x_variant":[
+        "Bio Bio b\u00f6lg\u0259si"
     ],
     "name:bak_x_preferred":[
         "\u0411\u0438\u043e-\u0411\u0438\u043e"
@@ -63,6 +75,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0423\u043d\u0456\u0432\u0435\u0440\u0441\u0456\u0442\u044d\u0442 \u0411\u0456\u0430-\u0411\u0456\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u0411\u0456\u0430-\u0411\u0456\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0985\u099e\u09cd\u099a\u09b2 \u09ae\u09c7\u099f\u09cd\u09b0\u09cb\u09aa\u09b2\u09bf\u099f\u09a8"
@@ -78,6 +93,12 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 del B\u00edo-B\u00edo"
+    ],
+    "name:cat_x_variant":[
+        "regi\u00f3 del B\u00edo-B\u00edo"
+    ],
+    "name:ceb_x_preferred":[
+        "Regi\u00f3n del Biob\u00edo"
     ],
     "name:ces_x_preferred":[
         "Region B\u00edo-B\u00edo"
@@ -100,6 +121,9 @@
     "name:eng_x_preferred":[
         "Del Bio-Bio"
     ],
+    "name:eng_x_variant":[
+        "B\u00edo B\u00edo Region"
+    ],
     "name:epo_x_preferred":[
         "Biob\u00edo"
     ],
@@ -121,8 +145,14 @@
     "name:fra_x_preferred":[
         "R\u00e9gion du Biob\u00edo"
     ],
+    "name:fra_x_variant":[
+        "Biob\u00edo"
+    ],
     "name:frp_x_preferred":[
         "R\u00e8g\u00b7ion du Biob\u00edo"
+    ],
+    "name:frr_x_preferred":[
+        "Regi\u00f3n del B\u00edo-B\u00edo"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Biob\u00edo"
@@ -148,6 +178,9 @@
     "name:ido_x_preferred":[
         "Regiono di Biob\u00edo"
     ],
+    "name:ilo_x_preferred":[
+        "Rehion ti B\u00edo B\u00edo"
+    ],
     "name:ina_x_preferred":[
         "Region del Biob\u00edo"
     ],
@@ -172,6 +205,9 @@
     "name:kor_x_preferred":[
         "\ube44\uc624\ube44\uc624 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ube44\uc624\ube44\uc624\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Rejion del Biob\u00edo"
     ],
@@ -192,6 +228,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0930\u0940\u091c\u0928 \u092e\u0947\u091f\u094d\u0930\u094b\u092a\u0949\u0932\u093f\u091f\u0928"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u043e\u0431\u0438\u043e"
     ],
     "name:msa_x_preferred":[
         "Region metropolitana"
@@ -267,6 +306,9 @@
     ],
     "name:spa_x_preferred":[
         "Regi\u00f3n del B\u00edo B\u00edo"
+    ],
+    "name:spa_x_variant":[
+        "Regi\u00f3n del Biob\u00edo"
     ],
     "name:srd_x_preferred":[
         "Regi\u00f3n del Biob\u00edo"
@@ -372,7 +414,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749855,
+    "wof:lastmodified":1563581839,
     "wof:name":"Del Bio-Bio",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

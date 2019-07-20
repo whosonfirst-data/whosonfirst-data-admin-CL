@@ -31,6 +31,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0644 \u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0644 \u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "El Salvador"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:ron_x_preferred":[
         "El Salvador"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c \u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
     "name:spa_x_preferred":[
         "El Salvador"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":102017671,
-    "wof:lastmodified":1561749832,
+    "wof:lastmodified":1563581665,
     "wof:name":"El Salvador",
     "wof:parent_id":102063133,
     "wof:placetype":"locality",

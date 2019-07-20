@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000561,
-    "geom:area_square_m":6172150.52678,
+    "geom:area_square_m":6172150.52679,
     "geom:bbox":"-70.83984375,-27.1317258316,-70.8022928881,-27.1080338015",
     "geom:latitude":-27.12098,
     "geom:longitude":-70.820628,
@@ -19,7 +19,25 @@
     "name:ceb_x_preferred":[
         "Bah\u00eda Inglesa"
     ],
+    "name:ces_x_preferred":[
+        "Bah\u00eda Inglesa"
+    ],
+    "name:deu_x_preferred":[
+        "Bah\u00eda Inglesa"
+    ],
+    "name:eng_x_preferred":[
+        "Bah\u00eda Inglesa"
+    ],
+    "name:nld_x_preferred":[
+        "Bah\u00eda Inglesa"
+    ],
+    "name:slk_x_preferred":[
+        "Bah\u00eda Inglesa"
+    ],
     "name:spa_x_preferred":[
+        "Bah\u00eda Inglesa"
+    ],
+    "name:swe_x_preferred":[
         "Bah\u00eda Inglesa"
     ],
     "qs:a1":"*",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":102018037,
-    "wof:lastmodified":1527637578,
+    "wof:lastmodified":1563581409,
     "wof:name":"Bah\u00eda Inglesa",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

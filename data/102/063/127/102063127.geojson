@@ -40,8 +40,10 @@
         "General Carrera"
     ],
     "name:eng_x_variant":[
-        "General Carrera",
         "General Carrera Province"
+    ],
+    "name:eus_x_preferred":[
+        "General Carrera probintzia"
     ],
     "name:fra_x_preferred":[
         "Province de General Carrera"
@@ -87,6 +89,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de General Carrera"
+    ],
+    "name:spa_x_variant":[
+        "General Carrera"
     ],
     "name:swe_x_preferred":[
         "Provincia General Carrera"
@@ -163,7 +168,7 @@
         }
     ],
     "wof:id":102063127,
-    "wof:lastmodified":1561749774,
+    "wof:lastmodified":1563581326,
     "wof:name":"General Carrera",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

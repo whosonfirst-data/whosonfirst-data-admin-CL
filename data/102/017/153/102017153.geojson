@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Puerto Cisnes"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0626\u0631\u062a\u0648 \u062b\u06cc\u0633\u0646\u0633"
+    ],
     "name:fra_x_preferred":[
         "Puerto Cisnes"
     ],
@@ -111,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749829,
+    "wof:lastmodified":1563581625,
     "wof:name":"Puerto Cisnes",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",

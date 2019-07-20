@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Lanco"
     ],
+    "name:ceb_x_preferred":[
+        "Lanco"
+    ],
     "name:deu_x_preferred":[
         "Lanco"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:eus_x_preferred":[
         "Lanco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0646\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
         "Lanco"
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":102017533,
-    "wof:lastmodified":1561749822,
+    "wof:lastmodified":1563581523,
     "wof:name":"Lanco",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

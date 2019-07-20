@@ -16,11 +16,137 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ace_x_preferred":[
+        "Vitacura"
+    ],
+    "name:ang_x_preferred":[
+        "Vitacura"
+    ],
+    "name:arg_x_preferred":[
+        "Vitacura"
+    ],
+    "name:ast_x_preferred":[
+        "Vitacura"
+    ],
+    "name:aym_x_preferred":[
+        "Vitacura"
+    ],
+    "name:aze_x_preferred":[
+        "Vitacura"
+    ],
+    "name:bre_x_preferred":[
+        "Vitacura"
+    ],
+    "name:ceb_x_preferred":[
+        "Vitacura"
+    ],
+    "name:cos_x_preferred":[
+        "Vitacura"
+    ],
+    "name:dan_x_preferred":[
+        "Vitacura"
+    ],
+    "name:deu_x_preferred":[
+        "Vitacura"
+    ],
+    "name:eng_x_preferred":[
+        "Vitacura"
+    ],
+    "name:est_x_preferred":[
+        "Vitacura"
+    ],
+    "name:eus_x_preferred":[
+        "Vitacura"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062a\u0627\u06a9\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Vitacura"
+    ],
+    "name:gle_x_preferred":[
+        "Vitacura"
+    ],
+    "name:glg_x_preferred":[
+        "Vitacura"
+    ],
+    "name:grn_x_preferred":[
+        "Vitacura"
+    ],
+    "name:hrv_x_preferred":[
+        "Vitacura"
+    ],
+    "name:ita_x_preferred":[
+        "Vitacura"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ud0c0\ucfe0\ub77c"
+    ],
     "name:lad_x_preferred":[
         "Vitakura"
     ],
+    "name:lat_x_preferred":[
+        "Vitacura"
+    ],
+    "name:lmo_x_preferred":[
+        "Vitacura"
+    ],
+    "name:nah_x_preferred":[
+        "Vitacura"
+    ],
+    "name:nan_x_preferred":[
+        "Vitacura"
+    ],
+    "name:nld_x_preferred":[
+        "Vitacura"
+    ],
+    "name:nov_x_preferred":[
+        "Vitacura"
+    ],
+    "name:pms_x_preferred":[
+        "Vitacura"
+    ],
+    "name:pol_x_preferred":[
+        "Vitacura"
+    ],
+    "name:por_x_preferred":[
+        "Vitacura"
+    ],
+    "name:que_x_preferred":[
+        "Vitacura"
+    ],
+    "name:rmy_x_preferred":[
+        "Vitacura"
+    ],
+    "name:ron_x_preferred":[
+        "Vitacura"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0442\u0430\u043a\u0443\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vitacura"
+    ],
+    "name:sqi_x_preferred":[
+        "Vitacura"
+    ],
+    "name:srd_x_preferred":[
+        "Vitacura"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0442\u0430\u043a\u0443\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vitacura"
+    ],
+    "name:vol_x_preferred":[
+        "Vitacura"
+    ],
+    "name:war_x_preferred":[
+        "Vitacura"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u5854\u5e93\u62c9"
     ],
     "qs:name":"Vitacura",
     "qs:name_adm0":"Chile",
@@ -62,7 +188,7 @@
         }
     ],
     "wof:id":890518085,
-    "wof:lastmodified":1527751231,
+    "wof:lastmodified":1563582373,
     "wof:name":"Vitacura",
     "wof:parent_id":102063117,
     "wof:placetype":"localadmin",

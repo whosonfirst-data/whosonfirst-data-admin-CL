@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20468514.988232,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.616554,-33.604382,-71.616554,-33.604382",
     "geom:latitude":-33.604382,
     "geom:longitude":-71.616554,
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Barrancas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u0646\u06a9\u0633"
+    ],
+    "name:nld_x_preferred":[
+        "Barrancas"
+    ],
     "name:spa_x_preferred":[
         "Barrancas"
     ],
@@ -69,11 +78,11 @@
     "wd:wordcount":17,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016993,
-        102063167,
-        85682143
+        102063167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858896,
+    "wof:lastmodified":1563581802,
     "wof:name":"Barrancas",
     "wof:parent_id":102016993,
     "wof:placetype":"neighbourhood",

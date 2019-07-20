@@ -41,6 +41,9 @@
     "name:fas_x_preferred":[
         "\u0641\u06cc\u0648\u062a\u0627\u0644\u06cc\u0648\u0641\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u06cc\u0648\u062a\u0627\u0644\u06cc\u0648\u0641\u0648"
+    ],
     "name:fra_x_preferred":[
         "Futaleuf\u00fa"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud478\ud0c8\ub808\uc6b0\ud478"
+    ],
+    "name:lit_x_preferred":[
+        "Futaleufu"
     ],
     "name:nan_x_preferred":[
         "Futaleuf\u00fa"
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":102017639,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1563581687,
     "wof:name":"Futaleuf\u00fa",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

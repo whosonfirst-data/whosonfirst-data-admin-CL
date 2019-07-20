@@ -57,6 +57,9 @@
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a4\u09cb\u09ab\u09be\u0997\u09be\u09b8\u09cd\u09a4\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u09a8\u09cd\u09a4\u09cb\u09ab\u09be\u0997\u09be\u09b8\u09cd\u09a4\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f68\u0f53\u0f0b\u0f4f\u0f7c\u0f0b\u0f55\u0f0b\u0f42\u0f0b\u0f66\u0f72\u0f0b\u0f4f"
     ],
@@ -73,6 +76,9 @@
         "\u0410\u043d\u0442\u043e\u0444\u0430\u0433\u0430\u0441\u0442\u0430"
     ],
     "name:cat_x_preferred":[
+        "Antofagasta"
+    ],
+    "name:ceb_x_preferred":[
         "Antofagasta"
     ],
     "name:ces_x_preferred":[
@@ -156,7 +162,16 @@
     "name:hun_x_preferred":[
         "Antofagasta"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u057f\u0578\u0586\u0561\u0563\u0561\u057d\u057f\u0561"
+    ],
     "name:ido_x_preferred":[
+        "Antofagasta"
+    ],
+    "name:ilo_x_preferred":[
+        "Antofagasta"
+    ],
+    "name:ina_x_preferred":[
         "Antofagasta"
     ],
     "name:ind_x_preferred":[
@@ -199,6 +214,9 @@
         "Antofagasta"
     ],
     "name:lit_x_preferred":[
+        "Antofagasta"
+    ],
+    "name:ltz_x_preferred":[
         "Antofagasta"
     ],
     "name:mar_x_preferred":[
@@ -270,6 +288,9 @@
     "name:slk_x_preferred":[
         "Antofagasta"
     ],
+    "name:slv_x_preferred":[
+        "Antofagasta"
+    ],
     "name:spa_x_preferred":[
         "Antofagasta"
     ],
@@ -305,6 +326,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u043e\u0444\u0430\u0433\u0430\u0441\u0442\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u043d\u0442\u043e\u0444\u0430\u0491\u0430\u0441\u0442\u0430"
     ],
     "name:und_x_preferred":[
         "ANF"
@@ -482,7 +506,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749823,
+    "wof:lastmodified":1563581537,
     "wof:megacity":0,
     "wof:name":"Antofagasta",
     "wof:parent_id":102063073,

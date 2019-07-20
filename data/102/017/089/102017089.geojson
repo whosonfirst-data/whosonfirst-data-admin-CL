@@ -67,6 +67,9 @@
     "name:zho_x_preferred":[
         "\u57fa\u62c9\u79d1"
     ],
+    "name:zho_x_variant":[
+        "\u5207\u76ae\u5361"
+    ],
     "qs:a0":"Chile",
     "qs:a1":"*Biobio",
     "qs:a1r":"*",
@@ -118,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749831,
+    "wof:lastmodified":1563581655,
     "wof:name":"Quilaco",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

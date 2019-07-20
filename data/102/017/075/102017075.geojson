@@ -36,6 +36,9 @@
     "name:ceb_x_preferred":[
         "Quillota"
     ],
+    "name:ces_x_preferred":[
+        "Quillota"
+    ],
     "name:cym_x_preferred":[
         "Quillota"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:eus_x_preferred":[
         "Quillota"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0648\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "Quillota"
@@ -146,6 +152,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e35\u0e42\u0e22\u0e15\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e34\u0e42\u0e22\u0e15\u0e32"
     ],
     "name:tur_x_preferred":[
         "Quillota"
@@ -311,7 +320,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749832,
+    "wof:lastmodified":1563581669,
     "wof:name":"Quillota",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

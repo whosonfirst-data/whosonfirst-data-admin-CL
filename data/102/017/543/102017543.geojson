@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Laja"
     ],
+    "name:ceb_x_preferred":[
+        "Laja"
+    ],
     "name:deu_x_preferred":[
         "Laja"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:eus_x_preferred":[
         "Laja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u062e\u0627"
     ],
     "name:fra_x_preferred":[
         "Laja"
@@ -66,11 +72,20 @@
     "name:spa_x_preferred":[
         "La Laja"
     ],
+    "name:spa_x_variant":[
+        "Laja"
+    ],
+    "name:swe_x_preferred":[
+        "Laja"
+    ],
     "name:unk_x_variant":[
         "Laja"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u062e\u0627\u060c \u0686\u0644\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627\u062e\u0627"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u54c8"
@@ -138,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749829,
+    "wof:lastmodified":1563581609,
     "wof:name":"La Laja",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

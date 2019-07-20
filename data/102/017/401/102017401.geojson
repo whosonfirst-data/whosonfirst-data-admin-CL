@@ -37,6 +37,9 @@
     "name:eus_x_preferred":[
         "Malloa"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u0648\u0622"
+    ],
     "name:fra_x_preferred":[
         "Malloa"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":102017401,
-    "wof:lastmodified":1561749826,
+    "wof:lastmodified":1563581573,
     "wof:name":"Malloa",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

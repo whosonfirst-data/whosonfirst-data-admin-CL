@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Santa Juana"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u062e\u0648\u0622\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Santa Juana"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102018071,
-    "wof:lastmodified":1561749813,
+    "wof:lastmodified":1563581398,
     "wof:name":"Santa Juana",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

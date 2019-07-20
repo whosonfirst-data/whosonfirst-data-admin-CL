@@ -68,6 +68,9 @@
     "name:zho_x_preferred":[
         "\u6f58\u514b\u97cb"
     ],
+    "name:zho_x_variant":[
+        "Pailahueque"
+    ],
     "qs:a0":"Chile",
     "qs:a1":"*Valpara\u00edso",
     "qs:a1r":"*",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102017271,
-    "wof:lastmodified":1561749833,
+    "wof:lastmodified":1563581673,
     "wof:name":"Panquehue",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

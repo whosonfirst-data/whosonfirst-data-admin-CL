@@ -82,6 +82,9 @@
     "name:fao_x_preferred":[
         "Lolol"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644\u0648\u0644"
+    ],
     "name:fin_x_preferred":[
         "Lolol"
     ],
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":102018125,
-    "wof:lastmodified":1561749818,
+    "wof:lastmodified":1563581448,
     "wof:name":"Lolol",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

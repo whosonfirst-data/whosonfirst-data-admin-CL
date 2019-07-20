@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001143,
-    "geom:area_square_m":8107352.528159,
+    "geom:area_square_m":8107352.528158,
     "geom:bbox":"-67.6529377459,-55.0779159061,-67.5997015634,-54.9360609264",
     "geom:latitude":-54.997165,
     "geom:longitude":-67.625506,
@@ -15,15 +15,92 @@
     "mps:latitude":-54.952385,
     "mps:longitude":-67.631838,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0646\u0627\u0641\u0627\u0631\u064a\u0646\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Navarino adas\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041d\u0430\u0432\u0430\u0440\u044b\u043d\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Enez Navarino"
+    ],
+    "name:ceb_x_preferred":[
+        "Isla Navarino"
+    ],
+    "name:ces_x_preferred":[
+        "Navarino"
+    ],
+    "name:deu_x_preferred":[
+        "Navarino"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03c5\u03b1\u03c1\u03af\u03bd\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Navarino Island"
+    ],
+    "name:est_x_preferred":[
+        "Navarino"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eele Navarino"
+    ],
+    "name:glg_x_preferred":[
+        "Navarino"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u057e\u0561\u0580\u056b\u0576\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Isola Navarino"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30d0\u30ea\u30ce\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\ubc14\ub9ac\ub178\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Navarino sala"
+    ],
+    "name:nld_x_preferred":[
+        "Navarino Island"
+    ],
+    "name:nno_x_preferred":[
+        "Navarino-\u00f8ya"
+    ],
+    "name:pol_x_preferred":[
+        "Navarino"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Navarino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0440\u0438\u043d\u043e"
+    ],
     "name:spa_x_preferred":[
         "Navarin Island"
     ],
     "name:spa_x_variant":[
         "Navanno Island",
-        "Navarino Isla"
+        "Navarino Isla",
+        "Isla Navarino"
+    ],
+    "name:swe_x_preferred":[
+        "Isla Navarino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0440\u0456\u043d\u043e"
     ],
     "name:unk_x_variant":[
         "Navarin Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u74e6\u91cc\u8afe\u5cf6"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -66,7 +143,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1501269186,
+    "wof:lastmodified":1563581599,
     "wof:name":"Isla Navarino",
     "wof:parent_id":102063089,
     "wof:placetype":"locality",

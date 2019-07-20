@@ -17,14 +17,92 @@
     "mps:longitude":-71.524604,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Rex\u00f3n del Llibertador Xeneral Bernardo O'Higgins"
+    ],
+    "name:bar_x_preferred":[
+        "Regi\u00f3n del Libertador General Bernardo O\u2019Higgins"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09ac\u09c7\u09b0\u09cd\u09a4\u09be\u09a6\u09cb\u09b0 \u09b9\u09c7\u09a8\u09c7\u09b0\u09be\u09b2 \u09ac\u09c7\u09b0\u09cd\u09a8\u09be\u09b0\u09cd\u09a6\u09cb \u0993'\u09b9\u09bf\u0997\u09bf\u09a8\u09cd\u09b8 \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:ceb_x_preferred":[
+        "Regi\u00f3n del Libertador General Bernardo O'Higgins"
+    ],
+    "name:deu_x_preferred":[
+        "Regi\u00f3n del Libertador General Bernardo O\u2019Higgins"
+    ],
+    "name:epo_x_preferred":[
+        "Libertador General Bernardo O'Higgins"
+    ],
+    "name:fin_x_preferred":[
+        "Libertador General Bernardo O'Higginsin maakunta"
+    ],
+    "name:frr_x_preferred":[
+        "Regi\u00f3n del Libertador General Bernardo O\u2019Higgins"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u092c\u0930\u094d\u091f\u0921\u094b\u0930 \u091c\u0928\u0930\u0932 \u092c\u0930\u094d\u0928\u093e\u0930\u094d\u0921\u094b \u0913'\u0939\u093f\u0917\u093f\u0928\u094d\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "VI. regija Libertador General Bernardo O'Higgins"
+    ],
+    "name:ind_x_preferred":[
+        "Wilayah Libertador General Bernardo O'Higgins"
+    ],
+    "name:ita_x_preferred":[
+        "regione del Libertador General Bernardo O'Higgins"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbf\u0cac\u0cb0\u0ccd\u0c9f\u0ca1\u0cb0\u0ccd \u0c9c\u0ca8\u0cb0\u0cb2\u0ccd \u0cac\u0cc6\u0cb0\u0ccd\u0ca8\u0cbe\u0cb0\u0ccd\u0ca1\u0cca \u0c93 \u0cb9\u0cbf\u0c97\u0ccd\u0c97\u0cbf\u0ca8\u0ccd\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:lat_x_preferred":[
+        "Libertador General Bernardo O'Higgins"
+    ],
+    "name:lit_x_preferred":[
+        "I\u0161vaduotojo Generolo Bernardo O'Higinso regionas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093f\u092c\u0930\u094d\u091f\u093e\u0921\u094b\u0921\u0930 \u091c\u0928\u0930\u0932 \u092c\u0930\u094d\u0928\u093e\u0930\u094d\u0921\u094b \u0913'\u0939\u093f\u0917\u094d\u0917\u0940\u0928\u094d\u0938 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:msa_x_preferred":[
+        "Libertador General Bernardo O'Higgins Region"
+    ],
+    "name:nld_x_preferred":[
+        "Libertador General Bernardo O'Higgins"
+    ],
+    "name:roh_x_preferred":[
+        "Regi\u00f3n del Libertador General Bernardo O'Higgins"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Libertador General Bernardo O'Higgins"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd2\u0db6\u0dbb\u0dca\u0da7\u0dd9\u0daf\u0ddd\u0dbb\u0dca \u0da2\u0dd9\u0db1\u0dbb\u0dbd\u0dca \u0db6\u0dbb\u0dca\u0db1\u0dcf\u0da9\u0ddd \u0d94 \u0dc4\u0dd2\u0d9c\u0dd2\u0db1\u0dca\u0dc3\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "Libertador General Bernardo O'Higgins"
+    ],
     "name:spa_x_preferred":[
         "Regi\u00f3n del Libertador General Bernardo O'Higgins"
     ],
     "name:spa_x_variant":[
         "O'Higgins"
     ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3f\u0c2c\u0c30\u0c4d\u0c1f\u0c47\u0c21\u0c30\u0c4d \u0c1c\u0c28\u0c30\u0c32\u0c4d \u0c2c\u0c46\u0c30\u0c4d\u0c28\u0c3e\u0c30\u0c4d\u0c21\u0c4b \u0c13'\u0c39\u0c3f\u0c17\u0c3f\u0c28\u0c4d\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
     "name:unk_x_variant":[
         "Sexta Regi\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u062f\u0648\u0631 \u062c\u06cc\u0646\u0631\u0644 \u0628\u06cc\u0631\u0646\u0627\u0631\u062f\u0648 \u0648 \u2019 \u062d\u06cc\u062c\u062c\u06cc\u0646\u0633 \u0631\u06cc\u062c\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Khu v\u1ef1c Libertador General Bernardo O'Higgins"
+    ],
+    "name:war_x_preferred":[
+        "VI Rehiyon han Libertador General Bernardo O'Higgins"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -65,7 +143,7 @@
         }
     ],
     "wof:id":102017489,
-    "wof:lastmodified":1505338952,
+    "wof:lastmodified":1563581677,
     "wof:name":"Regi\u00f3n del Libertador General Bernardo O\u2019Higgins",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

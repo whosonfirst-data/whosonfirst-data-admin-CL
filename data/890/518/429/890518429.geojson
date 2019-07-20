@@ -13,6 +13,99 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:aym_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:bos_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:ceb_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:dan_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:eus_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0645\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:glg_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:ina_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30e1"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\uba54"
+    ],
+    "name:lad_x_preferred":[
+        "Tome"
+    ],
+    "name:lit_x_preferred":[
+        "Tom\u0117"
+    ],
+    "name:nan_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:oci_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u043c\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:vol_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:war_x_preferred":[
+        "Tom\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u6885"
+    ],
     "qs:name":"Tom\u00e9",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Biobio",
@@ -51,7 +144,7 @@
         }
     ],
     "wof:id":890518429,
-    "wof:lastmodified":1527751236,
+    "wof:lastmodified":1563582413,
     "wof:name":"Tom\u00e9",
     "wof:parent_id":102063171,
     "wof:placetype":"localadmin",

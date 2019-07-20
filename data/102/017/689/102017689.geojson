@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "El Carmen"
     ],
+    "name:ceb_x_preferred":[
+        "El Carmen"
+    ],
     "name:deu_x_preferred":[
         "El Carmen"
     ],
@@ -38,11 +41,17 @@
     "name:fas_x_preferred":[
         "\u0627\u0644 \u06a9\u0627\u0631\u0645\u0646\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0644 \u06a9\u0627\u0631\u0645\u0646"
+    ],
     "name:fra_x_preferred":[
         "El Carmen"
     ],
     "name:ita_x_preferred":[
         "El Carmen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30ab\u30eb\u30e1\u30f3"
     ],
     "name:kor_x_preferred":[
         "\uc5d8\uce74\ub974\uba58"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":102017689,
-    "wof:lastmodified":1561749825,
+    "wof:lastmodified":1563581560,
     "wof:name":"El Carmen",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

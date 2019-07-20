@@ -19,11 +19,17 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0644\u0648\u0633 \u0631\u064a\u0648\u0633"
+    ],
     "name:bak_x_preferred":[
         "\u041b\u043e\u0441-\u0420\u0438\u043e\u0441"
     ],
     "name:bar_x_preferred":[
         "Regi\u00f3n de Los R\u00edos"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09b8 \u09b0\u09bf\u0993\u09b8 \u0985\u099e\u09cd\u099a\u09b2"
     ],
     "name:bre_x_preferred":[
         "Rannvro Los R\u00edos"
@@ -40,14 +46,122 @@
     "name:ces_x_preferred":[
         "Los R\u00edos"
     ],
+    "name:ces_x_variant":[
+        "Region Los R\u00edos"
+    ],
     "name:dan_x_preferred":[
         "Los R\u00edos"
+    ],
+    "name:dan_x_variant":[
+        "Los R\u00edos-regionen"
     ],
     "name:deu_x_preferred":[
         "Regi\u00f3n de Los R\u00edos"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c2 \u03a1\u03af\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Los Rios Region"
+    ],
+    "name:eng_x_variant":[
+        "Los R\u00edos Region"
+    ],
+    "name:eus_x_preferred":[
+        "Los R\u00edos eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0644\u0648\u0633 \u0631\u06cc\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9gion des Fleuves"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0acb\u0ab8 \u0ab0\u0abf\u0aaf\u0acb\u0ab8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e1 \u05e8\u05d9\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0949\u0938 \u0930\u093f\u0913\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "XIV. regija Los R\u00edos"
+    ],
+    "name:hun_x_preferred":[
+        "Los R\u00edos r\u00e9gi\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u057d \u054c\u056b\u0578\u057d"
+    ],
+    "name:ilo_x_preferred":[
+        "Rehion ti Los R\u00edos"
+    ],
+    "name:ind_x_preferred":[
+        "Wilayah Los R\u00edos"
+    ],
+    "name:isl_x_preferred":[
+        "Los R\u00edos-fylki"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe\u0cb8\u0ccd \u0cb0\u0cbf\u0caf\u0ccb\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:lad_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:lat_x_preferred":[
+        "Regio Fluminum"
+    ],
+    "name:lav_x_preferred":[
+        "Losroisas re\u0123ions"
+    ],
+    "name:lit_x_preferred":[
+        "Los Rioso regionas"
+    ],
+    "name:lmo_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0949\u0938 \u0930\u093f\u092f\u094b\u0938 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:msa_x_preferred":[
+        "Los Rios Region"
+    ],
+    "name:nah_x_preferred":[
+        "Onohuay\u0101n Los R\u00edos"
+    ],
+    "name:nan_x_preferred":[
+        "Los Rios"
+    ],
+    "name:nld_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:nob_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u0627\u0633 \u0631\u06cc\u0624\u0633 \u0631\u06cc\u062c\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Los R\u00edos"
+    ],
+    "name:que_x_preferred":[
+        "Mayukuna suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Los R\u00edos"
+    ],
+    "name:sco_x_preferred":[
+        "Los R\u00edos Region"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0ddc\u0dc3\u0dca \u0dbb\u0dd2\u0dba\u0ddd\u0dc3\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slk_x_preferred":[
+        "Los R\u00edos"
     ],
     "name:spa_x_colloquial":[
         "Region de Los Rios"
@@ -60,8 +174,35 @@
         "Regi\u00f3n de Los R\u00edos",
         "Los R\u00edos"
     ],
+    "name:swa_x_preferred":[
+        "Mkoa wa Los R\u00edos"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0bb8\u0bcd  \u0bb0\u0bc0\u0bb5\u0bcd\u0bb8\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c38\u0c4d \u0c30\u0c3f\u0c2f\u0c4b\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e25\u0e2d\u0e2a \u0e23\u0e34\u0e2d\u0e2d\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Los R\u00edos b\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "XIV \u0420\u0435\u0433\u0456\u043e\u043d \u041b\u043e\u0441-\u0420\u0456\u043e\u0441"
+    ],
     "name:unk_x_variant":[
         "Los R\u00edos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0633 \u0631\u06cc\u0648\u0633 \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Khu v\u1ef1c Los R\u00edos"
+    ],
+    "name:war_x_preferred":[
+        "XIV Rehiyon han Los R\u00edos"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHL",
@@ -166,7 +307,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536613854,
+    "wof:lastmodified":1563581396,
     "wof:name":"Regi\u00f3n de Los R\u00edos",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

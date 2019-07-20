@@ -18,14 +18,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
+    "name:abk_x_preferred":[
+        "\u041a\u043e\u0439\u0445\u0430\u0438\u043a\u0435"
+    ],
+    "name:ace_x_preferred":[
+        "Coyhaique"
+    ],
     "name:afr_x_preferred":[
         "Coyhaique"
+    ],
+    "name:aka_x_preferred":[
+        "Coyhaique"
+    ],
+    "name:amh_x_preferred":[
+        "\u12ae\u12eb\u12ed\u12ac"
     ],
     "name:ang_x_preferred":[
         "Co\u0121a\u0121ce"
     ],
+    "name:ang_x_variant":[
+        "Coyhaique"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0647\u0627\u064a\u0643\u064a\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Coihaique"
     ],
     "name:ast_x_preferred":[
         "Coyhaique"
@@ -75,6 +93,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u06cc\u0647\u0627\u06cc\u06a9\u06cc\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u06cc\u0647\u0627\u06cc\u06a9\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Coyhaique"
     ],
@@ -102,6 +123,9 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u0575\u0561\u0575\u056f\u0565"
     ],
+    "name:ilo_x_preferred":[
+        "Coyhaique"
+    ],
     "name:ind_x_preferred":[
         "Coyhaique"
     ],
@@ -123,8 +147,14 @@
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10d8\u10d0\u10d8\u10d9\u10d4"
     ],
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0439\u0430\u0438\u043a\u0435"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\uc774\uc544\uc774\ucf00"
+    ],
+    "name:lad_x_preferred":[
+        "Koyaike"
     ],
     "name:lav_x_preferred":[
         "Koiaike"
@@ -132,11 +162,20 @@
     "name:lit_x_preferred":[
         "Kojhaik\u0117"
     ],
+    "name:lit_x_variant":[
+        "Kojaik\u0117"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u092f\u0939\u0947\u0915\u0941"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0458\u0430\u0458\u043a\u0435"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u043e\u044f\u0438\u043a\u044d"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u043e\u044f\u0456\u043a\u0435"
     ],
     "name:msa_x_preferred":[
         "Coyhaique"
@@ -186,11 +225,14 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dba\u0dd2\u0dc4\u0dba\u0dd2\u0d9a\u0dca"
     ],
-    "name:spa_x_preferred":[
-        "Coihaique",
+    "name:slk_x_preferred":[
         "Coyhaique"
     ],
-    "name:spa_x_variant":[
+    "name:slv_x_preferred":[
+        "Coyhaique"
+    ],
+    "name:spa_x_preferred":[
+        "Coihaique",
         "Coyhaique"
     ],
     "name:srp_x_preferred":[
@@ -226,20 +268,47 @@
     "name:vie_x_preferred":[
         "Coyhaique"
     ],
+    "name:vls_x_preferred":[
+        "Coyhaique"
+    ],
     "name:vol_x_preferred":[
         "Coyhaique"
     ],
     "name:war_x_preferred":[
         "Coihaique"
     ],
+    "name:wol_x_preferred":[
+        "Koyhaike"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u4f0a\u827e\u514b"
+    ],
+    "name:xho_x_preferred":[
+        "Coyhaique"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10dd\u10d8\u10d0\u10d8\u10d9\u10d4"
+    ],
     "name:yid_x_preferred":[
         "\u05e7\u05d5\u05d9\u05d4\u05d9\u05d9\u05e7\u05e2"
+    ],
+    "name:yor_x_preferred":[
+        "Coyhaique"
+    ],
+    "name:yue_x_preferred":[
+        "\u79d1\u6d77\u4e18"
+    ],
+    "name:zha_x_preferred":[
+        "Coyhaique"
     ],
     "name:zho_min_nan_x_preferred":[
         "Coihaique"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u4f0a\u827e\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Coyhaique"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Chile",
@@ -384,7 +453,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749836,
+    "wof:lastmodified":1563581716,
     "wof:name":"Coihaique",
     "wof:parent_id":102063079,
     "wof:placetype":"locality",

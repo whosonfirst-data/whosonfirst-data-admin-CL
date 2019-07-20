@@ -93,6 +93,9 @@
     "name:hin_x_preferred":[
         "\u0915\u094b\u0930\u094b\u0928\u0947\u0932"
     ],
+    "name:hun_x_preferred":[
+        "Coronel"
+    ],
     "name:ina_x_preferred":[
         "Coronel"
     ],
@@ -176,6 +179,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0bb0\u0bcb\u0ba9\u0bc7\u0bb2\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c30\u0c4b\u0c28\u0c46\u0c32\u0c4d"
@@ -350,7 +356,7 @@
         }
     ],
     "wof:id":102017739,
-    "wof:lastmodified":1561749822,
+    "wof:lastmodified":1563581525,
     "wof:name":"Coronel",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

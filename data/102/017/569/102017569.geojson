@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "La Calera"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u06a9\u0627\u0644\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "La Calera"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06a9\u0627\u0644\u06cc\u0631\u0627\u060c \u0686\u0644\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u06a9\u0627\u0644\u06cc\u0631\u0627"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5361\u840a\u62c9"
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":102017569,
-    "wof:lastmodified":1561749822,
+    "wof:lastmodified":1563581520,
     "wof:name":"La Calera",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

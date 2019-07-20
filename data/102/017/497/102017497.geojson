@@ -63,6 +63,9 @@
     "name:eus_x_preferred":[
         "Lebu"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Lebu"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u092c\u0941"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0562\u0578\u0582"
     ],
     "name:ina_x_preferred":[
         "Lebu"
@@ -344,7 +350,7 @@
         }
     ],
     "wof:id":102017497,
-    "wof:lastmodified":1561749827,
+    "wof:lastmodified":1563581579,
     "wof:name":"Lebu",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

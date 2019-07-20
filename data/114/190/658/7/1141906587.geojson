@@ -17,11 +17,17 @@
     "name:bak_x_preferred":[
         "\u0422\u044c\u0435\u0440\u0440\u0430-\u0410\u043c\u0430\u0440\u0438\u043b\u044c\u044f"
     ],
+    "name:dan_x_preferred":[
+        "Tierra Amarilla"
+    ],
     "name:eng_x_preferred":[
         "Tierra Amarilla"
     ],
     "name:eus_x_preferred":[
         "Tierra Amarilla"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0647\u200c\u0631\u0627 \u0622\u0645\u0627\u0631\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Tierra Amarilla"
@@ -54,6 +60,9 @@
         "\u0422\u044c\u0435\u0440\u0440\u0430-\u0410\u043c\u0430\u0440\u0438\u043b\u044c\u044f"
     ],
     "name:spa_x_preferred":[
+        "Tierra Amarilla"
+    ],
+    "name:vol_x_preferred":[
         "Tierra Amarilla"
     ],
     "name:war_x_preferred":[
@@ -181,7 +190,7 @@
         }
     ],
     "wof:id":1141906587,
-    "wof:lastmodified":1561749894,
+    "wof:lastmodified":1563582642,
     "wof:name":"Tierra Amarilla",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

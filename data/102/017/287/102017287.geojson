@@ -19,6 +19,15 @@
     "name:bak_x_preferred":[
         "\u041f\u0430\u0439\u0433\u0443\u0430\u043d\u043e"
     ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0438\u0445\u0443\u0430\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Paihuano"
+    ],
+    "name:deu_x_preferred":[
+        "Paihuano"
+    ],
     "name:eng_x_preferred":[
         "Paiguano"
     ],
@@ -27,6 +36,9 @@
     ],
     "name:eus_x_preferred":[
         "Paiguano"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0648\u0622\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "Paiguano"
@@ -65,6 +77,12 @@
         "\u041f\u0430\u0439\u0433\u0443\u0430\u043d\u043e"
     ],
     "name:spa_x_preferred":[
+        "Paihuano"
+    ],
+    "name:spa_x_variant":[
+        "Paiguano"
+    ],
+    "name:swe_x_preferred":[
         "Paihuano"
     ],
     "name:unk_x_variant":[
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":102017287,
-    "wof:lastmodified":1561749825,
+    "wof:lastmodified":1563581554,
     "wof:name":"Paiguano",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Ri\u00f1ihue"
     ],
+    "name:spa_x_preferred":[
+        "Ri\u00f1ihue"
+    ],
     "name:swe_x_preferred":[
         "Ri\u00f1ihue"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102017021,
-    "wof:lastmodified":1561749833,
+    "wof:lastmodified":1563581679,
     "wof:name":"Ri\u00f1ihue",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

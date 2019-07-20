@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Quemchi"
     ],
+    "name:ceb_x_preferred":[
+        "Quemchi"
+    ],
     "name:deu_x_preferred":[
         "Quemchi"
     ],
@@ -32,6 +35,9 @@
         "Quemchi"
     ],
     "name:fra_x_preferred":[
+        "Quemchi"
+    ],
+    "name:glg_x_preferred":[
         "Quemchi"
     ],
     "name:ita_x_preferred":[
@@ -62,6 +68,9 @@
         "\u041a\u0435\u043c\u0447\u0438"
     ],
     "name:spa_x_preferred":[
+        "Quemchi"
+    ],
+    "name:swe_x_preferred":[
         "Quemchi"
     ],
     "name:zho_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":890517635,
-    "wof:lastmodified":1561749887,
+    "wof:lastmodified":1563582272,
     "wof:name":"Quemchi",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

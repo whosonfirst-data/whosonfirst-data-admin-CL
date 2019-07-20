@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Chimbarongo"
     ],
+    "name:ceb_x_preferred":[
+        "Chimbarongo"
+    ],
+    "name:cym_x_preferred":[
+        "Chimbarongo"
+    ],
     "name:deu_x_preferred":[
         "Chimbarongo"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0645\u0628\u0627\u0631\u0648\u0646\u06af\u0648\u060c \u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u0645\u0628\u0627\u0631\u0648\u0646\u06af\u0648"
     ],
     "name:fra_x_preferred":[
         "Chimbarongo"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":102018127,
-    "wof:lastmodified":1561749815,
+    "wof:lastmodified":1563581416,
     "wof:name":"Chimbarongo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

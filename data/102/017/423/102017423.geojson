@@ -37,6 +37,9 @@
     "name:eus_x_preferred":[
         "Los Vilos"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0633 \u0648\u06cc\u0644\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "Los Vilos"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102017423,
-    "wof:lastmodified":1561749826,
+    "wof:lastmodified":1563581569,
     "wof:name":"Los Vilos",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

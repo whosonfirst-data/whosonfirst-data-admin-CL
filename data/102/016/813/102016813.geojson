@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Alhu\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "Alhue"
+    ],
     "name:deu_x_preferred":[
         "Alhu\u00e9"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":102016813,
-    "wof:lastmodified":1561749821,
+    "wof:lastmodified":1563581500,
     "wof:name":"Villa Alhu\u00e9",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

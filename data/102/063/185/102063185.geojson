@@ -44,7 +44,6 @@
     ],
     "name:eng_x_variant":[
         "Tierra Del Fuego",
-        "Tierra del Fuego",
         "Tierra del Fuego Province"
     ],
     "name:epo_x_preferred":[
@@ -52,6 +51,12 @@
     ],
     "name:est_x_preferred":[
         "Tulemaa provints"
+    ],
+    "name:eus_x_preferred":[
+        "Tierra del Fuego probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0647\u200c\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648"
     ],
     "name:fra_x_preferred":[
         "province de Tierra del Fuego"
@@ -70,6 +75,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2f0\uc5d0\ub77c\ub378\ud478\uc5d0\uace0 \ud604"
+    ],
+    "name:lit_x_preferred":[
+        "Ugnies \u017dem\u0117s provincija"
     ],
     "name:nan_x_preferred":[
         "Tierra del Fuego"
@@ -173,7 +181,7 @@
         }
     ],
     "wof:id":102063185,
-    "wof:lastmodified":1561749810,
+    "wof:lastmodified":1563581382,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":85682211,
     "wof:placetype":"county",

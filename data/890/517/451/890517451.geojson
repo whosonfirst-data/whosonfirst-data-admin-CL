@@ -16,6 +16,141 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u064a\u0643\u064a\u0648\u0646\u064a\u0633"
+    ],
+    "name:arn_x_preferred":[
+        "Cristian C\u00e1ceres"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u0995\u09c1\u09af\u09bc\u09c7\u09a8\u09c7\u099a"
+    ],
+    "name:cat_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:ceb_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:dan_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:deu_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:ell_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:eng_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:eus_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0648\u06a9\u0646\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:fra_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0a95\u0acd\u0ab5\u0ac7\u0aa8\u0acd\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0915\u094d\u0935\u0947\u0928\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:ita_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30a6\u30b1\u30cd\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbe\u0c95\u0ccd\u0cb5\u0cc6\u0ca8\u0cbf\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc6b0\ucf00\ub124\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Kaukvenesa"
+    ],
+    "name:lit_x_preferred":[
+        "Kaukvenesas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0949\u0915\u094d\u0935\u0947\u0928\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:nan_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:nld_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:nob_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:oci_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:pol_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:por_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:ron_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0443\u043a\u0435\u043d\u0435\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dc0\u0dd4\u0d9a\u0dd2\u0dba\u0dd4\u0db1\u0dd3\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0443\u043a\u0435\u043d\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcc\u0b95\u0bc1\u0bb5\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c47\u0c09\u0c15\u0c4d\u0c2f\u0c42\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e04\u0e40\u0e01\u0e2d\u0e40\u0e19\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0443\u043a\u0435\u043d\u0435\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0648\u0642\u0648\u06cc\u0646\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:war_x_preferred":[
+        "Cauquenes"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u514b\u5167\u65af"
+    ],
     "qs:name":"Cauquenes",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Maule",
@@ -56,7 +191,7 @@
         }
     ],
     "wof:id":890517451,
-    "wof:lastmodified":1527751200,
+    "wof:lastmodified":1563582322,
     "wof:name":"Cauquenes",
     "wof:parent_id":102063129,
     "wof:placetype":"localadmin",

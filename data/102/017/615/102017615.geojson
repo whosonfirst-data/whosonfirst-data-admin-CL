@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Hornitos"
     ],
+    "name:ceb_x_preferred":[
+        "Hornitos"
+    ],
     "name:ces_x_preferred":[
         "Hornitos"
     ],
@@ -172,6 +175,9 @@
     "name:por_x_preferred":[
         "Hornito"
     ],
+    "name:por_x_variant":[
+        "Hornitos"
+    ],
     "name:roh_x_preferred":[
         "Hornitos"
     ],
@@ -266,7 +272,7 @@
         }
     ],
     "wof:id":102017615,
-    "wof:lastmodified":1561749833,
+    "wof:lastmodified":1563581673,
     "wof:name":"Hornito",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

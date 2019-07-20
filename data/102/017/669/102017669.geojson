@@ -38,6 +38,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0644 \u062a\u0627\u0628\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0644 \u062a\u0627\u0628\u0648"
+    ],
     "name:fra_x_preferred":[
         "El Tabo"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102017669,
-    "wof:lastmodified":1561749827,
+    "wof:lastmodified":1563581580,
     "wof:name":"El Tabo",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

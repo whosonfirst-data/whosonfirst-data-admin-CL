@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Portezuelo"
     ],
+    "name:ceb_x_preferred":[
+        "Portezuelo"
+    ],
     "name:eng_x_preferred":[
         "Portezuelo"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ita_x_preferred":[
         "Portezuelo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30eb\u30c6\u30b9\u30a8\u30fc\u30ed"
     ],
     "name:msa_x_preferred":[
         "Portezuelo"
@@ -60,6 +66,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u7279\u8607\u57c3\u6d1b"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5c14\u52a0\u7f57\u6c83"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":102017181,
-    "wof:lastmodified":1561749829,
+    "wof:lastmodified":1563581617,
     "wof:name":"Portezuelo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

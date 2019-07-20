@@ -22,11 +22,17 @@
     "name:cat_x_preferred":[
         "Tir\u00faa"
     ],
+    "name:ceb_x_preferred":[
+        "Tir\u00faa"
+    ],
     "name:eng_x_preferred":[
         "Tir\u00faa"
     ],
     "name:eus_x_preferred":[
         "Tir\u00faa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0631\u0648\u0622"
     ],
     "name:fra_x_preferred":[
         "Tir\u00faa"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":102018161,
-    "wof:lastmodified":1561749812,
+    "wof:lastmodified":1563581387,
     "wof:name":"Tir\u00faa",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

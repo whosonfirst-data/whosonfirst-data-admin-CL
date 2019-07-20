@@ -22,6 +22,9 @@
     "name:arn_x_preferred":[
         "Tray\u00e9n"
     ],
+    "name:ceb_x_preferred":[
+        "Traigu\u00e9n"
+    ],
     "name:eng_x_preferred":[
         "Traigu\u00e9n"
     ],
@@ -55,6 +58,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u0430\u0439\u0433\u0435\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0440\u0430\u0439\u0433\u0443\u0435\u043d"
+    ],
     "name:spa_x_preferred":[
         "Traigu\u00e9n"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7279\u8cf4\u6839"
+    ],
+    "name:zho_x_variant":[
+        "\u5854\u723e\u5361\u74e6\u8afe"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Araucania",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":102016853,
-    "wof:lastmodified":1561749821,
+    "wof:lastmodified":1563581504,
     "wof:name":"Traigu\u00e9n",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

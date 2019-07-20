@@ -58,6 +58,9 @@
     "name:oci_x_preferred":[
         "Alto Hospicio"
     ],
+    "name:pol_x_preferred":[
+        "Alto Hospicio"
+    ],
     "name:por_x_preferred":[
         "Alto Hospicio"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Alto Hospicio"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u043e-\u041e\u0441\u043f\u0438\u0441\u0438\u043e"
     ],
     "name:tur_x_preferred":[
         "Alto Hospicio"
@@ -139,7 +145,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749828,
+    "wof:lastmodified":1563581596,
     "wof:name":"Alto Hospicio",
     "wof:parent_id":102063145,
     "wof:placetype":"locality",

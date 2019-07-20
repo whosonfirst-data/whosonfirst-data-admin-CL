@@ -32,6 +32,9 @@
     "name:eus_x_preferred":[
         "Llay-Llay"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u06cc-\u06cc\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Llay-Llay"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5229\u827e\u5229\u827e"
+    ],
+    "name:zho_x_variant":[
+        "\u8fed\u6208\u5fb7\u963f\u723e\u99ac\u683c\u7f85"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Valpara\u00edso",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":102017469,
-    "wof:lastmodified":1561749833,
+    "wof:lastmodified":1563581682,
     "wof:name":"Llaillay",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:eus_x_preferred":[
         "San Pedro"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u067e\u062f\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
         "San Pedro"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":102016945,
-    "wof:lastmodified":1561749821,
+    "wof:lastmodified":1563581511,
     "wof:name":"San Pedro",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Quill\u00f3n"
     ],
+    "name:ceb_x_preferred":[
+        "Quillon"
+    ],
     "name:eng_x_preferred":[
         "Quill\u00f3n"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ita_x_preferred":[
         "Quill\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30b8\u30e7\u30f3"
     ],
     "name:kor_x_preferred":[
         "\ud0a4\uc698"
@@ -57,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Quill\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Quillon"
     ],
     "name:war_x_preferred":[
         "Quill\u00f3n"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":102017077,
-    "wof:lastmodified":1561749825,
+    "wof:lastmodified":1563581556,
     "wof:name":"Quill\u00f3n",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

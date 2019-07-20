@@ -67,6 +67,9 @@
     "name:zho_x_preferred":[
         "\u666e\u74ca\u5361\u7dad"
     ],
+    "name:zul_x_preferred":[
+        "IMonteaguila"
+    ],
     "qs:a0":"Chile",
     "qs:a1":"*Valpara\u00edso",
     "qs:a1r":"*",
@@ -118,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749823,
+    "wof:lastmodified":1563581542,
     "wof:name":"Puchuncav\u00ed",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

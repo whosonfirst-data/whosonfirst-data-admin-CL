@@ -31,6 +31,9 @@
     "name:bak_x_preferred":[
         "\u0410\u0440\u0430\u0443\u043a\u0430\u043d\u0438\u0430"
     ],
+    "name:bak_x_variant":[
+        "\u0410\u0440\u0430\u0443\u043a\u0430\u043d\u0438\u044f"
+    ],
     "name:bar_x_preferred":[
         "Regi\u00f3n de la Araucan\u00eda"
     ],
@@ -53,10 +56,14 @@
         "Araucan\u00eda"
     ],
     "name:ces_x_variant":[
-        "Region Araucan\u00eda"
+        "Region Araucan\u00eda",
+        "Arauk\u00e1nie"
     ],
     "name:dan_x_preferred":[
         "Araucan\u00eda"
+    ],
+    "name:dan_x_variant":[
+        "Araucan\u00eda-regionen"
     ],
     "name:deu_x_preferred":[
         "Regi\u00f3n de la Araucan\u00eda"
@@ -66,6 +73,9 @@
     ],
     "name:eng_x_preferred":[
         "De La Araucania"
+    ],
+    "name:eng_x_variant":[
+        "Araucan\u00eda Region"
     ],
     "name:epo_x_preferred":[
         "Ara\u016dkanio"
@@ -81,6 +91,9 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion d'Araucanie"
+    ],
+    "name:fra_x_variant":[
+        "Araucanie"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Araucan\u00eda"
@@ -102,6 +115,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0578\u0582\u056f\u0561\u0576\u056b\u0561"
+    ],
+    "name:ilo_x_preferred":[
+        "Rehion ti Araucan\u00eda"
     ],
     "name:ina_x_preferred":[
         "Region de la Araucan\u00eda"
@@ -126,6 +142,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ub77c\uc6b0\uce74\ub2c8\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub77c\uc6b0\uce74\ub2c8\uc544\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Araucan\u00eda"
     ],
     "name:lat_x_preferred":[
         "Regio Raucana seu Araucaniae"
@@ -348,7 +370,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749857,
+    "wof:lastmodified":1563581843,
     "wof:name":"De La Araucania",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

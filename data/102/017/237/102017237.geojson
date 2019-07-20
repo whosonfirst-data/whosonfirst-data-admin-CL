@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Peralillo"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0627\u0644\u06cc\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
         "Peralillo"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":102017237,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1563581696,
     "wof:name":"Peralillo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

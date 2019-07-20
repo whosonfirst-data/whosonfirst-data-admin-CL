@@ -38,6 +38,9 @@
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0644\u06cc \u0634\u06cc\u06a9\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u0644\u06cc \u0634\u06cc\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Chile Chico"
     ],
@@ -78,6 +81,9 @@
         "Chile Chico"
     ],
     "name:swe_x_preferred":[
+        "Chile Chico"
+    ],
+    "name:vls_x_preferred":[
         "Chile Chico"
     ],
     "name:war_x_preferred":[
@@ -140,7 +146,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749824,
+    "wof:lastmodified":1563581549,
     "wof:name":"Chile Chico",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

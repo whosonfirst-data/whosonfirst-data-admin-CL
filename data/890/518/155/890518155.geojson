@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Quinchao"
     ],
+    "name:ceb_x_preferred":[
+        "Quinchao"
+    ],
     "name:eng_x_preferred":[
         "Quinchao"
     ],
@@ -55,8 +58,14 @@
     "name:spa_x_preferred":[
         "Quinchao"
     ],
+    "name:swe_x_preferred":[
+        "Quinchao"
+    ],
     "name:zho_x_preferred":[
         "\u91d1\u55ac"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0a\u80e1\u57c3\u62c9\u65af"
     ],
     "qs:name":"Quinchao",
     "qs:name_adm0":"Chile",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":890518155,
-    "wof:lastmodified":1561749889,
+    "wof:lastmodified":1563582399,
     "wof:name":"Quinchao",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

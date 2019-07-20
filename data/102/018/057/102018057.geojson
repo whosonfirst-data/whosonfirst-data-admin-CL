@@ -22,6 +22,9 @@
     "name:eus_x_preferred":[
         "San Ram\u00f3n"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0631\u0627\u0645\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "San Ram\u00f3n"
     ],
@@ -61,8 +64,14 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u0420\u0430\u043c\u043e\u043d"
     ],
+    "name:swe_x_preferred":[
+        "San Ram\u00f3n"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u62c9\u8499"
+    ],
+    "name:zho_x_variant":[
+        "\u9054\u5361\u885b"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
@@ -110,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749817,
+    "wof:lastmodified":1563581443,
     "wof:name":"San Ramon",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

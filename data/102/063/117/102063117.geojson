@@ -39,6 +39,9 @@
     "name:aze_x_preferred":[
         "Santyaqo vilay\u0259ti"
     ],
+    "name:bar_x_preferred":[
+        "Provinz Santiago"
+    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043d\u0442\u2019\u044f\u0433\u0430"
     ],
@@ -49,8 +52,10 @@
         "Santiago"
     ],
     "name:eng_x_variant":[
-        "Santiago",
         "Santiago Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Santiago"
     ],
     "name:eus_x_preferred":[
         "Santiago probintzia"
@@ -102,6 +107,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Santiago"
+    ],
+    "name:spa_x_variant":[
+        "Santiago"
     ],
     "name:swe_x_preferred":[
         "Provincia de Santiago"
@@ -178,7 +186,7 @@
         }
     ],
     "wof:id":102063117,
-    "wof:lastmodified":1561749776,
+    "wof:lastmodified":1563581334,
     "wof:name":"Santiago",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

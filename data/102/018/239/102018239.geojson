@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0637\u0627\u062c\u0646\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Cartagena"
+    ],
     "name:deu_x_preferred":[
         "Cartagena"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:eus_x_preferred":[
         "Cartagena"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u062a\u0627\u062e\u0646\u0627"
     ],
     "name:fra_x_preferred":[
         "Carthag\u00e8ne"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":102018239,
-    "wof:lastmodified":1561749817,
+    "wof:lastmodified":1563581444,
     "wof:name":"Cartagena",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

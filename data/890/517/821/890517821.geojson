@@ -13,6 +13,66 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u0420\u0438\u043e-\u0423\u0440\u0442\u0430\u0434\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:ceb_x_preferred":[
+        "Rio Hurtado"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:eus_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648 \u0648\u0648\u0631\u062a\u0627\u062f\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\uc6b0\ub974\ud0c0\ub3c4"
+    ],
+    "name:lit_x_preferred":[
+        "Rio Urtadas"
+    ],
+    "name:nan_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:oci_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:ron_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u0423\u0440\u0442\u0430\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Hurtado"
+    ],
+    "name:swe_x_preferred":[
+        "Rio Hurtado"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u70cf\u723e\u5854\u591a"
+    ],
     "qs:name":"Rio Hurtado",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Coquimbo",
@@ -51,7 +111,7 @@
         }
     ],
     "wof:id":890517821,
-    "wof:lastmodified":1527749993,
+    "wof:lastmodified":1563582258,
     "wof:name":"Rio Hurtado",
     "wof:parent_id":102063113,
     "wof:placetype":"localadmin",

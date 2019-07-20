@@ -38,6 +38,9 @@
     "name:ita_x_preferred":[
         "Quirihue"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30ea\u30a6\u30a8"
+    ],
     "name:kor_x_preferred":[
         "\ud0a4\ub9ac\uc6b0\uc5d0"
     ],
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":102017063,
-    "wof:lastmodified":1561749827,
+    "wof:lastmodified":1563581589,
     "wof:name":"Quirihue",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

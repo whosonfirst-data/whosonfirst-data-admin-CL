@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0644\u064a\u0648 \u063a\u0627\u0631\u062b\u064a\u0627 \u0641\u0631\u0646\u0627\u0646\u062f\u064a\u062b"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0644\u0648\u0633 \u0631\u064a\u0648\u0633"
+    ],
     "name:bak_x_preferred":[
         "\u041b\u043e\u0441-\u0420\u0438\u043e\u0441"
     ],
@@ -64,6 +67,9 @@
     "name:eng_x_preferred":[
         "De Los Rios"
     ],
+    "name:eng_x_variant":[
+        "Los R\u00edos Region"
+    ],
     "name:eus_x_preferred":[
         "Los R\u00edos eskualdea"
     ],
@@ -97,6 +103,9 @@
     "name:hye_x_preferred":[
         "\u053c\u0578\u057d \u054c\u056b\u0578\u057d"
     ],
+    "name:ilo_x_preferred":[
+        "Rehion ti Los R\u00edos"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Los R\u00edos"
     ],
@@ -117,6 +126,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\uc2a4\ub9ac\uc624\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub85c\uc2a4\ub9ac\uc624\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Los R\u00edos"
     ],
     "name:lat_x_preferred":[
         "Regio Fluminum"
@@ -273,7 +288,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749858,
+    "wof:lastmodified":1563581845,
     "wof:name":"De Los Rios",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

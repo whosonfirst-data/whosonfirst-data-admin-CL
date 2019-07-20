@@ -38,6 +38,9 @@
     "name:arc_x_preferred":[
         "\u0723\u0710\u0720\u0710\u0721\u0710\u0722\u0729\u0710"
     ],
+    "name:arc_x_variant":[
+        "\u0723\u0710\u0720\u0710\u0721\u0710\u0722\u071f\u0710"
+    ],
     "name:arg_x_preferred":[
         "Salamanca"
     ],
@@ -140,6 +143,9 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30e9\u30de\u30f3\u30ab"
     ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30e9\u30de\u30f3\u30ab\uff08\u30c1\u30ea\uff09"
+    ],
     "name:kor_x_preferred":[
         "\uc0b4\ub77c\ub9dd\uce74"
     ],
@@ -171,6 +177,9 @@
         "Salamanca"
     ],
     "name:oci_x_preferred":[
+        "Salamanca"
+    ],
+    "name:pol_x_preferred":[
         "Salamanca"
     ],
     "name:por_x_preferred":[
@@ -239,8 +248,14 @@
     "name:war_x_preferred":[
         "Salamanca"
     ],
+    "name:war_x_variant":[
+        "Salamanke"
+    ],
     "name:yor_x_preferred":[
         "Salamanca"
+    ],
+    "name:yue_x_preferred":[
+        "\u85a9\u62c9\u66fc\u5361"
     ],
     "name:zho_min_nan_x_preferred":[
         "Salamanca"
@@ -388,7 +403,7 @@
         }
     ],
     "wof:id":102016997,
-    "wof:lastmodified":1561749818,
+    "wof:lastmodified":1563581458,
     "wof:name":"Salamanca",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

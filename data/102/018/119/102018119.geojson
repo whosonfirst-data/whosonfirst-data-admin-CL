@@ -22,11 +22,17 @@
     "name:cat_x_preferred":[
         "Peralillo"
     ],
+    "name:ceb_x_preferred":[
+        "Peralillo"
+    ],
     "name:eng_x_preferred":[
         "Peralillo"
     ],
     "name:eus_x_preferred":[
         "Peralillo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0627\u0644\u06cc\u06cc\u0648"
     ],
     "name:fra_x_preferred":[
         "Peralillo"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":102018119,
-    "wof:lastmodified":1561749815,
+    "wof:lastmodified":1563581421,
     "wof:name":"Peralillo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

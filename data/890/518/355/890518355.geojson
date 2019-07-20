@@ -13,6 +13,63 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u0442\u0430\u0435\u043d\u0434\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Putaendo"
+    ],
+    "name:ceb_x_preferred":[
+        "Putaendo"
+    ],
+    "name:eng_x_preferred":[
+        "Putaendo"
+    ],
+    "name:eus_x_preferred":[
+        "Putaendo"
+    ],
+    "name:fra_x_preferred":[
+        "Putaendo"
+    ],
+    "name:ita_x_preferred":[
+        "Putaendo"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\ud0c0\uc5d4\ub3c4"
+    ],
+    "name:lit_x_preferred":[
+        "Putaendas"
+    ],
+    "name:nan_x_preferred":[
+        "Putaendo"
+    ],
+    "name:nld_x_preferred":[
+        "Putaendo"
+    ],
+    "name:oci_x_preferred":[
+        "Putaendo"
+    ],
+    "name:por_x_preferred":[
+        "Putaendo"
+    ],
+    "name:ron_x_preferred":[
+        "Putaendo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0442\u0430\u044d\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Putaendo"
+    ],
+    "name:swe_x_preferred":[
+        "Putaendo"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5854\u6069\u591a"
+    ],
+    "name:zul_x_preferred":[
+        "Florida"
+    ],
     "qs:name":"Putaendo",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Valpara\u00edso",
@@ -51,7 +108,7 @@
         }
     ],
     "wof:id":890518355,
-    "wof:lastmodified":1527751229,
+    "wof:lastmodified":1563582358,
     "wof:name":"Putaendo",
     "wof:parent_id":102063099,
     "wof:placetype":"localadmin",

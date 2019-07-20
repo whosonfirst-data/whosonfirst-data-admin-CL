@@ -41,7 +41,6 @@
     ],
     "name:eng_x_variant":[
         "Cautin",
-        "Caut\u00edn",
         "Caut\u00edn Province"
     ],
     "name:epo_x_preferred":[
@@ -58,6 +57,9 @@
     ],
     "name:fra_x_variant":[
         "province de Caut\u00edn"
+    ],
+    "name:frr_x_preferred":[
+        "Prowins Caut\u00edn"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0578\u0582\u057f\u056b\u0576"
@@ -100,6 +102,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Caut\u00edn"
+    ],
+    "name:spa_x_variant":[
+        "Caut\u00edn"
     ],
     "name:swe_x_preferred":[
         "Provincia de Caut\u00edn"
@@ -171,7 +176,7 @@
         }
     ],
     "wof:id":102063107,
-    "wof:lastmodified":1561749779,
+    "wof:lastmodified":1563581340,
     "wof:name":"Caut\u00edn",
     "wof:parent_id":85682179,
     "wof:placetype":"county",
