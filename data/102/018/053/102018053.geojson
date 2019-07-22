@@ -34,11 +34,17 @@
     "name:eus_x_preferred":[
         "Ninhue"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0646\u0648\u0626\u0647"
+    ],
     "name:fra_x_preferred":[
         "Ninhue"
     ],
     "name:ita_x_preferred":[
         "Ninhue"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30f3\u30a6\u30a8"
     ],
     "name:kor_x_preferred":[
         "\ub2c8\ub204\uc5d0"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":102018053,
-    "wof:lastmodified":1561749814,
+    "wof:lastmodified":1563581404,
     "wof:name":"Ninhue",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

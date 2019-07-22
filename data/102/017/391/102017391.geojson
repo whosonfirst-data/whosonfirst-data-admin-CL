@@ -37,11 +37,17 @@
     "name:eus_x_variant":[
         "Marchihue"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0686\u06cc\u0648\u0626\u0647"
+    ],
     "name:fra_x_preferred":[
         "Marchihue"
     ],
     "name:ita_x_preferred":[
         "Marchig\u00fce"
+    ],
+    "name:ita_x_variant":[
+        "Marchihue"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30eb\u30c1\u30a6\u30a8"
@@ -60,6 +66,9 @@
     ],
     "name:por_x_preferred":[
         "Marchig\u00fce"
+    ],
+    "name:por_x_variant":[
+        "Marchihue"
     ],
     "name:ron_x_preferred":[
         "Marchig\u00fce"
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":102017391,
-    "wof:lastmodified":1561749822,
+    "wof:lastmodified":1563581522,
     "wof:name":"Marchihue",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

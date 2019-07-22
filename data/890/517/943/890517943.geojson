@@ -13,6 +13,24 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Villa Portales Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Portales Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30e9\u30fb\u30dd\u30eb\u30bf\u30ec\u30b9\u7a7a\u6e2f"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Villa Portales"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo Villa Portales"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Portales Airport"
+    ],
     "qs:name":"Villa Portales",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Araucania",
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":890517943,
-    "wof:lastmodified":1527751203,
+    "wof:lastmodified":1563582346,
     "wof:name":"Villa Portales",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

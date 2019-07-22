@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0623\u0648\u0647\u064a\u063a\u064a\u0646\u0632"
     ],
+    "name:ast_x_preferred":[
+        "Rex\u00f3n del Llibertador Xeneral Bernardo O'Higgins"
+    ],
     "name:bak_x_preferred":[
         "\u041e'\u0425\u0438\u0433\u0433\u0438\u043d\u0441"
     ],
@@ -40,6 +43,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09ac\u09be\u09b0\u09cd\u09a4\u09be\u09a6\u09cb \u099c\u09c7\u09a8\u09be\u09b0\u09c7\u09b2 \u09ac\u09be\u09b0\u09cd\u09a8\u09be\u09a1\u09cb \u0993'\u09b9\u09bf\u0997\u09bf\u09a8\u09cd\u09b8 \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09bf\u09ac\u09c7\u09b0\u09cd\u09a4\u09be\u09a6\u09cb\u09b0 \u09b9\u09c7\u09a8\u09c7\u09b0\u09be\u09b2 \u09ac\u09c7\u09b0\u09cd\u09a8\u09be\u09b0\u09cd\u09a6\u09cb \u0993'\u09b9\u09bf\u0997\u09bf\u09a8\u09cd\u09b8 \u0985\u099e\u09cd\u099a\u09b2"
+    ],
     "name:bre_x_preferred":[
         "Rannvro O'Higgins"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 d'O'Higgins"
+    ],
+    "name:ceb_x_preferred":[
+        "Regi\u00f3n del Libertador General Bernardo O'Higgins"
     ],
     "name:ces_x_preferred":[
         "Region O'Higgins"
@@ -70,17 +79,26 @@
     "name:eus_x_preferred":[
         "O'Higgins eskualdea"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627 \u0647\u06cc\u06af\u06cc\u0646\u0632"
+    ],
     "name:fin_x_preferred":[
         "Libertador General Bernardo O'Higginsin maakunta"
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion du Libertador General Bernardo O'Higgins"
     ],
+    "name:frr_x_preferred":[
+        "Regi\u00f3n del Libertador General Bernardo O\u2019Higgins"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de O'Higgins"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aac\u0ab0\u0acd\u0a9f\u0abe\u0aa1\u0acb\u0ab0 \u0a9c\u0aa8\u0ab0\u0ab2"
+    ],
+    "name:guj_x_variant":[
+        "\u0ab2\u0abf\u0aac\u0ab0\u0acd\u0a9f\u0abe\u0aa1\u0acb\u0ab0 \u0a9c\u0aa8\u0ab0\u0ab2 "
     ],
     "name:hin_x_preferred":[
         "\u0932\u093f\u092c\u0930\u094d\u091f\u0921\u094b\u0930 \u091c\u0928\u0930\u0932 \u092c\u0930\u094d\u0928\u093e\u0930\u094d\u0921\u094b \u0913'\u0939\u093f\u0917\u093f\u0928\u094d\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -93,6 +111,9 @@
     ],
     "name:ido_x_preferred":[
         "Regiono di O'Higgins"
+    ],
+    "name:ilo_x_preferred":[
+        "Rehion ti O'Higgins"
     ],
     "name:ind_x_preferred":[
         "Wilayah Libertador General Bernardo O'Higgins"
@@ -331,7 +352,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749852,
+    "wof:lastmodified":1563581836,
     "wof:name":"Del Libertador B Ohiggins",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

@@ -26,6 +26,9 @@
     "name:eus_x_preferred":[
         "San Pedro"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u067e\u062f\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
         "San Pedro"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u4f69\u5fb7\u7f85"
+    ],
+    "name:zho_x_variant":[
+        "\u8056\u80e1\u963f\u7d0d"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":102018243,
-    "wof:lastmodified":1561749813,
+    "wof:lastmodified":1563581399,
     "wof:name":"San Pedro",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

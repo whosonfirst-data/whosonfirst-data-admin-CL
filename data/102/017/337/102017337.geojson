@@ -28,8 +28,14 @@
     "name:eus_x_preferred":[
         "Negrete"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06af\u0631\u062a\u0647"
+    ],
     "name:fra_x_preferred":[
         "Negrete"
+    ],
+    "name:fra_x_variant":[
+        "Batuco"
     ],
     "name:ita_x_preferred":[
         "Negrete"
@@ -117,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749823,
+    "wof:lastmodified":1563581531,
     "wof:name":"Negrete",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

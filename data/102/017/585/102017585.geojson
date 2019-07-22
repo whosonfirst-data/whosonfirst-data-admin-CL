@@ -42,6 +42,9 @@
     "name:eus_x_preferred":[
         "Illapel"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u067e\u0644"
+    ],
     "name:fra_x_preferred":[
         "Illapel"
     ],
@@ -101,6 +104,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e35\u0e22\u0e32\u0e40\u0e1b\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e34\u0e22\u0e32\u0e40\u0e1b\u0e25"
     ],
     "name:vie_x_preferred":[
         "Illapel"
@@ -254,7 +260,7 @@
         }
     ],
     "wof:id":102017585,
-    "wof:lastmodified":1561749835,
+    "wof:lastmodified":1563581705,
     "wof:name":"Illapel",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

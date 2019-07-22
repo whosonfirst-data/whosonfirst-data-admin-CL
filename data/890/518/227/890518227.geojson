@@ -16,6 +16,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Puerto Rio Tranquilo"
+    ],
     "name:deu_x_preferred":[
         "Puerto R\u00edo Tranquilo"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u044d\u0440\u0442\u043e \u0420\u0438\u043e \u0422\u0440\u0430\u043d\u043a\u0438\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto R\u00edo Tranquilo"
     ],
     "name:swe_x_preferred":[
         "Puerto Rio Tranquilo"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890518227,
-    "wof:lastmodified":1561749888,
+    "wof:lastmodified":1563582361,
     "wof:name":"Puerto Tranquilo",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

@@ -66,6 +66,9 @@
     "name:zho_x_preferred":[
         "\u8b1d\u62c9\u6208\u9054"
     ],
+    "name:zho_x_variant":[
+        "\u8056\u7f85\u68ee\u591a"
+    ],
     "qs:a0":"Chile",
     "qs:a1":"*Antofagasta",
     "qs:a1r":"*",
@@ -117,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749818,
+    "wof:lastmodified":1563581453,
     "wof:name":"Sierra Gorda",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

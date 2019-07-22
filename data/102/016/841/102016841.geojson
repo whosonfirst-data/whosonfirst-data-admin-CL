@@ -21,6 +21,9 @@
     "name:arn_x_preferred":[
         "Tuk\u00e9n pele"
     ],
+    "name:ceb_x_preferred":[
+        "Tucapel"
+    ],
     "name:eng_x_preferred":[
         "Tucapel"
     ],
@@ -126,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749820,
+    "wof:lastmodified":1563581493,
     "wof:name":"Tucapel",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

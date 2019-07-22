@@ -39,15 +39,20 @@
     "name:bel_x_preferred":[
         "\u042d\u043b\u044c\u043a\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u043b\u044c\u043a\u0456"
+    ],
     "name:eng_x_preferred":[
         "Elqui"
     ],
     "name:eng_x_variant":[
-        "Elqui",
         "Elqui Province"
     ],
     "name:eus_x_preferred":[
         "Elqui probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u06cc"
     ],
     "name:fra_x_preferred":[
         "province d'Elqui"
@@ -69,6 +74,9 @@
     ],
     "name:lit_x_preferred":[
         "Elkio provincija"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u043b\u043a\u0438"
     ],
     "name:nan_x_preferred":[
         "Elqui"
@@ -167,7 +175,7 @@
         }
     ],
     "wof:id":102063091,
-    "wof:lastmodified":1561749768,
+    "wof:lastmodified":1563581312,
     "wof:name":"Elqui",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

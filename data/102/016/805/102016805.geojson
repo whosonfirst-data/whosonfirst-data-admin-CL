@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "villarica"
     ],
+    "name:eng_x_variant":[
+        "Villarrica"
+    ],
     "name:eus_x_preferred":[
         "Villarrica"
     ],
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":102016805,
-    "wof:lastmodified":1561749819,
+    "wof:lastmodified":1563581473,
     "wof:name":"Villarrica",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

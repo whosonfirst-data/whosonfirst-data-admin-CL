@@ -30,6 +30,9 @@
     "name:eus_x_preferred":[
         "Tiltil"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0644\u062a\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
         "Tiltil"
     ],
@@ -60,6 +63,9 @@
     "name:spa_x_preferred":[
         "Til Til"
     ],
+    "name:spa_x_variant":[
+        "Tiltil"
+    ],
     "name:swe_x_preferred":[
         "Tiltil"
     ],
@@ -68,6 +74,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8482\u723e\u8482\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u7dad\u723e\u6606"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":102016875,
-    "wof:lastmodified":1561749819,
+    "wof:lastmodified":1563581463,
     "wof:name":"Tiltil",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

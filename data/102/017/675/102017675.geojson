@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "El Quisco"
     ],
+    "name:ceb_x_preferred":[
+        "El Quisco"
+    ],
     "name:deu_x_preferred":[
         "El Quisco"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:eus_x_preferred":[
         "El Quisco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u06a9\u06cc\u0633\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
         "El Quisco"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":102017675,
-    "wof:lastmodified":1561749824,
+    "wof:lastmodified":1563581546,
     "wof:name":"El Quisco",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

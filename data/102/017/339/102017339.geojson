@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Navidad"
     ],
+    "name:ceb_x_preferred":[
+        "Navidad"
+    ],
     "name:deu_x_preferred":[
         "Navidad"
     ],
@@ -31,11 +34,17 @@
     "name:eus_x_preferred":[
         "Navidad"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u062f\u0627\u062f"
+    ],
     "name:fra_x_preferred":[
         "Navidad"
     ],
     "name:ita_x_preferred":[
         "Navidad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30d3\u30c0\u30fc"
     ],
     "name:kor_x_preferred":[
         "\ub098\ube44\ub2e4\ub4dc"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":102017339,
-    "wof:lastmodified":1561749823,
+    "wof:lastmodified":1563581535,
     "wof:name":"Navidad",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

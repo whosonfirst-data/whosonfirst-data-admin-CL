@@ -41,13 +41,16 @@
     ],
     "name:eng_x_variant":[
         "Maipo",
-        "Maipo"
+        "Maipo Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Maipo"
     ],
     "name:eus_x_preferred":[
         "Maipo probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u067e\u0648"
     ],
     "name:fra_x_preferred":[
         "province de Maipo"
@@ -63,6 +66,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uc774\ud3ec \ud604"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0458\u043f\u043e"
     ],
     "name:nan_x_preferred":[
         "Maipo"
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":102063095,
-    "wof:lastmodified":1561749801,
+    "wof:lastmodified":1563581368,
     "wof:name":"Talagante",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Hualqui"
     ],
+    "name:ceb_x_preferred":[
+        "Hualqui"
+    ],
     "name:deu_x_preferred":[
         "Hualqui"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eus_x_preferred":[
         "Hualqui"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0622\u0644\u06a9\u06cc"
     ],
     "name:fra_x_preferred":[
         "Hualqui"
@@ -106,6 +112,9 @@
     "name:spa_x_preferred":[
         "Hualqui"
     ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043b\u043a\u0438"
+    ],
     "name:swe_x_preferred":[
         "Hualqui"
     ],
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":102018173,
-    "wof:lastmodified":1561749814,
+    "wof:lastmodified":1563581413,
     "wof:name":"Hualqui",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

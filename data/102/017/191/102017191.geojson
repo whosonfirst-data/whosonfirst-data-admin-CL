@@ -16,6 +16,18 @@
     "mps:longitude":-71.559448,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Poblaci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "poblacion"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30d6\u30e9\u30b7\u30aa\u30f3"
+    ],
+    "name:spa_x_preferred":[
+        "poblaci\u00f3n"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":102017191,
-    "wof:lastmodified":1527637776,
+    "wof:lastmodified":1563581630,
     "wof:name":"Poblaci\u00f3n",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

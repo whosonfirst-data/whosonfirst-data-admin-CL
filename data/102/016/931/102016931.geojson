@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "San Rosendo"
     ],
+    "name:ceb_x_preferred":[
+        "San Rosendo"
+    ],
     "name:deu_x_preferred":[
         "San Rosendo"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:eus_x_preferred":[
         "San Rosendo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0648\u0632\u0646\u062f\u0648"
     ],
     "name:fra_x_preferred":[
         "San Rosendo"
@@ -59,6 +65,9 @@
     ],
     "name:spa_x_preferred":[
         "San Rosendo"
+    ],
+    "name:spa_x_variant":[
+        "Choshuenco"
     ],
     "name:swe_x_preferred":[
         "San Rosendo"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":102016931,
-    "wof:lastmodified":1561749818,
+    "wof:lastmodified":1563581453,
     "wof:name":"San Rosendo",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

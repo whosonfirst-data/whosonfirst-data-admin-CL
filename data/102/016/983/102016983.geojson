@@ -24,6 +24,9 @@
     "name:eus_x_preferred":[
         "San Esteban"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0627\u0633\u062a\u0628\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "San Esteban"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:spa_x_preferred":[
         "San Esteban"
+    ],
+    "name:swe_x_preferred":[
+        "San F\u00e9lix"
     ],
     "name:zho_min_nan_x_preferred":[
         "San Esteban"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":102016983,
-    "wof:lastmodified":1561749819,
+    "wof:lastmodified":1563581474,
     "wof:name":"San Esteban",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

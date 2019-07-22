@@ -19,7 +19,19 @@
     "name:ang_x_preferred":[
         "San Fabi\u00e1n de Alico"
     ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0627\u0628\u064a\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
+        "San Fabi\u00e1n"
+    ],
+    "name:aze_x_preferred":[
+        "San Fabian"
+    ],
+    "name:ceb_x_preferred":[
+        "San Fabian"
+    ],
+    "name:deu_x_preferred":[
         "San Fabi\u00e1n"
     ],
     "name:eng_x_preferred":[
@@ -27,6 +39,9 @@
     ],
     "name:eus_x_preferred":[
         "San Fabi\u00e1n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0641\u0627\u0628\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "San Fabi\u00e1n"
@@ -36,6 +51,9 @@
     ],
     "name:ita_x_preferred":[
         "San Fabi\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d5\u30a1\u30d3\u30a2\u30f3"
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud30c\ube44\uc548"
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":102018169,
-    "wof:lastmodified":1561749812,
+    "wof:lastmodified":1563581390,
     "wof:name":"San Fabian",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

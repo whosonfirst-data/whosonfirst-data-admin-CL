@@ -37,6 +37,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043a\u0456\u043c\u0431\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u041a\u0430\u043a\u0456\u043c\u0431\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u0995\u09bf\u09ae\u09cd\u09ac\u09c1 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Coquimbo"
+    ],
+    "name:ceb_x_preferred":[
+        "Coquimbo"
     ],
     "name:ces_x_preferred":[
         "Region Coquimbo"
@@ -64,6 +70,9 @@
     "name:eng_x_preferred":[
         "De Coquimbo"
     ],
+    "name:eng_x_variant":[
+        "Coquimbo Region"
+    ],
     "name:epo_x_preferred":[
         "Kokimbio"
     ],
@@ -79,6 +88,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion de Coquimbo"
     ],
+    "name:fra_x_variant":[
+        "Coquimbo"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Coquimbo"
     ],
@@ -93,6 +105,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u056f\u056b\u0574\u0562\u0578"
+    ],
+    "name:ilo_x_preferred":[
+        "Rehion ti Coquimbo"
     ],
     "name:ind_x_preferred":[
         "Wilayah Coquimbo"
@@ -111,6 +126,12 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ud0b4\ubcf4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ud0b4\ubcf4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Coquimbo"
     ],
     "name:lat_x_preferred":[
         "Coquimbo"
@@ -332,7 +353,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749842,
+    "wof:lastmodified":1563581819,
     "wof:name":"De Coquimbo",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

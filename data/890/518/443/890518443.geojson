@@ -13,6 +13,57 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:eus_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0626\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30eb\u30e0\u30a8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc62c\ubb34\uc5d0"
+    ],
+    "name:nan_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:oci_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u043c\u0443\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Olmu\u00e9"
+    ],
+    "name:war_x_preferred":[
+        "San Vicente"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u7a46\u57c3"
+    ],
     "qs:name":"Olmu\u00e9",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Valpara\u00edso",
@@ -51,7 +102,7 @@
         }
     ],
     "wof:id":890518443,
-    "wof:lastmodified":1527751236,
+    "wof:lastmodified":1563582407,
     "wof:name":"Olmu\u00e9",
     "wof:parent_id":1108721747,
     "wof:placetype":"localadmin",

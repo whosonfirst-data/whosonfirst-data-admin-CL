@@ -28,6 +28,9 @@
     "name:eus_x_preferred":[
         "Fresia"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0633\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Fresia"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Fresia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u044f\u0441\u0435\u0447\u043d\u044f"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u96f7\u897f\u4e9e"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":102018207,
-    "wof:lastmodified":1561749817,
+    "wof:lastmodified":1563581441,
     "wof:name":"Fresia",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000756,
-    "geom:area_square_m":8729784.585091,
+    "geom:area_square_m":8729784.58508,
     "geom:bbox":"-68.7236089722,-20.9756046384,-68.693383234,-20.9472742174",
     "geom:latitude":-20.96144,
     "geom:longitude":-68.708496,
@@ -25,7 +25,13 @@
     "name:ceb_x_preferred":[
         "Pica"
     ],
+    "name:ces_x_preferred":[
+        "Pica"
+    ],
     "name:deu_x_preferred":[
+        "Pica"
+    ],
+    "name:eng_x_preferred":[
         "Pica"
     ],
     "name:fin_x_preferred":[
@@ -41,6 +47,9 @@
         "Pica"
     ],
     "name:nld_x_preferred":[
+        "Pica"
+    ],
+    "name:nob_x_preferred":[
         "Pica"
     ],
     "name:nor_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":102018047,
-    "wof:lastmodified":1527637577,
+    "wof:lastmodified":1563581401,
     "wof:name":"Pica",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

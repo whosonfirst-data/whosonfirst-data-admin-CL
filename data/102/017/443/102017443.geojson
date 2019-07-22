@@ -48,6 +48,9 @@
     "name:eus_x_preferred":[
         "Los Andes"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0633 \u0622\u0646\u062f\u0633"
+    ],
     "name:fin_x_preferred":[
         "Los Andes"
     ],
@@ -316,7 +319,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749832,
+    "wof:lastmodified":1563581664,
     "wof:name":"Los Andes",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Pichidegua"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0686\u06cc\u062f\u06af\u0648\u0622"
+    ],
     "name:fra_x_preferred":[
         "Pichidegua"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102018115,
-    "wof:lastmodified":1561749818,
+    "wof:lastmodified":1563581447,
     "wof:name":"Pichidegua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

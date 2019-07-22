@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "General Lagos"
     ],
+    "name:ceb_x_preferred":[
+        "General Lagos"
+    ],
     "name:deu_x_preferred":[
         "General Lagos"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:eus_x_preferred":[
         "General Lagos"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u0631\u0627\u0644 \u0644\u0627\u06af\u0648\u0633"
     ],
     "name:fra_x_preferred":[
         "General Lagos"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":102017631,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1563581701,
     "wof:name":"General Lagos",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

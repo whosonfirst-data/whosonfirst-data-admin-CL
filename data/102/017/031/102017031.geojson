@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Requ\u00ednoa"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06a9\u06cc\u0646\u0648\u0622"
+    ],
     "name:fra_x_preferred":[
         "Requ\u00ednoa"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102017031,
-    "wof:lastmodified":1561749827,
+    "wof:lastmodified":1563581581,
     "wof:name":"Requ\u00ednoa",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

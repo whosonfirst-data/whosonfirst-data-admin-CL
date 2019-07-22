@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Petorca"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0648\u0631\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Petorca"
     ],
@@ -126,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749828,
+    "wof:lastmodified":1563581593,
     "wof:name":"Petorca",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

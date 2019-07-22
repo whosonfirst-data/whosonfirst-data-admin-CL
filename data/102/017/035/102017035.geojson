@@ -28,6 +28,9 @@
     "name:eus_x_preferred":[
         "Renca"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0646\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Renca"
     ],
@@ -121,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749833,
+    "wof:lastmodified":1563581684,
     "wof:name":"Renca",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

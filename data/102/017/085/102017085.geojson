@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000819,
-    "geom:area_square_m":8574643.843519,
+    "geom:area_square_m":8574643.843516,
     "geom:bbox":"-71.5149801526,-32.1349585441,-71.4829389333,-32.096535702",
     "geom:latitude":-32.115739,
     "geom:longitude":-71.498652,
@@ -16,6 +16,12 @@
     "mps:longitude":-71.497034,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cym_x_preferred":[
+        "Afon Quilimar\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Quilimar\u00ed River"
+    ],
     "qs:a0":"Chile",
     "qs:a1":"*Coquimbo",
     "qs:a1r":"*",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":102017085,
-    "wof:lastmodified":1527637772,
+    "wof:lastmodified":1563581567,
     "wof:name":"Quilimar\u00ed",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

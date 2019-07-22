@@ -25,14 +25,44 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:ast_x_preferred":[
+        "Luz Valdivieso"
+    ],
+    "name:dan_x_preferred":[
+        "Luz Valdivieso"
+    ],
+    "name:deu_x_preferred":[
+        "Luz Valdivieso"
+    ],
+    "name:eng_x_preferred":[
+        "Luz Valdivieso"
+    ],
     "name:fra_x_preferred":[
+        "Luz Valdivieso"
+    ],
+    "name:ita_x_preferred":[
+        "Luz Valdivieso"
+    ],
+    "name:nld_x_preferred":[
+        "Luz Valdivieso"
+    ],
+    "name:nno_x_preferred":[
+        "Luz Valdivieso"
+    ],
+    "name:nob_x_preferred":[
         "Luz Valdivieso"
     ],
     "name:por_x_preferred":[
         "Luz Valdivieso"
     ],
+    "name:slv_x_preferred":[
+        "Luz Valdivieso"
+    ],
     "name:spa_x_preferred":[
         "Lo Valdivieso",
+        "Luz Valdivieso"
+    ],
+    "name:swe_x_preferred":[
         "Luz Valdivieso"
     ],
     "name:unk_x_variant":[
@@ -101,7 +131,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527639295,
+    "wof:lastmodified":1563581804,
     "wof:name":"Lo Valdivieso",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

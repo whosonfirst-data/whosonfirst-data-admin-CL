@@ -160,6 +160,9 @@
     "name:zho_x_preferred":[
         "\u7dad\u5854\u5eab\u62c9"
     ],
+    "name:zho_x_variant":[
+        "\u7ef4\u5854\u5e93\u62c9"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -214,7 +217,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749818,
+    "wof:lastmodified":1563581454,
     "wof:name":"Vitacura",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

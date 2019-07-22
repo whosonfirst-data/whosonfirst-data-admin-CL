@@ -25,6 +25,9 @@
     "name:aze_x_preferred":[
         "Hualpen"
     ],
+    "name:bel_x_preferred":[
+        "\u0423\u0430\u043b\u044c\u043f\u0435\u043d"
+    ],
     "name:cat_x_preferred":[
         "Hualp\u00e9n"
     ],
@@ -37,6 +40,9 @@
     "name:chy_x_preferred":[
         "Hualp\u00e9n"
     ],
+    "name:dan_x_preferred":[
+        "Hualp\u00e9n"
+    ],
     "name:deu_x_preferred":[
         "Hualp\u00e9n"
     ],
@@ -45,6 +51,9 @@
     ],
     "name:eus_x_preferred":[
         "Hualp\u00e9n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0622\u0644\u067e\u0646"
     ],
     "name:fra_x_preferred":[
         "Hualp\u00e9n"
@@ -60,6 +69,9 @@
     ],
     "name:hat_x_preferred":[
         "Hualp\u00e9n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05dc\u05e4\u05df"
     ],
     "name:ina_x_preferred":[
         "Hualp\u00e9n"
@@ -117,6 +129,9 @@
     ],
     "name:swe_x_preferred":[
         "Comuna de Hualp\u00e9n"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u043f\u0435\u043d"
     ],
     "name:unk_x_variant":[
         "Gualpencillo"
@@ -180,7 +195,7 @@
         }
     ],
     "wof:id":102017607,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1563581699,
     "wof:name":"Hualp\u00e9n",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

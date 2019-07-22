@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Macul"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06a9\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
         "Macul"
     ],
@@ -129,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749825,
+    "wof:lastmodified":1563581566,
     "wof:name":"Macul",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

@@ -14,6 +14,57 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:ceb_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:eus_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\ucda9\uce74\ube44"
+    ],
+    "name:nan_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:oci_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:ron_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0447\u0443\u043d\u043a\u0430\u0432\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u67e5\u5229"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u74ca\u5361\u7dad"
+    ],
     "qs:name":"Puchuncav\u00ed",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Valpara\u00edso",
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":890517793,
-    "wof:lastmodified":1527749997,
+    "wof:lastmodified":1563582300,
     "wof:name":"Puchuncav\u00ed",
     "wof:parent_id":102063161,
     "wof:placetype":"localadmin",

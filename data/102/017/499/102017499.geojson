@@ -32,6 +32,9 @@
     "name:eus_x_preferred":[
         "Lautaro"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0626\u0648\u062a\u0627\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
         "Lautaro"
     ],
@@ -57,6 +60,9 @@
         "Lautaro"
     ],
     "name:oci_x_preferred":[
+        "Lautaro"
+    ],
+    "name:pol_x_preferred":[
         "Lautaro"
     ],
     "name:por_x_preferred":[
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":102017499,
-    "wof:lastmodified":1561749827,
+    "wof:lastmodified":1563581580,
     "wof:name":"Lautaro",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

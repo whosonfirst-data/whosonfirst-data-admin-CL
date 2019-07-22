@@ -28,6 +28,9 @@
     "name:eus_x_preferred":[
         "Pumanque"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0645\u0627\u0646\u06a9\u0647"
+    ],
     "name:fra_x_preferred":[
         "Pumanque"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102017127,
-    "wof:lastmodified":1561749829,
+    "wof:lastmodified":1563581611,
     "wof:name":"Pumanque",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

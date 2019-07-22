@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000633,
-    "geom:area_square_m":6231388.877739,
+    "geom:area_square_m":6231388.877741,
     "geom:bbox":"-72.405663485,-37.234958838,-72.3392035999,-37.1731972789",
     "geom:latitude":-37.204063,
     "geom:longitude":-72.372441,
@@ -15,6 +15,46 @@
     "mps:latitude":-37.182202,
     "mps:longitude":-72.394409,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Laja-F\u00e4lle"
+    ],
+    "name:bre_x_preferred":[
+        "Salto del Laja"
+    ],
+    "name:ceb_x_preferred":[
+        "Salto del Laja"
+    ],
+    "name:ces_x_preferred":[
+        "Salto del Laja"
+    ],
+    "name:deu_x_preferred":[
+        "Laja-F\u00e4lle"
+    ],
+    "name:eng_x_preferred":[
+        "Laja Falls"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05dc \u05dc\u05d0\u05d7\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Salto del Laja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30cf\u306e\u6edd"
+    ],
+    "name:nld_x_preferred":[
+        "Laja Falls"
+    ],
+    "name:pol_x_preferred":[
+        "Laja"
+    ],
+    "name:spa_x_preferred":[
+        "Salto del Laja"
+    ],
+    "name:swe_x_preferred":[
+        "Salto del Laja"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -41,7 +81,7 @@
         "wk:page":"Laja Falls"
     },
     "wof:country":"CL",
-    "wof:geomhash":"1e6a18376cd868eb0ab6a6f4e57eef36",
+    "wof:geomhash":"abc33cec84443f05a2c8b7d635de3a80",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +92,7 @@
         }
     ],
     "wof:id":102017545,
-    "wof:lastmodified":1479947631,
+    "wof:lastmodified":1563581621,
     "wof:name":"Salto del Laja",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

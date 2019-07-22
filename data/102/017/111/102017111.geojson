@@ -64,6 +64,9 @@
     "name:spa_x_preferred":[
         "Putaendo"
     ],
+    "name:spa_x_variant":[
+        "Nirivilo"
+    ],
     "name:swe_x_preferred":[
         "Putaendo"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":102017111,
-    "wof:lastmodified":1561749828,
+    "wof:lastmodified":1563581607,
     "wof:name":"Putaendo",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

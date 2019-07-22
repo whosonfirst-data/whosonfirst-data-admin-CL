@@ -40,6 +40,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0648\u0631\u0627\u0631\u06cc\u0647\u06cc\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u06cc\u0648\u0631\u0627\u0631\u06cc\u0647\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
         "Curarrehue"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102017715,
-    "wof:lastmodified":1561749829,
+    "wof:lastmodified":1563581612,
     "wof:name":"Curarrehue",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

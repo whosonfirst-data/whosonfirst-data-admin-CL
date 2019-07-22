@@ -29,6 +29,9 @@
     "name:eus_x_preferred":[
         "R\u00edo Negro"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648 \u0646\u06af\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
         "R\u00edo Negro"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043e-\u041d\u0435\u0433\u0440\u043e"
+    ],
+    "name:rus_x_variant":[
+        "Freire"
     ],
     "name:spa_x_preferred":[
         "R\u00edo Negro"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":102017011,
-    "wof:lastmodified":1561749832,
+    "wof:lastmodified":1563581666,
     "wof:name":"R\u00edo Negro",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

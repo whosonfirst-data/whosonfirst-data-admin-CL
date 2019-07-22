@@ -35,6 +35,9 @@
     "name:eus_x_preferred":[
         "Rengo"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0646\u06af\u0648"
+    ],
     "name:fra_x_preferred":[
         "Rengo"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30f3\u30b4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d4\u10dc\u10d2\u10dd"
     ],
     "name:kor_x_preferred":[
         "\ub81d\uace0"
@@ -60,6 +66,9 @@
         "Rengo"
     ],
     "name:oci_x_preferred":[
+        "Rengo"
+    ],
+    "name:pol_x_preferred":[
         "Rengo"
     ],
     "name:por_x_preferred":[
@@ -137,7 +146,7 @@
         }
     ],
     "wof:id":102017033,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1563581693,
     "wof:name":"Rengo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

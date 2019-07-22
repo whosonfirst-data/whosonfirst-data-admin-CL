@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "La Ligua"
     ],
+    "name:ces_x_preferred":[
+        "La Ligua"
+    ],
     "name:deu_x_preferred":[
         "La Ligua"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:eus_x_preferred":[
         "La Ligua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0644\u06cc\u06af\u0648\u0622"
     ],
     "name:fra_x_preferred":[
         "La Ligua"
@@ -231,7 +237,7 @@
         }
     ],
     "wof:id":1175611243,
-    "wof:lastmodified":1561749884,
+    "wof:lastmodified":1563582136,
     "wof:name":"La Ligua",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

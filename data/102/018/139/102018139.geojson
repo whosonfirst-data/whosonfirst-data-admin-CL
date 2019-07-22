@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Pelluhue"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0648\u0647\u0648"
+    ],
     "name:fra_x_preferred":[
         "Pelluhue"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102018139,
-    "wof:lastmodified":1561749816,
+    "wof:lastmodified":1563581428,
     "wof:name":"Pelluhue",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

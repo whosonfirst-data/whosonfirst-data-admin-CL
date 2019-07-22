@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":3131319.732814,
+    "geom:area_square_m":3131319.732815,
     "geom:bbox":"-68.0205737472,-22.343866204,-68.001154801,-22.3258005158",
     "geom:latitude":-22.334833,
     "geom:longitude":-68.010864,
@@ -17,14 +17,60 @@
     "mps:latitude":-22.334834,
     "mps:longitude":-68.010864,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "G\u00e9iser del Tatio"
+    ],
+    "name:ces_x_preferred":[
+        "El Tatio"
+    ],
+    "name:deu_x_preferred":[
+        "El Tatio"
+    ],
     "name:eng_x_preferred":[
         "El Tatio Geysers"
     ],
     "name:eng_x_variant":[
         "El Tatio"
     ],
+    "name:eus_x_preferred":[
+        "El Tatio"
+    ],
     "name:fra_x_preferred":[
         "El Tatio"
+    ],
+    "name:fra_x_variant":[
+        "Geysers d'El Tatio"
+    ],
+    "name:hrv_x_preferred":[
+        "El Tatio"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ud0c0\ud2f0\uc624"
+    ],
+    "name:lit_x_preferred":[
+        "El Tatijas"
+    ],
+    "name:nld_x_preferred":[
+        "El Tatio"
+    ],
+    "name:slk_x_preferred":[
+        "El Tatio"
+    ],
+    "name:slv_x_preferred":[
+        "El Tatio"
+    ],
+    "name:spa_x_preferred":[
+        "El Tatio"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00e9iser del Tatio"
+    ],
+    "name:tur_x_preferred":[
+        "El Tatio Gayzeri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0422\u0430\u0442\u0456\u043e"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -63,7 +109,7 @@
         }
     ],
     "wof:id":102016887,
-    "wof:lastmodified":1501269178,
+    "wof:lastmodified":1563581461,
     "wof:name":"G\u00e9iser del Tatio",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

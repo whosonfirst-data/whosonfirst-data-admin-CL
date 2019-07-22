@@ -29,10 +29,16 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u098f\u09a8\u09cd\u09a4\u09cb\u09a8\u09bf\u0993"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u0986\u09a8\u09cd\u09a4\u09cb\u09a8\u09bf\u0993"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u0410\u043d\u0442\u043e\u043d\u0438\u043e"
     ],
     "name:ceb_x_preferred":[
+        "San Antonio"
+    ],
+    "name:cym_x_preferred":[
         "San Antonio"
     ],
     "name:dan_x_preferred":[
@@ -312,7 +318,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749820,
+    "wof:lastmodified":1563581490,
     "wof:name":"San Antonio",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

@@ -43,6 +43,12 @@
     "name:ceb_x_preferred":[
         "Osorno"
     ],
+    "name:ces_x_preferred":[
+        "Osorno"
+    ],
+    "name:cym_x_preferred":[
+        "Osorno"
+    ],
     "name:dan_x_preferred":[
         "Osorno"
     ],
@@ -67,6 +73,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u0633\u0648\u0631\u0646\u0648\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0633\u0648\u0631\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Osorno"
     ],
@@ -87,6 +96,9 @@
     ],
     "name:hun_x_preferred":[
         "Osorno"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u057d\u0578\u0580\u0576\u0578"
     ],
     "name:ind_x_preferred":[
         "Osorno"
@@ -151,6 +163,9 @@
     "name:sin_x_preferred":[
         "\u0d94\u0dc3\u0ddc\u0dbb\u0dca\u0db1\u0ddd"
     ],
+    "name:slv_x_preferred":[
+        "Osorno"
+    ],
     "name:spa_x_preferred":[
         "Osorno"
     ],
@@ -160,14 +175,23 @@
     "name:swe_x_preferred":[
         "Osorno"
     ],
+    "name:szl_x_preferred":[
+        "Osorno"
+    ],
     "name:tam_x_preferred":[
         "\u0b93\u0bb8\u0bcb\u0bb0\u0bcd\u0ba9\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0441\u043e\u0440\u043d\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c12\u0c36\u0c4b\u0c30\u0c4d\u0c28\u0c4b"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e2d\u0e0b\u0e2d\u0e23\u0e4c\u0e42\u0e19\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e2d\u0e0b\u0e2d\u0e23\u0e4c\u0e42\u0e19"
     ],
     "name:tur_x_preferred":[
         "Osorno"
@@ -238,7 +262,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749817,
+    "wof:lastmodified":1563581441,
     "wof:name":"Osorno",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

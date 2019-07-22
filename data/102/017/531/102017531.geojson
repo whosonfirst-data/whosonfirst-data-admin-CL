@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Palmilla"
     ],
+    "name:ceb_x_preferred":[
+        "Palmilla"
+    ],
     "name:eng_x_preferred":[
         "Palmilla"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102017531,
-    "wof:lastmodified":1561749831,
+    "wof:lastmodified":1563581642,
     "wof:name":"La Palmilla",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

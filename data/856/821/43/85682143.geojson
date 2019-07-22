@@ -64,6 +64,9 @@
     "name:eng_x_preferred":[
         "De Valparaiso"
     ],
+    "name:eng_x_variant":[
+        "Valpara\u00edso"
+    ],
     "name:epo_x_preferred":[
         "Valparaiso"
     ],
@@ -80,7 +83,8 @@
         "El Mercurio de Valpara\u00edso"
     ],
     "name:fra_x_variant":[
-        "R\u00e9gion de Valpara\u00edso"
+        "R\u00e9gion de Valpara\u00edso",
+        "Valpara\u00edso"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Valpara\u00edso"
@@ -97,11 +101,17 @@
     "name:hrv_x_preferred":[
         "El Mercurio de Valpara\u00edso"
     ],
+    "name:hrv_x_variant":[
+        "V. regija Valpara\u00edso"
+    ],
     "name:hun_x_preferred":[
         "Valpara\u00edso r\u00e9gi\u00f3"
     ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u056c\u057a\u0561\u0580\u0561\u056b\u057d\u0578"
+    ],
+    "name:ilo_x_preferred":[
+        "Rehion ti Valpara\u00edso"
     ],
     "name:ind_x_preferred":[
         "Wilayah Valpara\u00edso"
@@ -120,6 +130,12 @@
     ],
     "name:kor_x_preferred":[
         "\ubc1c\ud30c\ub77c\uc774\uc18c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc1c\ud30c\ub77c\uc774\uc18c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Valpara\u00edso"
     ],
     "name:lat_x_preferred":[
         "Regio Vallis Paradisi"
@@ -163,6 +179,9 @@
     "name:pol_x_preferred":[
         "El Mercurio de Valpara\u00edso"
     ],
+    "name:pol_x_variant":[
+        "Valpara\u00edso"
+    ],
     "name:por_x_preferred":[
         "El Mercurio de Valpara\u00edso"
     ],
@@ -180,6 +199,12 @@
     ],
     "name:sco_x_preferred":[
         "El Mercurio de Valpara\u00edso"
+    ],
+    "name:sco_x_variant":[
+        "Valpara\u00edso Region"
+    ],
+    "name:sgs_x_preferred":[
+        "Valpara\u0117sa reg\u0117juons"
     ],
     "name:sin_x_preferred":[
         "\u0dc0\u0dbd\u0dca\u0db4\u0dbb\u0dba\u0dd2\u0dc3\u0ddd \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
@@ -343,7 +368,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749850,
+    "wof:lastmodified":1563581832,
     "wof:name":"De Valparaiso",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

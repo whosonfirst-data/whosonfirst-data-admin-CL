@@ -21,6 +21,9 @@
     "name:ceb_x_preferred":[
         "Socaire"
     ],
+    "name:deu_x_preferred":[
+        "Socaire"
+    ],
     "name:eng_x_preferred":[
         "Socaire"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102016905,
-    "wof:lastmodified":1561749820,
+    "wof:lastmodified":1563581492,
     "wof:name":"Socaire",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

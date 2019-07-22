@@ -142,6 +142,9 @@
     "name:cos_x_preferred":[
         "Valpara\u00edso"
     ],
+    "name:crh_x_preferred":[
+        "Valparaiso"
+    ],
     "name:cym_x_preferred":[
         "Valpara\u00edso"
     ],
@@ -289,6 +292,9 @@
     "name:ile_x_preferred":[
         "Valpara\u00edso"
     ],
+    "name:ilo_x_preferred":[
+        "Valpara\u00edso"
+    ],
     "name:ina_x_preferred":[
         "Valpara\u00edso"
     ],
@@ -375,6 +381,9 @@
     ],
     "name:lav_x_preferred":[
         "Valparaiso"
+    ],
+    "name:lfn_x_preferred":[
+        "Valpara\u00edso"
     ],
     "name:lij_x_preferred":[
         "Valpara\u00edso"
@@ -637,6 +646,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e31\u0e25\u0e1b\u0e32\u0e23\u0e32\u0e2d\u0e35\u0e42\u0e0b"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e31\u0e25\u0e1b\u0e32\u0e23\u0e32\u0e2d\u0e34\u0e42\u0e0b"
+    ],
     "name:tpi_x_preferred":[
         "Valparaiso"
     ],
@@ -763,7 +775,7 @@
         }
     ],
     "wof:id":890517899,
-    "wof:lastmodified":1561749888,
+    "wof:lastmodified":1563582333,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

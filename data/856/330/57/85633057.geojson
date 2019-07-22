@@ -90,14 +90,20 @@
     "name:bel_x_preferred":[
         "\u0427\u044b\u043b\u0456"
     ],
-    "name:bel_x_variant":[
-        "\u0427\u044b\u043b\u0456"
-    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09b2\u09bf"
     ],
+    "name:bgn_x_preferred":[
+        "\u0686\u06cc\u0644\u06cc"
+    ],
+    "name:bho_x_preferred":[
+        "\u091a\u093f\u0932\u0940"
+    ],
     "name:bis_x_preferred":[
         "Chile"
+    ],
+    "name:bjn_x_preferred":[
+        "Chili"
     ],
     "name:bod_x_preferred":[
         "\u0f45\u0f72\u0f0b\u0f63\u0f72\u0f0d"
@@ -171,6 +177,9 @@
     "name:cym_x_preferred":[
         "Chile"
     ],
+    "name:cym_x_variant":[
+        "Tsili"
+    ],
     "name:dan_x_preferred":[
         "Chile"
     ],
@@ -186,11 +195,17 @@
     "name:dsb_x_preferred":[
         "Chilska"
     ],
+    "name:dty_x_preferred":[
+        "\u091a\u093f\u0932\u0940"
+    ],
     "name:dzo_x_preferred":[
         "\u0f45\u0f72\u0f0b\u0f63\u0f7a"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b9\u03bb\u03ae"
+    ],
+    "name:eml_x_preferred":[
+        "C\u00eel"
     ],
     "name:eng_x_preferred":[
         "Chile"
@@ -224,6 +239,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fij_x_preferred":[
+        "Chile"
     ],
     "name:fin_x_preferred":[
         "Chile"
@@ -264,14 +282,26 @@
     "name:glg_x_preferred":[
         "Chile"
     ],
+    "name:glk_x_preferred":[
+        "\u0634\u06cc\u0644\u06cc"
+    ],
     "name:glv_x_preferred":[
         "Yn \u00c7hillee"
     ],
     "name:gom_x_preferred":[
         "\u091a\u093f\u0932\u0940"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf43\ud800\udf37\ud800\udf39\ud800\udf3b\ud800\udf34"
+    ],
     "name:grn_x_preferred":[
         "Ch\u00edle"
+    ],
+    "name:grn_x_variant":[
+        "Chile"
+    ],
+    "name:gsw_x_preferred":[
+        "Chile"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac0\u0ab2\u0ac0"
@@ -351,6 +381,9 @@
     "name:jbo_x_preferred":[
         "tciles"
     ],
+    "name:jbo_x_variant":[
+        "lo gugdeculu"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30ea"
     ],
@@ -380,6 +413,9 @@
     ],
     "name:kbd_x_preferred":[
         "\u0427\u0438\u043b\u0438"
+    ],
+    "name:kbp_x_preferred":[
+        "Silii"
     ],
     "name:khm_x_preferred":[
         "\u1788\u17b8\u179b\u17b8"
@@ -420,14 +456,23 @@
     "name:lao_x_preferred":[
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e88\u0eb5\u0ec0\u0ea5"
     ],
+    "name:lao_x_variant":[
+        "Chile"
+    ],
     "name:lat_x_preferred":[
         "Chilia"
     ],
     "name:lav_x_preferred":[
         "\u010c\u012ble"
     ],
+    "name:lbe_x_preferred":[
+        "\u0427\u0438\u043b\u0439"
+    ],
     "name:lez_x_preferred":[
         "\u0427\u0438\u043b\u0438"
+    ],
+    "name:lfn_x_preferred":[
+        "Txile"
     ],
     "name:lij_x_preferred":[
         "Cile"
@@ -437,6 +482,9 @@
     ],
     "name:lin_x_preferred":[
         "Sh\u00edle"
+    ],
+    "name:lin_x_variant":[
+        "Shili"
     ],
     "name:lit_x_preferred":[
         "\u010cil\u0117"
@@ -456,6 +504,9 @@
     "name:lug_x_preferred":[
         "Chile"
     ],
+    "name:lzh_x_preferred":[
+        "\u667a\u5229"
+    ],
     "name:mai_x_preferred":[
         "\u091a\u093f\u0932\u0940"
     ],
@@ -464,6 +515,9 @@
     ],
     "name:mar_x_preferred":[
         "\u091a\u093f\u0932\u0940"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0427\u0438\u043b\u0435"
     ],
     "name:mhr_x_preferred":[
         "\u0427\u0438\u043b\u0438"
@@ -503,6 +557,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0634\u06cc\u0644\u06cc"
+    ],
+    "name:nah_x_preferred":[
+        "Chile"
+    ],
+    "name:nan_x_preferred":[
+        "Chile"
     ],
     "name:nap_x_preferred":[
         "Cile"
@@ -552,6 +612,9 @@
     "name:oci_x_preferred":[
         "Chile"
     ],
+    "name:olo_x_preferred":[
+        "\u010cili"
+    ],
     "name:ori_x_preferred":[
         "\u0b1a\u0b3f\u0b32\u0b3f"
     ],
@@ -570,6 +633,9 @@
     "name:pan_x_preferred":[
         "\u0a1a\u0a40\u0a32\u0a47"
     ],
+    "name:pan_x_variant":[
+        "\u0a1a\u0a3f\u0a32\u0a47"
+    ],
     "name:pap_x_preferred":[
         "Chile"
     ],
@@ -577,6 +643,9 @@
         "Kili"
     ],
     "name:pdc_x_preferred":[
+        "Chile"
+    ],
+    "name:pfl_x_preferred":[
         "Chile"
     ],
     "name:pih_x_preferred":[
@@ -590,6 +659,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0686\u0644\u06cc"
+    ],
+    "name:pnt_x_preferred":[
+        "\u03a7\u03b9\u03bb\u03b5"
     ],
     "name:pol_x_preferred":[
         "Chile"
@@ -618,6 +690,12 @@
     "name:run_x_preferred":[
         "Chili"
     ],
+    "name:run_x_variant":[
+        "Chile"
+    ],
+    "name:rup_x_preferred":[
+        "Cile"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u043b\u0438"
     ],
@@ -630,14 +708,23 @@
     "name:san_x_preferred":[
         "\u091a\u093f\u0932\u093f"
     ],
+    "name:san_x_variant":[
+        "\u091a\u093f\u0932\u0947"
+    ],
     "name:scn_x_preferred":[
         "Cili"
     ],
     "name:sco_x_preferred":[
         "Chile"
     ],
+    "name:sgs_x_preferred":[
+        "\u010cil\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0da0\u0dd2\u0dbd\u0dd2 \u0da2\u0db1\u0dbb\u0da2\u0dba"
+    ],
+    "name:sin_x_variant":[
+        "\u0da0\u0dd2\u0dbd\u0dd3"
     ],
     "name:slk_x_preferred":[
         "\u010cile"
@@ -690,6 +777,9 @@
     "name:sun_x_preferred":[
         "Cil\u00e9"
     ],
+    "name:sun_x_variant":[
+        "Chili"
+    ],
     "name:swa_x_preferred":[
         "Chile"
     ],
@@ -708,6 +798,9 @@
     "name:tat_x_preferred":[
         "\u0427\u0438\u043b\u0438"
     ],
+    "name:tcy_x_preferred":[
+        "\u0c9a\u0cbf\u0cb2\u0cbf"
+    ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3f\u0c32\u0c40"
     ],
@@ -716,6 +809,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0427\u0438\u043b\u0435"
+    ],
+    "name:tgk_x_variant":[
+        "\u0427\u0438\u043b\u0438"
     ],
     "name:tgl_x_preferred":[
         "Chile"
@@ -740,6 +836,9 @@
     ],
     "name:tuk_x_preferred":[
         "\u00c7ili"
+    ],
+    "name:tum_x_preferred":[
+        "Chile"
     ],
     "name:tur_x_preferred":[
         "\u015eili"
@@ -816,6 +915,9 @@
     "name:yor_x_preferred":[
         "Ts\u00edl\u00e8"
     ],
+    "name:yue_x_preferred":[
+        "\u667a\u5229"
+    ],
     "name:zea_x_preferred":[
         "Chili"
     ],
@@ -833,6 +935,9 @@
     ],
     "name:zul_x_preferred":[
         "ITshile"
+    ],
+    "name:zul_x_variant":[
+        "Chili"
     ],
     "ne:abbrev":"Chile",
     "ne:abbrev_len":5,
@@ -971,7 +1076,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749839,
+    "wof:lastmodified":1563581815,
     "wof:name":"Chile",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

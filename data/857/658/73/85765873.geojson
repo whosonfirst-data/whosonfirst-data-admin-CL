@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
-    "geom:area_square_m":4614998.949504,
+    "geom:area_square_m":4614998.949508,
     "geom:bbox":"-70.7318926637,-33.4566512938,-70.7000828378,-33.432303187",
     "geom:latitude":-33.444399,
     "geom:longitude":-70.717184,
@@ -33,8 +33,17 @@
     "name:ceb_x_preferred":[
         "Lo Prado"
     ],
+    "name:deu_x_preferred":[
+        "Lo Prado"
+    ],
+    "name:eng_x_preferred":[
+        "Lo Prado"
+    ],
     "name:eus_x_preferred":[
         "Lo Prado"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648 \u067e\u0631\u0627\u062f\u0648"
     ],
     "name:fra_x_preferred":[
         "Lo Prado"
@@ -44,6 +53,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\ud504\ub77c\ub3c4"
+    ],
+    "name:nan_x_preferred":[
+        "Lo Prado"
     ],
     "name:nld_x_preferred":[
         "Lo Prado"
@@ -139,7 +151,7 @@
         }
     ],
     "wof:id":85765873,
-    "wof:lastmodified":1509488089,
+    "wof:lastmodified":1563581808,
     "wof:name":"Lo Prado",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

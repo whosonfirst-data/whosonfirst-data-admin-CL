@@ -19,11 +19,17 @@
     "name:cat_x_preferred":[
         "Nogales"
     ],
+    "name:ceb_x_preferred":[
+        "Nogales"
+    ],
     "name:eng_x_preferred":[
         "Nogales"
     ],
     "name:eus_x_preferred":[
         "Nogales"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06af\u0627\u0644\u0633"
     ],
     "name:fra_x_preferred":[
         "Nogales"
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":890517921,
-    "wof:lastmodified":1561749888,
+    "wof:lastmodified":1563582343,
     "wof:name":"Los Nogales",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Penco"
     ],
+    "name:ast_x_preferred":[
+        "Pencu"
+    ],
     "name:aym_x_preferred":[
         "Penco"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:ext_x_preferred":[
         "Penco"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
         "Penco"
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":102017243,
-    "wof:lastmodified":1561749825,
+    "wof:lastmodified":1563581565,
     "wof:name":"Penco",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

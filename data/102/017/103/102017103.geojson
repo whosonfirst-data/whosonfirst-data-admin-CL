@@ -35,6 +35,9 @@
     "name:eus_x_preferred":[
         "Puyehue"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06cc\u0647\u200c\u0627\u0648\u0626\u0647"
+    ],
     "name:fra_x_preferred":[
         "Puyehue"
     ],
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":102017103,
-    "wof:lastmodified":1561749822,
+    "wof:lastmodified":1563581522,
     "wof:name":"Puyehue",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

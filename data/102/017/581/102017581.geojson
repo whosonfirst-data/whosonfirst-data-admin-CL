@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006909,
-    "geom:area_square_m":80106860.06286,
+    "geom:area_square_m":80106860.062898,
     "geom:bbox":"-70.176510705,-21.0191987466,-68.7702848437,-20.1758446002",
     "geom:latitude":-20.337208,
     "geom:longitude":-69.997493,
@@ -24,8 +24,14 @@
     "name:ang_x_preferred":[
         "Icice"
     ],
+    "name:ang_x_variant":[
+        "Iquique"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u064a\u0643\u0648\u064a\u0643\u0648"
+    ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0643\u0648\u064a\u0643\u0648"
     ],
     "name:arc_x_preferred":[
         "\u0710\u071d\u0729\u071d\u0729\u0717"
@@ -45,8 +51,11 @@
     "name:bar_x_preferred":[
         "Iquique"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0406\u043a\u0456\u043a\u0435"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u0995\u09c1\u0987\u0995"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f72\u0f0b\u0f40\u0f72\u0f0b\u0f40\u0f7a"
@@ -73,6 +82,9 @@
         "Iquique"
     ],
     "name:ces_x_preferred":[
+        "Iquique"
+    ],
+    "name:cym_x_preferred":[
         "Iquique"
     ],
     "name:dan_x_preferred":[
@@ -111,6 +123,9 @@
     "name:glg_x_preferred":[
         "Iquique"
     ],
+    "name:guj_x_preferred":[
+        "\u0a87\u0a95\u0abf\u0a95\u0ac7"
+    ],
     "name:hat_x_preferred":[
         "Iquique"
     ],
@@ -135,6 +150,9 @@
     "name:ido_x_preferred":[
         "Iquique"
     ],
+    "name:ilo_x_preferred":[
+        "Iquique"
+    ],
     "name:ind_x_preferred":[
         "Iquique"
     ],
@@ -146,6 +164,9 @@
     ],
     "name:kal_x_preferred":[
         "Iquique"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c87\u0c95\u0ccd\u0cb5\u0cbf\u0c95\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10d9\u10d8\u10d9\u10d4"
@@ -165,13 +186,31 @@
     "name:mar_x_preferred":[
         "\u0907\u0915\u093f\u0915\u0947"
     ],
+    "name:mkd_x_preferred":[
+        "\u0418\u043a\u0438\u043a\u0435"
+    ],
     "name:mon_x_preferred":[
         "\u0418\u043a\u0438\u043a\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Iquique"
+    ],
+    "name:nah_x_preferred":[
+        "Iquique"
+    ],
+    "name:nan_x_preferred":[
+        "Iquique"
     ],
     "name:nld_x_preferred":[
         "Iquique"
     ],
+    "name:nob_x_preferred":[
+        "Iquique"
+    ],
     "name:nor_x_preferred":[
+        "Iquique"
+    ],
+    "name:nrm_x_preferred":[
         "Iquique"
     ],
     "name:oci_x_preferred":[
@@ -207,7 +246,13 @@
     "name:sgs_x_preferred":[
         "Ikik\u0117"
     ],
+    "name:sin_x_preferred":[
+        "\u0d89\u0d9a\u0dca\u0dc0\u0dd2\u0d9a\u0dd2\u0dc0\u0dca"
+    ],
     "name:slk_x_preferred":[
+        "Iquique"
+    ],
+    "name:slv_x_preferred":[
         "Iquique"
     ],
     "name:spa_x_preferred":[
@@ -222,8 +267,20 @@
     "name:swe_x_preferred":[
         "Iquique"
     ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0b95\u0bc1\u0bb5\u0bbf\u0b95\u0bc1\u0bb5\u0bc7"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u043a\u0438\u043a\u0435"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c07\u0c15\u0c4d\u0c35\u0c3f\u0c15\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e35\u0e01\u0e35\u0e40\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e34\u0e01\u0e34\u0e40\u0e01"
     ],
     "name:tur_x_preferred":[
         "Iquique"
@@ -248,6 +305,9 @@
     ],
     "name:war_x_preferred":[
         "Iquique"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f0a\u7d50\u57fa"
     ],
     "name:zho_min_nan_x_preferred":[
         "Iquique"
@@ -401,7 +461,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338953,
+    "wof:lastmodified":1563581606,
     "wof:megacity":0,
     "wof:name":"Iquique",
     "wof:parent_id":102063145,

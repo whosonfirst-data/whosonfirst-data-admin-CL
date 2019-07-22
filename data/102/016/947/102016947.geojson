@@ -24,6 +24,9 @@
     "name:eus_x_preferred":[
         "San Pedro"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u067e\u062f\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
         "San Pedro"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u4f69\u5fb7\u7f85"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u83f2"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":102016947,
-    "wof:lastmodified":1561749820,
+    "wof:lastmodified":1563581482,
     "wof:name":"San Pedro",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

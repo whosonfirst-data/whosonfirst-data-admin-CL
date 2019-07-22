@@ -21,6 +21,9 @@
     "name:arn_x_preferred":[
         "chik\u00fcmn-rewe"
     ],
+    "name:ceb_x_preferred":[
+        "Chicureo Abajo"
+    ],
     "name:eng_x_preferred":[
         "Chicureo"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102017837,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1563581691,
     "wof:name":"Chicureo Abajo",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

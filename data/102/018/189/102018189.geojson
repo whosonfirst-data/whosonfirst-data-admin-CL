@@ -55,6 +55,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u0430\u0439\u0433\u0435\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0440\u0430\u0439\u0433\u0443\u0435\u043d"
+    ],
     "name:spa_x_preferred":[
         "Traigu\u00e9n"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7279\u8cf4\u6839"
+    ],
+    "name:zho_x_variant":[
+        "\u5eab\u96f7\u666e\u6258"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":102018189,
-    "wof:lastmodified":1561749814,
+    "wof:lastmodified":1563581414,
     "wof:name":"Traiguen",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

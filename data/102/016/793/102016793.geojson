@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002197,
-    "geom:area_square_m":21666881.404528,
+    "geom:area_square_m":21666881.404521,
     "geom:bbox":"-72.130992324,-37.1408577356,-71.9958994379,-37.0856193855",
     "geom:latitude":-37.116699,
     "geom:longitude":-72.045628,
@@ -21,10 +21,25 @@
     "name:ang_x_preferred":[
         "C\u0121unga\u0121"
     ],
+    "name:ang_x_variant":[
+        "Yungay"
+    ],
     "name:aym_x_preferred":[
         "Yungay"
     ],
+    "name:ceb_x_preferred":[
+        "Yungay"
+    ],
+    "name:eng_x_preferred":[
+        "Yungay"
+    ],
     "name:eus_x_preferred":[
+        "Yungay"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0646\u06af\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Yungay"
     ],
     "name:grn_x_preferred":[
@@ -39,6 +54,9 @@
     "name:ita_x_preferred":[
         "Yungay"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30f3\u30ac\u30a4"
+    ],
     "name:kal_x_preferred":[
         "Yungay"
     ],
@@ -48,10 +66,16 @@
     "name:lij_x_preferred":[
         "Yungay"
     ],
+    "name:nan_x_preferred":[
+        "Yungay"
+    ],
     "name:nld_x_preferred":[
         "Yungay"
     ],
     "name:oci_x_preferred":[
+        "Yungay"
+    ],
+    "name:pol_x_preferred":[
         "Yungay"
     ],
     "name:por_x_preferred":[
@@ -71,6 +95,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0646\u06af\u06d2\u060c \u0686\u0644\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u0646\u06af\u06d2"
     ],
     "name:vol_x_preferred":[
         "Yungay"
@@ -131,7 +158,7 @@
         }
     ],
     "wof:id":102016793,
-    "wof:lastmodified":1527637598,
+    "wof:lastmodified":1563581489,
     "wof:name":"Yungay",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

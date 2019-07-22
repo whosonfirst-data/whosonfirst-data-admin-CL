@@ -61,6 +61,9 @@
     "name:spa_x_preferred":[
         "Pur\u00e9n"
     ],
+    "name:spa_x_variant":[
+        "\u00d1ipas"
+    ],
     "name:zho_x_preferred":[
         "\u666e\u502b"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":102017117,
-    "wof:lastmodified":1561749829,
+    "wof:lastmodified":1563581625,
     "wof:name":"Pur\u00e9n",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

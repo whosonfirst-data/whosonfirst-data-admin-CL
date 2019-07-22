@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Alhu\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "Alhue"
+    ],
     "name:deu_x_preferred":[
         "Alhu\u00e9"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":102018215,
-    "wof:lastmodified":1561749816,
+    "wof:lastmodified":1563581434,
     "wof:name":"Alhue",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

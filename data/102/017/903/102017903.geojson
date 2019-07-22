@@ -39,6 +39,9 @@
     "name:ceb_x_preferred":[
         "Calama"
     ],
+    "name:ces_x_preferred":[
+        "Calama"
+    ],
     "name:dan_x_preferred":[
         "Calama"
     ],
@@ -164,6 +167,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb2\u0bbe\u0bae\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u043c\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c32\u0c2e\u0c3e"
@@ -334,7 +340,7 @@
         }
     ],
     "wof:id":102017903,
-    "wof:lastmodified":1561749830,
+    "wof:lastmodified":1563581633,
     "wof:name":"Calama",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

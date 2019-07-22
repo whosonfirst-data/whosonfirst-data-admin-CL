@@ -32,6 +32,9 @@
     "name:spa_x_preferred":[
         "La Ensenada"
     ],
+    "name:spa_x_variant":[
+        "Ensenada"
+    ],
     "name:unk_x_variant":[
         "Ensenada"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102017561,
-    "wof:lastmodified":1561749823,
+    "wof:lastmodified":1563581532,
     "wof:name":"La Ensenada",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

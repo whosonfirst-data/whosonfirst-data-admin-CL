@@ -19,11 +19,17 @@
     "name:cat_x_preferred":[
         "Pirque"
     ],
+    "name:ceb_x_preferred":[
+        "Pirque"
+    ],
     "name:eng_x_preferred":[
         "Pirque"
     ],
     "name:eus_x_preferred":[
         "Pirque"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u06a9\u0647"
     ],
     "name:fra_x_preferred":[
         "Pirque"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":102017203,
-    "wof:lastmodified":1561749827,
+    "wof:lastmodified":1563581582,
     "wof:name":"Pirque",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eus_x_preferred":[
         "Quinta de Tilcoco"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0646\u062a\u0627 \u062f \u062a\u06cc\u0644\u06a9\u0648\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Quinta de Tilcoco"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":102017069,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1563581697,
     "wof:name":"Quinta de Tilcoco",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

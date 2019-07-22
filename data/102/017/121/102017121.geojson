@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Penecapa"
     ],
+    "name:eng_x_variant":[
+        "Punucapa"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0646\u0648\u06a9\u0627\u067e\u0627"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102017121,
-    "wof:lastmodified":1561749829,
+    "wof:lastmodified":1563581620,
     "wof:name":"Punucapa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

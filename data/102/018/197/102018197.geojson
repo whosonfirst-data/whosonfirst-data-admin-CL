@@ -37,6 +37,9 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u06cc\u0631\u06cc\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u06cc\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Freire"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102018197,
-    "wof:lastmodified":1561749816,
+    "wof:lastmodified":1563581427,
     "wof:name":"Freire",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

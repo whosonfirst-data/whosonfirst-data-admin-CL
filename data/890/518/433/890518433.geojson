@@ -13,6 +13,69 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Huara"
+    ],
+    "name:ceb_x_preferred":[
+        "Huara"
+    ],
+    "name:deu_x_preferred":[
+        "Huara"
+    ],
+    "name:eng_x_preferred":[
+        "Huara"
+    ],
+    "name:eus_x_preferred":[
+        "Huara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0622\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Huara"
+    ],
+    "name:fra_x_preferred":[
+        "Huara"
+    ],
+    "name:ita_x_preferred":[
+        "Huara"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc544\ub77c"
+    ],
+    "name:nan_x_preferred":[
+        "Huara"
+    ],
+    "name:nld_x_preferred":[
+        "Huara"
+    ],
+    "name:oci_x_preferred":[
+        "Huara"
+    ],
+    "name:por_x_preferred":[
+        "Huara"
+    ],
+    "name:que_x_preferred":[
+        "Wara munisipyu"
+    ],
+    "name:roh_x_preferred":[
+        "Huara"
+    ],
+    "name:ron_x_preferred":[
+        "Huara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Huara"
+    ],
+    "name:swe_x_preferred":[
+        "Huara"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u62c9"
+    ],
     "qs:name":"Huara",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Tarapaca",
@@ -51,7 +114,7 @@
         }
     ],
     "wof:id":890518433,
-    "wof:lastmodified":1527758437,
+    "wof:lastmodified":1563582423,
     "wof:name":"Huara",
     "wof:parent_id":890517491,
     "wof:placetype":"localadmin",

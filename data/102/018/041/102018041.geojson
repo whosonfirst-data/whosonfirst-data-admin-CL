@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000878,
-    "geom:area_square_m":8980900.849341,
+    "geom:area_square_m":8980900.849344,
     "geom:bbox":"-71.4933800092,-34.1661452642,-71.455078125,-34.1300780189",
     "geom:latitude":-34.147842,
     "geom:longitude":-71.472928,
@@ -15,6 +15,34 @@
     "mps:latitude":-34.150083,
     "mps:longitude":-71.470648,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lago Rapel"
+    ],
+    "name:eng_x_preferred":[
+        "Lake Rapel"
+    ],
+    "name:fra_x_preferred":[
+        "lac Rapel"
+    ],
+    "name:ita_x_preferred":[
+        "lago Rapel"
+    ],
+    "name:nld_x_preferred":[
+        "Lake Rapel"
+    ],
+    "name:oci_x_preferred":[
+        "Lac Rapel"
+    ],
+    "name:spa_x_preferred":[
+        "Lago Rapel"
+    ],
+    "name:swe_x_preferred":[
+        "Lago Rapel"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u4f69\u723e\u6e56"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -41,7 +69,7 @@
         "wk:page":"Rapel Lake"
     },
     "wof:country":"CL",
-    "wof:geomhash":"263cf872a73b66e5c691cc28a5ef1614",
+    "wof:geomhash":"15a219e596b354ddf0fa8c1390971189",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +80,7 @@
         }
     ],
     "wof:id":102018041,
-    "wof:lastmodified":1479951804,
+    "wof:lastmodified":1563581393,
     "wof:name":"Lago Rapel",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

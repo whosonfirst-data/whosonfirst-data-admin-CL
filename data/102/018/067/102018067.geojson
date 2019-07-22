@@ -40,10 +40,16 @@
     "name:eus_x_preferred":[
         "Melipilla"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06cc\u067e\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Melipilla"
     ],
     "name:fra_x_preferred":[
+        "Melipilla"
+    ],
+    "name:glg_x_preferred":[
         "Melipilla"
     ],
     "name:guj_x_preferred":[
@@ -188,7 +194,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749817,
+    "wof:lastmodified":1563581446,
     "wof:name":"Melipilla",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

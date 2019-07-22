@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000332,
-    "geom:area_square_m":3117370.825653,
+    "geom:area_square_m":3117370.825648,
     "geom:bbox":"-72.6698995273,-40.6604723871,-72.6462627243,-40.6424698993",
     "geom:latitude":-40.651471,
     "geom:longitude":-72.658081,
@@ -16,6 +16,12 @@
     "mps:longitude":-72.658081,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pilmaiqu\u00e9n"
+    ],
+    "name:nld_x_preferred":[
+        "Pilmaiqu\u00e9n"
+    ],
     "name:spa_x_preferred":[
         "Pilmaiqu\u00e9n"
     ],
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":102017211,
-    "wof:lastmodified":1527637771,
+    "wof:lastmodified":1563581546,
     "wof:name":"Pilmaiqu\u00e9n",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

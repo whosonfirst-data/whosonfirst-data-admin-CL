@@ -43,7 +43,6 @@
         "Llanquihue"
     ],
     "name:eng_x_variant":[
-        "Llanquihue",
         "Llanquihue Province"
     ],
     "name:epo_x_preferred":[
@@ -76,8 +75,14 @@
     "name:lit_x_preferred":[
         "Ljankihu\u0117"
     ],
+    "name:lit_x_variant":[
+        "Ljankihu\u0117s provincija"
+    ],
     "name:mkd_x_preferred":[
         "\u0409\u0430\u043d\u043a\u0438\u0445\u0443\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0409\u0430\u043d\u043a\u0438\u0443\u0435"
     ],
     "name:nan_x_preferred":[
         "Llanquihue"
@@ -172,7 +177,7 @@
         }
     ],
     "wof:id":102063135,
-    "wof:lastmodified":1561749748,
+    "wof:lastmodified":1563581278,
     "wof:name":"Llanquihue",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

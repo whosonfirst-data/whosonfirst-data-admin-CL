@@ -26,6 +26,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u09ab\u09bf\u09b2\u09bf\u09aa\u09c7"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09ab\u09c7\u09b2\u09bf\u09aa\u09c7"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u0424\u0435\u043b\u0438\u043f\u0435"
     ],
@@ -53,6 +56,9 @@
     "name:eus_x_preferred":[
         "San Felipe"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0641\u0644\u06cc\u067e\u0647"
+    ],
     "name:fin_x_preferred":[
         "San Felipe"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u092b\u0947\u0932\u093f\u092a\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "San Felipe"
     ],
     "name:ind_x_preferred":[
         "San Felipe"
@@ -298,7 +307,7 @@
         }
     ],
     "wof:id":102016979,
-    "wof:lastmodified":1561749819,
+    "wof:lastmodified":1563581475,
     "wof:name":"San Felipe",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

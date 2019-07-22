@@ -54,6 +54,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0430\u043d\u0441\u044d\u043f\u0441\u044c\u0451\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0430\u043d\u0441\u044d\u043f\u0441\u044c\u0451\u043d"
+    ],
     "name:bos_x_preferred":[
         "Provincija Concepci\u00f3n"
     ],
@@ -95,7 +98,6 @@
     ],
     "name:eng_x_variant":[
         "Concepcion",
-        "Concepci\u00f3n",
         "Concepci\u00f3n Province"
     ],
     "name:epo_x_preferred":[
@@ -127,6 +129,9 @@
     ],
     "name:hat_x_preferred":[
         "Concepci\u00f3n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e7\u05d5\u05e0\u05e1\u05e4\u05e1\u05d9\u05d5\u05df"
     ],
     "name:hrv_x_preferred":[
         "Provincija Concepci\u00f3n"
@@ -302,6 +307,9 @@
     "name:yid_x_preferred":[
         "\u05e7\u05d0\u05e0\u05e1\u05e2\u05e4\u05e1\u05d9\u05d0\u05df \u05e4\u05e8\u05d0\u05d5\u05d5\u05d9\u05e0\u05e5"
     ],
+    "name:yue_x_preferred":[
+        "\u5eb7\u585e\u666e\u68ee\u7701"
+    ],
     "name:zea_x_preferred":[
         "Concepci\u00f3n"
     ],
@@ -368,7 +376,7 @@
         }
     ],
     "wof:id":102063171,
-    "wof:lastmodified":1561749809,
+    "wof:lastmodified":1563581379,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

@@ -42,6 +42,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u06a9\u0631\u06cc\u0646\u060c \u0634\u06cc\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u06a9\u0631\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Cochrane"
     ],
@@ -77,6 +80,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043a\u0440\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0447\u0440\u0430\u043d\u0435"
     ],
     "name:spa_x_preferred":[
         "Cochrane"
@@ -237,7 +243,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749822,
+    "wof:lastmodified":1563581517,
     "wof:name":"Cochrane",
     "wof:parent_id":102063085,
     "wof:placetype":"locality",

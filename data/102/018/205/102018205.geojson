@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Gorbea"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0628\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Gorbea"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":102018205,
-    "wof:lastmodified":1561749814,
+    "wof:lastmodified":1563581409,
     "wof:name":"Gorbea",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

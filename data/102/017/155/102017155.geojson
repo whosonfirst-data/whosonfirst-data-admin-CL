@@ -17,6 +17,9 @@
     "mps:longitude":-72.822876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Puerto Bertrand"
+    ],
     "name:deu_x_preferred":[
         "Puerto Bertrand"
     ],
@@ -86,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749831,
+    "wof:lastmodified":1563581643,
     "wof:name":"Puerto Bertrand",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

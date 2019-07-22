@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000686,
-    "geom:area_square_m":6235651.779941,
+    "geom:area_square_m":6235651.779935,
     "geom:bbox":"-73.5711676849,-42.7196985606,-73.5467523325,-42.6774705449",
     "geom:latitude":-42.698587,
     "geom:longitude":-73.55896,
@@ -16,8 +16,44 @@
     "mps:longitude":-73.55896,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Isla Lemuy"
+    ],
+    "name:deu_x_preferred":[
+        "Lemuy"
+    ],
+    "name:eng_x_preferred":[
+        "Lemuy Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eele Lemuy"
+    ],
+    "name:ita_x_preferred":[
+        "Lemuy"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10db\u10e3\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Lemujis"
+    ],
+    "name:nld_x_preferred":[
+        "Lemuy Island"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Lemuy"
+    ],
+    "name:swe_x_preferred":[
+        "Isla Lemuy"
+    ],
     "name:unk_x_variant":[
         "Isla Lemui"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d4\u10db\u10e3\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u7a46\u4f0a\u5cf6"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -50,7 +86,7 @@
         }
     ],
     "wof:id":102017495,
-    "wof:lastmodified":1506732317,
+    "wof:lastmodified":1563581694,
     "wof:name":"Isla Lemuy",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

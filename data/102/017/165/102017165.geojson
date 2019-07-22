@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Puc\u00f3n"
     ],
+    "name:bak_x_preferred":[
+        "\u041f\u0443\u043a\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
         "Puc\u00f3n"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eus_x_preferred":[
         "Puc\u00f3n"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06a9\u0646"
     ],
     "name:fra_x_preferred":[
         "Puc\u00f3n"
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":102017165,
-    "wof:lastmodified":1561749830,
+    "wof:lastmodified":1563581629,
     "wof:name":"Puc\u00f3n",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000367,
-    "geom:area_square_m":3113613.175514,
+    "geom:area_square_m":3113613.175511,
     "geom:bbox":"-72.6931049652,-46.6320256796,-72.6670026408,-46.6140417353",
     "geom:latitude":-46.623034,
     "geom:longitude":-72.680054,
@@ -15,8 +15,15 @@
     "mps:latitude":-46.623034,
     "mps:longitude":-72.680054,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:ceb_x_preferred":[
         "R\u00edo Ib\u00e1\u00f1ez"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Ib\u00e1\u00f1ez"
+    ],
+    "name:eng_x_preferred":[
+        "Ib\u00e1\u00f1ez River"
     ],
     "name:spa_x_preferred":[
         "R\u00edo Ib\u00e1\u00f1ez"
@@ -50,7 +57,7 @@
         "wk:page":"Ib\u00e1\u00f1ez River"
     },
     "wof:country":"CL",
-    "wof:geomhash":"eba928977e5cd4ecb6a836e58cd285fa",
+    "wof:geomhash":"951ee02c6966eb07fd22e099fb6c4d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":102017587,
-    "wof:lastmodified":1479951580,
+    "wof:lastmodified":1563581623,
     "wof:name":"R\u00edo Ib\u00e1\u00f1ez",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

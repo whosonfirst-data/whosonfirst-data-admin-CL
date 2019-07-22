@@ -54,6 +54,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0433\u0440\u0430\u0434\u0430-\u0424\u0430\u043c\u0438\u043b\u0438\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u0433\u0440\u0430\u0434\u0430-\u0424\u0430\u043c\u0438\u043b\u0438\u0430"
+    ],
     "name:spa_x_preferred":[
         "Sagrada Familia"
     ],
@@ -63,11 +66,17 @@
     "name:urd_x_preferred":[
         "\u0633\u06af\u0631\u062f\u0627 \u0641\u0645\u0644\u06cc\u06c1\u060c \u0686\u0644\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u06af\u0631\u062f\u0627 \u0641\u0645\u0644\u06cc\u06c1"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Sagrada Familia"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u683c\u62c9\u9054\u6cd5\u7c73\u5229\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u85a9\u62c9\u66fc\u5361"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Maule",
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":102016999,
-    "wof:lastmodified":1561749818,
+    "wof:lastmodified":1563581459,
     "wof:name":"Sagrada Familia",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

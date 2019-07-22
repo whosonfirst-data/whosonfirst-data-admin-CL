@@ -22,6 +22,9 @@
     "name:eus_x_preferred":[
         "San Pablo"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u067e\u0627\u0628\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "San Pablo"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u5df4\u52c3\u7f85"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u7279\u7a46"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":102018221,
-    "wof:lastmodified":1561749813,
+    "wof:lastmodified":1563581395,
     "wof:name":"San Pablo",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

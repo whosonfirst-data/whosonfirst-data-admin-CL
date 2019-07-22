@@ -13,6 +13,66 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0648\u062a\u0631\u0648\u0646\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0443\u0442\u0440\u043e\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Futrono"
+    ],
+    "name:ceb_x_preferred":[
+        "Futrono"
+    ],
+    "name:deu_x_preferred":[
+        "Futrono"
+    ],
+    "name:eng_x_preferred":[
+        "Futrono"
+    ],
+    "name:eus_x_preferred":[
+        "Futrono"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0648\u062a\u0631\u0648\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Futrono"
+    ],
+    "name:ita_x_preferred":[
+        "Futrono"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\ud2b8\ub974\ub178"
+    ],
+    "name:nan_x_preferred":[
+        "Futrono"
+    ],
+    "name:nld_x_preferred":[
+        "Futrono"
+    ],
+    "name:oci_x_preferred":[
+        "Futrono"
+    ],
+    "name:por_x_preferred":[
+        "Futrono"
+    ],
+    "name:ron_x_preferred":[
+        "Futrono"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0442\u0440\u043e\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Futrono"
+    ],
+    "name:swe_x_preferred":[
+        "Futrono"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u7279\u7f85\u8afe"
+    ],
     "qs:name":"Futrono",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Los Rios",
@@ -51,7 +111,7 @@
         }
     ],
     "wof:id":890517511,
-    "wof:lastmodified":1527749996,
+    "wof:lastmodified":1563582291,
     "wof:name":"Futrono",
     "wof:parent_id":102063189,
     "wof:placetype":"localadmin",

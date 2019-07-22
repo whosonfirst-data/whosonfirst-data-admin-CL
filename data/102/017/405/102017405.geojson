@@ -22,6 +22,9 @@
     "name:nld_x_preferred":[
         "Malalhue"
     ],
+    "name:spa_x_preferred":[
+        "Malalhue"
+    ],
     "qs:a0":"Chile",
     "qs:a1":"*Los Rios",
     "qs:a1r":"*",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102017405,
-    "wof:lastmodified":1561749833,
+    "wof:lastmodified":1563581684,
     "wof:name":"Malalhue",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

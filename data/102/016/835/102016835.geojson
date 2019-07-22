@@ -29,10 +29,16 @@
     "name:bak_x_preferred":[
         "\u0412\u0430\u043b\u0435\u043d\u0430\u0440"
     ],
+    "name:bak_x_variant":[
+        "\u0412\u0430\u043b\u044c\u0435\u043d\u0430\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09af\u09bc\u09c7\u09a8\u09be\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Vallenar"
+    ],
+    "name:cym_x_preferred":[
         "Vallenar"
     ],
     "name:dan_x_preferred":[
@@ -50,6 +56,9 @@
     "name:eus_x_preferred":[
         "Vallenar"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u0646\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Vallenar"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0935\u0948\u0932\u0947\u0928\u0947\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Vallenar"
     ],
     "name:ind_x_preferred":[
         "Vallenar"
@@ -118,6 +130,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u0459\u0435\u043d\u0430\u0440"
+    ],
+    "name:srp_x_variant":[
+        "Vallenar"
     ],
     "name:swe_x_preferred":[
         "Vallenar"
@@ -292,7 +307,7 @@
         }
     ],
     "wof:id":102016835,
-    "wof:lastmodified":1561749819,
+    "wof:lastmodified":1563581466,
     "wof:name":"Vallenar",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

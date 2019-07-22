@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Paillaco"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06cc\u0627\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Paillaco"
     ],
@@ -61,6 +64,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0439\u043b\u044c\u044f\u043a\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u0438\u043b\u044c\u044f\u043a\u043e"
+    ],
     "name:spa_x_preferred":[
         "Paillaco"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6d3e\u5229\u4e9e\u79d1"
+    ],
+    "name:zho_x_variant":[
+        "\u57fa\u62c9\u79d1"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":102017283,
-    "wof:lastmodified":1561749832,
+    "wof:lastmodified":1563581655,
     "wof:name":"Paillaco",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

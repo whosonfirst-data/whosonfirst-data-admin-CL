@@ -32,6 +32,9 @@
     "name:eus_x_preferred":[
         "Mejillones"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u062e\u06cc\u200c\u06cc\u0648\u0646\u0633"
+    ],
     "name:fra_x_preferred":[
         "Mejillones"
     ],
@@ -223,7 +226,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749835,
+    "wof:lastmodified":1563581712,
     "wof:name":"Mejillones",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

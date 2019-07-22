@@ -40,7 +40,6 @@
         "Melipilla"
     ],
     "name:eng_x_variant":[
-        "Melipilla",
         "Melipilla Province"
     ],
     "name:epo_x_preferred":[
@@ -48,6 +47,9 @@
     ],
     "name:eus_x_preferred":[
         "Melipilla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0644\u06cc\u067e\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Melipilla"
@@ -66,6 +68,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba5c\ub9ac\ud53c\uc57c"
+    ],
+    "name:kor_x_variant":[
+        "\uba5c\ub9ac\ud53c\uc57c \ud604"
     ],
     "name:nan_x_preferred":[
         "Melipilla"
@@ -178,7 +183,7 @@
         }
     ],
     "wof:id":102063083,
-    "wof:lastmodified":1561749755,
+    "wof:lastmodified":1563581294,
     "wof:name":"Melipilla",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

@@ -15,6 +15,46 @@
     "mps:latitude":-40.744427,
     "mps:longitude":-72.460327,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Lago Rupanco"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0437\u0435\u0440\u0430 \u0420\u0443\u043f\u0430\u043d\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Lago Rupanco"
+    ],
+    "name:deu_x_preferred":[
+        "Lago Rupanco"
+    ],
+    "name:eng_x_preferred":[
+        "Rupanco Lake"
+    ],
+    "name:fra_x_preferred":[
+        "lac Rupanco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dd \u05e8\u05d5\u05e4\u05d0\u05e0\u05e7\u05d5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10e3\u10de\u10d0\u10dc\u10d9\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043f\u0430\u043d\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lago Rupanco"
+    ],
+    "name:swe_x_preferred":[
+        "Lago Rupanco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u043f\u0430\u043d\u043a\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u6f58\u79d1\u6e56"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -41,7 +81,7 @@
         "wk:page":"Rupanco Lake"
     },
     "wof:country":"CL",
-    "wof:geomhash":"66061132d15e01474f4a5b2f021fc3c3",
+    "wof:geomhash":"d9b16e2e915c2f26b9049d9c1dd71d50",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +92,7 @@
         }
     ],
     "wof:id":102017001,
-    "wof:lastmodified":1479948959,
+    "wof:lastmodified":1563581593,
     "wof:name":"Lago Rupanco",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

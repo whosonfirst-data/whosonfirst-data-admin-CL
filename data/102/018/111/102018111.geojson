@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Las Cabras"
     ],
+    "name:ceb_x_preferred":[
+        "Las Cabras"
+    ],
     "name:deu_x_preferred":[
         "Las Cabras"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:eus_x_preferred":[
         "Las Cabras"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0633 \u06a9\u0627\u0628\u0631\u0627\u0633"
     ],
     "name:fra_x_preferred":[
         "Las Cabras"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":102018111,
-    "wof:lastmodified":1561749815,
+    "wof:lastmodified":1563581416,
     "wof:name":"Las Cabras",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",
