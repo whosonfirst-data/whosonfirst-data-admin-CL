@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Abr\u00e1nquil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259867703,
-    "wof:lastmodified":1537489503,
+    "wof:lastmodified":1564114127,
     "wof:name":"Abranquil",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

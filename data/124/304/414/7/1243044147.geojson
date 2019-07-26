@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ignao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243044147,
-    "wof:lastmodified":1537489489,
+    "wof:lastmodified":1564114052,
     "wof:name":"Ignao",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

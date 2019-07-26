@@ -18,6 +18,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Ninhue"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03af\u03bd\u03bf\u03c5\u03b5"
+    ],
+    "name:eus_x_preferred":[
+        "Ninhue"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0646\u0648\u0626\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Ninhue"
+    ],
+    "name:ita_x_preferred":[
+        "Ninhue"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\ub204\uc5d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ninhue"
+    ],
+    "name:oci_x_preferred":[
+        "Ninhue"
+    ],
+    "name:por_x_preferred":[
+        "Ninhue"
+    ],
+    "name:ron_x_preferred":[
+        "Ninhue"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043d\u0443\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Ninhue"
+    ],
+    "name:swe_x_preferred":[
+        "Ninhue"
+    ],
     "qs_pg:aaroncc":"CL",
     "qs_pg:gn_country":"CL",
     "qs_pg:gn_fcode":"ADM3",
@@ -55,7 +97,7 @@
         }
     ],
     "wof:id":1125384995,
-    "wof:lastmodified":1509389690,
+    "wof:lastmodified":1564114006,
     "wof:name":"Ninhue",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

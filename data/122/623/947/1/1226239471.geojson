@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "La Patagua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226239471,
-    "wof:lastmodified":1537489487,
+    "wof:lastmodified":1564114173,
     "wof:name":"La Patagua",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

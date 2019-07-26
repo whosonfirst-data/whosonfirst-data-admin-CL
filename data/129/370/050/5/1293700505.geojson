@@ -28,6 +28,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guayacanes"
+    ],
     "name:und_x_variant":[
         "Guayacan",
         "Guayacanes"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293700505,
-    "wof:lastmodified":1537591141,
+    "wof:lastmodified":1564113600,
     "wof:name":"Guayacanes",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

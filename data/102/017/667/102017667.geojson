@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000489,
-    "geom:area_square_m":5238198.076161,
+    "geom:area_square_m":5238198.076162,
     "geom:bbox":"-70.789782961,-30.0215435097,-70.7580674779,-29.9982535704",
     "geom:latitude":-30.010825,
     "geom:longitude":-70.774515,
@@ -16,6 +16,24 @@
     "mps:longitude":-70.777989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "El Tambo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u062a\u0627\u0645\u0628\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "El Tambo"
+    ],
+    "name:ita_x_preferred":[
+        "El Tambo"
+    ],
+    "name:nld_x_preferred":[
+        "El Tambo"
+    ],
+    "name:swe_x_preferred":[
+        "El Tambo"
+    ],
     "qs:a0":"Chile",
     "qs:a1":"*Coquimbo",
     "qs:a1r":"*",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":102017667,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1564113469,
     "wof:name":"El Tambo",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

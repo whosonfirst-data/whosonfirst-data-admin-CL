@@ -27,7 +27,16 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Empalme"
+    ],
+    "name:glg_x_preferred":[
+        "O Empalme"
+    ],
     "name:spa_x_preferred":[
+        "El Empalme"
+    ],
+    "name:swe_x_preferred":[
         "El Empalme"
     ],
     "src:geom":"geonames",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310275925,
-    "wof:lastmodified":1537591178,
+    "wof:lastmodified":1564113858,
     "wof:name":"El Empalme",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

@@ -16,6 +16,24 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "La Barra"
+    ],
+    "name:ceb_x_preferred":[
+        "La Barra"
+    ],
+    "name:deu_x_preferred":[
+        "La Barra"
+    ],
+    "name:fra_x_preferred":[
+        "La Barra"
+    ],
+    "name:spa_x_preferred":[
+        "La Barra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0628\u0627\u0631\u0627"
+    ],
     "qs:name":"La Barra",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Los Rios",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":890517777,
-    "wof:lastmodified":1527749996,
+    "wof:lastmodified":1564113948,
     "wof:name":"La Barra",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

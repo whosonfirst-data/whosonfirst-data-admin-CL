@@ -27,7 +27,16 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Diablo"
+    ],
+    "name:ita_x_preferred":[
+        "El Diablo"
+    ],
     "name:spa_x_preferred":[
+        "El Diablo"
+    ],
+    "name:swe_x_preferred":[
         "El Diablo"
     ],
     "src:geom":"geonames",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310288455,
-    "wof:lastmodified":1537591175,
+    "wof:lastmodified":1564113864,
     "wof:name":"El Diablo",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

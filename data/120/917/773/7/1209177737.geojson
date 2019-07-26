@@ -27,6 +27,15 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pishuinco"
+    ],
+    "name:spa_x_preferred":[
+        "Pishuinco"
+    ],
+    "name:swe_x_preferred":[
+        "Pishuinco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633057
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209177737,
-    "wof:lastmodified":1537489479,
+    "wof:lastmodified":1564113780,
     "wof:name":"Pishuinco",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

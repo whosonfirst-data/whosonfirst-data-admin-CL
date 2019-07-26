@@ -27,8 +27,20 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tulor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10da\u10dd\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043b\u043e\u0440"
+    ],
     "name:spa_x_preferred":[
         "Tulor"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0443\u043b\u043e\u0440"
     ],
     "name:und_x_variant":[
         "Aillo T\u00e1lor",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1193023513,
-    "wof:lastmodified":1537591100,
+    "wof:lastmodified":1564113801,
     "wof:name":"Tulor",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

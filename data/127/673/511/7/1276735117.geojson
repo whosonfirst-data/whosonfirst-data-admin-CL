@@ -27,8 +27,14 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Las Maitas"
+    ],
     "name:spa_x_preferred":[
         "Las Maitas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0645\u0627\u06cc\u0679\u0627\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276735117,
-    "wof:lastmodified":1537591131,
+    "wof:lastmodified":1564113681,
     "wof:name":"Las Maitas",
     "wof:parent_id":102063165,
     "wof:placetype":"locality",

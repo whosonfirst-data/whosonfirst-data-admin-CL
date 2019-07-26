@@ -27,6 +27,15 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Arco"
+    ],
+    "name:spa_x_preferred":[
+        "El Arco"
+    ],
+    "name:swe_x_preferred":[
+        "El Arco"
+    ],
     "name:und_x_variant":[
         "Arco",
         "El Arco"
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209185077,
-    "wof:lastmodified":1537591150,
+    "wof:lastmodified":1564113775,
     "wof:name":"El Arco",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Puerto Navarino"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Navarino"
+    ],
+    "name:ron_x_preferred":[
+        "Puerto Navarino"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Navarino"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276747265,
-    "wof:lastmodified":1537489479,
+    "wof:lastmodified":1564113681,
     "wof:name":"Puerto Navarino",
     "wof:parent_id":102063089,
     "wof:placetype":"locality",

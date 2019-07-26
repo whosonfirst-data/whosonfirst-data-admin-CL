@@ -27,6 +27,30 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pedregal"
+    ],
+    "name:fra_x_preferred":[
+        "Pedregal"
+    ],
+    "name:ita_x_preferred":[
+        "Pedregal"
+    ],
+    "name:pol_x_preferred":[
+        "Pedregal"
+    ],
+    "name:por_x_preferred":[
+        "Pedregal"
+    ],
+    "name:spa_x_preferred":[
+        "Pedregal"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0434\u0440\u0435\u0433\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Pedregal"
+    ],
     "name:und_x_variant":[
         "El Pedregal",
         "Pedregal"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1292900305,
-    "wof:lastmodified":1537591114,
+    "wof:lastmodified":1564113633,
     "wof:name":"Pedregal",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

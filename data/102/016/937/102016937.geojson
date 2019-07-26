@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000565,
-    "geom:area_square_m":5440780.358522,
+    "geom:area_square_m":5440780.358524,
     "geom:bbox":"-72.4108886719,-38.8807923304,-72.3746538617,-38.8568201347",
     "geom:latitude":-38.868264,
     "geom:longitude":-72.390396,
@@ -17,6 +17,34 @@
     "mps:latitude":-38.869648,
     "mps:longitude":-72.387119,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:deu_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:lit_x_preferred":[
+        "San Ramonas"
+    ],
+    "name:nld_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u043c\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "San Ram\u00f3n"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -55,7 +83,7 @@
         }
     ],
     "wof:id":102016937,
-    "wof:lastmodified":1497293946,
+    "wof:lastmodified":1564113451,
     "wof:name":"San Ram\u00f3n",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

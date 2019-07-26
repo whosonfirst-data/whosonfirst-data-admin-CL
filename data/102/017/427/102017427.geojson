@@ -16,6 +16,24 @@
     "mps:longitude":-71.460571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Los Olivos"
+    ],
+    "name:deu_x_preferred":[
+        "Los Olivos"
+    ],
+    "name:fra_x_preferred":[
+        "Los Olivos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Olivos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0441 \u041e\u043b\u0438\u0432\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Los Olivos"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":102017427,
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1564113480,
     "wof:name":"Los Olivos",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

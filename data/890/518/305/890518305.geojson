@@ -13,6 +13,12 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ron_x_preferred":[
+        "Cunco"
+    ],
+    "name:spa_x_preferred":[
+        "Cunco"
+    ],
     "qs:name":"Cunco",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Araucania",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890518305,
-    "wof:lastmodified":1527751235,
+    "wof:lastmodified":1564113984,
     "wof:name":"Cunco",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

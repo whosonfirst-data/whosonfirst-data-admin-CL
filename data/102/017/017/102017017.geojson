@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001214,
-    "geom:area_square_m":12605994.033327,
+    "geom:area_square_m":12605994.033321,
     "geom:bbox":"-70.3506581691,-32.9324200512,-70.2905273438,-32.9028555989",
     "geom:latitude":-32.916943,
     "geom:longitude":-70.319976,
@@ -15,6 +15,37 @@
     "mps:latitude":-32.918199,
     "mps:longitude":-70.319402,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:ita_x_preferred":[
+        "Rio Blanco"
+    ],
+    "name:nds_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:por_x_preferred":[
+        "Rio Blanco"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043e \u0411\u043b\u0430\u043d\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Blanco"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -39,7 +70,7 @@
         "gp:id":350245
     },
     "wof:country":"CL",
-    "wof:geomhash":"2e7c284c68fff75b9ec6d57a4c4827db",
+    "wof:geomhash":"dca2a679363bedfa821dd3738f851ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +81,7 @@
         }
     ],
     "wof:id":102017017,
-    "wof:lastmodified":1479946181,
+    "wof:lastmodified":1564113480,
     "wof:name":"R\u00edo Blanco",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

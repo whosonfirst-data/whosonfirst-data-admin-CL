@@ -27,6 +27,18 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cerro Colorado"
+    ],
+    "name:deu_x_preferred":[
+        "Cerro Colorado"
+    ],
+    "name:spa_x_preferred":[
+        "Cerro Colorado"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro Colorado"
+    ],
     "name:und_x_variant":[
         "Colorado",
         "Cerro Colorado"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1309807595,
-    "wof:lastmodified":1537591162,
+    "wof:lastmodified":1564113921,
     "wof:name":"Cerro Colorado",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

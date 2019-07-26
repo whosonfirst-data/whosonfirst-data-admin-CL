@@ -27,6 +27,12 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "El Tambo"
+    ],
+    "name:spa_x_preferred":[
+        "El Tambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276749353,
-    "wof:lastmodified":1537489492,
+    "wof:lastmodified":1564113680,
     "wof:name":"El Tambo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

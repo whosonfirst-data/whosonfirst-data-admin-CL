@@ -13,6 +13,27 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Cabildo"
+    ],
+    "name:deu_x_preferred":[
+        "Cabildo"
+    ],
+    "name:fra_x_preferred":[
+        "Cabildo"
+    ],
+    "name:ita_x_preferred":[
+        "Cabildo"
+    ],
+    "name:por_x_preferred":[
+        "Cabildo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043b\u044c\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Cabildo"
+    ],
     "qs:name":"Cabildo",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Valpara\u00edso",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":890518045,
-    "wof:lastmodified":1527751235,
+    "wof:lastmodified":1564113984,
     "wof:name":"Cabildo",
     "wof:parent_id":102063077,
     "wof:placetype":"localadmin",

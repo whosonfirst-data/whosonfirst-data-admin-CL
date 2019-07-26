@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001929,
-    "geom:area_square_m":21903587.397284,
+    "geom:area_square_m":21903587.397292,
     "geom:bbox":"-69.8773356331,-23.3563312458,-69.7918565807,-23.297913825",
     "geom:latitude":-23.329338,
     "geom:longitude":-69.835997,
@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:deu_x_preferred":[
+        "Baquedano"
+    ],
+    "name:fra_x_preferred":[
         "Baquedano"
     ],
     "name:spa_x_preferred":[
@@ -71,7 +74,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637775,
+    "wof:lastmodified":1564113474,
     "wof:name":"Baquedano",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

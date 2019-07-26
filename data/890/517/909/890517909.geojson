@@ -16,6 +16,21 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "El Sol"
+    ],
+    "name:glg_x_preferred":[
+        "El Sol"
+    ],
+    "name:spa_x_preferred":[
+        "El Sol"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0421\u043e\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "El Sol"
+    ],
     "qs:name":"El Sol",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Coquimbo",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":890517909,
-    "wof:lastmodified":1527749990,
+    "wof:lastmodified":1564113924,
     "wof:name":"El Sol",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

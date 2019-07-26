@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002658,
-    "geom:area_square_m":19885064.13699,
+    "geom:area_square_m":19885064.136992,
     "geom:bbox":"-69.3330624685,-52.790159481,-69.2594689949,-52.7372787686",
     "geom:latitude":-52.766995,
     "geom:longitude":-69.298243,
@@ -29,6 +29,15 @@
     ],
     "name:ara_x_preferred":[
         "\u0623\u0631\u0636 \u0627\u0644\u0646\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Tierra del Fueu"
+    ],
+    "name:aze_x_preferred":[
+        "Odlu Torpaq"
+    ],
+    "name:bak_x_preferred":[
+        "\u0423\u0442\u043b\u044b \u0415\u0440"
     ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0433\u043d\u0435\u043d\u043d\u0430\u044f \u0417\u044f\u043c\u043b\u044f"
@@ -80,6 +89,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0632\u0645\u06cc\u0646 \u0622\u062a\u0634"
     ],
     "name:fin_x_preferred":[
         "Tulimaa"
@@ -150,6 +162,9 @@
     "name:mkd_x_preferred":[
         "\u041e\u0433\u043d\u0435\u043d\u0430 \u0417\u0435\u043c\u0458\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Tierra del Fuego"
+    ],
     "name:nld_x_preferred":[
         "Vuurland"
     ],
@@ -192,6 +207,9 @@
     "name:slv_x_preferred":[
         "Ognjena de\u017eela"
     ],
+    "name:slv_x_variant":[
+        "Ognjena zemlja"
+    ],
     "name:spa_x_preferred":[
         "Archipi\u00e9lago de Tierra del Fuego"
     ],
@@ -216,6 +234,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e15\u0e35\u0e22\u0e23\u0e4c\u0e23\u0e32\u0e40\u0e14\u0e25\u0e1f\u0e27\u0e22\u0e42\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e34\u0e40\u0e2d\u0e23\u0e4c\u0e23\u0e32\u0e40\u0e14\u0e25\u0e1f\u0e39\u0e40\u0e2d\u0e42\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Ate\u015f Topraklar\u0131"
     ],
@@ -230,6 +251,12 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea5t L\u1eeda"
+    ],
+    "name:war_x_preferred":[
+        "Tierra del Fuego"
+    ],
+    "name:wuu_x_preferred":[
+        "\u706b\u5730\u7fa4\u5c9b"
     ],
     "name:xmf_x_preferred":[
         "\u10d2\u10dd\u10d3\u10d0\u10e9\u10ee\u10d8\u10e0\u10d4\u10da\u10d8 \u10d3\u10d8\u10ee\u10d0\u10e8 \u10d0\u10e0\u10e5\u10d8\u10de\u10d4\u10da\u10d0\u10d2\u10d8"
@@ -276,7 +303,7 @@
         }
     ],
     "wof:id":102016785,
-    "wof:lastmodified":1513813976,
+    "wof:lastmodified":1564113454,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":102063185,
     "wof:placetype":"locality",

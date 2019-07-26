@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001261,
-    "geom:area_square_m":12998878.377984,
+    "geom:area_square_m":12998878.377983,
     "geom:bbox":"-71.630859375,-33.5276581377,-71.5816522414,-33.4875321553",
     "geom:latitude":-33.508022,
     "geom:longitude":-71.604917,
@@ -16,6 +16,30 @@
     "mps:longitude":-71.605401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:bre_x_preferred":[
+        "Cruces"
+    ],
+    "name:ceb_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:fra_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:ita_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:sco_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:spa_x_preferred":[
+        "Cruces"
+    ],
+    "name:swe_x_preferred":[
+        "Las Cruces"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":102017515,
-    "wof:lastmodified":1527637782,
+    "wof:lastmodified":1564113488,
     "wof:name":"Las Cruces",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

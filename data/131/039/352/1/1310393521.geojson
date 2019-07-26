@@ -27,6 +27,18 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Isla"
+    ],
+    "name:spa_x_preferred":[
+        "La isla"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0418\u0441\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Isla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1310393521,
-    "wof:lastmodified":1537075428,
+    "wof:lastmodified":1564113854,
     "wof:name":"La Isla",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Dehesa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633057
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209592883,
-    "wof:lastmodified":1537489488,
+    "wof:lastmodified":1564113765,
     "wof:name":"La Dehesa",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

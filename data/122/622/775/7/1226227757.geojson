@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Isla del Guindo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226227757,
-    "wof:lastmodified":1537489489,
+    "wof:lastmodified":1564114171,
     "wof:name":"Isla del Guindo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

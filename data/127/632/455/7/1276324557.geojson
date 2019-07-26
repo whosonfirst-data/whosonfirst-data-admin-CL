@@ -31,6 +31,9 @@
         "Compa\u00f1ia",
         "La Compa\u00f1\u00eda"
     ],
+    "name:vie_x_preferred":[
+        "La Compa\u00f1\u00eda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276324557,
-    "wof:lastmodified":1537591136,
+    "wof:lastmodified":1564113689,
     "wof:name":"La Compania",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

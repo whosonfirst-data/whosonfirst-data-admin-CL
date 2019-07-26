@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001087,
-    "geom:area_square_m":11213472.848958,
+    "geom:area_square_m":11213472.848946,
     "geom:bbox":"-70.661315918,-33.4726901927,-70.6128217583,-33.4352878721",
     "geom:latitude":-33.453958,
     "geom:longitude":-70.637758,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":4,
+    "name:fra_x_preferred":[
+        "Santa Carolina"
+    ],
     "name:por_x_preferred":[
         "Ilha de Santa Carolina"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527639295,
+    "wof:lastmodified":1564113570,
     "wof:name":"Santa Carolina",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

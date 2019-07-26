@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000299,
-    "geom:area_square_m":3122859.776333,
+    "geom:area_square_m":3122859.776336,
     "geom:bbox":"-71.185562624,-32.4956113004,-71.1642907947,-32.4775821055",
     "geom:latitude":-32.486597,
     "geom:longitude":-71.174927,
@@ -21,6 +21,9 @@
     ],
     "name:arg_x_preferred":[
         "La Higuera"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09b9\u09bf\u0997\u09c1\u09af\u09bc\u09c7\u09b0\u09be"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0430 \u0418\u0433\u0435\u0440\u0430"
@@ -43,6 +46,9 @@
     "name:fas_x_preferred":[
         "\u0644\u0627 \u0627\u06cc\u06af\u0631\u0627\u060c \u0628\u0648\u0644\u06cc\u0648\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0644\u0627 \u0627\u06cc\u06af\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "La Higuera"
     ],
@@ -53,6 +59,9 @@
         "La Higuera"
     ],
     "name:hun_x_preferred":[
+        "La Higuera"
+    ],
+    "name:ind_x_preferred":[
         "La Higuera"
     ],
     "name:ita_x_preferred":[
@@ -103,6 +112,9 @@
     "name:tur_x_preferred":[
         "La Higuera"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0415\u0421 \u041b\u0430-\u0406\u0433\u0435\u0440\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06c1\u06cc\u06af\u0648\u06cc\u0631\u0627"
     ],
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":102017551,
-    "wof:lastmodified":1527637769,
+    "wof:lastmodified":1564113463,
     "wof:name":"La Higuera",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

@@ -18,11 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Pichilemu"
+    ],
     "name:ang_x_preferred":[
         "Picilemo"
     ],
     "name:ara_x_preferred":[
         "\u0628\u062a\u0634\u064a\u0644\u0645\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Pichilemu"
     ],
     "name:arz_x_preferred":[
         "\u0628\u064a\u062a\u0634\u064a\u0644\u064a\u0645\u0648"
@@ -39,23 +45,80 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0456\u0447\u044b\u043b\u0435\u043c\u0443"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u0456\u0447\u044b\u043b\u0435\u043c\u0443"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u0447\u0438\u043b\u0435\u043c\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:ceb_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:ces_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:cha_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:cos_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:cym_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:dan_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:deu_x_preferred":[
+        "Pichilemu"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b9\u03c4\u03c3\u03b9\u03bb\u03ad\u03bc\u03bf\u03c5"
     ],
+    "name:eml_x_preferred":[
+        "Pichilemu"
+    ],
     "name:epo_x_preferred":[
         "Pi\u0109ilemo"
+    ],
+    "name:est_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:eus_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:ext_x_preferred":[
+        "Pichilemu"
     ],
     "name:fas_x_preferred":[
         "\u067e\u06cc\u0686\u06cc\u0644\u0645\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:fra_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:frr_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:grn_x_preferred":[
+        "Pichilemu"
+    ],
     "name:hat_x_preferred":[
         "Pychillimu"
     ],
+    "name:haw_x_preferred":[
+        "Pichilemu"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05e6\u05d9\u05dc\u05de\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d9\u05e6'\u05d9\u05dc\u05de\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0940\u091a\u093f\u0932\u0940\u092e\u094d\u092f\u0942"
@@ -63,17 +126,44 @@
     "name:hrv_x_preferred":[
         "Pi\u010dilemu"
     ],
+    "name:hun_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0579\u056b\u056c\u0565\u0574\u0578\u0582"
+    ],
+    "name:ido_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:ind_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:ita_x_preferred":[
+        "Pichilemu"
+    ],
     "name:jpn_x_preferred":[
         "\u30d4\u30c1\u30ec\u30e0"
     ],
     "name:kor_x_preferred":[
         "\ud53c\uce60\ub808\ubb34"
     ],
+    "name:ksh_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:lat_x_preferred":[
+        "Pichilemu"
+    ],
     "name:lav_x_preferred":[
         "Pi\u010dilemu"
     ],
+    "name:lij_x_preferred":[
+        "Pichilemu"
+    ],
     "name:lit_x_preferred":[
         "Pi\u010dilemas"
+    ],
+    "name:lug_x_preferred":[
+        "Pichilemu"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d3f\u0d31\u0d4d\u0d31\u0d4d\u0d37\u0d4d\u0d32\u0d46\u0d2e\u0d41"
@@ -81,14 +171,74 @@
     "name:mar_x_preferred":[
         "\u092a\u093f\u091a\u094d\u0939\u093f\u0932\u0947\u092e\u0941"
     ],
+    "name:mri_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:msa_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:mwl_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:nld_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:nno_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:nor_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:oci_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:pms_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:pol_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:por_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:que_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:rmy_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:ron_x_preferred":[
+        "Pichilemu"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0447\u0438\u043b\u0435\u043c\u0443"
+    ],
+    "name:scn_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:sco_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:sna_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:spa_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:sqi_x_preferred":[
+        "Pichilemu"
     ],
     "name:srd_x_preferred":[
         "Picilemu"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0438\u0447\u0438\u043b\u0435\u043c\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:szl_x_preferred":[
+        "Pichilemu"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf\u0bb2\u0bc6\u0bae\u0bc1"
@@ -102,11 +252,35 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e35\u0e0a\u0e35\u0e40\u0e25\u0e21\u0e39"
     ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e34\u0e0a\u0e34\u0e40\u0e25\u0e21\u0e39"
+    ],
+    "name:tpi_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:tur_x_preferred":[
+        "Pichilemu"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0447\u0438\u043b\u0435\u043c\u0443"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0686\u06cc\u0644\u06cc\u0645\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:vie_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:war_x_preferred":[
+        "Pichilemu"
+    ],
     "name:wln_x_preferred":[
         "Pitchilimu"
+    ],
+    "name:wol_x_preferred":[
+        "Pichilemu"
     ],
     "name:yor_x_preferred":[
         "P\u00edts\u00edl\u1eb9\u0301mu"
@@ -151,7 +325,7 @@
         }
     ],
     "wof:id":1125328187,
-    "wof:lastmodified":1509388301,
+    "wof:lastmodified":1564113997,
     "wof:name":"Pichilemu",
     "wof:parent_id":102063149,
     "wof:placetype":"localadmin",

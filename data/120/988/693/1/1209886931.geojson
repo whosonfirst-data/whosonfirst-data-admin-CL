@@ -26,6 +26,18 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Queule"
+    ],
+    "name:fra_x_preferred":[
+        "Queule"
+    ],
+    "name:ron_x_preferred":[
+        "Queule"
+    ],
+    "name:spa_x_preferred":[
+        "Queule"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209886931,
-    "wof:lastmodified":1537489477,
+    "wof:lastmodified":1564113783,
     "wof:name":"Queule",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

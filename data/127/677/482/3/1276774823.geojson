@@ -27,6 +27,33 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Collo"
+    ],
+    "name:ita_x_preferred":[
+        "Collo"
+    ],
+    "name:kab_x_preferred":[
+        "Lqull"
+    ],
+    "name:msa_x_preferred":[
+        "Collo"
+    ],
+    "name:por_x_preferred":[
+        "Collo"
+    ],
+    "name:ron_x_preferred":[
+        "Collo"
+    ],
+    "name:spa_x_preferred":[
+        "Collo"
+    ],
+    "name:vie_x_preferred":[
+        "Collo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1276774823,
-    "wof:lastmodified":1536684209,
+    "wof:lastmodified":1564113712,
     "wof:name":"Collo",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

@@ -26,8 +26,47 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cerro Taapac\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Taapaca"
+    ],
+    "name:fra_x_preferred":[
+        "Taapaca"
+    ],
+    "name:ita_x_preferred":[
+        "Taapaca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10d0\u10de\u10d0\u10d9\u10d0"
+    ],
+    "name:nno_x_preferred":[
+        "Taapaca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0430\u043f\u0430\u043a\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Taapaca"
+    ],
     "name:spa_x_preferred":[
         "Taapac\u00e1"
+    ],
+    "name:spa_x_variant":[
+        "Volc\u00e1n Taapac\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro Taapac\u00e1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0430\u043f\u0430\u043a\u0430"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5854\u5e15\u5361\u706b\u5c71"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5e15\u5361\u706b\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1309694581,
-    "wof:lastmodified":1537591180,
+    "wof:lastmodified":1564113918,
     "wof:name":"Taapaca",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

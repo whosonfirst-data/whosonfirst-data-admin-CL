@@ -27,8 +27,191 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0646\u0627\u0642"
+    ],
+    "name:ast_x_preferred":[
+        "Lama guanicoe"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0627\u0646\u0627\u06a9\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Quanako"
+    ],
+    "name:bar_x_preferred":[
+        "Guanako"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0430\u043a\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Gwanako"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Guanac"
+    ],
+    "name:ceb_x_preferred":[
+        "Lama guanicoe"
+    ],
+    "name:ces_x_preferred":[
+        "Guanako"
+    ],
+    "name:dan_x_preferred":[
+        "Guanako"
+    ],
+    "name:deu_x_preferred":[
+        "Guanako"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b1\u03bd\u03ac\u03ba\u03bf\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Guanako"
+    ],
+    "name:eus_x_preferred":[
+        "Guanako"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0627\u0646\u0627\u06a9\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Guanako"
+    ],
+    "name:fra_x_preferred":[
+        "Guanaco"
+    ],
+    "name:gle_x_preferred":[
+        "Guan\u00e1c\u00f3"
+    ],
+    "name:glg_x_preferred":[
+        "Guanaco"
+    ],
+    "name:grn_x_preferred":[
+        "Guan\u00e1ko"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d0\u05e0\u05e7\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Gvanako"
+    ],
+    "name:hun_x_preferred":[
+        "Guanak\u00f3"
+    ],
+    "name:ina_x_preferred":[
+        "Guanaco"
+    ],
+    "name:ind_x_preferred":[
+        "Guanako"
+    ],
+    "name:ita_x_preferred":[
+        "Lama guanicoe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30ca\u30b3"
+    ],
+    "name:kab_x_preferred":[
+        "Agwanaku"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10e3\u10d0\u10dc\u10d0\u10d9\u10dd"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\uc544\ub098\ucf54"
+    ],
+    "name:lav_x_preferred":[
+        "Gvanako"
+    ],
+    "name:lit_x_preferred":[
+        "Guanakas"
+    ],
+    "name:ltz_x_preferred":[
+        "Guanako"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d4d\u0d35\u0d3e\u0d28\u0d3e\u0d15\u0d4b"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0432\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Guanako"
+    ],
+    "name:nah_x_preferred":[
+        "Huanaco"
+    ],
+    "name:nld_x_preferred":[
+        "Guanaco"
+    ],
+    "name:nno_x_preferred":[
+        "Guanako"
+    ],
+    "name:nor_x_preferred":[
+        "Guanako"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06af\u0648\u0627\u0646\u0627\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Gwanako andyjskie"
+    ],
+    "name:por_x_preferred":[
+        "Guanaco"
+    ],
+    "name:que_x_preferred":[
+        "Wanaku"
+    ],
+    "name:ron_x_preferred":[
+        "Guanaco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Guanaco"
+    ],
+    "name:slv_x_preferred":[
+        "Gvanako"
+    ],
     "name:spa_x_preferred":[
         "Guanaco"
+    ],
+    "name:spa_x_variant":[
+        "Lama guanicoe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0432\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Guanaco"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0bb5\u0bbe\u0ba9\u0b95\u0bcd\u0b95\u0bcb"
+    ],
+    "name:tur_x_preferred":[
+        "Guanako"
+    ],
+    "name:udm_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Guanako"
+    ],
+    "name:war_x_preferred":[
+        "Lama guanicoe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +236,7 @@
         }
     ],
     "wof:id":1243384867,
-    "wof:lastmodified":1537591142,
+    "wof:lastmodified":1564114015,
     "wof:name":"Guanaco",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

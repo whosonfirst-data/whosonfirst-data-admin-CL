@@ -30,6 +30,9 @@
     "name:spa_x_preferred":[
         "Chulluncani"
     ],
+    "name:zho_x_preferred":[
+        "\u4e18\u502b\u5361\u5c3c\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1259465923,
-    "wof:lastmodified":1537591157,
+    "wof:lastmodified":1564114099,
     "wof:name":"Chulluncani",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000952,
-    "geom:area_square_m":10306388.680952,
+    "geom:area_square_m":10306388.680954,
     "geom:bbox":"-70.4710726915,-28.9450774739,-70.4395745704,-28.8981827662",
     "geom:latitude":-28.919217,
     "geom:longitude":-70.458067,
@@ -17,7 +17,23 @@
     "mps:latitude":-28.907206,
     "mps:longitude":-70.455322,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "San F\u00e9lix"
+    ],
+    "name:ceb_x_preferred":[
+        "San F\u00e9lix"
+    ],
+    "name:fra_x_preferred":[
+        "San F\u00e9lix"
+    ],
+    "name:slk_x_preferred":[
+        "San F\u00e9lix"
+    ],
     "name:spa_x_preferred":[
+        "San F\u00e9lix"
+    ],
+    "name:swe_x_preferred":[
         "San F\u00e9lix"
     ],
     "qs:a0":"Chile",
@@ -64,7 +80,7 @@
         }
     ],
     "wof:id":102016977,
-    "wof:lastmodified":1497291356,
+    "wof:lastmodified":1564113452,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

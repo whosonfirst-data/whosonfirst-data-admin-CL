@@ -13,6 +13,33 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Parral"
+    ],
+    "name:deu_x_preferred":[
+        "Parral"
+    ],
+    "name:fra_x_preferred":[
+        "Parral"
+    ],
+    "name:nld_x_preferred":[
+        "Parral"
+    ],
+    "name:nor_x_preferred":[
+        "Parral"
+    ],
+    "name:por_x_preferred":[
+        "Parral"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0440\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Parral"
+    ],
+    "name:swe_x_preferred":[
+        "Parral"
+    ],
     "qs:name":"Parral",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Maule",
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":890517599,
-    "wof:lastmodified":1527749997,
+    "wof:lastmodified":1564113949,
     "wof:name":"Parral",
     "wof:parent_id":102063097,
     "wof:placetype":"localadmin",

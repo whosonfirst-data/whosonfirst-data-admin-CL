@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":3130742.146008,
+    "geom:area_square_m":3130742.146012,
     "geom:bbox":"-69.9762256752,-23.5377680637,-69.9566356202,-23.5197049676",
     "geom:latitude":-23.528737,
     "geom:longitude":-69.966431,
@@ -16,6 +16,12 @@
     "mps:longitude":-69.966431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Sierra Gorda"
+    ],
+    "name:fra_x_preferred":[
+        "Sierra Gorda"
+    ],
     "name:hrv_x_preferred":[
         "Sierra Gorda"
     ],
@@ -26,6 +32,9 @@
         "Sierra Gorda"
     ],
     "name:spa_x_preferred":[
+        "Sierra Gorda"
+    ],
+    "name:vie_x_preferred":[
         "Sierra Gorda"
     ],
     "qs:a1":"*",
@@ -69,7 +78,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637582,
+    "wof:lastmodified":1564113449,
     "wof:name":"Sierra Gorda",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

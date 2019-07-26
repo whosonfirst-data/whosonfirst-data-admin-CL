@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8165916.702991,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.568386,-33.033222,-71.568386,-33.033222",
     "geom:latitude":-33.033222,
     "geom:longitude":-71.568386,
@@ -25,8 +25,59 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631\u0627\u0645\u0627\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Miramar"
+    ],
+    "name:ceb_x_preferred":[
+        "Miramar"
+    ],
+    "name:deu_x_preferred":[
+        "Miramar"
+    ],
+    "name:fra_x_preferred":[
+        "Miramar"
+    ],
+    "name:glg_x_preferred":[
+        "Miramar"
+    ],
+    "name:ita_x_preferred":[
+        "Miramar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30de\u30fc"
+    ],
+    "name:lit_x_preferred":[
+        "Miramaras"
+    ],
+    "name:nds_x_preferred":[
+        "Miramar"
+    ],
+    "name:nld_x_preferred":[
+        "Miramar"
+    ],
+    "name:pol_x_preferred":[
+        "Miramar"
+    ],
+    "name:por_x_preferred":[
+        "Miramar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u043c\u0430\u0440"
+    ],
     "name:spa_x_preferred":[
         "Miramar"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u043c\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Miramar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u0430\u043c\u0430\u0440"
     ],
     "name:unk_x_variant":[
         "Miramar"
@@ -62,11 +113,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016801,
-        102063161,
-        85682143
+        102063161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +142,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858898,
+    "wof:lastmodified":1564113569,
     "wof:name":"Miramar",
     "wof:parent_id":102016801,
     "wof:placetype":"neighbourhood",

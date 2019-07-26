@@ -27,6 +27,33 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Callaqui"
+    ],
+    "name:deu_x_preferred":[
+        "Callaqui"
+    ],
+    "name:fra_x_preferred":[
+        "Callaqui"
+    ],
+    "name:isl_x_preferred":[
+        "Callaqui"
+    ],
+    "name:ita_x_preferred":[
+        "Vulcano Callaqui"
+    ],
+    "name:oci_x_preferred":[
+        "Callaqui"
+    ],
+    "name:slk_x_preferred":[
+        "Callaqui"
+    ],
+    "name:spa_x_preferred":[
+        "Volc\u00e1n Callaqui"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u57fa\u706b\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1259775881,
-    "wof:lastmodified":1536934895,
+    "wof:lastmodified":1564114098,
     "wof:name":"Callaqui",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

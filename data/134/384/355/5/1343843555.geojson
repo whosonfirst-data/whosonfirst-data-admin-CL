@@ -27,8 +27,44 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ang_x_preferred":[
+        "Rancagwa"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0646\u0643\u0627\u063a\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Rancagua"
+    ],
     "name:aym_x_preferred":[
         "Rankawa"
+    ],
+    "name:aze_x_preferred":[
+        "Rankaqua"
+    ],
+    "name:bak_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u0430\u0433\u0443\u0430"
+    ],
+    "name:bar_x_preferred":[
+        "Rancagua"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u0430\u0433\u0443\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u0430\u0433\u0443\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Rancagua"
+    ],
+    "name:ceb_x_preferred":[
+        "Rancagua"
+    ],
+    "name:ces_x_preferred":[
+        "Rancagua"
+    ],
+    "name:dan_x_preferred":[
+        "Rancagua"
     ],
     "name:deu_x_preferred":[
         "Rancagua"
@@ -39,7 +75,37 @@
     "name:eng_x_preferred":[
         "Rancagua"
     ],
+    "name:epo_x_preferred":[
+        "Rancagua"
+    ],
+    "name:eus_x_preferred":[
+        "Rancagua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0646\u06a9\u0627\u06af\u0648\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Rancagua"
+    ],
     "name:fra_x_preferred":[
+        "Rancagua"
+    ],
+    "name:glg_x_preferred":[
+        "Rancagua"
+    ],
+    "name:hat_x_preferred":[
+        "Rancagua"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e0\u05e7\u05d2\u05d5\u05d0\u05d4"
+    ],
+    "name:ido_x_preferred":[
+        "Rancagua"
+    ],
+    "name:ilo_x_preferred":[
+        "Rancagua"
+    ],
+    "name:ind_x_preferred":[
         "Rancagua"
     ],
     "name:ita_x_preferred":[
@@ -48,16 +114,40 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30f3\u30ab\u30b0\u30a2"
     ],
+    "name:kal_x_preferred":[
+        "Rancagua"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10dc\u10d9\u10d0\u10d2\u10e3\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ub791\uce74\uacfc"
     ],
+    "name:lat_x_preferred":[
+        "Rancagua"
+    ],
+    "name:lav_x_preferred":[
+        "Rankagva"
+    ],
     "name:lit_x_preferred":[
         "Rankagva"
     ],
+    "name:lmo_x_preferred":[
+        "Rancagua"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093e\u0902\u0915\u093e\u0917\u094d\u0935\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Rancagua"
+    ],
     "name:nor_x_preferred":[
+        "Rancagua"
+    ],
+    "name:nov_x_preferred":[
+        "Rancagua"
+    ],
+    "name:oci_x_preferred":[
         "Rancagua"
     ],
     "name:pnb_x_preferred":[
@@ -69,8 +159,17 @@
     "name:por_x_preferred":[
         "Rancagua"
     ],
+    "name:que_x_preferred":[
+        "Rancagua"
+    ],
+    "name:ron_x_preferred":[
+        "Rancagua"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u043d\u043a\u0430\u0433\u0443\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Rancagua"
     ],
     "name:sgs_x_preferred":[
         "Rankagva"
@@ -78,14 +177,47 @@
     "name:spa_x_preferred":[
         "Rancagua"
     ],
+    "name:srd_x_preferred":[
+        "Rancagua"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u0430\u0433\u0432\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Rancagua"
+    ],
     "name:swe_x_preferred":[
         "Rancagua"
+    ],
+    "name:szl_x_preferred":[
+        "Rancagua"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u0430\u0433\u0432\u0430"
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e07\u0e01\u0e32\u0e01\u0e27\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e07\u0e01\u0e32\u0e01\u0e31\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Rancagua"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043d\u043a\u0430\u0433\u0443\u0430"
+    ],
+    "name:vep_x_preferred":[
+        "Rankagua"
+    ],
+    "name:vie_x_preferred":[
+        "Rancagua"
+    ],
+    "name:vol_x_preferred":[
+        "Rancagua"
+    ],
+    "name:war_x_preferred":[
+        "Rancagua"
     ],
     "name:yid_x_preferred":[
         "\u05e8\u05d0\u05e0\u05e7\u05d0\u05d2\u05d5\u05d5\u05e2"
@@ -118,7 +250,7 @@
         }
     ],
     "wof:id":1343843555,
-    "wof:lastmodified":1537591108,
+    "wof:lastmodified":1564113521,
     "wof:name":"Rancagua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

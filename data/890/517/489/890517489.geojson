@@ -16,6 +16,15 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Los Cerrillos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Cerrillos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Cerrillos"
+    ],
     "qs:name":"Los Cerrillos",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Santiago",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":890517489,
-    "wof:lastmodified":1527751200,
+    "wof:lastmodified":1564113954,
     "wof:name":"Los Cerrillos",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0435\u043b\u044c\u043e\u043d\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Farellones"
+    ],
     "name:und_x_variant":[
         "Farell\u00f3n"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243267003,
-    "wof:lastmodified":1537591144,
+    "wof:lastmodified":1564114080,
     "wof:name":"Farellones",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",
