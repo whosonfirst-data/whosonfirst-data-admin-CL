@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tignamar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242646825,
-    "wof:lastmodified":1537489474,
+    "wof:lastmodified":1564114069,
     "wof:name":"Tignamar",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

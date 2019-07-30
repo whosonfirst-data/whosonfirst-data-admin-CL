@@ -27,6 +27,12 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jaina"
+    ],
+    "name:ita_x_preferred":[
+        "Jaina"
+    ],
     "name:spa_x_preferred":[
         "Jai\u00f1a"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1277045807,
-    "wof:lastmodified":1537591138,
+    "wof:lastmodified":1564113698,
     "wof:name":"Jaina",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

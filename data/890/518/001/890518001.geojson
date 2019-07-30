@@ -13,6 +13,21 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Calama"
+    ],
+    "name:deu_x_preferred":[
+        "Calama"
+    ],
+    "name:fra_x_preferred":[
+        "Calama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30de"
+    ],
+    "name:swe_x_preferred":[
+        "Calama"
+    ],
     "qs:name":"Calama",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Antofagasta",
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":890518001,
-    "wof:lastmodified":1527751232,
+    "wof:lastmodified":1564113977,
     "wof:name":"Calama",
     "wof:parent_id":102063131,
     "wof:placetype":"localadmin",

@@ -27,6 +27,15 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rari"
+    ],
+    "name:ita_x_preferred":[
+        "Rari"
+    ],
+    "name:spa_x_preferred":[
+        "Rari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259961067,
-    "wof:lastmodified":1537489477,
+    "wof:lastmodified":1564114090,
     "wof:name":"Rari",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

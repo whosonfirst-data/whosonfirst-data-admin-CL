@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caquena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343334253,
-    "wof:lastmodified":1537489500,
+    "wof:lastmodified":1564113547,
     "wof:name":"Caquena",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

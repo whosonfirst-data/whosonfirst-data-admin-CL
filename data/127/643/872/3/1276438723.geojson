@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caballo Muerto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1276438723,
-    "wof:lastmodified":1536636222,
+    "wof:lastmodified":1564113670,
     "wof:name":"Caballo Muerto",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

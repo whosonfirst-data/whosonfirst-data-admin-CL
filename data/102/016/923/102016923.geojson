@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000857,
-    "geom:area_square_m":8414408.647289,
+    "geom:area_square_m":8414408.64729,
     "geom:bbox":"-72.6254350159,-37.4795042131,-72.5808654343,-37.4527725264",
     "geom:latitude":-37.466139,
     "geom:longitude":-72.60315,
@@ -17,6 +17,133 @@
     "mps:latitude":-37.466138,
     "mps:longitude":-72.60315,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0641\u064a"
+    ],
+    "name:bre_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0424\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:ceb_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:ces_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:dan_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:est_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:eus_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0641\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:glg_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e4\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928\u094d\u091f\u093e \u092b\u0948"
+    ],
+    "name:hrv_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u0556\u0565"
+    ],
+    "name:ilo_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30d5\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ud398"
+    ],
+    "name:lit_x_preferred":[
+        "Santa F\u0117"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:nor_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0424\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:ron_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0424\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:slk_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0424\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0424\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0641\u06d2"
+    ],
+    "name:vol_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:war_x_preferred":[
+        "Santa Fe"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -41,7 +168,7 @@
         "gp:id":350286
     },
     "wof:country":"CL",
-    "wof:geomhash":"7b3290f8a59d22222bb10758c99493e0",
+    "wof:geomhash":"ff9a87c2e6dd50b74367715b411a68c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +179,7 @@
         }
     ],
     "wof:id":102016923,
-    "wof:lastmodified":1479947632,
+    "wof:lastmodified":1564113454,
     "wof:name":"Santa Fe",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

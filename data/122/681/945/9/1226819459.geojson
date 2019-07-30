@@ -31,6 +31,9 @@
         "Chuallane",
         "Chuallani"
     ],
+    "name:zho_x_preferred":[
+        "\u4e18\u74e6\u5229\u4e9e\u5c3c\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226819459,
-    "wof:lastmodified":1537591158,
+    "wof:lastmodified":1564114136,
     "wof:name":"Chuallani",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

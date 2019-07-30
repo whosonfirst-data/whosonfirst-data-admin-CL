@@ -26,6 +26,15 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cobija"
+    ],
+    "name:ind_x_preferred":[
+        "Cobija"
+    ],
+    "name:spa_x_preferred":[
+        "Cobija"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1193023337,
-    "wof:lastmodified":1537489496,
+    "wof:lastmodified":1564113801,
     "wof:name":"Cobija",
     "wof:parent_id":102063093,
     "wof:placetype":"locality",

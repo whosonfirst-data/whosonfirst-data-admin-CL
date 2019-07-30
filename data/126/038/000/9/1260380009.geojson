@@ -27,6 +27,15 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Baquedano"
+    ],
+    "name:fra_x_preferred":[
+        "Baquedano"
+    ],
+    "name:spa_x_preferred":[
+        "Baquedano"
+    ],
     "name:und_x_variant":[
         "Hotel Baquedano",
         "Baquedano"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1260380009,
-    "wof:lastmodified":1537591168,
+    "wof:lastmodified":1564113808,
     "wof:name":"Baquedano",
     "wof:parent_id":102063185,
     "wof:placetype":"locality",

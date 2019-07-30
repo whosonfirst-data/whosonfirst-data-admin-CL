@@ -26,8 +26,17 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cerro Inacaliri"
+    ],
+    "name:deu_x_preferred":[
+        "Inacaliri"
+    ],
     "name:spa_x_preferred":[
         "Inacaliri"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro Inacaliri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310212505,
-    "wof:lastmodified":1537591181,
+    "wof:lastmodified":1564113867,
     "wof:name":"Inacaliri",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

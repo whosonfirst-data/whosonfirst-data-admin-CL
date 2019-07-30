@@ -27,6 +27,12 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Domeika"
+    ],
+    "name:pol_x_preferred":[
+        "Domeyko"
+    ],
     "name:spa_x_preferred":[
         "Domeyko"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1260103105,
-    "wof:lastmodified":1537591151,
+    "wof:lastmodified":1564113825,
     "wof:name":"Domeyko",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

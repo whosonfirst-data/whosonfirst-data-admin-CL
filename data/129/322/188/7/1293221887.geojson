@@ -27,9 +27,45 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Romeral"
+    ],
+    "name:eus_x_preferred":[
+        "Romeral"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645\u0631\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Romeral"
+    ],
+    "name:ita_x_preferred":[
+        "Romeral"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uba54\ub784"
+    ],
+    "name:nld_x_preferred":[
+        "Romeral"
+    ],
+    "name:por_x_preferred":[
+        "Romeral"
+    ],
+    "name:ron_x_preferred":[
+        "Romeral"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0435\u0440\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Romeral"
+    ],
     "name:und_x_variant":[
         "El Romeral",
         "Romeral"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u6885\u62c9\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1293221887,
-    "wof:lastmodified":1537591105,
+    "wof:lastmodified":1564113609,
     "wof:name":"Romeral",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

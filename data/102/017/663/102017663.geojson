@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000856,
-    "geom:area_square_m":8798523.2023,
+    "geom:area_square_m":8798523.202288,
     "geom:bbox":"-70.6803500601,-33.7927283735,-70.6477725111,-33.7564330964",
     "geom:latitude":-33.772596,
     "geom:longitude":-70.661608,
@@ -15,6 +15,25 @@
     "mps:latitude":-33.770857,
     "mps:longitude":-70.659669,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Tr\u00e1nsito"
+    ],
+    "name:fra_x_preferred":[
+        "El Tr\u00e1nsito"
+    ],
+    "name:ita_x_preferred":[
+        "El Tr\u00e1nsito"
+    ],
+    "name:por_x_preferred":[
+        "El Tr\u00e1nsito"
+    ],
+    "name:spa_x_preferred":[
+        "El Tr\u00e1nsito"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u7279\u862d\u897f\u6258"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -39,7 +58,7 @@
         "gp:id":350165
     },
     "wof:country":"CL",
-    "wof:geomhash":"e10e92fe52cd5271cfb91a2e849c60fe",
+    "wof:geomhash":"49a2da597406eb750575044e32e5a7cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +69,7 @@
         }
     ],
     "wof:id":102017663,
-    "wof:lastmodified":1479948836,
+    "wof:lastmodified":1564113481,
     "wof:name":"El Tr\u00e1nsito",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

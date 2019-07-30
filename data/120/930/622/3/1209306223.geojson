@@ -28,6 +28,18 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "El Cobre"
+    ],
+    "name:ceb_x_preferred":[
+        "El Cobre"
+    ],
+    "name:deu_x_preferred":[
+        "El Cobre"
+    ],
+    "name:swe_x_preferred":[
+        "El Cobre"
+    ],
     "name:und_x_variant":[
         "Cobre",
         "El Cobre"
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209306223,
-    "wof:lastmodified":1537591148,
+    "wof:lastmodified":1564113738,
     "wof:name":"El Cobre",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

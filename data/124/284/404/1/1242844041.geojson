@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gua\u00f1acagua"
+    ],
     "name:und_x_variant":[
         "Guanacahua",
         "Gua\u00f1acagua"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242844041,
-    "wof:lastmodified":1537591142,
+    "wof:lastmodified":1564114060,
     "wof:name":"Guanacagua",
     "wof:parent_id":102063165,
     "wof:placetype":"locality",

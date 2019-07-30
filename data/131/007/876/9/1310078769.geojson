@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Piga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1310078769,
-    "wof:lastmodified":1537033726,
+    "wof:lastmodified":1564113846,
     "wof:name":"Piga",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

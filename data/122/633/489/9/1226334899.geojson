@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Talcam\u00e1vida"
+    ],
     "name:und_x_variant":[
         "Talcam\u00e1vida"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226334899,
-    "wof:lastmodified":1537591102,
+    "wof:lastmodified":1564114150,
     "wof:name":"Talcamavida",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

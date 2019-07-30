@@ -27,6 +27,12 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:spa_x_preferred":[
+        "Pichilemu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209833201,
-    "wof:lastmodified":1537489480,
+    "wof:lastmodified":1564113747,
     "wof:name":"Pichilemu",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

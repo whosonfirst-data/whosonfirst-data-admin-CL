@@ -18,6 +18,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Pelarco"
+    ],
+    "name:eus_x_preferred":[
+        "Pelarco"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0627\u0631\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Pelarco"
+    ],
+    "name:ita_x_preferred":[
+        "Pelarco"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3a0\ub77c\ub974\ucf54"
+    ],
+    "name:nld_x_preferred":[
+        "Pelarco"
+    ],
+    "name:por_x_preferred":[
+        "Pelarco"
+    ],
+    "name:ron_x_preferred":[
+        "Pelarco"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043b\u0430\u0440\u043a\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Pelarco"
+    ],
+    "name:spa_x_preferred":[
+        "Pelarco"
+    ],
+    "name:swe_x_preferred":[
+        "Pelarco"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u62c9\u723e\u79d1"
+    ],
     "qs_pg:aaroncc":"CL",
     "qs_pg:gn_country":"CL",
     "qs_pg:gn_fcode":"ADM3",
@@ -55,7 +97,7 @@
         }
     ],
     "wof:id":1125382533,
-    "wof:lastmodified":1509389624,
+    "wof:lastmodified":1564114008,
     "wof:name":"Pelarco",
     "wof:parent_id":102063111,
     "wof:placetype":"localadmin",

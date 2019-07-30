@@ -26,6 +26,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Curi\u00f1anco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1327207723,
-    "wof:lastmodified":1537489494,
+    "wof:lastmodified":1564113433,
     "wof:name":"Curinanco",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

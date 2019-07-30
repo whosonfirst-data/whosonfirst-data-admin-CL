@@ -30,6 +30,9 @@
     "name:spa_x_preferred":[
         "Chuquiananta"
     ],
+    "name:zho_x_preferred":[
+        "\u4e18\u57fa\u963f\u5357\u5854\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633057
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209284069,
-    "wof:lastmodified":1537591157,
+    "wof:lastmodified":1564113781,
     "wof:name":"Chuquiananta",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

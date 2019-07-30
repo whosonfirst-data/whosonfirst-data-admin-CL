@@ -27,6 +27,45 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Treguaco"
+    ],
+    "name:eus_x_preferred":[
+        "Treguaco"
+    ],
+    "name:fra_x_preferred":[
+        "Treguaco"
+    ],
+    "name:ita_x_preferred":[
+        "Treguaco"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub808\uacfc\ucf54"
+    ],
+    "name:nld_x_preferred":[
+        "Treguaco"
+    ],
+    "name:oci_x_preferred":[
+        "Treguaco"
+    ],
+    "name:por_x_preferred":[
+        "Treguaco"
+    ],
+    "name:ron_x_preferred":[
+        "Treguaco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0433\u0443\u0430\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Treguaco"
+    ],
+    "name:swe_x_preferred":[
+        "Treguaco"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u96f7\u74dc\u79d1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +90,7 @@
         }
     ],
     "wof:id":1344154613,
-    "wof:lastmodified":1537489473,
+    "wof:lastmodified":1564113508,
     "wof:name":"Treguaco",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vaca Muerta"
+    ],
+    "name:fra_x_preferred":[
+        "Vaca Muerta"
+    ],
+    "name:spa_x_preferred":[
+        "Yacimiento petrol\u00edfero Vaca Muerta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1243163725,
-    "wof:lastmodified":1536716554,
+    "wof:lastmodified":1564114076,
     "wof:name":"Vaca Muerta",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

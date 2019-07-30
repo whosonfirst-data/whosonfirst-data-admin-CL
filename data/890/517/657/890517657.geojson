@@ -19,6 +19,12 @@
     "name:spa_x_preferred":[
         "El Volc\u00e1n"
     ],
+    "name:spa_x_variant":[
+        "Cerro El Volc\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u6c83\u723e\u574e\u5cf0"
+    ],
     "qs:name":"El Volc\u00e1n",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Santiago",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":890517657,
-    "wof:lastmodified":1527749995,
+    "wof:lastmodified":1564113940,
     "wof:name":"El Volc\u00e1n",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

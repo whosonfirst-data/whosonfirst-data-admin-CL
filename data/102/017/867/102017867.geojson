@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001405,
-    "geom:area_square_m":13114044.958793,
+    "geom:area_square_m":13114044.958805,
     "geom:bbox":"-73.1423758927,-41.0345025204,-73.0966320862,-40.9833343354",
     "geom:latitude":-41.007437,
     "geom:longitude":-73.119193,
@@ -16,6 +16,30 @@
     "mps:longitude":-73.119629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aym_x_preferred":[
+        "Kasma"
+    ],
+    "name:ita_x_preferred":[
+        "Casma"
+    ],
+    "name:lit_x_preferred":[
+        "Kasma"
+    ],
+    "name:por_x_preferred":[
+        "Casma"
+    ],
+    "name:que_x_preferred":[
+        "Kasma"
+    ],
+    "name:spa_x_preferred":[
+        "Casma"
+    ],
+    "name:war_x_preferred":[
+        "Casma"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u65af\u99ac"
+    ],
     "qs:a0":"Chile",
     "qs:a1":"*Los Lagos",
     "qs:a1r":"*",
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":102017867,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1564113470,
     "wof:name":"Casma",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

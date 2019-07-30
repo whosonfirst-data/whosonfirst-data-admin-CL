@@ -33,11 +33,53 @@
     "name:bak_x_preferred":[
         "\u041b\u043e\u043b\u043e\u043b\u044c"
     ],
+    "name:ceb_x_preferred":[
+        "Lolol"
+    ],
+    "name:deu_x_preferred":[
+        "Lolol"
+    ],
+    "name:eus_x_preferred":[
+        "Lolol"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644\u0648\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Lolol"
+    ],
+    "name:ita_x_preferred":[
+        "Lolol"
+    ],
     "name:kor_x_preferred":[
         "\ub864\ub864"
     ],
+    "name:nld_x_preferred":[
+        "Lolol"
+    ],
+    "name:pol_x_preferred":[
+        "Lolol"
+    ],
+    "name:por_x_preferred":[
+        "Lolol"
+    ],
+    "name:ron_x_preferred":[
+        "Lolol"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043b\u043e\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Lolol"
+    ],
+    "name:sna_x_preferred":[
+        "Lolol"
+    ],
+    "name:spa_x_preferred":[
+        "Lolol"
+    ],
+    "name:swe_x_preferred":[
+        "Lolol"
     ],
     "name:und_x_variant":[
         "Camino Alc\u00e1ntara",
@@ -71,7 +113,7 @@
         }
     ],
     "wof:id":1260166665,
-    "wof:lastmodified":1537591127,
+    "wof:lastmodified":1564113821,
     "wof:name":"Lolol",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

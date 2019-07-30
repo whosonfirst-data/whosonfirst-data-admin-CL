@@ -27,6 +27,21 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Montt"
+    ],
+    "name:fra_x_preferred":[
+        "Montt"
+    ],
+    "name:ita_x_preferred":[
+        "Montt"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0442"
+    ],
     "name:und_x_variant":[
         "Las Casas",
         "Montt"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1327148393,
-    "wof:lastmodified":1537591119,
+    "wof:lastmodified":1564113397,
     "wof:name":"Montt",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

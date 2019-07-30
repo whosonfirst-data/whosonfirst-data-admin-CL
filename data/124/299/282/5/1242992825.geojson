@@ -27,6 +27,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "La Patag\u00fcilla"
+    ],
     "name:und_x_variant":[
         "Pataguilla",
         "La Patag\u00fcilla"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242992825,
-    "wof:lastmodified":1537591133,
+    "wof:lastmodified":1564114071,
     "wof:name":"La Pataguilla",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

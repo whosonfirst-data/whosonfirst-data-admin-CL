@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001332,
-    "geom:area_square_m":13041723.057978,
+    "geom:area_square_m":13041723.05797,
     "geom:bbox":"-73.4326171875,-37.6449947773,-73.3938217389,-37.6008697634",
     "geom:latitude":-37.621909,
     "geom:longitude":-73.411692,
@@ -16,6 +16,12 @@
     "mps:longitude":-73.414001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cerro Alto"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro Alto"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":102017983,
-    "wof:lastmodified":1527637774,
+    "wof:lastmodified":1564113472,
     "wof:name":"Cerro Alto",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Chomedahue"
+    ],
+    "name:spa_x_preferred":[
+        "Chomedahue"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259605599,
-    "wof:lastmodified":1537489497,
+    "wof:lastmodified":1564114118,
     "wof:name":"Chomedahue",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

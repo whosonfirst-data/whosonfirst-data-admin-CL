@@ -19,6 +19,9 @@
     "name:deu_x_preferred":[
         "Barraza"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0440\u0430\u0441\u0430"
+    ],
     "name:spa_x_preferred":[
         "Barraza"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102017945,
-    "wof:lastmodified":1527637782,
+    "wof:lastmodified":1564113486,
     "wof:name":"Barraza",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

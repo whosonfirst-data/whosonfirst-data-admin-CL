@@ -27,7 +27,16 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Puerto Viejo"
+    ],
+    "name:nor_x_preferred":[
+        "Puerto Viejo"
+    ],
     "name:spa_x_preferred":[
+        "Puerto Viejo"
+    ],
+    "name:swe_x_preferred":[
         "Puerto Viejo"
     ],
     "src:geom":"geonames",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1260206477,
-    "wof:lastmodified":1537591111,
+    "wof:lastmodified":1564113818,
     "wof:name":"Puerto Viejo",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

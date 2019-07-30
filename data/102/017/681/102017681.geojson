@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000827,
-    "geom:area_square_m":8610274.01697,
+    "geom:area_square_m":8610274.016972,
     "geom:bbox":"-71.2212922866,-32.7133553532,-71.1944790593,-32.6742940368",
     "geom:latitude":-32.694367,
     "geom:longitude":-71.208643,
@@ -19,7 +19,13 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0648\u0646\u060c \u0623\u0648\u0631\u064a\u0646\u0633\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0644\u0648\u0646"
+    ],
     "name:cat_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:ceb_x_preferred":[
         "Mel\u00f3n"
     ],
     "name:eus_x_preferred":[
@@ -43,11 +49,56 @@
     "name:jpn_x_preferred":[
         "\u30e1\u30ed\u30f3"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u043b\u043e\u043d"
+    ],
+    "name:lmo_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:msa_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:nld_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:oci_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u043e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Mel\u00f3n"
+    ],
     "name:spa_x_preferred":[
         "Mel\u00f3n"
     ],
+    "name:tur_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u043e\u043d"
+    ],
     "name:unk_x_variant":[
         "El Mel\u00f3n"
+    ],
+    "name:uzb_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:vie_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:war_x_preferred":[
+        "Mel\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u9686"
     ],
     "qs:a0":"Chile",
     "qs:a1":"*Valpara\u00edso",
@@ -94,7 +145,7 @@
         }
     ],
     "wof:id":102017681,
-    "wof:lastmodified":1527637771,
+    "wof:lastmodified":1564113466,
     "wof:name":"Mel\u00f3n",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

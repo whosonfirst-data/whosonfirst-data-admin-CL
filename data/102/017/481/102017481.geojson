@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000544,
-    "geom:area_square_m":5783239.528991,
+    "geom:area_square_m":5783239.528987,
     "geom:bbox":"-71.5039565146,-30.6611051143,-71.4721164986,-30.6336229884",
     "geom:latitude":-30.647364,
     "geom:longitude":-71.488037,
@@ -17,6 +17,12 @@
     "mps:longitude":-71.488037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:pol_x_preferred":[
+        "Limar\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043c\u0430\u0440\u0438"
+    ],
     "name:spa_x_colloquial":[
         "Limari"
     ],
@@ -84,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637779,
+    "wof:lastmodified":1564113479,
     "wof:name":"Limar\u00ed",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:spa_x_preferred":[
         "Pumuta"
     ],
+    "name:zho_x_preferred":[
+        "\u666e\u7a46\u5854\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226719635,
-    "wof:lastmodified":1537591183,
+    "wof:lastmodified":1564114172,
     "wof:name":"Pumuta",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

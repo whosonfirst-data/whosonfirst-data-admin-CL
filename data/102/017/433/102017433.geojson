@@ -19,8 +19,110 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0644\u0648\u0633 \u0644\u0627\u063a\u0648\u0633"
+    ],
+    "name:bre_x_preferred":[
+        "Rannvro Los Lagos"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0441 \u041b\u0430\u0433\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:ceb_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:ces_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:dan_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c2 \u039b\u03ac\u03b3\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Los Lagos Region"
+    ],
+    "name:epo_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:eus_x_preferred":[
+        "Los Lagos eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0644\u0648\u0633 \u0644\u0627\u06af\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9gion des Lacs"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e1 \u05dc\u05d0\u05d2\u05d5\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "X. regija Los Lagos"
+    ],
+    "name:hun_x_preferred":[
+        "Los Lagos r\u00e9gi\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u057d \u053c\u0561\u0563\u0578\u057d"
+    ],
+    "name:ilo_x_preferred":[
+        "Rehion ti Los Lagos"
+    ],
+    "name:ind_x_preferred":[
+        "Region Los Lagos"
+    ],
+    "name:isl_x_preferred":[
+        "Los Lagos-fylki"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10da\u10d0\u10d2\u10dd\u10e1\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:lad_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:lat_x_preferred":[
+        "Regio Lacuum"
+    ],
+    "name:lit_x_preferred":[
+        "Los Lagoso regionas"
+    ],
+    "name:lmo_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:nld_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:nor_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u06af\u0648\u0633 \u0631\u06cc\u062c\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:por_x_preferred":[
+        "Los Lagos"
+    ],
+    "name:que_x_preferred":[
+        "Quchakuna suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Los Lagos"
+    ],
+    "name:sco_x_preferred":[
+        "Los Lagos Region"
+    ],
+    "name:slk_x_preferred":[
+        "Los Lagos"
     ],
     "name:spa_x_colloquial":[
         "Region de Los Lagos"
@@ -32,8 +134,23 @@
         "Regi\u00f3n de Los Lagos",
         "X Region"
     ],
+    "name:swa_x_preferred":[
+        "Mkoa wa Los Lagos"
+    ],
+    "name:tur_x_preferred":[
+        "Los Lagos b\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "X \u0420\u0435\u0433\u0456\u043e\u043d \u041b\u043e\u0441-\u041b\u0430\u0433\u043e\u0441"
+    ],
     "name:unk_x_variant":[
         "X Regi\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0633 \u0644\u0627\u06af\u0648\u0633 \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:war_x_preferred":[
+        "X Rehiyon han Los Lagos"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHL",
@@ -137,7 +254,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536613854,
+    "wof:lastmodified":1564113483,
     "wof:name":"Regi\u00f3n de Los Lagos",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

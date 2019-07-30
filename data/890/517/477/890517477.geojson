@@ -15,6 +15,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Quillon"
+    ],
     "qs:name":"Quillon",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":890517477,
-    "wof:lastmodified":1505343906,
+    "wof:lastmodified":1564113934,
     "wof:name":"Quillon",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

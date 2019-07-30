@@ -27,6 +27,24 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cerro Sombrero"
+    ],
+    "name:eus_x_preferred":[
+        "Cerro Sombrero"
+    ],
+    "name:fas_x_preferred":[
+        "\u062b\u0631\u0648 \u0633\u0645\u0628\u0631\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Cerro Sombrero"
+    ],
+    "name:nno_x_preferred":[
+        "Cerro Sombrero"
+    ],
+    "name:spa_x_preferred":[
+        "Cerro Sombrero"
+    ],
     "name:und_x_variant":[
         "Cerro Sombrero",
         "Sombrero"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326819497,
-    "wof:lastmodified":1537591102,
+    "wof:lastmodified":1564113382,
     "wof:name":"Sombrero",
     "wof:parent_id":102063185,
     "wof:placetype":"locality",

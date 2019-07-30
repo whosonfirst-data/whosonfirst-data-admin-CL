@@ -26,6 +26,9 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Batuco"
+    ],
     "name:spa_x_preferred":[
         "Batuco"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226533931,
-    "wof:lastmodified":1537591184,
+    "wof:lastmodified":1564114190,
     "wof:name":"Batuco",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

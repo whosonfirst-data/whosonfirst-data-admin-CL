@@ -13,6 +13,33 @@
     "iso:country":"CL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:deu_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:fra_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:nld_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:por_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u0438\u043b\u044c\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:swe_x_preferred":[
+        "Cerrillos"
+    ],
     "qs:name":"Cerrillos",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Santiago",
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":890518407,
-    "wof:lastmodified":1527751232,
+    "wof:lastmodified":1564113976,
     "wof:name":"Cerrillos",
     "wof:parent_id":102063117,
     "wof:placetype":"localadmin",

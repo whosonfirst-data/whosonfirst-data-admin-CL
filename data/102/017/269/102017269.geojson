@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000558,
-    "geom:area_square_m":6257937.465932,
+    "geom:area_square_m":6257937.465935,
     "geom:bbox":"-70.5146624275,-25.0199788346,-70.4509079119,-24.932210158",
     "geom:latitude":-24.976105,
     "geom:longitude":-70.482782,
@@ -16,6 +16,15 @@
     "mps:longitude":-70.460816,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paposo"
+    ],
+    "name:spa_x_preferred":[
+        "Paposo"
+    ],
+    "name:swe_x_preferred":[
+        "Paposo"
+    ],
     "qs:a0":"Chile",
     "qs:a1":"*Antofagasta",
     "qs:a1r":"*",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":102017269,
-    "wof:lastmodified":1509488081,
+    "wof:lastmodified":1564113470,
     "wof:name":"Paposo",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",
