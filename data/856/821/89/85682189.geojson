@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AI"
+    ],
     "lbl:latitude":-46.405273,
     "lbl:longitude":-72.615612,
     "meso:name_local":"De Aisen",
@@ -360,7 +363,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581822,
+    "wof:lastmodified":1565662669,
     "wof:name":"De Aisen",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

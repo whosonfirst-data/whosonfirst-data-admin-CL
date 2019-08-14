@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":-23.391472,
     "lbl:longitude":-69.093228,
     "meso:name_local":"De Antofagasta",
@@ -359,7 +362,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581829,
+    "wof:lastmodified":1565662675,
     "wof:name":"De Antofagasta",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

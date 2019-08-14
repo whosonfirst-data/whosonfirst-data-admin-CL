@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BI"
+    ],
     "lbl:latitude":-37.028919,
     "lbl:longitude":-72.040519,
     "meso:name_local":"Del Bio-Bio",
@@ -414,7 +417,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581839,
+    "wof:lastmodified":1565662682,
     "wof:name":"Del Bio-Bio",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

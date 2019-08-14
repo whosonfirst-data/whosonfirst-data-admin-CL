@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AP"
+    ],
     "lbl:latitude":-18.508859,
     "lbl:longitude":-69.514033,
     "meso:name_local":"Arica y Parinacota",
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563582132,
+    "wof:lastmodified":1565662722,
     "wof:name":"Arica y Parinacota",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

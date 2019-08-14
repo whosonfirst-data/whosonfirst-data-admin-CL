@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TP"
+    ],
     "lbl:latitude":-20.263434,
     "lbl:longitude":-69.414507,
     "meso:name_local":"De Tarapaca",
@@ -359,7 +362,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581871,
+    "wof:lastmodified":1565662705,
     "wof:name":"De Tarapaca",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

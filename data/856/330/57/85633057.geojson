@@ -13,6 +13,9 @@
     "itu:country_code":[
         "56"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CL"
+    ],
     "lbl:latitude":-38.165295,
     "lbl:longitude":-72.288079,
     "mps:latitude":-38.165295,
@@ -1076,7 +1079,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581815,
+    "wof:lastmodified":1565662663,
     "wof:name":"Chile",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

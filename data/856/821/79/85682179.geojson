@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":-38.687801,
     "lbl:longitude":-72.300483,
     "meso:name_local":"De La Araucania",
@@ -370,7 +373,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581843,
+    "wof:lastmodified":1565662685,
     "wof:name":"De La Araucania",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

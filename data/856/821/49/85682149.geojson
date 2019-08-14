@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ML"
+    ],
     "lbl:latitude":-35.617693,
     "lbl:longitude":-71.421975,
     "meso:name_local":"Del Maule",
@@ -365,7 +368,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581846,
+    "wof:lastmodified":1565662687,
     "wof:name":"Del Maule",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

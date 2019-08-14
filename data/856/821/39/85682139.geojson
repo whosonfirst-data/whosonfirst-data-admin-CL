@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AT"
+    ],
     "lbl:latitude":-27.328073,
     "lbl:longitude":-69.934421,
     "meso:name_local":"De Atacama",
@@ -353,7 +356,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581837,
+    "wof:lastmodified":1565662681,
     "wof:name":"De Atacama",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

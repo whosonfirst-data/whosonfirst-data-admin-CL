@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LR"
+    ],
     "lbl:latitude":-40.068883,
     "lbl:longitude":-72.479646,
     "meso:name_local":"De Los Rios",
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581845,
+    "wof:lastmodified":1565662686,
     "wof:name":"De Los Rios",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

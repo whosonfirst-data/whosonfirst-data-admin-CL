@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VS"
+    ],
     "lbl:latitude":-32.499881,
     "lbl:longitude":-70.881318,
     "meso:name_local":"De Valparaiso",
@@ -368,7 +371,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581832,
+    "wof:lastmodified":1565662677,
     "wof:name":"De Valparaiso",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

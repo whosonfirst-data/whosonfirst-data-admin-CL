@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":-30.650788,
     "lbl:longitude":-70.92578,
     "meso:name_local":"De Coquimbo",
@@ -353,7 +356,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581819,
+    "wof:lastmodified":1565662667,
     "wof:name":"De Coquimbo",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

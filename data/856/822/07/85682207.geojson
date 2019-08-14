@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RM"
+    ],
     "lbl:latitude":-33.478992,
     "lbl:longitude":-70.693198,
     "meso:name_local":"Metropolitana",
@@ -364,7 +367,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563581873,
+    "wof:lastmodified":1565662706,
     "wof:name":"Metropolitana",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
