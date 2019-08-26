@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":3122549.366916,
+    "geom:area_square_m":3122549.366915,
     "geom:bbox":"-71.1526856137,-33.1787572814,-71.1312498354,-33.1607296634",
     "geom:latitude":-33.169744,
     "geom:longitude":-71.141968,
     "iso:country":"CL",
     "lbl:latitude":-33.169744,
     "lbl:longitude":-71.141968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.169744,
     "mps:longitude":-71.141968,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Colliguai"
     ],
     "qs:a1":"*",
@@ -30,7 +33,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102017771,
-    "wof:lastmodified":1508274970,
+    "wof:lastmodified":1566644185,
     "wof:name":"Colliguay",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

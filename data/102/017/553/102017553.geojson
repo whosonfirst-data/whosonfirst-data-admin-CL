@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-29.372597,
     "lbl:longitude":-71.11724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.372597,
     "mps:longitude":-71.11724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041b\u0430-\u0418\u0433\u0435\u0440\u0430"
     ],
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "La Higuera"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Higuera"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":578,
     "wof:belongsto":[
         102191577,
@@ -130,7 +133,6 @@
     "wof:concordances":{
         "gn:id":3885682,
         "gp:id":348027,
-        "qs:id":1165537,
         "qs_pg:id":1165537,
         "wd:id":"Q14462",
         "wk:page":"La Higuera, Chile"
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":102017553,
-    "wof:lastmodified":1563581649,
+    "wof:lastmodified":1566644199,
     "wof:name":"La Higuera",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

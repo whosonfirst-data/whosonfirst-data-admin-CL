@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.587427,
     "lbl:longitude":-72.534925,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.587427,
     "mps:longitude":-72.534925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Negrete"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":495,
     "wof:belongsto":[
         102191577,
@@ -104,7 +107,6 @@
         "fct:id":"06b125ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3878898,
         "gp:id":348718,
-        "qs:id":1222695,
         "qs_pg:id":1222695,
         "wd:id":"Q51046"
     },
@@ -123,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581531,
+    "wof:lastmodified":1566644158,
     "wof:name":"Negrete",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

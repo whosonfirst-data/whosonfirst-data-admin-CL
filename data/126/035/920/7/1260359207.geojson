@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.03463,-18.41203,-69.99463,-18.37203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Guanta"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260359207,
-    "wof:lastmodified":1564113827,
+    "wof:lastmodified":1566644526,
     "wof:name":"Guanta",
     "wof:parent_id":102063165,
     "wof:placetype":"locality",

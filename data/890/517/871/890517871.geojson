@@ -11,8 +11,12 @@
     "geom:longitude":-72.671493,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.771493,-38.348901,-72.571493,-38.148901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "Tray\u00e9n"
     ],
@@ -85,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794071,
-        "qs:id":1024395,
+        "qs_pg:id":1024395,
         "wd:id":"Q200961",
         "wk:page":"Traigu\u00e9n"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890517871,
-    "wof:lastmodified":1563582314,
+    "wof:lastmodified":1566644621,
     "wof:name":"Traigu\u00e9n",
     "wof:parent_id":102063101,
     "wof:placetype":"localadmin",

@@ -11,8 +11,12 @@
     "geom:longitude":-70.262718,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.362718,-33.778354,-70.162718,-33.578354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0646 \u062e\u0648\u0633\u0647 \u062f \u0645\u0627\u06cc\u067e\u0648"
     ],
@@ -37,7 +41,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794268,
-        "qs:id":32663,
+        "qs_pg:id":32663,
         "wd:id":"Q187847",
         "wk:page":"San Jos\u00e9 de Maipo"
     },
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890518373,
-    "wof:lastmodified":1563582434,
+    "wof:lastmodified":1566644657,
     "wof:name":"San Jose de Maipo",
     "wof:parent_id":102063137,
     "wof:placetype":"localadmin",

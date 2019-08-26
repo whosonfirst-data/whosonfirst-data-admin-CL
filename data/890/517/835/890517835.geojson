@@ -11,11 +11,15 @@
     "geom:longitude":-70.85627,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.87627,-33.73103,-70.83627,-33.69103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lonqu\u00e9n"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3882537,
         "gp:id":348418,
-        "qs:id":1013811,
+        "qs_pg:id":1013811,
         "wd:id":"Q945395",
         "wk:page":"Lonqu\u00e9n"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890517835,
-    "wof:lastmodified":1561749887,
+    "wof:lastmodified":1566644608,
     "wof:name":"Lonqu\u00e9n",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

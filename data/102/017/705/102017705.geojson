@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000901,
-    "geom:area_square_m":10523438.249755,
+    "geom:area_square_m":10523438.249759,
     "geom:bbox":"-70.1956655258,-19.1697710861,-70.1436897949,-19.1413217417",
     "geom:latitude":-19.158179,
     "geom:longitude":-70.171342,
     "iso:country":"CL",
     "lbl:latitude":-19.158958,
     "lbl:longitude":-70.177555,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-19.158958,
     "mps:longitude":-70.177555,
     "mz:hierarchy_label":1,
@@ -133,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -144,7 +146,6 @@
     "wof:concordances":{
         "gn:id":3892797,
         "gp:id":347414,
-        "qs:id":1159334,
         "qs_pg:id":1159334,
         "wd:id":"Q5795129"
     },
@@ -160,7 +161,7 @@
         }
     ],
     "wof:id":102017705,
-    "wof:lastmodified":1513930067,
+    "wof:lastmodified":1566644191,
     "wof:name":"Cuya",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

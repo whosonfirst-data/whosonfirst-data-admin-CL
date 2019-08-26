@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-35.447246,
     "lbl:longitude":-70.944214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.447246,
     "mps:longitude":-70.944214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pelarco"
     ],
@@ -84,7 +87,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":254,
     "wof:belongsto":[
         102191577,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":8261290,
         "gp:id":349880,
-        "qs:id":381555,
+        "qs_pg:id":381555,
         "wd:id":"Q51085"
     },
     "wof:country":"CL",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":102018133,
-    "wof:lastmodified":1563581387,
+    "wof:lastmodified":1566644115,
     "wof:name":"Pelarco",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

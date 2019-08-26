@@ -11,8 +11,12 @@
     "geom:longitude":-73.397143,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.4971435,-37.908156,-73.2971435,-37.708156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ca\u00f1ete"
     ],
@@ -92,9 +96,11 @@
     "wof:concordances":{
         "gn:id":8261315,
         "gp:id":26794084,
-        "qs:id":1092348,
         "qs_pg:id":381561,
         "wk:page":"Ca\u00f1ete"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1092348
     },
     "wof:country":"CL",
     "wof:created":1469056038,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":890517975,
-    "wof:lastmodified":1564113964,
+    "wof:lastmodified":1566644631,
     "wof:name":"Ca\u00f1ete",
     "wof:parent_id":102063153,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":1010090.374731,
+    "geom:area_square_m":1010090.374729,
     "geom:bbox":"-71.7407226562,-34.651285199,-71.7297363281,-34.6422470478",
     "geom:latitude":-34.646766,
     "geom:longitude":-71.735229,
     "iso:country":"CL",
     "lbl:latitude":-34.646766,
     "lbl:longitude":-71.735229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.646766,
     "mps:longitude":-71.735229,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Libertador General Bernardo O'Higgins",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3878646,
         "gp:id":348726,
-        "qs:id":180622,
         "qs_pg:id":180622
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017329,
-    "wof:lastmodified":1497296208,
+    "wof:lastmodified":1566644221,
     "wof:name":"Nilahue Cornejo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

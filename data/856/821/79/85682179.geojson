@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-38.687801,
     "lbl:longitude":-72.300483,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"De La Araucania",
     "mps:latitude":-38.686701,
     "mps:longitude":-72.300447,
@@ -242,7 +243,7 @@
     "name:ukr_x_preferred":[
         "IX \u0420\u0435\u0433\u0456\u043e\u043d \u0410\u0440\u0430\u0443\u043a\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novena Regi\u00f3n"
     ],
     "name:urd_x_preferred":[
@@ -329,9 +330,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"31,842",
     "statoids:area_mi":"12,294",
     "statoids:as_of_date":"2012-04-09",
@@ -373,11 +374,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565662685,
+    "wof:lastmodified":1566644319,
     "wof:name":"De La Araucania",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":889492,
     "wof:population_rank":11,

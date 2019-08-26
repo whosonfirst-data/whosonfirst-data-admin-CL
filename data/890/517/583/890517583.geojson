@@ -11,8 +11,12 @@
     "geom:longitude":-70.483064,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.5830645,-25.506376,-70.3830645,-25.306376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Taltal"
     ],
@@ -91,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794036,
-        "qs:id":1313006,
+        "qs_pg:id":1313006,
         "wd:id":"Q188049",
         "wk:page":"Taltal"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890517583,
-    "wof:lastmodified":1563582344,
+    "wof:lastmodified":1566644630,
     "wof:name":"Taltal",
     "wof:parent_id":102063073,
     "wof:placetype":"localadmin",

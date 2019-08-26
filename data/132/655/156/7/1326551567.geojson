@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.35559,-31.66814,-71.31559,-31.62814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Do\u00f1a Juana"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326551567,
-    "wof:lastmodified":1537591151,
+    "wof:lastmodified":1566643978,
     "wof:name":"Dona Juana",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

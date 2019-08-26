@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.523065,
     "lbl:longitude":-71.543024,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.523065,
     "mps:longitude":-71.543024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0637\u0627\u062c\u0646\u0629"
     ],
@@ -81,7 +84,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":8261450,
         "gp:id":350263,
-        "qs:id":381589,
+        "qs_pg:id":381589,
         "wd:id":"Q3738"
     },
     "wof:country":"CL",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102018239,
-    "wof:lastmodified":1563581444,
+    "wof:lastmodified":1566644132,
     "wof:name":"Cartagena",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

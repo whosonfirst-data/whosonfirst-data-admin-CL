@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Punta_Arenas",
     "iso:country":"CL",
+    "lbl:bbox":"-71.03974,-52.92573,-70.99974,-52.88573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Villa Kon Aiken"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326613881,
-    "wof:lastmodified":1537591186,
+    "wof:lastmodified":1566643960,
     "wof:name":"Villa Kon Aiken",
     "wof:parent_id":102063075,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001915,
-    "geom:area_square_m":19765869.23957,
+    "geom:area_square_m":19765869.239599,
     "geom:bbox":"-70.7289805881,-33.435163392,-70.6887817383,-33.3641186903",
     "geom:latitude":-33.3974,
     "geom:longitude":-70.708842,
@@ -14,6 +14,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.415943,
     "lbl:longitude":-70.711984,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.401734,
     "mps:longitude":-70.706449,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:spa_x_preferred":[
-        "Carrascal"
-    ],
-    "name:unk_x_variant":[
         "Carrascal"
     ],
     "qs:gn_adm0_cc":"CL",
@@ -60,8 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682207,
         102191577,
@@ -73,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3896546,
         "gp:id":347014,
-        "qs:id":216620,
         "qs_pg:id":216620
     },
     "wof:country":"CL",
@@ -92,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497313983,
+    "wof:lastmodified":1566644280,
     "wof:name":"Carrascal",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

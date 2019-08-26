@@ -11,11 +11,15 @@
     "geom:longitude":-73.37406,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.39406,-42.35228,-73.35406,-42.31228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tena\u00fan"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":3870005,
         "gp:id":349643,
-        "qs:id":893537
+        "qs_pg:id":893537
     },
     "wof:country":"CL",
     "wof:created":1469056051,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890518143,
-    "wof:lastmodified":1564113979,
+    "wof:lastmodified":1566644643,
     "wof:name":"Tena\u00fan",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

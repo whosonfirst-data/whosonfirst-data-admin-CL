@@ -11,11 +11,15 @@
     "geom:longitude":-71.31754,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.33754,-34.73506,-71.29754,-34.69506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041b\u0438\u043c\u0430"
     ],
@@ -430,7 +434,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comunidad de Lima"
     ],
     "name:urd_x_preferred":[
@@ -482,7 +486,7 @@
     "wof:concordances":{
         "gn:id":3883216,
         "gp:id":348321,
-        "qs:id":180614,
+        "qs_pg:id":180614,
         "wk:page":"Lima"
     },
     "wof:country":"CL",
@@ -498,7 +502,7 @@
         }
     ],
     "wof:id":890518267,
-    "wof:lastmodified":1564113976,
+    "wof:lastmodified":1566644640,
     "wof:name":"Lima",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000442,
-    "geom:area_square_m":4564644.912469,
+    "geom:area_square_m":4564644.91247,
     "geom:bbox":"-70.8808030451,-33.401481052,-70.8590698242,-33.3788645358",
     "geom:latitude":-33.390173,
     "geom:longitude":-70.86922,
     "iso:country":"CL",
     "lbl:latitude":-33.390167,
     "lbl:longitude":-70.869367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.390167,
     "mps:longitude":-70.869367,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0632\u0627 \u062f\u064a \u0625\u0633\u0628\u0627\u0646\u064a\u0627-\u0646\u0648\u0641\u064a\u0633\u064a\u0627\u062f\u0648"
     ],
@@ -33,7 +37,7 @@
     "name:spa_x_preferred":[
         "Estaci\u00f3n de Plaza de Espa\u00f1a / Noviciado"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Noviciado"
     ],
     "qs:a1":"*",
@@ -47,7 +51,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":102017319,
-    "wof:lastmodified":1501269186,
+    "wof:lastmodified":1566644226,
     "wof:name":"Noviciado",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18438315.685917,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.615565,-33.044833,-71.615565,-33.044833",
     "geom:latitude":-33.044833,
     "geom:longitude":-71.615565,
     "gn:latitude":-33.04062,
     "gn:longitude":-71.60202,
     "iso:country":"CL",
+    "lbl:bbox":"-71.620565,-33.049833,-71.610565,-33.039833",
     "lbl:latitude":-33.044833,
     "lbl:longitude":-71.615565,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.058765,
     "mps:longitude":-71.603378,
     "mz:hierarchy_label":0,
@@ -34,10 +36,6 @@
     ],
     "name:spa_x_variant":[
         "El Baron"
-    ],
-    "name:unk_x_variant":[
-        "El Baron",
-        "Bar\u00f3n"
     ],
     "qs:gn_adm0_cc":"CL",
     "qs:gn_fcode":"PPLX",
@@ -68,20 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016833,
-        102063161,
-        85682143
+        102063161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3898749,
         "gp:id":346864,
-        "qs:id":1114202,
         "qs_pg:id":1114202
     },
     "wof:country":"CL",
@@ -100,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858895,
+    "wof:lastmodified":1566644280,
     "wof:name":"Bar\u00f3n",
     "wof:parent_id":102016833,
     "wof:placetype":"neighbourhood",

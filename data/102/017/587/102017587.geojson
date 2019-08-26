@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-46.623034,
     "lbl:longitude":-72.680054,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-46.623034,
     "mps:longitude":-72.680054,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "R\u00edo Ib\u00e1\u00f1ez"
     ],
@@ -42,7 +45,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102017587,
-    "wof:lastmodified":1563581623,
+    "wof:lastmodified":1566644190,
     "wof:name":"R\u00edo Ib\u00e1\u00f1ez",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

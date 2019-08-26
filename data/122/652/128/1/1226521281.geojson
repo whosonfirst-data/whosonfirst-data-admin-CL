@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.10952,-43.58474,-72.06952,-43.54474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1226521281,
-    "wof:lastmodified":1564114183,
+    "wof:lastmodified":1566644788,
     "wof:name":"La Esperanza",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

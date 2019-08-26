@@ -11,11 +11,15 @@
     "geom:longitude":-70.70816,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.72816,-33.65538,-70.68816,-33.61538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Nos",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Santiago",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":3878495,
         "gp:id":348739,
-        "qs:id":242659
+        "qs_pg:id":242659
     },
     "wof:country":"CL",
     "wof:created":1469056064,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890518421,
-    "wof:lastmodified":1505343909,
+    "wof:lastmodified":1566644648,
     "wof:name":"Nos",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

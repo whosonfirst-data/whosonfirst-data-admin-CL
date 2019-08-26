@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-41.224112,
     "lbl:longitude":-73.120356,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.224112,
     "mps:longitude":-73.120356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Llanquihue"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -113,7 +116,7 @@
         "fct:id":"06b0cc98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8261374,
         "gp:id":26794163,
-        "qs:id":1201235,
+        "qs_pg:id":1201235,
         "wd:id":"Q14500"
     },
     "wof:country":"CL",
@@ -131,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581423,
+    "wof:lastmodified":1566644125,
     "wof:name":"Llanquihue",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

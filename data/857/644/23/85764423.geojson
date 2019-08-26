@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002685,
-    "geom:area_square_m":27690003.666901,
+    "geom:area_square_m":27690003.666871,
     "geom:bbox":"-70.6221096216,-33.5170492185,-70.5359594727,-33.4641703867",
     "geom:latitude":-33.489827,
     "geom:longitude":-70.578131,
@@ -14,6 +14,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.485698,
     "lbl:longitude":-70.591023,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.492076,
     "mps:longitude":-70.583257,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:spa_x_preferred":[
         "La Loma de Macul"
     ],
-    "name:unk_x_variant":[
-        "La Legua",
-        "La Loma de Macul"
+    "name:und_x_variant":[
+        "La Legua"
     ],
     "qs:gn_adm0_cc":"CL",
     "qs:gn_fcode":"PPLX",
@@ -61,8 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682207,
         102191577,
@@ -75,7 +74,6 @@
     "wof:concordances":{
         "gn:id":3885486,
         "gp:id":348067,
-        "qs:id":1262738,
         "qs_pg:id":1262738
     },
     "wof:country":"CL",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1509488086,
+    "wof:lastmodified":1566644283,
     "wof:name":"La Loma de Macul",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

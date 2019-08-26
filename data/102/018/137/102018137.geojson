@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-35.585851,
     "lbl:longitude":-72.625122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.585851,
     "mps:longitude":-72.625122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u0643\u0648"
     ],
@@ -93,7 +96,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":499,
     "wof:belongsto":[
         102191577,
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":8261295,
         "gp:id":350264,
-        "qs:id":381557,
+        "qs_pg:id":381557,
         "wd:id":"Q3762",
         "wk:page":"Chanco, Chile"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102018137,
-    "wof:lastmodified":1563581431,
+    "wof:lastmodified":1566644127,
     "wof:name":"Chanco",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

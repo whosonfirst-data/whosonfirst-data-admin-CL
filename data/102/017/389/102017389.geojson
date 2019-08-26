@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.507372,
     "lbl:longitude":-71.140421,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.507372,
     "mps:longitude":-71.140421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mar\u00eda Pinto"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":279,
     "wof:belongsto":[
         102191577,
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3880486,
         "gp:id":348608,
-        "qs:id":1191582,
         "qs_pg:id":1191582,
         "wd:id":"Q16925",
         "wk:page":"Mar\u00eda Pinto"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":102017389,
-    "wof:lastmodified":1563581708,
+    "wof:lastmodified":1566644222,
     "wof:name":"Mar\u00eda Pinto",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

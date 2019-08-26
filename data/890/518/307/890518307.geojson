@@ -11,8 +11,12 @@
     "geom:longitude":-73.142423,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.242423,-41.878224,-73.042423,-41.678224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u0628\u0648\u0643\u0648"
     ],
@@ -104,10 +108,12 @@
     "wof:concordances":{
         "gn:id":8261175,
         "gp:id":26794159,
-        "qs:id":772397,
-        "qs_pg:id":904466,
+        "qs_pg:id":772397,
         "wd:id":"Q3691",
         "wk:page":"Calbuco"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":904466
     },
     "wof:country":"CL",
     "wof:created":1469056057,
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":890518307,
-    "wof:lastmodified":1563582350,
+    "wof:lastmodified":1566644632,
     "wof:name":"Calbuco",
     "wof:parent_id":102063135,
     "wof:placetype":"localadmin",

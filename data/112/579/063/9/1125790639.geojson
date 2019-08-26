@@ -9,14 +9,18 @@
     "geom:bbox":"-73.25811,-37.81152,-73.25811,-37.81152",
     "geom:latitude":-37.81152,
     "geom:longitude":-73.25811,
-    "gn:gn_country":"CL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CL",
+    "lbl:bbox":"-73.27811,-37.83152,-73.23811,-37.79152",
     "lbl:latitude":-37.81152,
     "lbl:longitude":-73.25811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Cayucupil"
@@ -27,7 +31,7 @@
     "name:spa_x_preferred":[
         "Cayucupil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caicupil"
     ],
     "qs_pg:aaroncc":"CL",
@@ -47,7 +51,7 @@
     "qs_pg:woe_adm0":23424782,
     "qs_pg:woe_id":419932,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424782,
     "woe:name_adm0":"Chile",
     "woe:name_adm1":"Biobio",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1125790639,
-    "wof:lastmodified":1561749890,
+    "wof:lastmodified":1566644667,
     "wof:name":"Cayucupil",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

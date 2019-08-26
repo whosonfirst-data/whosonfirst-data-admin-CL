@@ -15,10 +15,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.051144,
     "lbl:longitude":-71.368534,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-33.051144,
     "mps:longitude":-71.368534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ace_x_preferred":[
         "Villa Alemana"
     ],
@@ -274,7 +277,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":538,
     "wof:belongsto":[
@@ -288,7 +291,6 @@
         "fct:id":"06b14f6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3868192,
         "gp:id":349887,
-        "qs:id":1233716,
         "qs_pg:id":1233716,
         "wd:id":"Q174744",
         "wk:page":"Villa Alemana"
@@ -308,7 +310,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581497,
+    "wof:lastmodified":1566644148,
     "wof:name":"Villa Alemana",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

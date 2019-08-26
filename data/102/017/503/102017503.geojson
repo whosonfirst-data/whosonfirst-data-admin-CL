@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-20.339476,
     "lbl:longitude":-69.65332,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.339476,
     "mps:longitude":-69.65332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "La Tirana"
     ],
@@ -31,7 +34,7 @@
     "name:spa_x_preferred":[
         "La Tirana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oficina La Tirana"
     ],
     "qs:a0":"Chile",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191577,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3883715,
         "gp:id":348157,
-        "qs:id":1262739,
         "qs_pg:id":1262739,
         "wd:id":"Q6465417"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":102017503,
-    "wof:lastmodified":1561749823,
+    "wof:lastmodified":1566644162,
     "wof:name":"La Tirana",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

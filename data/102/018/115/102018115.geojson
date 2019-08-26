@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.288991,
     "lbl:longitude":-71.383667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.288991,
     "mps:longitude":-71.383667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u0438\u0447\u0438\u0434\u0435\u0433\u0443\u0430"
     ],
@@ -90,7 +93,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":198,
     "wof:belongsto":[
         102191577,
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gn:id":8261262,
         "gp:id":350259,
-        "qs:id":381545,
+        "qs_pg:id":381545,
         "wd:id":"Q51104",
         "wk:page":"Pichidegua"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102018115,
-    "wof:lastmodified":1563581447,
+    "wof:lastmodified":1566644133,
     "wof:name":"Pichidegua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

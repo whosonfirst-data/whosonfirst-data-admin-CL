@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-35.025488,
     "lbl:longitude":-71.32858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.025488,
     "mps:longitude":-71.32858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sagrada Familia"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":223,
     "wof:belongsto":[
         102191577,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3872648,
         "gp:id":349384,
-        "qs:id":352790,
         "qs_pg:id":352790,
         "wd:id":"Q56133",
         "wk:page":"Sagrada Familia, Chile"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":102016999,
-    "wof:lastmodified":1563581459,
+    "wof:lastmodified":1566644138,
     "wof:name":"Sagrada Familia",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

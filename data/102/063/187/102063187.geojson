@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-46.497313,
     "lbl:longitude":-74.213653,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Ays\u00e9n del Gral.Iba\u00f1ez del Campo",
     "meso:gadm_admin":"Ais\u00e9n",
     "meso:gadm_hasc2":"CL.AI.AI",
@@ -32,6 +34,7 @@
     "mps:longitude":-72.63722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Ays\u00e9n"
     ],
@@ -133,9 +136,9 @@
     "src:geom_alt":[
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"46,589",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Puerto Ais\u00e9n",
@@ -147,7 +150,6 @@
     "statoids:timezone":"-4~",
     "statoids:type":"province",
     "wd:wordcount":45,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191577,
         85633057,
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":102063187,
-    "wof:lastmodified":1563581316,
+    "wof:lastmodified":1566644031,
     "wof:name":"Ays\u00e9n",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

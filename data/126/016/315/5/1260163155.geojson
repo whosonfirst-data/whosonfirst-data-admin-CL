@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.79803,-18.33813,-69.75803,-18.29813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260163155,
-    "wof:lastmodified":1536874954,
+    "wof:lastmodified":1566644522,
     "wof:name":"Chironta",
     "wof:parent_id":102063165,
     "wof:placetype":"locality",

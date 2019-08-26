@@ -14,6 +14,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.455939,
     "lbl:longitude":-70.641068,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.457796,
     "mps:longitude":-70.642608,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
     "name:spa_x_variant":[
         "Sta Carolina",
         "Sta. Carolina"
-    ],
-    "name:unk_x_variant":[
-        "Santa Carolina"
     ],
     "name:zho_x_preferred":[
         "\u8056\u5361\u7f85\u91cc\u7d0d\u5cf6"
@@ -74,9 +72,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":115,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85682207,
         102191577,
@@ -88,7 +85,6 @@
     "wof:concordances":{
         "gn:id":3871644,
         "gp:id":349506,
-        "qs:id":553173,
         "qs_pg:id":553173
     },
     "wof:country":"CL",
@@ -107,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564113570,
+    "wof:lastmodified":1566644281,
     "wof:name":"Santa Carolina",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

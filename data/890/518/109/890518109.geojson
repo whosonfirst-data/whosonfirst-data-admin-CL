@@ -11,8 +11,12 @@
     "geom:longitude":-70.666702,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.766702,-32.85,-70.566702,-32.65",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Santa Maria"
     ],
@@ -148,7 +152,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794352,
-        "qs:id":1154650,
+        "qs_pg:id":1154650,
         "wk:page":"Santa Maria"
     },
     "wof:country":"CL",
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":890518109,
-    "wof:lastmodified":1564113982,
+    "wof:lastmodified":1566644646,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":102063099,
     "wof:placetype":"localadmin",

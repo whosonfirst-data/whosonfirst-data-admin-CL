@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.22,-30.40333,-71.18,-30.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "El Cobre"
     ],
@@ -41,8 +45,7 @@
         "El Cobre"
     ],
     "name:und_x_variant":[
-        "Cobre",
-        "El Cobre"
+        "Cobre"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209306223,
-    "wof:lastmodified":1564113738,
+    "wof:lastmodified":1566644465,
     "wof:name":"El Cobre",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

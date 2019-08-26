@@ -11,11 +11,15 @@
     "geom:longitude":-70.64062,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.66062,-28.15163,-70.62062,-28.11163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Algarrobal"
     ],
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3949800,
         "gp:id":350161,
-        "qs:id":151208,
+        "qs_pg:id":151208,
         "wk:page":"El Algarrobal District"
     },
     "wof:country":"CL",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890518199,
-    "wof:lastmodified":1564113983,
+    "wof:lastmodified":1566644647,
     "wof:name":"Algarrobal",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

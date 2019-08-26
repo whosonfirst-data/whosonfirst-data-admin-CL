@@ -11,8 +11,12 @@
     "geom:longitude":-68.637313,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-68.737313,-19.381332,-68.537313,-19.181332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0634\u0627\u0646\u064a"
     ],
@@ -97,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794318,
-        "qs:id":1019424,
+        "qs_pg:id":1019424,
         "wd:id":"Q3839",
         "wk:page":"Colchane"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890517859,
-    "wof:lastmodified":1563582263,
+    "wof:lastmodified":1566644606,
     "wof:name":"Colchane",
     "wof:parent_id":890517491,
     "wof:placetype":"localadmin",

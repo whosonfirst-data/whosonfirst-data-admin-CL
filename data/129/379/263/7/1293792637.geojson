@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.8695,-44.26031,-71.8295,-44.22031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Lago Verde"
     ],
@@ -58,8 +62,7 @@
         "Lago Verde"
     ],
     "name:und_x_variant":[
-        "Estancia Lago Verde",
-        "Lago Verde"
+        "Estancia Lago Verde"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06af\u0648 \u0648\u06cc\u0631\u0688\u06cc"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1293792637,
-    "wof:lastmodified":1564113597,
+    "wof:lastmodified":1566644372,
     "wof:name":"Lago Verde",
     "wof:parent_id":102063079,
     "wof:placetype":"locality",

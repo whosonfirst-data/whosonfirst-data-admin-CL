@@ -11,8 +11,12 @@
     "geom:longitude":-71.33749,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.43749,-30.06306,-71.23749,-29.86306",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u064a\u0645\u0628\u0648"
     ],
@@ -218,7 +222,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794139,
-        "qs:id":1314586,
+        "qs_pg:id":1314586,
         "wd:id":"Q3871",
         "wk:page":"Coquimbo"
     },
@@ -235,7 +239,7 @@
         }
     ],
     "wof:id":890517611,
-    "wof:lastmodified":1563582262,
+    "wof:lastmodified":1566644606,
     "wof:name":"Coquimbo",
     "wof:parent_id":102063091,
     "wof:placetype":"localadmin",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.28471,-43.42042,-72.24471,-43.38042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Caba\u00f1a"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226720963,
-    "wof:lastmodified":1537591175,
+    "wof:lastmodified":1566644750,
     "wof:name":"La Cabana",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

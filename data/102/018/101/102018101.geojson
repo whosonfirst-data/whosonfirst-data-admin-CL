@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.244768,
     "lbl:longitude":-71.448659,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.244768,
     "mps:longitude":-71.448659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0627\u0628\u0644\u0627\u0646\u0643\u0627"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5513,
     "wof:belongsto":[
         102191577,
@@ -111,7 +114,7 @@
         "fct:id":"06b0f3f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8261254,
         "gp:id":26794353,
-        "qs:id":352365,
+        "qs_pg:id":352365,
         "wd:id":"Q3742"
     },
     "wof:country":"CL",
@@ -129,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581430,
+    "wof:lastmodified":1566644127,
     "wof:name":"Casablanca",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.559684,
     "lbl:longitude":-70.682853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.559684,
     "mps:longitude":-70.682853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0648\u0633\u0643\u064a"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -115,7 +118,6 @@
         "fct:id":"06b10b86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3891837,
         "gp:id":347481,
-        "qs:id":1141856,
         "qs_pg:id":1141856,
         "wd:id":"Q13036"
     },
@@ -134,7 +136,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581583,
+    "wof:lastmodified":1566644176,
     "wof:name":"El Bosque",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

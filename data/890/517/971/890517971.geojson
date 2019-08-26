@@ -11,8 +11,12 @@
     "geom:longitude":-70.804202,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.904202,-33.664909,-70.704202,-33.464909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Padre Hurtado"
     ],
@@ -98,10 +102,12 @@
     "wof:concordances":{
         "gn:id":8261231,
         "gp:id":26794312,
-        "qs:id":1086538,
         "qs_pg:id":904474,
         "wd:id":"Q51062",
         "wk:page":"Padre Hurtado"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086538
     },
     "wof:country":"CL",
     "wof:created":1469056038,
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":890517971,
-    "wof:lastmodified":1563582286,
+    "wof:lastmodified":1566644613,
     "wof:name":"Padre Hurtado",
     "wof:parent_id":102063095,
     "wof:placetype":"localadmin",

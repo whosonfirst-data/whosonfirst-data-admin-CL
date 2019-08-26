@@ -11,11 +11,15 @@
     "geom:longitude":-72.63895,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.65895,-41.71116,-72.61895,-41.67116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "La Arena"
     ],
@@ -240,7 +244,7 @@
     "wof:concordances":{
         "gn:id":3886538,
         "gp:id":350047,
-        "qs:id":1314156,
+        "qs_pg:id":1314156,
         "wd:id":"Q20999524",
         "wk:page":"La Arena"
     },
@@ -257,7 +261,7 @@
         }
     ],
     "wof:id":890517601,
-    "wof:lastmodified":1563582325,
+    "wof:lastmodified":1566644625,
     "wof:name":"La Arena",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

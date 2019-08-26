@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-38.087013,
     "lbl:longitude":-71.976929,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.087013,
     "mps:longitude":-71.976929,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "Renaico"
     ],
@@ -84,7 +87,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":229,
     "wof:belongsto":[
         102191577,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":8261388,
         "gp:id":349903,
-        "qs:id":1155753,
+        "qs_pg:id":1155753,
         "wd:id":"Q56118"
     },
     "wof:country":"CL",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":102018203,
-    "wof:lastmodified":1563581405,
+    "wof:lastmodified":1566644121,
     "wof:name":"Renaico",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

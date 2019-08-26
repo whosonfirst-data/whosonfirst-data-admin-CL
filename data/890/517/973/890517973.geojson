@@ -11,8 +11,12 @@
     "geom:longitude":-69.793197,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-69.893197,-20.3084,-69.693197,-20.1084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u0648 \u0623\u0644\u0645\u0648\u0646\u062a\u064a"
     ],
@@ -100,7 +104,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794322,
-        "qs:id":1086539,
+        "qs_pg:id":1086539,
         "wd:id":"Q51585",
         "wk:page":"Pozo Almonte"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890517973,
-    "wof:lastmodified":1563582338,
+    "wof:lastmodified":1566644628,
     "wof:name":"Pozo Almonte",
     "wof:parent_id":890517491,
     "wof:placetype":"localadmin",

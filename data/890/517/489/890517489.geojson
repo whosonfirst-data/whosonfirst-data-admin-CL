@@ -11,11 +11,15 @@
     "geom:longitude":-70.71185,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.73185,-33.5126,-70.69185,-33.4726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Los Cerrillos"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3882233,
         "gp:id":348443,
-        "qs:id":1262757,
+        "qs_pg:id":1262757,
         "wk:page":"Los Cerrillos"
     },
     "wof:country":"CL",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890517489,
-    "wof:lastmodified":1564113954,
+    "wof:lastmodified":1566644622,
     "wof:name":"Los Cerrillos",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.61743,-27.18051,-69.57743,-27.14051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cebola",
         "Cebolla",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226574815,
-    "wof:lastmodified":1537591137,
+    "wof:lastmodified":1566644774,
     "wof:name":"La Cebolla",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

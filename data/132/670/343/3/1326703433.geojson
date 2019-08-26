@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-68.9014,-19.81355,-68.8614,-19.77355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pucapucone"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326703433,
-    "wof:lastmodified":1537591112,
+    "wof:lastmodified":1566643977,
     "wof:name":"Pucapucone",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-71.20111,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.22111,-32.75689,-71.18111,-32.71689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nogales"
     ],
@@ -70,9 +74,6 @@
     "name:swe_x_preferred":[
         "Nogales"
     ],
-    "name:unk_x_variant":[
-        "Nogales"
-    ],
     "name:zho_x_preferred":[
         "\u8afe\u52a0\u840a\u65af"
     ],
@@ -99,7 +100,7 @@
     "wof:concordances":{
         "gn:id":3881682,
         "gp:id":348516,
-        "qs:id":1071764,
+        "qs_pg:id":1071764,
         "wd:id":"Q51049",
         "wk:page":"Los Nogales"
     },
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":890517921,
-    "wof:lastmodified":1563582343,
+    "wof:lastmodified":1566644630,
     "wof:name":"Los Nogales",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

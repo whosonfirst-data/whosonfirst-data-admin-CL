@@ -11,11 +11,15 @@
     "geom:longitude":-70.26309,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.28309,-27.44068,-70.24309,-27.40068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Paipote"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":3877727,
         "gp:id":350082,
-        "qs:id":1270722
+        "qs_pg:id":1270722
     },
     "wof:country":"CL",
     "wof:created":1469056024,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890517763,
-    "wof:lastmodified":1505343907,
+    "wof:lastmodified":1566644598,
     "wof:name":"Paipote",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

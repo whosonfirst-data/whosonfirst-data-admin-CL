@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.10179,-41.26803,-73.06179,-41.22803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pichilaguna"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209899777,
-    "wof:lastmodified":1537591177,
+    "wof:lastmodified":1566644494,
     "wof:name":"Pichilaguna",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

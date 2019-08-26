@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.60333,-33.52,-70.56333,-33.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Chacarilla",
         "Chacarilla de Macul"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276740143,
-    "wof:lastmodified":1537591161,
+    "wof:lastmodified":1566644422,
     "wof:name":"Chacarilla de Macul",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

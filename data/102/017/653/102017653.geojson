@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.526978,
     "lbl:longitude":-70.688392,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.526978,
     "mps:longitude":-70.688392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lo Espejo"
     ],
@@ -70,9 +73,6 @@
     "name:swe_x_preferred":[
         "Lo Espejo"
     ],
-    "name:unk_x_variant":[
-        "Lo Espejo"
-    ],
     "name:zho_x_preferred":[
         "\u6d1b\u57c3\u65af\u4f69\u970d"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -105,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3889867,
         "gp:id":347732,
-        "qs:id":1320216,
         "qs_pg:id":1320216,
         "wd:id":"Q14503"
     },
@@ -121,7 +120,7 @@
         }
     ],
     "wof:id":102017653,
-    "wof:lastmodified":1563581694,
+    "wof:lastmodified":1566644215,
     "wof:name":"Espejo",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

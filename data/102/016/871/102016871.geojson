@@ -14,6 +14,8 @@
     "iso:country":"CL",
     "lbl:latitude":-23.190863,
     "lbl:longitude":-68.010864,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.190863,
     "mps:longitude":-68.010864,
     "mz:hierarchy_label":1,
@@ -147,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191577,
@@ -159,7 +161,6 @@
     "wof:concordances":{
         "gn:id":3869724,
         "gp:id":350149,
-        "qs:id":1210482,
         "qs_pg:id":1210482,
         "wd:id":"Q7812041",
         "wk:page":"Toconao"
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":102016871,
-    "wof:lastmodified":1563581498,
+    "wof:lastmodified":1566644148,
     "wof:name":"Toconao",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

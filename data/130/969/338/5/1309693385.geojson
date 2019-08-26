@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.60333,-35.83667,-72.56333,-35.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Lomas"
     ],
@@ -56,8 +60,7 @@
         "Las Lomas"
     ],
     "name:und_x_variant":[
-        "Lomas",
-        "Las Lomas"
+        "Lomas"
     ],
     "name:vol_x_preferred":[
         "Las Lomas"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1309693385,
-    "wof:lastmodified":1564113918,
+    "wof:lastmodified":1566644594,
     "wof:name":"Las Lomas",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

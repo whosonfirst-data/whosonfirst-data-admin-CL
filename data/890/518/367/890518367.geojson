@@ -11,8 +11,12 @@
     "geom:longitude":-71.16118,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.26118,-32.899999,-71.06118,-32.699999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hijuelas"
     ],
@@ -101,10 +105,12 @@
     "wof:concordances":{
         "gn:id":8261442,
         "gp:id":26794335,
-        "qs:id":221561,
-        "qs_pg:id":381588,
+        "qs_pg:id":221561,
         "wd:id":"Q13071",
         "wk:page":"Hijuelas"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":381588
     },
     "wof:country":"CL",
     "wof:created":1469056061,
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":890518367,
-    "wof:lastmodified":1563582398,
+    "wof:lastmodified":1566644646,
     "wof:name":"Hijuelas",
     "wof:parent_id":102063103,
     "wof:placetype":"localadmin",

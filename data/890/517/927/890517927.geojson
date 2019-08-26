@@ -11,8 +11,12 @@
     "geom:longitude":-72.396469,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.416469,-50.803582,-72.376469,-50.763582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Estancia las Cumbres",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Magallanes y Antartica Chilena",
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":350018,
-        "qs:id":1075311
+        "qs_pg:id":1075311
     },
     "wof:country":"CL",
     "wof:created":1469056036,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890517927,
-    "wof:lastmodified":1499963299,
+    "wof:lastmodified":1566644628,
     "wof:name":"Estancia las Cumbres",
     "wof:parent_id":102063081,
     "wof:placetype":"locality",

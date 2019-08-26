@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.657876,
     "lbl:longitude":-71.114502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.657876,
     "mps:longitude":-71.114502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nogales"
     ],
@@ -84,7 +87,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":8261218,
         "gp:id":348516,
-        "qs:id":904473,
+        "qs_pg:id":904473,
         "wd:id":"Q51049"
     },
     "wof:country":"CL",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":102018077,
-    "wof:lastmodified":1563581394,
+    "wof:lastmodified":1566644117,
     "wof:name":"Nogales",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

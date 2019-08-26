@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-18.696765,
     "lbl:longitude":-69.974231,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Arica y Parinacota",
     "meso:gadm_admin":"Arica",
     "meso:gadm_hasc2":"CL.TA.AR",
@@ -32,6 +34,7 @@
     "mps:longitude":-69.964851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0410\u0440\u0438\u043a\u0430"
     ],
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"8,726",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Arica",
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102063165,
-    "wof:lastmodified":1561749777,
+    "wof:lastmodified":1566644050,
     "wof:name":"Arica",
     "wof:parent_id":1108804709,
     "wof:placetype":"county",

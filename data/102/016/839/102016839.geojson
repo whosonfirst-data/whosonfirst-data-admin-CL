@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":3124875.196863,
+    "geom:area_square_m":3124875.196866,
     "geom:bbox":"-70.7788985128,-30.9724978902,-70.7579666468,-30.954459964",
     "geom:latitude":-30.963479,
     "geom:longitude":-70.768433,
@@ -14,9 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-30.963479,
     "lbl:longitude":-70.768433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.963479,
     "mps:longitude":-70.768433,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Coquimbo",
     "qs:a1r":"*",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3868959,
         "gp:id":349733,
-        "qs:id":992572,
         "qs_pg:id":992572
     },
     "wof:country":"CL",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":102016839,
-    "wof:lastmodified":1497298353,
+    "wof:lastmodified":1566644150,
     "wof:name":"Tulahu\u00e9n",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

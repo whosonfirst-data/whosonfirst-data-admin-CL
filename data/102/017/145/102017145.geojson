@@ -14,6 +14,8 @@
     "iso:country":"CL",
     "lbl:latitude":-41.455722,
     "lbl:longitude":-72.936617,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-41.455722,
     "mps:longitude":-72.936617,
     "mz:hierarchy_label":1,
@@ -289,7 +291,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u041c\u043e\u043d\u0442\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad de Puerto Montt"
     ],
     "name:urd_x_preferred":[
@@ -435,7 +437,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1598,
     "wof:belongsto":[
@@ -448,13 +450,12 @@
     "wof:concordances":{
         "gn:id":3874960,
         "gp:id":349883,
-        "qs:id":1062940,
         "qs_pg:id":1062940,
         "wd:id":"Q36214",
         "wk:page":"Puerto Montt"
     },
     "wof:concordances_alt":{
-        "qs:id":460396
+        "qs_pg:id":460396
     },
     "wof:country":"CL",
     "wof:geomhash":"03f81b9fd719809ab9dd00b12c18ba18",
@@ -468,7 +469,7 @@
         }
     ],
     "wof:id":102017145,
-    "wof:lastmodified":1563581602,
+    "wof:lastmodified":1566644183,
     "wof:megacity":0,
     "wof:name":"Puerto Montt",
     "wof:parent_id":102063135,

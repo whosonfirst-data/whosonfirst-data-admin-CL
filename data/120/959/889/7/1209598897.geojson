@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.88443,-41.3011,-72.84443,-41.2611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Puerto P\u00e9rez Rosales"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209598897,
-    "wof:lastmodified":1537591111,
+    "wof:lastmodified":1566644482,
     "wof:name":"Puerto Perez Rosales",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.11835,
     "lbl:longitude":-71.524604,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":-34.11835,
     "mps:longitude":-71.524604,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "name:ast_x_preferred":[
         "Rex\u00f3n del Llibertador Xeneral Bernardo O'Higgins"
     ],
@@ -92,7 +95,7 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c2c\u0c30\u0c4d\u0c1f\u0c47\u0c21\u0c30\u0c4d \u0c1c\u0c28\u0c30\u0c32\u0c4d \u0c2c\u0c46\u0c30\u0c4d\u0c28\u0c3e\u0c30\u0c4d\u0c21\u0c4b \u0c13'\u0c39\u0c3f\u0c17\u0c3f\u0c28\u0c4d\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sexta Regi\u00f3n"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +118,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -127,7 +130,7 @@
     "wof:concordances":{
         "gn:id":3883281,
         "gp:id":350254,
-        "qs:id":1033658,
+        "qs_pg:id":1033658,
         "wd:id":"Q2133",
         "wk:page":"O'Higgins Region"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":102017489,
-    "wof:lastmodified":1563581677,
+    "wof:lastmodified":1566644209,
     "wof:name":"Regi\u00f3n del Libertador General Bernardo O\u2019Higgins",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

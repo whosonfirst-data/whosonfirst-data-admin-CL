@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Punta_Arenas",
     "iso:country":"CL",
+    "lbl:bbox":"-72.69934,-51.06807,-72.65934,-51.02807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Puesto Sarmiento de Gamboa"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1343245847,
-    "wof:lastmodified":1537591188,
+    "wof:lastmodified":1566644252,
     "wof:name":"Puesto Sarmiento de Gamboa",
     "wof:parent_id":102063081,
     "wof:placetype":"locality",

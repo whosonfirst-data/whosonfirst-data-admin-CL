@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.364032,
     "lbl:longitude":-71.586914,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.364032,
     "mps:longitude":-71.586914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0648\u0631\u0627\u0631\u064a\u0647\u064a\u0648"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":254,
     "wof:belongsto":[
         102191577,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":3892884,
         "gp:id":347403,
-        "qs:id":271695,
         "qs_pg:id":271695,
         "wd:id":"Q13025",
         "wk:page":"Curarrehue"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":102017715,
-    "wof:lastmodified":1563581612,
+    "wof:lastmodified":1566644186,
     "wof:name":"Curarrehue",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

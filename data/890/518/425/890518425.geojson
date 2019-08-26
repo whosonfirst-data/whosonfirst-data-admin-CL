@@ -11,8 +11,12 @@
     "geom:longitude":-72.639022,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.739022,-39.08563,-72.539022,-38.88563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "Pitrufqu\u00e9n"
     ],
@@ -94,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794054,
-        "qs:id":248177,
+        "qs_pg:id":248177,
         "wd:id":"Q51115",
         "wk:page":"Pitrufqu\u00e9n"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890518425,
-    "wof:lastmodified":1563582364,
+    "wof:lastmodified":1566644636,
     "wof:name":"Pitrufqu\u00e9n",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

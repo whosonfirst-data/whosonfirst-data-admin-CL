@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.981329,
     "lbl:longitude":-72.509766,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.981329,
     "mps:longitude":-72.509766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Los Lagos"
     ],
@@ -84,7 +87,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":8261445,
         "gp:id":350052,
-        "qs:id":381585,
+        "qs_pg:id":381585,
         "wd:id":"Q16905"
     },
     "wof:country":"CL",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":102018235,
-    "wof:lastmodified":1563581404,
+    "wof:lastmodified":1566644120,
     "wof:name":"Los Lagos",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

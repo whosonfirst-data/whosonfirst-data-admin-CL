@@ -11,8 +11,12 @@
     "geom:longitude":-71.156902,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.256902,-34.962482,-71.056902,-34.762482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Teno"
     ],
@@ -85,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794243,
-        "qs:id":1137264,
+        "qs_pg:id":1137264,
         "wd:id":"Q2383688",
         "wk:page":"Teno"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890518089,
-    "wof:lastmodified":1563582402,
+    "wof:lastmodified":1566644648,
     "wof:name":"Teno",
     "wof:parent_id":102063147,
     "wof:placetype":"localadmin",

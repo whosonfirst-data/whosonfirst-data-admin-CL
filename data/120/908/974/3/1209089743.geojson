@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.58037,-42.70539,-73.54037,-42.66539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Detif"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209089743,
-    "wof:lastmodified":1537591151,
+    "wof:lastmodified":1566644467,
     "wof:name":"Detif",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

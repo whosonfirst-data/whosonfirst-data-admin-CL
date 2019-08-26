@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.36923,-17.75265,-69.32923,-17.71265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Anantocollo"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276409579,
-    "wof:lastmodified":1537591171,
+    "wof:lastmodified":1566644439,
     "wof:name":"Anantocollo",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

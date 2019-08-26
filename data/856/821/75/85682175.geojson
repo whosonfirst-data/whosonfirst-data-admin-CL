@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-23.391472,
     "lbl:longitude":-69.093228,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"De Antofagasta",
     "mps:latitude":-23.387473,
     "mps:longitude":-69.090428,
@@ -215,7 +216,7 @@
         "Regi\u00f3n de Antofagasta"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0ba9\u0bcd\u0b9f\u0bcb\u0baa\u0bbf\u0bb9\u0bb8\u0bcd\u0ba4\u0bbe  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b85\u0ba9\u0bcd\u0b9f\u0bcb\u0baa\u0bbf\u0bb9\u0bb8\u0bcd\u0ba4\u0bbe \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c02\u0c1f\u0c4b\u0c2b\u0c3e\u0c17\u0c38\u0c4d\u0c24\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -229,7 +230,7 @@
     "name:ukr_x_preferred":[
         "II \u0420\u0435\u0433\u0456\u043e\u043d \u0410\u043d\u0442\u043e\u0444\u0430\u0491\u0430\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Segunda Regi\u00f3n"
     ],
     "name:urd_x_preferred":[
@@ -316,9 +317,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"126,049",
     "statoids:area_mi":"48,668",
     "statoids:as_of_date":"2012-04-09",
@@ -362,11 +363,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565662675,
+    "wof:lastmodified":1566644303,
     "wof:name":"De Antofagasta",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":530879,
     "wof:population_rank":11,

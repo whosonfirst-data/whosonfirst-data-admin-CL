@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.54722,-29.92826,-70.50722,-29.88826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30ab\u30d6\u30ea\u30c8"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259577651,
-    "wof:lastmodified":1564114110,
+    "wof:lastmodified":1566644734,
     "wof:name":"Cabrito",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

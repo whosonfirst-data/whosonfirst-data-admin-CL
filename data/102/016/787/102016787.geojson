@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001211,
-    "geom:area_square_m":11191035.011618,
+    "geom:area_square_m":11191035.011622,
     "geom:bbox":"-72.3185134079,-41.6778054701,-72.2725468645,-41.6351860843",
     "geom:latitude":-41.656031,
     "geom:longitude":-72.2928,
@@ -14,9 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-41.660582,
     "lbl:longitude":-72.287244,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.660582,
     "mps:longitude":-72.287244,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -28,7 +32,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -41,7 +45,7 @@
         "gp:id":349579
     },
     "wof:country":"CL",
-    "wof:geomhash":"b11530a2f26667794e5e5096a63e0f64",
+    "wof:geomhash":"ed88f4eb9bf7077e5a30c2d573ab9afd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":102016787,
-    "wof:lastmodified":1479947999,
+    "wof:lastmodified":1566644152,
     "wof:name":"R\u00edo Puelo",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

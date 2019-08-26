@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.782084,
     "lbl:longitude":-70.570141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.782084,
     "mps:longitude":-70.570141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "San Esteban"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":272,
     "wof:belongsto":[
         102191577,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":3872264,
         "gp:id":349415,
-        "qs:id":232903,
         "qs_pg:id":232903,
         "wd:id":"Q187784",
         "wk:page":"San Esteban, Chile"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":102016983,
-    "wof:lastmodified":1563581474,
+    "wof:lastmodified":1566644143,
     "wof:name":"San Esteban",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

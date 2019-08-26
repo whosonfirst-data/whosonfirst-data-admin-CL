@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000604,
-    "geom:area_square_m":6468752.645768,
+    "geom:area_square_m":6468752.645772,
     "geom:bbox":"-70.5480830409,-30.0025169386,-70.5163689795,-29.9792230839",
     "geom:latitude":-29.990503,
     "geom:longitude":-70.530954,
     "iso:country":"CL",
     "lbl:latitude":-29.990171,
     "lbl:longitude":-70.529671,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.990171,
     "mps:longitude":-70.529671,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":349778
     },
     "wof:country":"CL",
-    "wof:geomhash":"48f26a42e3d8b8198d2bb8b3a9dd2cb8",
+    "wof:geomhash":"9458d415f200c68da0a22a4a23b45293",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102017207,
-    "wof:lastmodified":1479946141,
+    "wof:lastmodified":1566644213,
     "wof:name":"Quebrada Pinto",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

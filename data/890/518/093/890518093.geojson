@@ -11,8 +11,12 @@
     "geom:longitude":-72.299652,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.399652,-41.5941455,-72.199652,-41.3941455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0634\u0627\u0645\u0648"
     ],
@@ -97,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794160,
-        "qs:id":1137262,
+        "qs_pg:id":1137262,
         "wd:id":"Q3797",
         "wk:page":"Cocham\u00f3"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890518093,
-    "wof:lastmodified":1563582429,
+    "wof:lastmodified":1566644655,
     "wof:name":"Cocham\u00f3",
     "wof:parent_id":102063135,
     "wof:placetype":"localadmin",

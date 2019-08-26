@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-26.393058,
     "lbl:longitude":-70.045135,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-26.393058,
     "mps:longitude":-70.045135,
     "mz:hierarchy_label":1,
@@ -197,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":236,
     "wof:belongsto":[
@@ -210,7 +212,6 @@
     "wof:concordances":{
         "gn:id":3892454,
         "gp:id":347423,
-        "qs:id":326440,
         "qs_pg:id":326440,
         "wd:id":"Q13033",
         "wk:page":"Diego de Almagro, Chile"
@@ -227,7 +228,7 @@
         }
     ],
     "wof:id":102017699,
-    "wof:lastmodified":1563581682,
+    "wof:lastmodified":1566644211,
     "wof:name":"Diego de Almagro",
     "wof:parent_id":102063133,
     "wof:placetype":"locality",

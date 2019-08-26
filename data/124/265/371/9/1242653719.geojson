@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.71002,-39.95997,-72.67002,-39.91997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00d1adis",
         "Los \u00d1adis"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242653719,
-    "wof:lastmodified":1537591123,
+    "wof:lastmodified":1566644706,
     "wof:name":"Los Nadis",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

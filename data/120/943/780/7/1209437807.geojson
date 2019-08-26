@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.15223,-29.16877,-70.11223,-29.12877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633057
@@ -36,7 +40,7 @@
         "gn:id":3891658
     },
     "wof:country":"CL",
-    "wof:geomhash":"fc6fb48f2766330013c33eaf50780a18",
+    "wof:geomhash":"2ea80d7e33a34df44721039e501924fa",
     "wof:hierarchy":[
         {
             "country_id":85633057,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209437807,
-    "wof:lastmodified":1536287050,
+    "wof:lastmodified":1566644500,
     "wof:name":"El Chacay",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -70.13223,
-    -29.148770000000006,
+    -29.14877000000001,
     -70.13223,
-    -29.148770000000006
+    -29.14877000000001
 ],
   "geometry": {"coordinates":[-70.13223000000001,-29.14877000000001],"type":"Point"}
 }

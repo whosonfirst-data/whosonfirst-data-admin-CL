@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.77426,-37.29369,-72.73426,-37.25369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Monterrey"
     ],
@@ -238,8 +242,7 @@
         "\u041c\u043e\u043d\u0442\u0435\u0440\u0440\u0435\u0439"
     ],
     "name:und_x_variant":[
-        "Monterei",
-        "Monterrey"
+        "Monterei"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0631\u0626\u06cc"
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":1242670315,
-    "wof:lastmodified":1564114039,
+    "wof:lastmodified":1566644685,
     "wof:name":"Monterrey",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.137558,
     "lbl:longitude":-70.665977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.137558,
     "mps:longitude":-70.665977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u064a\u0646\u0627"
     ],
@@ -159,7 +162,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -170,7 +173,7 @@
     "wof:concordances":{
         "gn:id":8261384,
         "gp:id":347277,
-        "qs:id":1155751,
+        "qs_pg:id":1155751,
         "wd:id":"Q3841"
     },
     "wof:country":"CL",
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":102018199,
-    "wof:lastmodified":1563581428,
+    "wof:lastmodified":1566644127,
     "wof:name":"Colina",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

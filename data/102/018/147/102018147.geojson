@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.888102,
     "lbl:longitude":-73.369911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.888102,
     "mps:longitude":-73.369911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u064a\u062a"
     ],
@@ -120,7 +123,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191577,
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gn:id":8261315,
         "gp:id":26794084,
-        "qs:id":381561,
+        "qs_pg:id":381561,
         "wd:id":"Q3753"
     },
     "wof:country":"CL",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":102018147,
-    "wof:lastmodified":1563581450,
+    "wof:lastmodified":1566644134,
     "wof:name":"Ca\u00f1ete",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

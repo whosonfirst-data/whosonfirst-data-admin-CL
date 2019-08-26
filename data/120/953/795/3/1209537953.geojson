@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.77887,-36.43978,-71.73887,-36.39978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bul\u00ed",
         "San Miguel de Bul\u00ed"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209537953,
-    "wof:lastmodified":1537591104,
+    "wof:lastmodified":1566644460,
     "wof:name":"San Miguel de Buli",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

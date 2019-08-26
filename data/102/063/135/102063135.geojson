@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-41.264949,
     "lbl:longitude":-73.170369,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Los Lagos",
     "meso:gadm_admin":"Llanquihue",
     "meso:gadm_hasc2":"CL.LL.LL",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.173606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Llanquihue"
     ],
@@ -139,9 +142,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"14,876",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Puerto Montt",
@@ -162,7 +165,7 @@
     "wof:concordances":{
         "gp:id":26794001,
         "hasc:id":"CL.LG.LL",
-        "qs:id":890664,
+        "qs_pg:id":890664,
         "wd:id":"Q721408",
         "wk:page":"Llanquihue"
     },
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":102063135,
-    "wof:lastmodified":1563581278,
+    "wof:lastmodified":1566643992,
     "wof:name":"Llanquihue",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

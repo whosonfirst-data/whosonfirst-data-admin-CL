@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.193622,
     "lbl:longitude":-70.90653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.193622,
     "mps:longitude":-70.90653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lo Miranda"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":252,
     "wof:belongsto":[
         102191577,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":3882589,
         "gp:id":348389,
-        "qs:id":180615,
         "qs_pg:id":180615,
         "wd:id":"Q6663163",
         "wk:page":"Lo Miranda"
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":102017459,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1566644216,
     "wof:name":"Lo Miranda",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

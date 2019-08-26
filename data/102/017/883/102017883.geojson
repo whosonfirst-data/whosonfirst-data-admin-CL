@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.796072,
     "lbl:longitude":-73.389837,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-37.796072,
     "mps:longitude":-73.389837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u064a\u062a"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1237,
     "wof:belongsto":[
@@ -135,7 +138,6 @@
     "wof:concordances":{
         "gn:id":3896924,
         "gp:id":349895,
-        "qs:id":666865,
         "qs_pg:id":666865,
         "wd:id":"Q3753",
         "wk:page":"Ca\u00f1ete, Chile"
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":102017883,
-    "wof:lastmodified":1563581660,
+    "wof:lastmodified":1566644202,
     "wof:name":"Ca\u00f1ete",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

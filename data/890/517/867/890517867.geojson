@@ -11,8 +11,12 @@
     "geom:longitude":-71.201179,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.301179,-32.828418,-71.101179,-32.628418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nogales"
     ],
@@ -119,9 +123,11 @@
     "wof:concordances":{
         "gn:id":8261218,
         "gp:id":26794338,
-        "qs:id":1020137,
         "qs_pg:id":904473,
         "wk:page":"Nogales"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1020137
     },
     "wof:country":"CL",
     "wof:created":1469056032,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":890517867,
-    "wof:lastmodified":1564113940,
+    "wof:lastmodified":1566644609,
     "wof:name":"Nogales",
     "wof:parent_id":102063103,
     "wof:placetype":"localadmin",

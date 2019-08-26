@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.63138,
     "lbl:longitude":-70.720007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.63138,
     "mps:longitude":-70.720007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0443\u0442\u0430\u0435\u043d\u0434\u043e"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":527,
     "wof:belongsto":[
         102191577,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3874570,
         "gp:id":350338,
-        "qs:id":232986,
         "qs_pg:id":232986,
         "wd:id":"Q51604",
         "wk:page":"Putaendo"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":102017111,
-    "wof:lastmodified":1563581607,
+    "wof:lastmodified":1566644184,
     "wof:name":"Putaendo",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

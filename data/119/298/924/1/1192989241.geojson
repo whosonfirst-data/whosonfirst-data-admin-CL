@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.35333,-42.45333,-73.31333,-42.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lalin"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1192989241,
-    "wof:lastmodified":1564113801,
+    "wof:lastmodified":1566644511,
     "wof:name":"Lalin",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

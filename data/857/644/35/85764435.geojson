@@ -14,6 +14,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.472405,
     "lbl:longitude":-70.633066,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.476126,
     "mps:longitude":-70.633501,
     "mz:hierarchy_label":1,
@@ -65,9 +66,6 @@
     "name:swe_x_preferred":[
         "Luz Valdivieso"
     ],
-    "name:unk_x_variant":[
-        "Lo Valdivieso"
-    ],
     "qs:gn_adm0_cc":"CL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3871336,
@@ -97,9 +95,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":395,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85682207,
         102191577,
@@ -111,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3881260,
         "gp:id":348397,
-        "qs:id":1080384,
         "qs_pg:id":1080384,
         "wd:id":"Q6706547"
     },
@@ -131,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581804,
+    "wof:lastmodified":1566644281,
     "wof:name":"Lo Valdivieso",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

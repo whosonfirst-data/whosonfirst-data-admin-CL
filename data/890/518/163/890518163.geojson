@@ -11,8 +11,12 @@
     "geom:longitude":-71.667572,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.767572,-33.464441,-71.567572,-33.264441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Algarrobo"
     ],
@@ -76,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794341,
-        "qs:id":368879,
+        "qs_pg:id":368879,
         "wk:page":"Algarrobo"
     },
     "wof:country":"CL",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890518163,
-    "wof:lastmodified":1564113983,
+    "wof:lastmodified":1566644646,
     "wof:name":"Algarrobo",
     "wof:parent_id":102063167,
     "wof:placetype":"localadmin",

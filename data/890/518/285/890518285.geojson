@@ -11,11 +11,15 @@
     "geom:longitude":-71.61456,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.63456,-33.63351,-71.59456,-33.59351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Llolleo"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3882854,
         "gp:id":350262,
-        "qs:id":189215,
+        "qs_pg:id":189215,
         "wd:id":"Q6662195",
         "wk:page":"Llolleo"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890518285,
-    "wof:lastmodified":1561749889,
+    "wof:lastmodified":1566644650,
     "wof:name":"Llolleo",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

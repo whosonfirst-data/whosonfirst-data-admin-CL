@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-23.528736,
     "lbl:longitude":-69.966431,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-23.528736,
     "mps:longitude":-69.966431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sierra Gorda"
     ],
@@ -48,7 +51,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":9498,
     "wof:belongsto":[
         102191577,
@@ -61,7 +64,7 @@
         "fct:id":"06b0b19a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8261211,
         "gp:id":26794035,
-        "qs:id":904472
+        "qs_pg:id":904472
     },
     "wof:country":"CL",
     "wof:geomhash":"ffb4bab2d11cf86eaae8c3dfab02eafc",
@@ -78,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564113449,
+    "wof:lastmodified":1566644129,
     "wof:name":"Sierra Gorda",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

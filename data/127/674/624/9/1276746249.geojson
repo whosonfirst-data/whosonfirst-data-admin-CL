@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-68.83858,-19.82607,-68.79858,-19.78607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Ba\u00f1os Andr\u00e9s Jiguata"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276746249,
-    "wof:lastmodified":1537591168,
+    "wof:lastmodified":1566644422,
     "wof:name":"Banos Andres Jiguata",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

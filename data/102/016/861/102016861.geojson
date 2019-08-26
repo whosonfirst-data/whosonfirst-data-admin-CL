@@ -15,10 +15,13 @@
     "iso:country":"CL",
     "lbl:latitude":-36.616337,
     "lbl:longitude":-72.95357,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-36.616337,
     "mps:longitude":-72.95357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Tom\u00e9"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":234,
     "wof:belongsto":[
@@ -146,7 +149,6 @@
     "wof:concordances":{
         "gn:id":3869657,
         "gp:id":349967,
-        "qs:id":454417,
         "qs_pg:id":454417,
         "wd:id":"Q200934",
         "wk:page":"Tom\u00e9"
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":102016861,
-    "wof:lastmodified":1563581465,
+    "wof:lastmodified":1566644140,
     "wof:name":"Tom\u00e9",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

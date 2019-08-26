@@ -11,8 +11,12 @@
     "geom:longitude":-72.639198,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.659198,-41.756777,-72.619198,-41.716777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0639\u0628 \u0627\u0644\u0628\u0648\u064a\u0644\u0634"
     ],
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":350098,
-        "qs:id":1075332
+        "qs_pg:id":1075332
     },
     "wof:country":"CL",
     "wof:created":1469056036,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890517935,
-    "wof:lastmodified":1564113949,
+    "wof:lastmodified":1566644617,
     "wof:name":"Puelche",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

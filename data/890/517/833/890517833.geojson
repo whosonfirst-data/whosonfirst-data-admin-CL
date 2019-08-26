@@ -11,11 +11,15 @@
     "geom:longitude":-71.20026,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.22026,-34.95527,-71.18026,-34.91527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sarmiento"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3871232,
         "gp:id":349547,
-        "qs:id":1013445,
+        "qs_pg:id":1013445,
         "wk:page":"Sarmiento"
     },
     "wof:country":"CL",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890517833,
-    "wof:lastmodified":1564113940,
+    "wof:lastmodified":1566644610,
     "wof:name":"Sarmiento",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

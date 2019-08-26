@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-22.679916,
     "lbl:longitude":-70.186157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.679916,
     "mps:longitude":-70.186157,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mejillones"
     ],
@@ -90,7 +93,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":820,
     "wof:belongsto":[
         102191577,
@@ -103,7 +106,7 @@
         "fct:id":"06b0b168-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8261203,
         "gp:id":26794034,
-        "qs:id":904471,
+        "qs_pg:id":904471,
         "wd:id":"Q16928"
     },
     "wof:country":"CL",
@@ -121,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581433,
+    "wof:lastmodified":1566644128,
     "wof:name":"Mejillones",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

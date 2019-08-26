@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-43.260256,
     "lbl:longitude":-72.329999,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Los Lagos",
     "meso:gadm_admin":"Palena",
     "meso:gadm_hasc2":"CL.LL.PL",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.267699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia de Palena"
     ],
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"8,147.0",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Chait\u00e9n",
@@ -160,7 +163,7 @@
     "wof:concordances":{
         "gp:id":26794009,
         "hasc:id":"CL.LG.PL",
-        "qs:id":430191,
+        "qs_pg:id":430191,
         "wd:id":"Q721535",
         "wk:page":"Palena"
     },
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":102063169,
-    "wof:lastmodified":1561749753,
+    "wof:lastmodified":1566644002,
     "wof:name":"Palena",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

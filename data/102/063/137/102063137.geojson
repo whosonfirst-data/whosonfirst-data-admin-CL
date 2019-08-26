@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-33.713904,
     "lbl:longitude":-70.167387,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n Metropolitana de Santiago",
     "meso:gadm_admin":"Cordillera",
     "meso:gadm_hasc2":"CL.RM.CD",
@@ -33,6 +35,7 @@
     "mps:longitude":-70.167012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0430\u0440\u0434\u044b\u043b\u044c\u0435\u0440\u0430"
     ],
@@ -145,9 +148,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"5,528",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Puente Alto",
@@ -168,7 +171,7 @@
     "wof:concordances":{
         "gp:id":26793992,
         "hasc:id":"CL.RM.CD",
-        "qs:id":1289822,
+        "qs_pg:id":1289822,
         "wd:id":"Q201331",
         "wk:page":"Cordillera"
     },
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":102063137,
-    "wof:lastmodified":1563581344,
+    "wof:lastmodified":1566644059,
     "wof:name":"Cordillera",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

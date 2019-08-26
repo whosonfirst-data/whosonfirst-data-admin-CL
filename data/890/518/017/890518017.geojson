@@ -11,8 +11,12 @@
     "geom:longitude":-72.79541,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.89541,-36.23198,-72.69541,-36.03198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cobquecura"
     ],
@@ -94,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794116,
-        "qs:id":1110065,
+        "qs_pg:id":1110065,
         "wd:id":"Q3796",
         "wk:page":"Cobquecura"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890518017,
-    "wof:lastmodified":1563582415,
+    "wof:lastmodified":1566644651,
     "wof:name":"Cobquecura",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.0102,-40.33471,-71.9702,-40.29471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326701751,
-    "wof:lastmodified":1536739624,
+    "wof:lastmodified":1566643977,
     "wof:name":"Rupameica",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

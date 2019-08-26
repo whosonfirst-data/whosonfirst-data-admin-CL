@@ -15,10 +15,13 @@
     "iso:country":"CL",
     "lbl:latitude":-38.672637,
     "lbl:longitude":-72.241394,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-38.672637,
     "mps:longitude":-72.241394,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vilc\u00fan"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":261,
     "wof:belongsto":[
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3868210,
         "gp:id":350155,
-        "qs:id":150568,
         "qs_pg:id":150568,
         "wd:id":"Q1643896",
         "wk:page":"Vilc\u00fan"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":102016819,
-    "wof:lastmodified":1563581463,
+    "wof:lastmodified":1566644140,
     "wof:name":"Vilc\u00fan",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

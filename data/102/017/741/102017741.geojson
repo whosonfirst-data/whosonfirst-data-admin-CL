@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-36.026889,
     "lbl:longitude":-72.372437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.026889,
     "mps:longitude":-72.372437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coronel"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Coronel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coronel de Maule"
     ],
     "qs:a1":"*",
@@ -69,7 +72,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":190,
     "wof:belongsto":[
         102191577,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102017741,
-    "wof:lastmodified":1564113475,
+    "wof:lastmodified":1566644190,
     "wof:name":"Coronel",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

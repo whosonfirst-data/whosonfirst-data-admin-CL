@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.26937,-36.59626,-72.22937,-36.55626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bajo El Ala",
         "El Ala"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242775603,
-    "wof:lastmodified":1537591151,
+    "wof:lastmodified":1566644702,
     "wof:name":"El Ala",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

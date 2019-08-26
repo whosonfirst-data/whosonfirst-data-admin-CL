@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001415,
-    "geom:area_square_m":13744712.198294,
+    "geom:area_square_m":13744712.19829,
     "geom:bbox":"-73.5044670221,-38.2622888802,-73.4486609375,-38.2162258133",
     "geom:latitude":-38.240157,
     "geom:longitude":-73.474751,
     "iso:country":"CL",
     "lbl:latitude":-38.239492,
     "lbl:longitude":-73.472004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.239492,
     "mps:longitude":-73.472004,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Morla Vicu\u00f1a"
     ],
     "qs:a0":"Chile",
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3874292,
         "gp:id":350118,
-        "qs:id":1047072,
         "qs_pg:id":1047072
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017091,
-    "wof:lastmodified":1497292432,
+    "wof:lastmodified":1566644173,
     "wof:name":"Quidico",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

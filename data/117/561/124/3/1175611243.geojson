@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-32.46697,
     "lbl:longitude":-71.262895,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-32.46697,
     "mps:longitude":-71.262895,
     "mz:hierarchy_label":1,
@@ -206,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":196,
     "wof:belongsto":[
@@ -220,7 +222,6 @@
     "wof:concordances":{
         "gn:id":3885456,
         "gp:id":349916,
-        "qs:id":454432,
         "qs_pg:id":454432,
         "wd:id":"Q14463",
         "wk:page":"La Ligua"
@@ -237,7 +238,7 @@
         }
     ],
     "wof:id":1175611243,
-    "wof:lastmodified":1563582136,
+    "wof:lastmodified":1566644534,
     "wof:name":"La Ligua",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

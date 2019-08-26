@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.368501,
     "lbl:longitude":-71.396956,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.368501,
     "mps:longitude":-71.396956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0435\u0442\u043e\u0440\u043a\u0430"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -104,7 +107,7 @@
         "fct:id":"06b0ef8e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8261235,
         "gp:id":26794332,
-        "qs:id":894480,
+        "qs_pg:id":894480,
         "wd:id":"Q51096"
     },
     "wof:country":"CL",
@@ -122,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581402,
+    "wof:lastmodified":1566644119,
     "wof:name":"Petorca",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

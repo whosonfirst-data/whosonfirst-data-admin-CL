@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-36.816903,
     "lbl:longitude":-73.043207,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-36.816903,
     "mps:longitude":-73.043207,
     "mz:hierarchy_label":1,
@@ -646,7 +648,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad de Concepcion"
     ],
     "name:urd_x_preferred":[
@@ -822,7 +824,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3371,
     "wof:belongsto":[
@@ -836,7 +838,6 @@
         "fct:id":"06b0c068-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3893894,
         "gp:id":349860,
-        "qs:id":776639,
         "qs_pg:id":776639,
         "wd:id":"Q1880",
         "wk:page":"Concepci\u00f3n, Chile"
@@ -856,7 +857,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581653,
+    "wof:lastmodified":1566644200,
     "wof:megacity":0,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":102063171,

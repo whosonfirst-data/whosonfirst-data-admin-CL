@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000601,
-    "geom:area_square_m":5467836.289417,
+    "geom:area_square_m":5467836.289419,
     "geom:bbox":"-73.6260743576,-42.5984914902,-73.590721091,-42.5723964301",
     "geom:latitude":-42.585444,
     "geom:longitude":-73.608398,
     "iso:country":"CL",
     "lbl:latitude":-42.585444,
     "lbl:longitude":-73.608398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-42.585444,
     "mps:longitude":-73.608398,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Aldachildu"
     ],
     "qs:a0":"Chile",
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3900226,
         "gp:id":346736,
-        "qs:id":1222684,
         "qs_pg:id":1222684
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017989,
-    "wof:lastmodified":1497295220,
+    "wof:lastmodified":1566644224,
     "wof:name":"Aldachildo",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

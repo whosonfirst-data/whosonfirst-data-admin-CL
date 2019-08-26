@@ -11,11 +11,15 @@
     "geom:longitude":-71.51593,
     "gn:country":"CL",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.61593,-33.12878,-71.41593,-32.92878",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u064a\u0627 \u062f\u064a\u0644 \u0645\u0627\u0631"
     ],
@@ -262,7 +266,7 @@
     "wof:concordances":{
         "gn:id":8261239,
         "gp:id":26794359,
-        "qs:id":202672,
+        "qs_pg:id":202672,
         "wd:id":"Q184345",
         "wk:page":"Vi\u00f1a del Mar"
     },
@@ -279,7 +283,7 @@
         }
     ],
     "wof:id":890518297,
-    "wof:lastmodified":1563582427,
+    "wof:lastmodified":1566644654,
     "wof:name":"Vi\u00f1a del Mar",
     "wof:parent_id":102063161,
     "wof:placetype":"localadmin",

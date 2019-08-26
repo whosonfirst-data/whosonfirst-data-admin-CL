@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.47923,
     "lbl:longitude":-72.009294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.47923,
     "mps:longitude":-72.009294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Quilleco"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":376,
     "wof:belongsto":[
         102191577,
@@ -101,7 +104,6 @@
         "fct:id":"06b1abf4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3874141,
         "gp:id":350343,
-        "qs:id":1248949,
         "qs_pg:id":1248949,
         "wd:id":"Q56107",
         "wk:page":"Quilleco"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581667,
+    "wof:lastmodified":1566644205,
     "wof:name":"Quilleco",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

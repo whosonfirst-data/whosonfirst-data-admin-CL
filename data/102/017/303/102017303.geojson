@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001072,
-    "geom:area_square_m":10956143.439941,
+    "geom:area_square_m":10956143.439944,
     "geom:bbox":"-70.8452017681,-34.2389846829,-70.8017295499,-34.2027879452",
     "geom:latitude":-34.218651,
     "geom:longitude":-70.825301,
     "iso:country":"CL",
     "lbl:latitude":-34.222832,
     "lbl:longitude":-70.825298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.222832,
     "mps:longitude":-70.825298,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "El Olivar"
     ],
     "qs:a0":"Chile",
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3878101,
         "gp:id":348776,
-        "qs:id":385834,
         "qs_pg:id":385834
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017303,
-    "wof:lastmodified":1497294383,
+    "wof:lastmodified":1566644193,
     "wof:name":"Olivar Alto",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":-70.496744,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.596744,-30.197269,-70.396744,-29.997269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u0430\u0439\u0433\u0443\u0430\u043d\u043e"
     ],
@@ -100,7 +104,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794142,
-        "qs:id":232480,
+        "qs_pg:id":232480,
         "wd:id":"Q51064",
         "wk:page":"Paiguano"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890518395,
-    "wof:lastmodified":1563582394,
+    "wof:lastmodified":1566644645,
     "wof:name":"Paihuano",
     "wof:parent_id":102063091,
     "wof:placetype":"localadmin",

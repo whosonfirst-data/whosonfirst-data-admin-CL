@@ -10,10 +10,14 @@
     "geom:latitude":-47.266276,
     "geom:longitude":-72.549949,
     "iso:country":"CL",
+    "lbl:bbox":"-72.5699491798,-47.2862764295,-72.5299491798,-47.2462764295",
     "lbl:latitude":-47.266276,
     "lbl:longitude":-72.549949,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0631\u064a\u0646"
     ],
@@ -208,7 +212,7 @@
         }
     ],
     "wof:id":1141907809,
-    "wof:lastmodified":1563582650,
+    "wof:lastmodified":1566644804,
     "wof:name":"Cochrane",
     "wof:parent_id":102063085,
     "wof:placetype":"locality",

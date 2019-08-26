@@ -15,10 +15,13 @@
     "iso:country":"CL",
     "lbl:latitude":-36.42973,
     "lbl:longitude":-71.96407,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-36.42973,
     "mps:longitude":-71.96407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ang_x_preferred":[
         "San Carlos"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":161.0,
     "wd:latitude":-36.416667,
@@ -134,7 +137,6 @@
     "wof:concordances":{
         "gn:id":3872326,
         "gp:id":349958,
-        "qs:id":1234547,
         "qs_pg:id":1234547,
         "wd:id":"Q56137",
         "wk:page":"San Carlos, Chile"
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":102016987,
-    "wof:lastmodified":1563581510,
+    "wof:lastmodified":1566644151,
     "wof:name":"San Carlos",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

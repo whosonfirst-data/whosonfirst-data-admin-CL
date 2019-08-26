@@ -11,7 +11,12 @@
     "geom:longitude":-72.961578,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.981578,-36.546018,-72.941578,-36.506018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Los Morros",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Biobio",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":350270,
-        "qs:id":1053941
+        "qs_pg:id":1053941
     },
     "wof:country":"CL",
     "wof:created":1469056034,
-    "wof:geomhash":"7e0ae397fc3dec3cd69a9d31240eb90b",
+    "wof:geomhash":"f26b1310f41fe4c5fcd0110a2ef8f32f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -47,7 +52,7 @@
         }
     ],
     "wof:id":890517885,
-    "wof:lastmodified":1469056034,
+    "wof:lastmodified":1566644621,
     "wof:name":"Los Morros",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

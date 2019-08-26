@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-53.151327,
     "lbl:longitude":-70.909708,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-53.151327,
     "mps:longitude":-70.909708,
     "mz:hierarchy_label":1,
@@ -293,11 +295,8 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043d\u0442\u0430-\u0410\u0440\u0435\u043d\u0430\u0441"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "PUQ"
-    ],
-    "name:unk_x_variant":[
-        "Magallanes"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0646\u062a\u0627 \u0622\u0631\u06cc\u0646\u0627\u0633"
@@ -442,7 +441,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -458,7 +457,6 @@
         "gn:id":3874787,
         "gp:id":349884,
         "nyt:id":"N15701155005980491701",
-        "qs:id":274536,
         "qs_pg:id":274536,
         "wd:id":"Q51599",
         "wk:page":"Punta Arenas"
@@ -478,7 +476,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581707,
+    "wof:lastmodified":1566644221,
     "wof:megacity":0,
     "wof:name":"Punta Arenas",
     "wof:parent_id":102063075,

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.13761,-38.6793,-72.09761,-38.6393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Patricio"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293390451,
-    "wof:lastmodified":1564113590,
+    "wof:lastmodified":1566644368,
     "wof:name":"San Patricio",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

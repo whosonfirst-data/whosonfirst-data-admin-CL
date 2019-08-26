@@ -12,6 +12,8 @@
     "iso:country":"CL",
     "lbl:latitude":-39.868203,
     "lbl:longitude":-72.79863,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.868203,
     "mps:longitude":-72.79863,
     "mz:hierarchy_label":1,
@@ -74,7 +76,7 @@
     "name:swe_x_preferred":[
         "Los Lagos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lagos"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -193,7 +195,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":219,
     "wof:belongsto":[
         102191577,
@@ -205,7 +207,6 @@
     "wof:concordances":{
         "gn:id":3881976,
         "gp:id":349924,
-        "qs:id":1301597,
         "qs_pg:id":1301597,
         "wd:id":"Q16905",
         "wk:page":"Los Lagos, Chile"
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":102017435,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1566644217,
     "wof:name":"Los Lagos",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

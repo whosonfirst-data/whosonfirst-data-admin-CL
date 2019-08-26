@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001411,
-    "geom:area_square_m":14762294.263038,
+    "geom:area_square_m":14762294.263039,
     "geom:bbox":"-71.5398394335,-32.2543412286,-71.4829270874,-32.2177298254",
     "geom:latitude":-32.233164,
     "geom:longitude":-71.512764,
     "iso:country":"CL",
     "lbl:latitude":-32.23733,
     "lbl:longitude":-71.515067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.23733,
     "mps:longitude":-71.515067,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":349916
     },
     "wof:country":"CL",
-    "wof:geomhash":"ad3633ebeaf31b213009d5e98431cd4c",
+    "wof:geomhash":"67b82aa053db920d1ac18940b31a5866",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102017431,
-    "wof:lastmodified":1479951420,
+    "wof:lastmodified":1566644177,
     "wof:name":"Los Molles",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.55145,-42.96305,-73.51145,-42.92305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nepu\u00e9",
         "Mapu\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343841293,
-    "wof:lastmodified":1537591121,
+    "wof:lastmodified":1566644250,
     "wof:name":"Mapue",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

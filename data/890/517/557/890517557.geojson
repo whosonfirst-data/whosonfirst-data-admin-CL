@@ -11,8 +11,12 @@
     "geom:longitude":-72.709806,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.809806,-43.026514,-72.609806,-42.826514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u064a\u062a\u0646"
     ],
@@ -115,7 +119,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794175,
-        "qs:id":1263707,
+        "qs_pg:id":1263707,
         "wd:id":"Q3759",
         "wk:page":"Chait\u00e9n"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890517557,
-    "wof:lastmodified":1563582245,
+    "wof:lastmodified":1566644601,
     "wof:name":"Chaiten",
     "wof:parent_id":102063169,
     "wof:placetype":"localadmin",

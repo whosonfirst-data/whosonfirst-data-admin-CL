@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-38.25975,
     "lbl:longitude":-72.60315,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.25975,
     "mps:longitude":-72.60315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "Tray\u00e9n"
     ],
@@ -81,7 +84,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":302,
     "wof:belongsto":[
         102191577,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":8261370,
         "gp:id":349968,
-        "qs:id":1155748,
+        "qs_pg:id":1155748,
         "wd:id":"Q200961"
     },
     "wof:country":"CL",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":102018189,
-    "wof:lastmodified":1563581414,
+    "wof:lastmodified":1566644122,
     "wof:name":"Traiguen",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

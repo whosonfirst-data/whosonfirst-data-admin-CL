@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000635,
-    "geom:area_square_m":7358356.886764,
+    "geom:area_square_m":7358356.88677,
     "geom:bbox":"-69.5805085485,-20.4411961881,-69.5503507904,-20.4128290929",
     "geom:latitude":-20.428548,
     "geom:longitude":-69.567059,
     "iso:country":"CL",
     "lbl:latitude":-20.429595,
     "lbl:longitude":-69.568856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.429595,
     "mps:longitude":-69.568856,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Guaica"
     ],
     "qs:a1":"*",
@@ -29,7 +33,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102017549,
-    "wof:lastmodified":1501269188,
+    "wof:lastmodified":1566644220,
     "wof:name":"La Huaica",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

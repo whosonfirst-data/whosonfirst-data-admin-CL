@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.19889,-19.80489,-69.15889,-19.76489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Limaxi\u00f1a",
         "Limacsi\u00f1a"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209598291,
-    "wof:lastmodified":1537591129,
+    "wof:lastmodified":1566644482,
     "wof:name":"Limacsina",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

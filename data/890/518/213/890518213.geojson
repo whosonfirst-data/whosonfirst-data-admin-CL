@@ -11,11 +11,15 @@
     "geom:longitude":-73.98054,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-74.00054,-41.88434,-73.96054,-41.84434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Quelalmahue",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Los Lagos",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":3874445,
         "gp:id":349167,
-        "qs:id":1009240
+        "qs_pg:id":1009240
     },
     "wof:country":"CL",
     "wof:created":1469056054,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890518213,
-    "wof:lastmodified":1505343908,
+    "wof:lastmodified":1566644651,
     "wof:name":"Quelalmahue",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

@@ -11,15 +11,18 @@
     "geom:longitude":-73.214091,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
     "lbl:latitude":-40.79402,
     "lbl:longitude":-73.215493,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.79402,
     "mps:longitude":-73.215493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "R\u00edo Negro"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":284,
     "wof:belongsto":[
@@ -110,10 +113,12 @@
     "wof:concordances":{
         "gn:id":3873116,
         "gp:id":349956,
-        "qs:id":281756,
         "qs_pg:id":150586,
         "wd:id":"Q56130",
         "wk:page":"Rio Negro"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":281756
     },
     "wof:country":"CL",
     "wof:geomhash":"1b4300ed5ca283d39e35db1f132cd898",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":102017011,
-    "wof:lastmodified":1563581666,
+    "wof:lastmodified":1566644205,
     "wof:name":"R\u00edo Negro",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

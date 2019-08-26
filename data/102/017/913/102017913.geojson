@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.477786,
     "lbl:longitude":-72.017671,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.477786,
     "mps:longitude":-72.017671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "penepenepenepenepene"
     ],
@@ -54,7 +57,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":223,
     "wof:belongsto":[
         102191577,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":102017913,
-    "wof:lastmodified":1561749829,
+    "wof:lastmodified":1566644189,
     "wof:name":"C\u00e1huil",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

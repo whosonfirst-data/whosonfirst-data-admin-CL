@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-36.055099,
     "lbl:longitude":-71.763517,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.055099,
     "mps:longitude":-71.763517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Retiro"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":498,
     "wof:belongsto":[
         102191577,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3873372,
         "gp:id":349299,
-        "qs:id":340769,
         "qs_pg:id":340769,
         "wd:id":"Q56122",
         "wk:page":"Retiro, Chile"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":102017029,
-    "wof:lastmodified":1563581666,
+    "wof:lastmodified":1566644205,
     "wof:name":"Retiro",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

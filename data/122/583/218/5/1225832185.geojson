@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.11236,-33.69965,-70.07236,-33.65965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Campamento Embalse El Yeso"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225832185,
-    "wof:lastmodified":1537591188,
+    "wof:lastmodified":1566644800,
     "wof:name":"Campamento Embalse El Yeso",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

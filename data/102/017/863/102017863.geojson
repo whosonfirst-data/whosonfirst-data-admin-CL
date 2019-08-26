@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00199,
-    "geom:area_square_m":20736222.344397,
+    "geom:area_square_m":20736222.344386,
     "geom:bbox":"-71.3064211784,-32.5974916249,-71.2411836287,-32.5447446676",
     "geom:latitude":-32.570186,
     "geom:longitude":-71.271023,
     "iso:country":"CL",
     "lbl:latitude":-32.563576,
     "lbl:longitude":-71.273247,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.563576,
     "mps:longitude":-71.273247,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":347063
     },
     "wof:country":"CL",
-    "wof:geomhash":"39847afbd2b8be567959631fdb3e38e8",
+    "wof:geomhash":"52a3700470459022c0b4cdcfa823fdd9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102017863,
-    "wof:lastmodified":1479951420,
+    "wof:lastmodified":1566644219,
     "wof:name":"Catapilco",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

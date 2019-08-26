@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-20.238424,
     "lbl:longitude":-70.139514,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.238424,
     "mps:longitude":-70.139514,
     "mz:hierarchy_label":1,
@@ -288,7 +290,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043a\u0456\u043a\u0435"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "IQQ"
     ],
     "name:urd_x_preferred":[
@@ -428,7 +430,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -441,7 +443,6 @@
         "fct:id":"06b14ae2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3887127,
         "gp:id":349864,
-        "qs:id":355357,
         "qs_pg:id":355357,
         "wd:id":"Q14440",
         "wk:page":"Iquique"
@@ -461,7 +462,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581606,
+    "wof:lastmodified":1566644184,
     "wof:megacity":0,
     "wof:name":"Iquique",
     "wof:parent_id":102063145,

@@ -11,8 +11,12 @@
     "geom:longitude":-70.85289,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.95289,-33.5433925,-70.75289,-33.3433925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0443\u0434\u0430\u0445\u0443\u0435\u043b"
     ],
@@ -100,7 +104,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794300,
-        "qs:id":1086535,
+        "qs_pg:id":1086535,
         "wd:id":"Q51591",
         "wk:page":"Pudahuel"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890517965,
-    "wof:lastmodified":1563582240,
+    "wof:lastmodified":1566644599,
     "wof:name":"Pudahuel",
     "wof:parent_id":102063117,
     "wof:placetype":"localadmin",

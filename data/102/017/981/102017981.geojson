@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000436,
-    "geom:area_square_m":4478656.855648,
+    "geom:area_square_m":4478656.855645,
     "geom:bbox":"-70.6913340379,-33.7561957693,-70.6587634797,-33.7380442552",
     "geom:latitude":-33.74803,
     "geom:longitude":-70.674309,
     "iso:country":"CL",
     "lbl:latitude":-33.748918,
     "lbl:longitude":-70.671051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.748918,
     "mps:longitude":-70.671051,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Alto Jahuel"
     ],
     "qs:a0":"Chile",
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3899931,
         "gp:id":350165,
-        "qs:id":1133735,
         "qs_pg:id":1133735
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017981,
-    "wof:lastmodified":1497292344,
+    "wof:lastmodified":1566644228,
     "wof:name":"Alto de Jahuel",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

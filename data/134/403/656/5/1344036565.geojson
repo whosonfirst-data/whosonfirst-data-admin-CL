@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.94985,-41.89614,-71.90985,-41.85614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344036565,
-    "wof:lastmodified":1536910519,
+    "wof:lastmodified":1566644268,
     "wof:name":"Llanada Grande",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

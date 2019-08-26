@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.791737,
     "lbl:longitude":-71.204795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.791737,
     "mps:longitude":-71.204795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0430 \u041a\u0430\u043b\u0435\u0440\u0430"
     ],
@@ -70,7 +73,7 @@
     "name:srp_x_preferred":[
         "\u041b\u0430 \u041a\u0430\u043b\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calera"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":693,
     "wof:belongsto":[
         102191577,
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":3886405,
         "gp:id":349915,
-        "qs:id":1141901,
         "qs_pg:id":1141901,
         "wd:id":"Q3713",
         "wk:page":"La Calera, Chile"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":102017569,
-    "wof:lastmodified":1563581520,
+    "wof:lastmodified":1566644154,
     "wof:name":"La Calera",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

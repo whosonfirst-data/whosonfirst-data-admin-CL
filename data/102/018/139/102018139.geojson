@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-35.817805,
     "lbl:longitude":-72.571817,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.817805,
     "mps:longitude":-72.571817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u043b\u0443\u0445\u0443\u0435"
     ],
@@ -90,7 +93,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":709,
     "wof:belongsto":[
         102191577,
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gn:id":8261306,
         "gp:id":349053,
-        "qs:id":1042637,
+        "qs_pg:id":1042637,
         "wd:id":"Q51086"
     },
     "wof:country":"CL",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":102018139,
-    "wof:lastmodified":1563581428,
+    "wof:lastmodified":1566644127,
     "wof:name":"Pelluhue",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":-71.417827,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.517827,-33.146249,-71.317827,-32.946249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u0628\u0648\u064a\u0647"
     ],
@@ -178,7 +182,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794355,
-        "qs:id":216003,
+        "qs_pg:id":216003,
         "wd:id":"Q56110",
         "wk:page":"Quilpu\u00e9"
     },
@@ -195,7 +199,7 @@
         }
     ],
     "wof:id":890518323,
-    "wof:lastmodified":1563582388,
+    "wof:lastmodified":1566644643,
     "wof:name":"Quilpu\u00e9",
     "wof:parent_id":1108721747,
     "wof:placetype":"localadmin",

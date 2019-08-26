@@ -11,8 +11,12 @@
     "geom:longitude":-72.496804,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.5968045,-38.7737165,-72.3968045,-38.5737165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vilc\u00fan"
     ],
@@ -82,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794060,
-        "qs:id":286100,
+        "qs_pg:id":286100,
         "wd:id":"Q1643896",
         "wk:page":"Vilc\u00fan"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890517643,
-    "wof:lastmodified":1563582252,
+    "wof:lastmodified":1566644603,
     "wof:name":"Vilc\u00fan",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

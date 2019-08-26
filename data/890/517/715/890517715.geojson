@@ -11,8 +11,12 @@
     "geom:longitude":-71.742095,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.842095,-35.752832,-71.642095,-35.552832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:name":"Villa Alegre",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Maule",
@@ -38,9 +42,11 @@
     "wof:concordances":{
         "gn:id":8261292,
         "gp:id":26794251,
-        "qs:id":1110088,
         "qs_pg:id":381556,
         "wk:page":"Villa Alegre"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110088
     },
     "wof:country":"CL",
     "wof:created":1469056021,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890517715,
-    "wof:lastmodified":1527749996,
+    "wof:lastmodified":1566644613,
     "wof:name":"Villa Alegre",
     "wof:parent_id":102063097,
     "wof:placetype":"localadmin",

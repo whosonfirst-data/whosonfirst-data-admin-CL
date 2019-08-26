@@ -12,8 +12,12 @@
     "gn:country":"CL",
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.617391,-32.987993,-71.417391,-32.787993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0643\u0648\u0646"
     ],
@@ -98,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28358243,
-        "qs:id":400840,
+        "qs_pg:id":400840,
         "wd:id":"Q3860",
         "wk:page":"Conc\u00f3n"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890517707,
-    "wof:lastmodified":1563582250,
+    "wof:lastmodified":1566644602,
     "wof:name":"Conc\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

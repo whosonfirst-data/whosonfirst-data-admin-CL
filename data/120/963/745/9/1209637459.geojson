@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.28648,-36.26972,-72.24648,-36.22972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633057
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209637459,
-    "wof:lastmodified":1536280996,
+    "wof:lastmodified":1566644468,
     "wof:name":"Vilquico",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

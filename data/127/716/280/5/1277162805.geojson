@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.11804,-34.43198,-70.07804,-34.39198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Placillas",
         "La Placilla"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277162805,
-    "wof:lastmodified":1537591133,
+    "wof:lastmodified":1566644455,
     "wof:name":"La Placilla",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

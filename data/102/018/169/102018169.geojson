@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-36.565255,
     "lbl:longitude":-71.547176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.565255,
     "mps:longitude":-71.547176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "San Fabi\u00e1n de Alico"
     ],
@@ -93,7 +96,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":8261337,
         "gp:id":349416,
-        "qs:id":381559,
+        "qs_pg:id":381559,
         "wd:id":"Q187795"
     },
     "wof:country":"CL",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102018169,
-    "wof:lastmodified":1563581390,
+    "wof:lastmodified":1566644116,
     "wof:name":"San Fabian",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

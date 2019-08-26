@@ -11,8 +11,12 @@
     "geom:longitude":-72.30875,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.40875,-40.807449,-72.20875,-40.607449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Pablo"
     ],
@@ -110,9 +114,11 @@
     "wof:concordances":{
         "gn:id":8261435,
         "gp:id":26794174,
-        "qs:id":114497,
-        "qs_pg:id":1246155,
+        "qs_pg:id":114497,
         "wk:page":"San Pablo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1246155
     },
     "wof:country":"CL",
     "wof:created":1469056052,
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":890518181,
-    "wof:lastmodified":1564113980,
+    "wof:lastmodified":1566644644,
     "wof:name":"San Pablo",
     "wof:parent_id":102063121,
     "wof:placetype":"localadmin",

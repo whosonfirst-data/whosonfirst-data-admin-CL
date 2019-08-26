@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.43892,-41.79593,-73.39892,-41.75593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Abtao"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226213383,
-    "wof:lastmodified":1564114138,
+    "wof:lastmodified":1566644755,
     "wof:name":"Abtao",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

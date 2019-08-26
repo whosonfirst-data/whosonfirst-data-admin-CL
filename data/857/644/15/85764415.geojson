@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000888,
-    "geom:area_square_m":9157432.764394,
+    "geom:area_square_m":9157432.764393,
     "geom:bbox":"-70.6629345416,-33.5388631161,-70.6184296301,-33.5033630158",
     "geom:latitude":-33.522892,
     "geom:longitude":-70.642102,
@@ -14,6 +14,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.518117,
     "lbl:longitude":-70.647835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.525411,
     "mps:longitude":-70.643618,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:spa_x_preferred":[
-        "La Lata"
-    ],
-    "name:unk_x_variant":[
         "La Lata"
     ],
     "qs:gn_adm0_cc":"CL",
@@ -60,8 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682207,
         102191577,
@@ -73,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3885492,
         "gp:id":348057,
-        "qs:id":1114214,
         "qs_pg:id":1114214
     },
     "wof:country":"CL",
@@ -92,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1509488086,
+    "wof:lastmodified":1566644283,
     "wof:name":"La Lata",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

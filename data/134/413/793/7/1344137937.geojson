@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.36163,-35.01279,-71.32163,-34.97279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lo Valdivia",
         "Valdivia de Lontu\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344137937,
-    "wof:lastmodified":1537591099,
+    "wof:lastmodified":1566644239,
     "wof:name":"Valdivia de Lontue",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

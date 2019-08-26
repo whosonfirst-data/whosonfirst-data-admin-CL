@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.32,-42.65333,-73.28,-42.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Capilla Nueva",
         "Tres Redes"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343344881,
-    "wof:lastmodified":1537591100,
+    "wof:lastmodified":1566644264,
     "wof:name":"Tres Redes",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

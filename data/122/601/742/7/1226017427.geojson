@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.60952,-18.78283,-69.56952,-18.74283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u064a\u062e\u0627"
     ],
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":1226017427,
-    "wof:lastmodified":1564114188,
+    "wof:lastmodified":1566644792,
     "wof:name":"Cobija",
     "wof:parent_id":102063165,
     "wof:placetype":"locality",

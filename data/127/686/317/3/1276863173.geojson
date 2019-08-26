@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.66387,-30.30387,-70.62387,-30.26387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Castillo"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1276863173,
-    "wof:lastmodified":1564113668,
+    "wof:lastmodified":1566644414,
     "wof:name":"El Castillo",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

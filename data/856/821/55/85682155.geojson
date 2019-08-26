@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-37.028919,
     "lbl:longitude":-72.040519,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Del Bio-Bio",
     "mps:latitude":-37.03037,
     "mps:longitude":-72.039782,
@@ -323,7 +324,7 @@
         "Regi\u00f3n del BioB\u00edo"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0b95\u0bc1\u0ba4\u0bbf  \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0baa\u0bcb\u0bb2\u0bbf\u0ba4\u0bbe\u0ba9\u0bbe"
+        "\u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0baa\u0bcb\u0bb2\u0bbf\u0ba4\u0bbe\u0ba9\u0bbe"
     ],
     "name:tat_x_preferred":[
         "\u0411\u0438\u043e-\u0411\u0438\u043e"
@@ -375,9 +376,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"37,069",
     "statoids:area_mi":"14,312",
     "statoids:as_of_date":"2012-04-09",
@@ -417,11 +418,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565662682,
+    "wof:lastmodified":1566644316,
     "wof:name":"Del Bio-Bio",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1950482,
     "wof:population_rank":12,

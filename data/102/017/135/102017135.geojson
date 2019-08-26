@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-41.336881,
     "lbl:longitude":-72.968136,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-41.336881,
     "mps:longitude":-72.968136,
     "mz:hierarchy_label":1,
@@ -257,7 +259,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1114,
     "wof:belongsto":[
@@ -270,7 +272,6 @@
     "wof:concordances":{
         "gn:id":3874930,
         "gp:id":349946,
-        "qs:id":1241368,
         "qs_pg:id":1241368,
         "wd:id":"Q51596",
         "wk:page":"Puerto Varas"
@@ -287,7 +288,7 @@
         }
     ],
     "wof:id":102017135,
-    "wof:lastmodified":1563581518,
+    "wof:lastmodified":1566644153,
     "wof:name":"Puerto Varas",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

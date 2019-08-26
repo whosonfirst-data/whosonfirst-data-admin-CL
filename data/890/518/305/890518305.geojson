@@ -11,8 +11,12 @@
     "geom:longitude":-72.022247,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.122247,-39.03057,-71.922247,-38.83057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Cunco"
     ],
@@ -44,9 +48,11 @@
     "wof:concordances":{
         "gn:id":8261376,
         "gp:id":26794043,
-        "qs:id":772380,
-        "qs_pg:id":1155749,
+        "qs_pg:id":772380,
         "wk:page":"Cunco"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155749
     },
     "wof:country":"CL",
     "wof:created":1469056057,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890518305,
-    "wof:lastmodified":1564113984,
+    "wof:lastmodified":1566644647,
     "wof:name":"Cunco",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

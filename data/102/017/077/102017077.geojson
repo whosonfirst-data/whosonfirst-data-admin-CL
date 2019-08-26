@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-36.747694,
     "lbl:longitude":-72.470568,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.747694,
     "mps:longitude":-72.470568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Quill\u00f3n"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":210,
     "wof:belongsto":[
         102191577,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":3874122,
         "gp:id":349213,
-        "qs:id":367962,
         "qs_pg:id":367962,
         "wd:id":"Q56109",
         "wk:page":"Quill\u00f3n"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":102017077,
-    "wof:lastmodified":1563581556,
+    "wof:lastmodified":1566644166,
     "wof:name":"Quill\u00f3n",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

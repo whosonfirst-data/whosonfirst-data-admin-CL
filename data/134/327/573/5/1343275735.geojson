@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.70431,-32.83037,-70.66431,-32.79037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sco_x_preferred":[
         "Bucalemu"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343275735,
-    "wof:lastmodified":1564113557,
+    "wof:lastmodified":1566644271,
     "wof:name":"Bucalemu",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

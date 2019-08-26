@@ -11,7 +11,12 @@
     "geom:longitude":-73.094744,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.114744,-36.65757,-73.074744,-36.61757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Quiriguina I",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Biobio",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794362,
-        "qs:id":216004
+        "qs_pg:id":216004
     },
     "wof:country":"CL",
     "wof:created":1469056059,
-    "wof:geomhash":"48e9117eb1dfe7b1815744f870897dcd",
+    "wof:geomhash":"8d4953f5e06c62f6703e406aac37d313",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -47,7 +52,7 @@
         }
     ],
     "wof:id":890518325,
-    "wof:lastmodified":1469056059,
+    "wof:lastmodified":1566644644,
     "wof:name":"Quiriguina I",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

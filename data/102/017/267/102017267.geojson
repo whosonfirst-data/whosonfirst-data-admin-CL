@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.506395,
     "lbl:longitude":-71.437437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.506395,
     "mps:longitude":-71.437437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0434\u043e"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":253,
     "wof:belongsto":[
         102191577,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3877251,
         "gp:id":349937,
-        "qs:id":150602,
         "qs_pg:id":150602,
         "wd:id":"Q51079",
         "wk:page":"Papudo"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":102017267,
-    "wof:lastmodified":1563581585,
+    "wof:lastmodified":1566644177,
     "wof:name":"Papudo",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

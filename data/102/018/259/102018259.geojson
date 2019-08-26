@@ -12,9 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-41.306697,
     "lbl:longitude":-73.22937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.306697,
     "mps:longitude":-73.22937,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":350070
     },
     "wof:country":"CL",
-    "wof:geomhash":"702c86ff4e8a431d6c34ae8debc370e5",
+    "wof:geomhash":"e925b04d6f6ee14ae5e95e3d4d009da6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102018259,
-    "wof:lastmodified":1479948000,
+    "wof:lastmodified":1566644119,
     "wof:name":"Loncotoro",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.47379,-38.65565,-72.43379,-38.61565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pillanlelb\u00fan"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226442865,
-    "wof:lastmodified":1537591113,
+    "wof:lastmodified":1566644754,
     "wof:name":"Pillanlelbun",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

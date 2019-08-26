@@ -11,16 +11,18 @@
     "geom:longitude":-70.717156,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
-    "gn:population":55441,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
     "lbl:latitude":-33.731568,
     "lbl:longitude":-70.728772,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-33.731568,
     "mps:longitude":-70.728772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646"
     ],
@@ -90,7 +92,7 @@
     "name:swe_x_preferred":[
         "Buin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maipo"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":16,
     "wof:belongsto":[
@@ -136,10 +138,12 @@
     "wof:concordances":{
         "gn:id":3897774,
         "gp:id":346900,
-        "qs:id":1262737,
         "qs_pg:id":353402,
         "wd:id":"Q3656",
         "wk:page":"Buin"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1262737
     },
     "wof:country":"CL",
     "wof:geomhash":"dba2b8c1c45326bc1fde57803d121a29",
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":102017929,
-    "wof:lastmodified":1563581704,
+    "wof:lastmodified":1566644220,
     "wof:name":"Buin",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

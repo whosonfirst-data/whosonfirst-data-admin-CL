@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-31.638317,
     "lbl:longitude":-71.174692,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-31.638317,
     "mps:longitude":-71.174692,
     "mz:hierarchy_label":1,
@@ -230,7 +232,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":389,
     "wof:belongsto":[
@@ -243,7 +245,6 @@
     "wof:concordances":{
         "gn:id":3887344,
         "gp:id":349913,
-        "qs:id":507849,
         "qs_pg:id":507849,
         "wd:id":"Q14434",
         "wk:page":"Illapel"
@@ -260,7 +261,7 @@
         }
     ],
     "wof:id":102017585,
-    "wof:lastmodified":1563581705,
+    "wof:lastmodified":1566644221,
     "wof:name":"Illapel",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

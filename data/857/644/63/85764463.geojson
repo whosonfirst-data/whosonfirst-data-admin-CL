@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20097453.958628,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.609181,-33.036514,-71.609181,-33.036514",
     "geom:latitude":-33.036514,
     "geom:longitude":-71.609181,
     "gn:id":"",
     "iso:country":"CL",
+    "lbl:bbox":"-71.614181,-33.041514,-71.604181,-33.031514",
     "lbl:latitude":-33.036514,
     "lbl:longitude":-71.609181,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.014967,
     "mps:longitude":-71.6098,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Placeres"
-    ],
-    "name:unk_x_variant":[
         "Placeres"
     ],
     "qs:gn_id":0,
@@ -56,19 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016833,
-        102063161,
-        85682143
+        102063161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":348974,
-        "qs:id":460259,
         "qs_pg:id":460259
     },
     "wof:country":"CL",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858900,
+    "wof:lastmodified":1566644282,
     "wof:name":"Placeres",
     "wof:parent_id":102016833,
     "wof:placetype":"neighbourhood",

@@ -10,10 +10,14 @@
     "geom:latitude":-31.180023,
     "geom:longitude":-70.999992,
     "iso:country":"CL",
+    "lbl:bbox":"-71.0199921078,-31.2000231743,-70.9799921078,-31.1600231743",
     "lbl:latitude":-31.180023,
     "lbl:longitude":-70.999992,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041a\u043e\u043c\u0431\u0430\u0440\u0431\u0430\u043b\u0430"
     ],
@@ -199,7 +203,7 @@
         }
     ],
     "wof:id":1141906589,
-    "wof:lastmodified":1563582642,
+    "wof:lastmodified":1566644802,
     "wof:name":"Combarbala",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

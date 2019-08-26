@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-36.716443,
     "lbl:longitude":-71.880938,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n del B\u00edo-B\u00edo",
     "meso:gadm_admin":"\u00d1uble",
     "meso:gadm_hasc2":"CL.BI.NU",
@@ -32,6 +34,7 @@
     "mps:longitude":-71.880629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "\u00d1uble jisk'a suyu"
     ],
@@ -129,9 +132,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"9,224.0",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Chill\u00e1n",
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":102063109,
-    "wof:lastmodified":1561749778,
+    "wof:lastmodified":1566644052,
     "wof:name":"\u00d1uble",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

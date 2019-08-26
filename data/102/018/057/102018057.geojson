@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.547094,
     "lbl:longitude":-70.640487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.547094,
     "mps:longitude":-70.640487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "San Ram\u00f3n"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -101,7 +104,7 @@
         "fct:id":"06b0ea7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8261158,
         "gp:id":26794307,
-        "qs:id":352366,
+        "qs_pg:id":352366,
         "wd:id":"Q187919"
     },
     "wof:country":"CL",
@@ -119,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581443,
+    "wof:lastmodified":1566644132,
     "wof:name":"San Ramon",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

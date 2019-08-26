@@ -11,15 +11,19 @@
     "geom:longitude":-69.79542,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-69.81542,-20.22805,-69.77542,-20.18805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Humberstone"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oficina Humberstone"
     ],
     "qs:name":"Humberstone",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3887458,
         "gp:id":350250,
-        "qs:id":216639,
+        "qs_pg:id":216639,
         "wk:page":"Humberstone"
     },
     "wof:country":"CL",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890518351,
-    "wof:lastmodified":1564113983,
+    "wof:lastmodified":1566644646,
     "wof:name":"Humberstone",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

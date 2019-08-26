@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.54389,-17.86888,-69.50389,-17.82888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260052449,
-    "wof:lastmodified":1537031473,
+    "wof:lastmodified":1566644527,
     "wof:name":"Chapuma",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

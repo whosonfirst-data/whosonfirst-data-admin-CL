@@ -11,7 +11,12 @@
     "geom:longitude":-73.563251,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.583251,-37.219022,-73.543251,-37.179022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Aguapie",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Biobio",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":350160,
-        "qs:id":1075336
+        "qs_pg:id":1075336
     },
     "wof:country":"CL",
     "wof:created":1469056051,
-    "wof:geomhash":"5a6e3953b2255dbacf481c702488a633",
+    "wof:geomhash":"087b0658c1a262935fbdae5b678cb438",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -47,7 +52,7 @@
         }
     ],
     "wof:id":890518161,
-    "wof:lastmodified":1469056051,
+    "wof:lastmodified":1566644633,
     "wof:name":"Aguapie",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20167624.164033,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.62397,-33.624162,-71.62397,-33.624162",
     "geom:latitude":-33.624162,
     "geom:longitude":-71.62397,
     "gn:latitude":-33.61928,
     "gn:longitude":-71.61283,
     "iso:country":"CL",
+    "lbl:bbox":"-71.62897,-33.629162,-71.61897,-33.619162",
     "lbl:latitude":-33.624162,
     "lbl:longitude":-71.62397,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.632856,
     "mps:longitude":-71.629272,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Tejas Verdes"
-    ],
-    "name:unk_x_variant":[
         "Tejas Verdes"
     ],
     "qs:gn_adm0_cc":"CL",
@@ -61,20 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016993,
-        102063167,
-        85682143
+        102063167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3870044,
         "gp:id":349638,
-        "qs:id":1080386,
         "qs_pg:id":1080386
     },
     "wof:country":"CL",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858904,
+    "wof:lastmodified":1566644282,
     "wof:name":"Tejas Verdes",
     "wof:parent_id":102016993,
     "wof:placetype":"neighbourhood",

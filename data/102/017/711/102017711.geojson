@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-34.985113,
     "lbl:longitude":-71.230123,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-34.985113,
     "mps:longitude":-71.230123,
     "mz:hierarchy_label":1,
@@ -177,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0456\u043a\u043e"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "ZCQ"
     ],
     "name:urd_x_preferred":[
@@ -302,7 +304,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -315,7 +317,6 @@
         "fct:id":"06b14e34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3892870,
         "gp:id":349880,
-        "qs:id":1047109,
         "qs_pg:id":1047109,
         "wd:id":"Q13030"
     },
@@ -334,7 +335,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581721,
+    "wof:lastmodified":1566644228,
     "wof:name":"Curic\u00f3",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

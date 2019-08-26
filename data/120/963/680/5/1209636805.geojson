@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.16604,-30.55809,-71.12604,-30.51809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633057
@@ -36,7 +40,7 @@
         "gn:id":3890877
     },
     "wof:country":"CL",
-    "wof:geomhash":"4f14ab399dd481887566b66f6aa924ec",
+    "wof:geomhash":"eae911c3d3d78479a12f7076e556fee5",
     "wof:hierarchy":[
         {
             "country_id":85633057,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209636805,
-    "wof:lastmodified":1536281018,
+    "wof:lastmodified":1566644467,
     "wof:name":"El Olivo",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -71.14604,
-    -30.538090000000004,
+    -30.53809,
     -71.14604,
-    -30.538090000000004
+    -30.53809
 ],
   "geometry": {"coordinates":[-71.14604,-30.53809],"type":"Point"}
 }

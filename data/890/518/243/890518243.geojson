@@ -11,8 +11,12 @@
     "geom:longitude":-72.044219,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.144219,-39.743371,-71.944219,-39.543371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "pangi p\u00fclli"
     ],
@@ -107,10 +111,12 @@
     "wof:concordances":{
         "gn:id":8261354,
         "gp:id":26794188,
-        "qs:id":1263720,
         "qs_pg:id":1155742,
         "wd:id":"Q51076",
         "wk:page":"Panguipulli"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1263720
     },
     "wof:country":"CL",
     "wof:created":1469056055,
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":890518243,
-    "wof:lastmodified":1563582371,
+    "wof:lastmodified":1566644637,
     "wof:name":"Panguipulli",
     "wof:parent_id":102063183,
     "wof:placetype":"localadmin",

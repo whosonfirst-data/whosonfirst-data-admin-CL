@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.34321,-28.84344,-71.30321,-28.80344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Sauce"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1326529185,
-    "wof:lastmodified":1564113416,
+    "wof:lastmodified":1566643979,
     "wof:name":"El Sauce",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.78438,-34.59422,-71.74438,-34.55422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alto Nilahue",
         "Nilahue"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243167623,
-    "wof:lastmodified":1537591118,
+    "wof:lastmodified":1566644709,
     "wof:name":"Nilahue",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

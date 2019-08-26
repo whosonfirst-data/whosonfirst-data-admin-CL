@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.57,-38.95333,-71.53,-38.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caren-Rumi\u00f1a\u00f1i",
         "Rumi\u00f1ano"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343964027,
-    "wof:lastmodified":1537591105,
+    "wof:lastmodified":1566644231,
     "wof:name":"Ruminano",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

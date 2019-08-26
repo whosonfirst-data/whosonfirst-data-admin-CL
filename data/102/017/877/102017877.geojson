@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.257898,
     "lbl:longitude":-73.246809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.257898,
     "mps:longitude":-73.246809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carampangue"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":165,
     "wof:belongsto":[
         102191577,
@@ -56,7 +59,6 @@
         "fct:id":"06b18caa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3896767,
         "gp:id":350188,
-        "qs:id":211904,
         "qs_pg:id":211904,
         "wd:id":"Q5037677",
         "wk:page":"Carampangue"
@@ -76,7 +78,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749832,
+    "wof:lastmodified":1566644202,
     "wof:name":"Carampangue",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

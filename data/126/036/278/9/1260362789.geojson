@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.43914,-18.96363,-69.39914,-18.92363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Arepunra",
         "Arepunta"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260362789,
-    "wof:lastmodified":1537591170,
+    "wof:lastmodified":1566644518,
     "wof:name":"Arepunta",
     "wof:parent_id":102063165,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.089602,
     "lbl:longitude":-69.616129,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Antofagasta",
     "meso:gadm_admin":"Tocopilla",
     "meso:gadm_hasc2":"CL.AN.TO",
@@ -32,6 +34,7 @@
     "mps:longitude":-69.610928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u0430\u043a\u0430\u043f\u0456\u043b\u044c\u044f"
     ],
@@ -118,9 +121,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"55,444.0",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Tocopilla",
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":102063093,
-    "wof:lastmodified":1563581369,
+    "wof:lastmodified":1566644094,
     "wof:name":"Tocopilla",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

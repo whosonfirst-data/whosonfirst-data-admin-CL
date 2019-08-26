@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00032,
-    "geom:area_square_m":3119319.019355,
+    "geom:area_square_m":3119319.019351,
     "geom:bbox":"-72.7573408246,-37.9315403802,-72.7346026574,-37.9135283255",
     "geom:latitude":-37.922534,
     "geom:longitude":-72.745972,
@@ -14,9 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.922534,
     "lbl:longitude":-72.745972,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.922534,
     "mps:longitude":-72.745972,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -28,7 +32,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -41,7 +45,7 @@
         "gp:id":350386
     },
     "wof:country":"CL",
-    "wof:geomhash":"a22ca1fa7f22a9e6f844224cb0838971",
+    "wof:geomhash":"c6d279f9f424bb8bc512b5334f933be2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":102016847,
-    "wof:lastmodified":1479946209,
+    "wof:lastmodified":1566644148,
     "wof:name":"Trintre",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

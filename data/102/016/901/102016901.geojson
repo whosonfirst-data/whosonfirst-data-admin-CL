@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001692,
-    "geom:area_square_m":18006439.833277,
+    "geom:area_square_m":18006439.83329,
     "geom:bbox":"-71.1633798332,-30.6445663412,-71.0985806429,-30.5906370269",
     "geom:latitude":-30.618408,
     "geom:longitude":-71.132076,
@@ -14,9 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-30.621771,
     "lbl:longitude":-71.128883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.621771,
     "mps:longitude":-71.128883,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Coquimbo",
     "qs:a1r":"*",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3870623,
         "gp:id":349577,
-        "qs:id":1159354,
         "qs_pg:id":1159354
     },
     "wof:country":"CL",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":102016901,
-    "wof:lastmodified":1497290196,
+    "wof:lastmodified":1566644137,
     "wof:name":"Sotaqu\u00ed",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

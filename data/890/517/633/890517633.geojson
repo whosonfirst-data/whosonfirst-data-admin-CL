@@ -11,11 +11,15 @@
     "geom:longitude":-72.37302,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.39302,-38.35596,-72.35302,-38.31596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"P\u00faa",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Araucania",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":3875124,
         "gp:id":349036,
-        "qs:id":1317815
+        "qs_pg:id":1317815
     },
     "wof:country":"CL",
     "wof:created":1469056018,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890517633,
-    "wof:lastmodified":1505343906,
+    "wof:lastmodified":1566644606,
     "wof:name":"P\u00faa",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

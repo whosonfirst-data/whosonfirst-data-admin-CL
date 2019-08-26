@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11822186.641152,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.566171,-33.016836,-71.566171,-33.016836",
     "geom:latitude":-33.016836,
     "geom:longitude":-71.566171,
     "gn:latitude":-33.01667,
     "gn:longitude":-71.56667,
     "iso:country":"CL",
+    "lbl:bbox":"-71.571171,-33.021836,-71.561171,-33.011836",
     "lbl:latitude":-33.016836,
     "lbl:longitude":-71.566171,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.011077,
     "mps:longitude":-71.571133,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Poblacion Vergara"
     ],
     "name:spa_x_preferred":[
-        "Poblaci\u00f3n Vergara"
-    ],
-    "name:unk_x_variant":[
         "Poblaci\u00f3n Vergara"
     ],
     "qs:gn_fcode":"PPLX",
@@ -62,20 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016801,
-        102063161,
-        85682143
+        102063161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3875590,
         "gp:id":348997,
-        "qs:id":1114230,
         "qs_pg:id":1114230
     },
     "wof:country":"CL",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858903,
+    "wof:lastmodified":1566644283,
     "wof:name":"Poblaci\u00f3n Vergara",
     "wof:parent_id":102016801,
     "wof:placetype":"neighbourhood",

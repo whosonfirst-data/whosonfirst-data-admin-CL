@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-37.953206,
     "lbl:longitude":-72.426259,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-37.953206,
     "mps:longitude":-72.426259,
     "mz:hierarchy_label":1,
@@ -203,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":416,
     "wof:belongsto":[
@@ -216,7 +218,6 @@
     "wof:concordances":{
         "gn:id":3894177,
         "gp:id":349903,
-        "qs:id":507851,
         "qs_pg:id":507851,
         "wd:id":"Q3843",
         "wk:page":"Collipulli"
@@ -233,7 +234,7 @@
         }
     ],
     "wof:id":102017769,
-    "wof:lastmodified":1563581634,
+    "wof:lastmodified":1566644194,
     "wof:name":"Collipulli",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

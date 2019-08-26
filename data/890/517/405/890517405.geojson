@@ -11,10 +11,14 @@
     "geom:longitude":-73.18834,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":1500,
+    "gn:population":1500,
     "iso:country":"CL",
+    "lbl:bbox":"-73.20834,-39.88653,-73.16834,-39.84653",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Las Gaviotas",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":6458705,
         "gp:id":349872,
-        "qs:id":625700
+        "qs_pg:id":625700
     },
     "wof:country":"CL",
     "wof:created":1469056007,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890517405,
-    "wof:lastmodified":1505343906,
+    "wof:lastmodified":1566644624,
     "wof:name":"Las Gaviotas",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

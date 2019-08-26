@@ -12,6 +12,8 @@
     "iso:country":"CL",
     "lbl:latitude":-27.095552,
     "lbl:longitude":-70.843534,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-27.095552,
     "mps:longitude":-70.843534,
     "mz:hierarchy_label":1,
@@ -199,7 +201,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1098,
     "wof:belongsto":[
         102191577,
@@ -211,7 +213,6 @@
     "wof:concordances":{
         "gn:id":3897322,
         "gp:id":349876,
-        "qs:id":507852,
         "qs_pg:id":507852,
         "wd:id":"Q3708",
         "wk:page":"Caldera, Chile"
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":102017899,
-    "wof:lastmodified":1563581698,
+    "wof:lastmodified":1566644217,
     "wof:name":"Caldera",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

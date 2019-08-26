@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000952,
-    "geom:area_square_m":9988414.244843,
+    "geom:area_square_m":9988414.244839,
     "geom:bbox":"-71.152540229,-31.9471940012,-71.1204088204,-31.91051438",
     "geom:latitude":-31.930362,
     "geom:longitude":-71.135358,
     "iso:country":"CL",
     "lbl:latitude":-31.931615,
     "lbl:longitude":-71.135665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-31.931615,
     "mps:longitude":-71.135665,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Centro Cultural Deportivo Los Caimanes"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":179,
     "wof:belongsto":[
         102191577,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":3897410,
         "gp:id":346924,
-        "qs:id":266571,
         "qs_pg:id":266571,
         "wd:id":"Q6682550"
     },
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":102017909,
-    "wof:lastmodified":1527637769,
+    "wof:lastmodified":1566644153,
     "wof:name":"Caimanes",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

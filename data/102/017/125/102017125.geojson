@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-30.831106,
     "lbl:longitude":-71.258067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.831106,
     "mps:longitude":-71.258067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u0443\u043d\u0438\u0442\u0430\u043a\u0438"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":308,
     "wof:belongsto":[
         102191577,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":3874815,
         "gp:id":350334,
-        "qs:id":213253,
         "qs_pg:id":213253,
         "wd:id":"Q51598"
     },
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":102017125,
-    "wof:lastmodified":1563581715,
+    "wof:lastmodified":1566644225,
     "wof:name":"Punitaqui",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

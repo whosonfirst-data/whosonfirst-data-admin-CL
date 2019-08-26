@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.059326,
     "lbl:longitude":-71.080831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.059326,
     "mps:longitude":-71.080831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Olmu\u00e9"
     ],
@@ -78,7 +81,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":291,
     "wof:belongsto":[
         102191577,
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":8261449,
         "gp:id":348779,
-        "qs:id":381586,
+        "qs_pg:id":381586,
         "wd:id":"Q51058"
     },
     "wof:country":"CL",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":102018237,
-    "wof:lastmodified":1563581445,
+    "wof:lastmodified":1566644133,
     "wof:name":"Olmue",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

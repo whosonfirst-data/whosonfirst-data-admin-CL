@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.30529,-30.78804,-71.26529,-30.74804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0435\u0440\u043e\u0441"
     ],
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":1293610523,
-    "wof:lastmodified":1564113610,
+    "wof:lastmodified":1566644381,
     "wof:name":"Graneros",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

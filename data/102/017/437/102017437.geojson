@@ -5,24 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000581,
-    "geom:area_square_m":5537063.886809,
+    "geom:area_square_m":5537063.886813,
     "geom:bbox":"-72.8997802734,-39.5596518538,-72.866177898,-39.5331715036",
     "geom:latitude":-39.546395,
     "geom:longitude":-72.883234,
     "iso:country":"CL",
     "lbl:latitude":-39.546382,
     "lbl:longitude":-72.883233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.546382,
     "mps:longitude":-72.883233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0631\u0648\u0626\u0644\u0633"
     ],
     "name:spa_x_preferred":[
-        "Ciruelos"
-    ],
-    "name:unk_x_variant":[
         "Ciruelos"
     ],
     "qs:a1":"*",
@@ -36,7 +36,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":308,
     "wof:belongsto":[
         102191577,
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":102017437,
-    "wof:lastmodified":1527637773,
+    "wof:lastmodified":1566644173,
     "wof:name":"Los Ciruelos",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     "iso:country":"CL",
     "lbl:latitude":-25.403286,
     "lbl:longitude":-70.478828,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-25.403286,
     "mps:longitude":-70.478828,
     "mz:hierarchy_label":1,
@@ -76,9 +78,6 @@
     ],
     "name:tur_x_preferred":[
         "Taltal"
-    ],
-    "name:unk_x_variant":[
-        "Ciudad Taltal"
     ],
     "name:zho_min_nan_x_preferred":[
         "Taltal"
@@ -196,7 +195,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":937,
     "wof:belongsto":[
@@ -210,7 +209,6 @@
         "fct:id":"06b1b1e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3870243,
         "gp:id":350376,
-        "qs:id":900069,
         "qs_pg:id":900069,
         "wd:id":"Q188049",
         "wk:page":"Taltal"
@@ -230,7 +228,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581461,
+    "wof:lastmodified":1566644139,
     "wof:name":"Taltal",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

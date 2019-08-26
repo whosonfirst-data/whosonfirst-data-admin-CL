@@ -11,10 +11,14 @@
     "geom:longitude":-70.75368,
     "gn:country":"CL",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CL",
+    "lbl:bbox":"-70.85368,-32.83642,-70.65368,-32.63642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"San Felipe",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8261220,
-        "qs:id":1155737
+        "qs_pg:id":1155737
     },
     "wof:country":"CL",
     "wof:created":1469056010,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890517471,
-    "wof:lastmodified":1505343906,
+    "wof:lastmodified":1566644603,
     "wof:name":"San Felipe",
     "wof:parent_id":102063099,
     "wof:placetype":"localadmin",

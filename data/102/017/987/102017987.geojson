@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-41.383667,
     "lbl:longitude":-72.912887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.383667,
     "mps:longitude":-72.912887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alerce"
     ],
@@ -25,7 +28,7 @@
     "name:spa_x_preferred":[
         "Alerce"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Abtao"
     ],
     "qs:a0":"Chile",
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191577,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":3900190,
         "gp:id":346738,
-        "qs:id":912070,
         "qs_pg:id":912070,
         "wd:id":"Q4716204"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102017987,
-    "wof:lastmodified":1561749835,
+    "wof:lastmodified":1566644222,
     "wof:name":"Alerce",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

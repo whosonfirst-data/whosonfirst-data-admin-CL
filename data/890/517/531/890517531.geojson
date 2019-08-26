@@ -11,11 +11,15 @@
     "geom:longitude":-71.27038,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.29038,-33.00698,-71.25038,-32.96698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Limache"
     ],
@@ -67,9 +71,6 @@
     "name:swe_x_preferred":[
         "Limache"
     ],
-    "name:unk_x_variant":[
-        "Limache"
-    ],
     "name:zho_x_preferred":[
         "\u5229\u99ac\u5207"
     ],
@@ -95,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3872206,
         "gp:id":349422,
-        "qs:id":1210460,
+        "qs_pg:id":1210460,
         "wd:id":"Q14493"
     },
     "wof:country":"CL",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890517531,
-    "wof:lastmodified":1561749887,
+    "wof:lastmodified":1566644618,
     "wof:name":"San Francisco de Limache",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":-68.261146,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-68.361146,-21.308498,-68.161146,-21.108498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Ullawi"
     ],
@@ -100,7 +104,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794038,
-        "qs:id":1019476,
+        "qs_pg:id":1019476,
         "wd:id":"Q1420297",
         "wk:page":"Ollag\u00fce"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890517863,
-    "wof:lastmodified":1563582334,
+    "wof:lastmodified":1566644627,
     "wof:name":"Ollag\u00fce",
     "wof:parent_id":102063131,
     "wof:placetype":"localadmin",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000748,
-    "geom:area_square_m":7602896.620146,
+    "geom:area_square_m":7602896.620151,
     "geom:bbox":"-70.8782204701,-34.709990423,-70.8454098135,-34.6738977284",
     "geom:latitude":-34.691553,
     "geom:longitude":-70.860436,
     "iso:country":"CL",
     "lbl:latitude":-34.692427,
     "lbl:longitude":-70.856842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.692427,
     "mps:longitude":-70.856842,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0643\u0648\u0644\u064a\u0627 \u062f\u064a \u0644\u0627\u0633 \u0628\u064a\u0646\u064a\u0627\u0633"
     ],
@@ -56,7 +60,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -69,7 +73,7 @@
         "gp:id":349061
     },
     "wof:country":"CL",
-    "wof:geomhash":"8812d461c63ed5c3ade45449b36a703e",
+    "wof:geomhash":"2ad3fb31227bd8cad27776dc325f335e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":102017505,
-    "wof:lastmodified":1479950512,
+    "wof:lastmodified":1566644157,
     "wof:name":"Las Pe\u00f1as",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

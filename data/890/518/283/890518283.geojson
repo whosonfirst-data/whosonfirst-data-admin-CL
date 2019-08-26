@@ -11,11 +11,15 @@
     "geom:longitude":-71.09831,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.11831,-34.3895,-71.07831,-34.3495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "El Manzano"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041c\u0430\u043d\u0441\u0430\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manzano"
     ],
     "name:uzb_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":3891084,
         "gp:id":347573,
-        "qs:id":433615,
+        "qs_pg:id":433615,
         "wk:page":"El Manzano"
     },
     "wof:country":"CL",
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890518283,
-    "wof:lastmodified":1564113984,
+    "wof:lastmodified":1566644648,
     "wof:name":"El Manzano",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

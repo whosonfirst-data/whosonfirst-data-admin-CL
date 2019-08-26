@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000311,
-    "geom:area_square_m":3118989.66465,
+    "geom:area_square_m":3118989.664645,
     "geom:bbox":"-71.8012024643,-35.7153829417,-71.779119662,-35.6973716105",
     "geom:latitude":-35.706377,
     "geom:longitude":-71.790161,
     "iso:country":"CL",
     "lbl:latitude":-35.706378,
     "lbl:longitude":-71.790161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.706378,
     "mps:longitude":-71.790161,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":348636
     },
     "wof:country":"CL",
-    "wof:geomhash":"2f2110ed56b95350d24003e2917c7e63",
+    "wof:geomhash":"ac1ac67d92b00102c55e290afd183da3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102017365,
-    "wof:lastmodified":1479951778,
+    "wof:lastmodified":1566644155,
     "wof:name":"Melozal",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

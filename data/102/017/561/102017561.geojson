@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-41.211819,
     "lbl:longitude":-72.547775,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-41.211819,
     "mps:longitude":-72.547775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ensenada"
     ],
@@ -33,9 +36,6 @@
         "La Ensenada"
     ],
     "name:spa_x_variant":[
-        "Ensenada"
-    ],
-    "name:unk_x_variant":[
         "Ensenada"
     ],
     "qs:a0":"Chile",
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -69,7 +69,6 @@
     "wof:concordances":{
         "gn:id":3886055,
         "gp:id":347998,
-        "qs:id":895891,
         "qs_pg:id":895891,
         "wd:id":"Q3054947"
     },
@@ -85,7 +84,7 @@
         }
     ],
     "wof:id":102017561,
-    "wof:lastmodified":1563581532,
+    "wof:lastmodified":1566644159,
     "wof:name":"La Ensenada",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

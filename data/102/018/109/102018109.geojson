@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.243583,
     "lbl:longitude":-71.068848,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.243583,
     "mps:longitude":-71.068848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u062a\u0627\u064a\u0643\u0648"
     ],
@@ -93,7 +96,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":241,
     "wof:belongsto":[
         102191577,
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":8261258,
         "gp:id":347251,
-        "qs:id":381542,
+        "qs_pg:id":381542,
         "wd:id":"Q3847"
     },
     "wof:country":"CL",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":102018109,
-    "wof:lastmodified":1563581424,
+    "wof:lastmodified":1566644125,
     "wof:name":"Coltauco",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

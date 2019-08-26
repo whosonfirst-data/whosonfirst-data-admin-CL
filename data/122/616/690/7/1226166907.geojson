@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.30437,-38.83117,-71.26437,-38.79117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Icalma"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226166907,
-    "wof:lastmodified":1537591139,
+    "wof:lastmodified":1566644760,
     "wof:name":"Icalma",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

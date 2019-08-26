@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.33028,-30.92301,-71.29028,-30.88301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Hoyada"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1292900457,
-    "wof:lastmodified":1564113633,
+    "wof:lastmodified":1566644393,
     "wof:name":"La Hoyada",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

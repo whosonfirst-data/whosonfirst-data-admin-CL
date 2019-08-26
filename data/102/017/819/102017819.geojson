@@ -9,17 +9,19 @@
     "geom:bbox":"-73.8458161492,-42.6658863956,-73.7182617187,-42.5057017875",
     "geom:latitude":-42.601395,
     "geom:longitude":-73.786989,
-    "gn:gn_country":"CL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12572,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
     "gn:population":12572,
     "iso:country":"CL",
     "lbl:latitude":-42.634163,
     "lbl:longitude":-73.751722,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-42.634163,
     "mps:longitude":-73.751722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u0646\u0634\u064a"
     ],
@@ -89,7 +91,7 @@
     "name:swe_x_preferred":[
         "Chonchi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chonch"
     ],
     "name:zho_x_preferred":[
@@ -131,7 +133,7 @@
     "qs_pg:woe_id":350006,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":796,
     "wof:belongsto":[],
@@ -139,7 +141,6 @@
     "wof:concordances":{
         "gn:id":3894871,
         "gp:id":350006,
-        "qs:id":892044,
         "qs_pg:id":892044,
         "wd:id":"Q3788"
     },
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":102017819,
-    "wof:lastmodified":1563581562,
+    "wof:lastmodified":1566644169,
     "wof:name":"Chonchi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

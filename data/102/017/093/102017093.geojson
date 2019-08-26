@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001879,
-    "geom:area_square_m":18082517.005898,
+    "geom:area_square_m":18082517.00591,
     "geom:bbox":"-72.6366464421,-38.921410992,-72.6026157422,-38.8439854865",
     "geom:latitude":-38.882567,
     "geom:longitude":-72.619793,
     "iso:country":"CL",
     "lbl:latitude":-38.882693,
     "lbl:longitude":-72.620118,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.882693,
     "mps:longitude":-72.620118,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Araucania",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3874367,
         "gp:id":350342,
-        "qs:id":211866,
         "qs_pg:id":211866
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017093,
-    "wof:lastmodified":1497291197,
+    "wof:lastmodified":1566644218,
     "wof:name":"Quepe",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

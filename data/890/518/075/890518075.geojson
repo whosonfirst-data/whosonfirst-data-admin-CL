@@ -11,8 +11,12 @@
     "geom:longitude":-69.322357,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-69.422357,-20.58829,-69.222357,-20.38829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Pica"
     ],
@@ -80,9 +84,11 @@
     "wof:concordances":{
         "gn:id":8261128,
         "gp:id":26794321,
-        "qs:id":55804,
-        "qs_pg:id":904460,
+        "qs_pg:id":55804,
         "wk:page":"Pica"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":904460
     },
     "wof:country":"CL",
     "wof:created":1469056042,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":890518075,
-    "wof:lastmodified":1564113986,
+    "wof:lastmodified":1566644649,
     "wof:name":"Pica",
     "wof:parent_id":890517491,
     "wof:placetype":"localadmin",

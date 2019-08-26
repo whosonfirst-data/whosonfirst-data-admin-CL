@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.52911,-42.58699,-73.48911,-42.54699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Huechuchel\u00edn"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226721085,
-    "wof:lastmodified":1537591174,
+    "wof:lastmodified":1566644750,
     "wof:name":"Huechuchelin",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

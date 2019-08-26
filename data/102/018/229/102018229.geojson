@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.834278,
     "lbl:longitude":-71.031891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.834278,
     "mps:longitude":-71.031891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hijuelas"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Hijuelas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hijuelas de Conchali"
     ],
     "name:zho_x_preferred":[
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":375,
     "wof:belongsto":[
         102191577,
@@ -107,9 +110,11 @@
     "wof:concordances":{
         "gn:id":3888011,
         "gp:id":347831,
-        "qs:id":381588,
-        "qs_pg:id":1001213,
+        "qs_pg:id":381588,
         "wd:id":"Q13071"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1001213
     },
     "wof:country":"CL",
     "wof:geomhash":"26f6fd12fe1539f12d7fbb460d0840e5",
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":102018229,
-    "wof:lastmodified":1563581390,
+    "wof:lastmodified":1566644116,
     "wof:name":"Hijuelas",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",
