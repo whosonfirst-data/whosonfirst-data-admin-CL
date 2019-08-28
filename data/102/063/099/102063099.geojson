@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-32.585483,
     "lbl:longitude":-70.672117,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Valpara\u00edso",
     "meso:gadm_admin":"San Felipe de Aconcagua",
     "meso:gadm_hasc2":"CL.VS.SF",
@@ -33,6 +35,7 @@
     "mps:longitude":-70.672358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Provincia de San Felipe"
     ],
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"2,030.0",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"San Felipe",
@@ -148,7 +151,7 @@
     "wof:concordances":{
         "gp:id":26794014,
         "hasc:id":"CL.VS.SF",
-        "qs:id":1086510,
+        "qs_pg:id":1086510,
         "wd:id":"Q721611",
         "wk:page":"San Felipe de Aconcagua"
     },
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":102063099,
-    "wof:lastmodified":1563581314,
+    "wof:lastmodified":1566644029,
     "wof:name":"San Felipe",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

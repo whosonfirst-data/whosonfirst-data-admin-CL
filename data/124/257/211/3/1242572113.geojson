@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.84896,-30.73968,-70.80896,-30.69968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cerrillos"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1242572113,
-    "wof:lastmodified":1564114030,
+    "wof:lastmodified":1566644680,
     "wof:name":"Cerrillos",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

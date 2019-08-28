@@ -11,8 +11,12 @@
     "geom:longitude":-72.883644,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.983644,-41.078148,-72.783644,-40.878148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Puerto Octay"
     ],
@@ -95,10 +99,12 @@
     "wof:concordances":{
         "gn:id":8261412,
         "gp:id":26794169,
-        "qs:id":960069,
         "qs_pg:id":381577,
         "wd:id":"Q51595",
         "wk:page":"Puerto Octay"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":960069
     },
     "wof:country":"CL",
     "wof:created":1469056024,
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":890517765,
-    "wof:lastmodified":1563582244,
+    "wof:lastmodified":1566644601,
     "wof:name":"Puerto Octay",
     "wof:parent_id":102063121,
     "wof:placetype":"localadmin",

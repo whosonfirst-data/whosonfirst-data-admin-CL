@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000646,
-    "geom:area_square_m":7373862.44696,
+    "geom:area_square_m":7373862.446955,
     "geom:bbox":"-69.7784030685,-22.5773988682,-69.7589504216,-22.5390410756",
     "geom:latitude":-22.558221,
     "geom:longitude":-69.768677,
     "iso:country":"CL",
     "lbl:latitude":-22.55822,
     "lbl:longitude":-69.768677,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-22.55822,
     "mps:longitude":-69.768677,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Pedro de Valdivia"
     ],
     "qs:a0":"Chile",
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3878241,
         "gp:id":348759,
-        "qs:id":339011,
         "qs_pg:id":339011
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017307,
-    "wof:lastmodified":1497291367,
+    "wof:lastmodified":1566644153,
     "wof:name":"Oficina Salitrera Pedro de Valdivia",
     "wof:parent_id":102063093,
     "wof:placetype":"locality",

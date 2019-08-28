@@ -11,7 +11,12 @@
     "geom:longitude":-70.609224,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.629224,-23.487655,-70.589224,-23.447655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Bolsico",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Antofagasta",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":350421,
-        "qs:id":1057739
+        "qs_pg:id":1057739
     },
     "wof:country":"CL",
     "wof:created":1469056034,
-    "wof:geomhash":"89b0f47ab9fffb227a537385eef7ea44",
+    "wof:geomhash":"7d6ee8368f339a7c310c66a1b2297bb4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -47,7 +52,7 @@
         }
     ],
     "wof:id":890517907,
-    "wof:lastmodified":1469056034,
+    "wof:lastmodified":1566644598,
     "wof:name":"Bolsico",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.296163,
     "lbl:longitude":-71.957229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.296163,
     "mps:longitude":-71.957229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "Tuk\u00e9n pele"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":785,
     "wof:belongsto":[
         102191577,
@@ -109,7 +112,6 @@
         "fct:id":"06b14632-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3868988,
         "gp:id":349731,
-        "qs:id":989234,
         "qs_pg:id":989234,
         "wd:id":"Q200965",
         "wk:page":"Tucapel"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581493,
+    "wof:lastmodified":1566644147,
     "wof:name":"Tucapel",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

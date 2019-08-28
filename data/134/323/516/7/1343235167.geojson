@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-68.70571,-20.99538,-68.66571,-20.95538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Collaguasi"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343235167,
-    "wof:lastmodified":1537591156,
+    "wof:lastmodified":1566644252,
     "wof:name":"Collaguasi",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

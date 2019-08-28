@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.74492,-17.79263,-69.70492,-17.75263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Volc\u00e1n Tacora"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1326912501,
-    "wof:lastmodified":1564113421,
+    "wof:lastmodified":1566643982,
     "wof:name":"Tacora",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

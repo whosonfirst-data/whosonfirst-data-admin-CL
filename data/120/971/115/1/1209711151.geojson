@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.90485,-34.53919,-70.86485,-34.49919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209711151,
-    "wof:lastmodified":1536390634,
+    "wof:lastmodified":1566644477,
     "wof:name":"Los Lingues",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

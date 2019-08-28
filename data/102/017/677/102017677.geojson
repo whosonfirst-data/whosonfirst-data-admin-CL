@@ -12,10 +12,14 @@
     "iso:country":"CL",
     "lbl:latitude":-33.694857,
     "lbl:longitude":-71.055392,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.694857,
     "mps:longitude":-71.055392,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Paico"
     ],
     "qs:a0":"Chile",
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3890864,
         "gp:id":347607,
-        "qs:id":1070202,
         "qs_pg:id":1070202
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017677,
-    "wof:lastmodified":1497303549,
+    "wof:lastmodified":1566644210,
     "wof:name":"El Paico",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

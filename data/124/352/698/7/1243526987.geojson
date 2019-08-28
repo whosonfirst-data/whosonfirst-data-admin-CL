@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.35867,-18.812,-69.31867,-18.772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Umirpa"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243526987,
-    "wof:lastmodified":1537591100,
+    "wof:lastmodified":1566644675,
     "wof:name":"Umirpa",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

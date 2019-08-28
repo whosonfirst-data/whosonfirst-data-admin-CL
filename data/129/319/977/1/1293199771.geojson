@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.04035,-29.08815,-71.00035,-29.04815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Barros"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293199771,
-    "wof:lastmodified":1537591126,
+    "wof:lastmodified":1566644406,
     "wof:name":"Los Barros",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

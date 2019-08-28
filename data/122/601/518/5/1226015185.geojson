@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.07571,-20.94755,-69.03571,-20.90755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huatacondo",
         "Guatacondo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226015185,
-    "wof:lastmodified":1537591141,
+    "wof:lastmodified":1566644792,
     "wof:name":"Guatacondo",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

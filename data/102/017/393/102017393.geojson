@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001301,
-    "geom:area_square_m":12205246.781493,
+    "geom:area_square_m":12205246.781489,
     "geom:bbox":"-72.4611515777,-40.6521351431,-72.4045671317,-40.6091222119",
     "geom:latitude":-40.63247,
     "geom:longitude":-72.433602,
     "iso:country":"CL",
     "lbl:latitude":-40.634681,
     "lbl:longitude":-72.433173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.634681,
     "mps:longitude":-72.433173,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Los Rios",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3880666,
         "gp:id":348599,
-        "qs:id":1059861,
         "qs_pg:id":1059861
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017393,
-    "wof:lastmodified":1497302863,
+    "wof:lastmodified":1566644197,
     "wof:name":"Mantilhue",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

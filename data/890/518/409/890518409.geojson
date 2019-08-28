@@ -11,11 +11,15 @@
     "geom:longitude":-71.41798,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.43798,-35.78086,-71.39798,-35.74086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Panim\u00e1vida"
     ],
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Panim\u00e1vida"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ba\u00f1os de Panim\u00e1vida"
     ],
     "qs:name":"Panim\u00e1vida",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3877338,
         "gp:id":348839,
-        "qs:id":232884,
+        "qs_pg:id":232884,
         "wd:id":"Q7131171",
         "wk:page":"Panim\u00e1vida"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890518409,
-    "wof:lastmodified":1561749889,
+    "wof:lastmodified":1566644640,
     "wof:name":"Panim\u00e1vida",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

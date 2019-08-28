@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.508273,
     "lbl:longitude":-72.571049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.508273,
     "mps:longitude":-72.571049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lanco"
     ],
@@ -84,7 +87,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":8261462,
         "gp:id":350058,
-        "qs:id":381591,
+        "qs_pg:id":381591,
         "wd:id":"Q14478"
     },
     "wof:country":"CL",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":102018247,
-    "wof:lastmodified":1563581437,
+    "wof:lastmodified":1566644129,
     "wof:name":"Lanco",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

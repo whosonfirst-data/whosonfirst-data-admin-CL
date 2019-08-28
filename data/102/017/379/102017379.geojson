@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-35.532226,
     "lbl:longitude":-71.619872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.532226,
     "mps:longitude":-71.619872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Maule"
     ],
@@ -105,7 +108,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         102191577,
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":3880312,
         "gp:id":348618,
-        "qs:id":1053927,
+        "qs_pg:id":1053927,
         "wd:id":"Q16926",
         "wk:page":"Maule"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":102017379,
-    "wof:lastmodified":1563581596,
+    "wof:lastmodified":1566644182,
     "wof:name":"Maule",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

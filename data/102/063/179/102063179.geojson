@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-31.707427,
     "lbl:longitude":-71.031631,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Coquimbo",
     "meso:gadm_admin":"Choapa",
     "meso:gadm_hasc2":"CL.CO.CH",
@@ -32,6 +34,7 @@
     "mps:longitude":-71.032191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0427\u043e\u0430\u043f\u0430"
     ],
@@ -122,9 +125,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"10,132",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Illapel",
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":102063179,
-    "wof:lastmodified":1561749806,
+    "wof:lastmodified":1566644104,
     "wof:name":"Choapa",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.65507,-30.04303,-70.61507,-30.00303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Diaguita"
     ],
@@ -66,10 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u0430\u0433\u0456\u0442\u0430"
     ],
-    "name:und_x_variant":[
-        "Diaguitas",
-        "Diaguita"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1326951565,
-    "wof:lastmodified":1564113392,
+    "wof:lastmodified":1566643960,
     "wof:name":"Diaguita",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

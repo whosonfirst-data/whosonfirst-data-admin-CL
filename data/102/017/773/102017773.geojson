@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.214059,
     "lbl:longitude":-70.685046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.214059,
     "mps:longitude":-70.685046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u064a\u0646\u0627"
     ],
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":373,
     "wof:belongsto":[
         102191577,
@@ -181,7 +184,6 @@
     "wof:concordances":{
         "gn:id":3894242,
         "gp:id":347277,
-        "qs:id":1133585,
         "qs_pg:id":1133585,
         "wd:id":"Q3841",
         "wk:page":"Colina, Chile"
@@ -198,7 +200,7 @@
         }
     ],
     "wof:id":102017773,
-    "wof:lastmodified":1563581714,
+    "wof:lastmodified":1566644224,
     "wof:name":"Colina",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

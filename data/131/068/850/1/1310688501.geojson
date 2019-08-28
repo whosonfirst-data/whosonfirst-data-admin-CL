@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.92,-33.67,-70.88,-33.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Santa Ana"
     ],
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":1310688501,
-    "wof:lastmodified":1564113873,
+    "wof:lastmodified":1566644563,
     "wof:name":"Santa Ana",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

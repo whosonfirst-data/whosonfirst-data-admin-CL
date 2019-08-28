@@ -11,8 +11,12 @@
     "geom:longitude":-71.866699,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.966699,-43.284338,-71.766699,-43.084338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Futaleuf\u00fa"
     ],
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794176,
-        "qs:id":114495,
+        "qs_pg:id":114495,
         "wk:page":"Futaleuf\u00fa"
     },
     "wof:country":"CL",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890518179,
-    "wof:lastmodified":1564113995,
+    "wof:lastmodified":1566644657,
     "wof:name":"Futaleufu",
     "wof:parent_id":102063169,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000718,
-    "geom:area_square_m":7403150.213909,
+    "geom:area_square_m":7403150.21391,
     "geom:bbox":"-70.7311448977,-33.4864814849,-70.7017324336,-33.4474847377",
     "geom:latitude":-33.468907,
     "geom:longitude":-70.71727,
@@ -14,6 +14,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.461576,
     "lbl:longitude":-70.716024,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.468176,
     "mps:longitude":-70.718461,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "name:spa_x_preferred":[
-        "Los Nogales"
-    ],
-    "name:unk_x_variant":[
         "Los Nogales"
     ],
     "qs:gn_adm0_cc":"CL",
@@ -60,9 +58,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":446,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85682207,
         102191577,
@@ -74,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3881681,
         "gp:id":348515,
-        "qs:id":1114216,
         "qs_pg:id":1114216
     },
     "wof:country":"CL",
@@ -93,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527639295,
+    "wof:lastmodified":1566644281,
     "wof:name":"Los Nogales",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

@@ -15,10 +15,13 @@
     "iso:country":"CL",
     "lbl:latitude":-35.593864,
     "lbl:longitude":-71.714443,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-35.593864,
     "mps:longitude":-71.714443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "San Javier"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":810,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":3872154,
         "gp:id":349962,
-        "qs:id":1283624,
         "qs_pg:id":1283624,
         "wd:id":"Q187831",
         "wk:page":"San Javier, Chile"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":102016967,
-    "wof:lastmodified":1563581490,
+    "wof:lastmodified":1566644146,
     "wof:name":"San Javier",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

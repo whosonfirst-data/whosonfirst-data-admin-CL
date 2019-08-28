@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.2373,-29.74145,-71.1973,-29.70145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Romeral"
     ],
@@ -61,8 +65,7 @@
         "Romeral"
     ],
     "name:und_x_variant":[
-        "El Romeral",
-        "Romeral"
+        "El Romeral"
     ],
     "name:zho_x_preferred":[
         "\u7f85\u6885\u62c9\u723e"
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1293221887,
-    "wof:lastmodified":1564113609,
+    "wof:lastmodified":1566644380,
     "wof:name":"Romeral",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

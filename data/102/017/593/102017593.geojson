@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003039,
-    "geom:area_square_m":28701025.186301,
+    "geom:area_square_m":28701025.186305,
     "geom:bbox":"-72.2852986713,-40.2424108205,-72.2288663136,-40.157281877",
     "geom:latitude":-40.196715,
     "geom:longitude":-72.258728,
     "iso:country":"CL",
     "lbl:latitude":-40.189711,
     "lbl:longitude":-72.258191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-40.189711,
     "mps:longitude":-72.258191,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":350065
     },
     "wof:country":"CL",
-    "wof:geomhash":"e80e64277bb6b6e091e10dcfad6d756a",
+    "wof:geomhash":"c00cd99effcec543fa29f27858f561d8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102017593,
-    "wof:lastmodified":1479950567,
+    "wof:lastmodified":1566644154,
     "wof:name":"Huequecura",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

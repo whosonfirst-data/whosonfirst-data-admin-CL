@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.117301,
     "lbl:longitude":-71.497034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.117301,
     "mps:longitude":-71.497034,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Afon Quilimar\u00ed"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191577,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":3874202,
         "gp:id":350119,
-        "qs:id":975673,
         "qs_pg:id":975673,
         "wd:id":"Q7271972"
     },
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":102017085,
-    "wof:lastmodified":1563581567,
+    "wof:lastmodified":1566644170,
     "wof:name":"Quilimar\u00ed",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

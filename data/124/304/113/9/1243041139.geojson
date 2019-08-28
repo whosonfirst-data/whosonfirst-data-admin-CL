@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-68.91253,-19.08249,-68.87253,-19.04249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pansuta"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243041139,
-    "wof:lastmodified":1537591115,
+    "wof:lastmodified":1566644695,
     "wof:name":"Pansuta",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

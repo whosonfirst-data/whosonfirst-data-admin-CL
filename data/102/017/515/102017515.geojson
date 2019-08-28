@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.509548,
     "lbl:longitude":-71.605401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.509548,
     "mps:longitude":-71.605401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Las Cruces"
     ],
@@ -51,7 +54,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191577,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102017515,
-    "wof:lastmodified":1564113488,
+    "wof:lastmodified":1566644228,
     "wof:name":"Las Cruces",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.89996,-33.78857,-70.85996,-33.74857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633057
@@ -36,7 +40,7 @@
         "gn:id":3868145
     },
     "wof:country":"CL",
-    "wof:geomhash":"77fcd7398383d90338c68ade9c955992",
+    "wof:geomhash":"13b9747c7d2b08fc541364bd4d32d860",
     "wof:hierarchy":[
         {
             "country_id":85633057,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209595633,
-    "wof:lastmodified":1536282333,
+    "wof:lastmodified":1566644483,
     "wof:name":"Villita Arriba",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -70.87996,
-    -33.768570000000004,
+    -33.76857,
     -70.87996,
-    -33.768570000000004
+    -33.76857
 ],
   "geometry": {"coordinates":[-70.87996,-33.76857],"type":"Point"}
 }

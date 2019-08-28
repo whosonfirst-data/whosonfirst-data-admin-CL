@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.260938,
     "lbl:longitude":-72.910767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.260938,
     "mps:longitude":-72.910767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Santa Juana"
     ],
@@ -108,7 +111,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":728,
     "wof:belongsto":[
         102191577,
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gn:id":8261196,
         "gp:id":26794110,
-        "qs:id":904470,
+        "qs_pg:id":904470,
         "wd:id":"Q187974"
     },
     "wof:country":"CL",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":102018071,
-    "wof:lastmodified":1563581398,
+    "wof:lastmodified":1566644118,
     "wof:name":"Santa Juana",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

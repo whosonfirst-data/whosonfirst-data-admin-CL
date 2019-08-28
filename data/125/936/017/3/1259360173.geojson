@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.59746,-33.48081,-70.55746,-33.44081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259360173,
-    "wof:lastmodified":1537034378,
+    "wof:lastmodified":1566644715,
     "wof:name":"Chacra Valparaiso",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

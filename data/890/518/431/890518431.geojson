@@ -11,8 +11,12 @@
     "geom:longitude":-70.867652,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.967652,-34.508467,-70.767652,-34.308467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0420\u0435\u043d\u0433\u043e"
     ],
@@ -109,7 +113,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794205,
-        "qs:id":248409,
+        "qs_pg:id":248409,
         "wd:id":"Q56120",
         "wk:page":"Rengo"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890518431,
-    "wof:lastmodified":1563582383,
+    "wof:lastmodified":1566644641,
     "wof:name":"Rengo",
     "wof:parent_id":102063155,
     "wof:placetype":"localadmin",

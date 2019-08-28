@@ -11,11 +11,15 @@
     "geom:longitude":-70.6785,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.6985,-30.29836,-70.6585,-30.25836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Hurtado"
     ],
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3887427,
         "gp:id":350404,
-        "qs:id":963747,
+        "qs_pg:id":963747,
         "wk:page":"Hurtado"
     },
     "wof:country":"CL",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890517769,
-    "wof:lastmodified":1564113950,
+    "wof:lastmodified":1566644617,
     "wof:name":"Hurtado",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

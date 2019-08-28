@@ -12,8 +12,12 @@
     "gn:country":"CL",
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-68.116866,-54.8915,-68.076866,-54.8515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Gilberto Santa Rosa"
     ],
@@ -71,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":350332,
-        "qs:id":460615,
+        "qs_pg:id":460615,
         "wd:id":"Q361555",
         "wk:page":"Gilberto Santa Rosa"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890517747,
-    "wof:lastmodified":1563582281,
+    "wof:lastmodified":1566644612,
     "wof:name":"Puerto Santa Rosa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.32978,-34.00847,-71.28978,-33.96847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chacon",
         "Lo Chac\u00f3n"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327410979,
-    "wof:lastmodified":1537591127,
+    "wof:lastmodified":1566643967,
     "wof:name":"Lo Chacon",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

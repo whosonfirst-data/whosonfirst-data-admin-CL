@@ -11,8 +11,12 @@
     "geom:longitude":-71.477909,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.577909,-34.577976,-71.377909,-34.377976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u0435\u0440\u0430\u043b\u0438\u043b\u044c\u043e"
     ],
@@ -95,10 +99,12 @@
     "wof:concordances":{
         "gn:id":8261267,
         "gp:id":26794219,
-        "qs:id":1110087,
         "qs_pg:id":381547,
         "wd:id":"Q51095",
         "wk:page":"Peralillo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110087
     },
     "wof:country":"CL",
     "wof:created":1469056041,
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":890518043,
-    "wof:lastmodified":1563582414,
+    "wof:lastmodified":1566644650,
     "wof:name":"Peralillo",
     "wof:parent_id":102063157,
     "wof:placetype":"localadmin",

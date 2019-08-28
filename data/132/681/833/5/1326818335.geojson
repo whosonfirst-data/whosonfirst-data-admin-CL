@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.04084,-34.94557,-71.00084,-34.90557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326818335,
-    "wof:lastmodified":1537065936,
+    "wof:lastmodified":1566643953,
     "wof:name":"Santa Blanca",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

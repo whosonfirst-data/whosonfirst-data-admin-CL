@@ -25,8 +25,12 @@
     "gn:population":212695,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.76444,-34.19083,-70.72444,-34.15083",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ang_x_preferred":[
         "Rancagwa"
     ],
@@ -250,7 +254,7 @@
         }
     ],
     "wof:id":1343843555,
-    "wof:lastmodified":1564113521,
+    "wof:lastmodified":1566644250,
     "wof:name":"Rancagua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

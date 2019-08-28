@@ -11,8 +11,12 @@
     "geom:longitude":-72.023191,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.123191,-35.545497,-71.923191,-35.345497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pencahue"
     ],
@@ -91,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794258,
-        "qs:id":993177,
+        "qs_pg:id":993177,
         "wd:id":"Q51091",
         "wk:page":"Pencahue"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890517827,
-    "wof:lastmodified":1563582251,
+    "wof:lastmodified":1566644602,
     "wof:name":"Pencahue",
     "wof:parent_id":102063111,
     "wof:placetype":"localadmin",

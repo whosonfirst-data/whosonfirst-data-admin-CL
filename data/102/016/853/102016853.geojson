@@ -15,10 +15,13 @@
     "iso:country":"CL",
     "lbl:latitude":-38.250012,
     "lbl:longitude":-72.670983,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-38.250012,
     "mps:longitude":-72.670983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:arn_x_preferred":[
         "Tray\u00e9n"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":302,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
     "wof:concordances":{
         "gn:id":3869381,
         "gp:id":349968,
-        "qs:id":1254931,
         "qs_pg:id":1254931,
         "wd:id":"Q200961"
     },
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":102016853,
-    "wof:lastmodified":1563581504,
+    "wof:lastmodified":1566644150,
     "wof:name":"Traigu\u00e9n",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

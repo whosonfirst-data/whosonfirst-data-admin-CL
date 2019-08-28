@@ -16,6 +16,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.4433,
     "lbl:longitude":-70.71875,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.4433,
     "mps:longitude":-70.71875,
     "mz:hierarchy_label":1,
@@ -81,9 +82,6 @@
     "name:swe_x_preferred":[
         "Lo Prado"
     ],
-    "name:unk_x_variant":[
-        "Lo Prado"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Lo Prado"
     ],
@@ -119,9 +117,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85682207,
         102191577,
@@ -133,7 +130,6 @@
     "wof:concordances":{
         "gn:id":7281020,
         "gp:id":22723874,
-        "qs:id":1151475,
         "qs_pg:id":1151475,
         "wd:id":"Q14504",
         "wk:page":"Lo Prado"
@@ -151,7 +147,7 @@
         }
     ],
     "wof:id":85765873,
-    "wof:lastmodified":1563581808,
+    "wof:lastmodified":1566644284,
     "wof:name":"Lo Prado",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

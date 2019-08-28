@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.41757,-33.39009,-70.37757,-33.35009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Ermita"
     ],
@@ -34,8 +38,7 @@
         "La Ermita"
     ],
     "name:und_x_variant":[
-        "La Hermita",
-        "La Ermita"
+        "La Hermita"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u57c3\u723e\u7c73\u5854"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209795691,
-    "wof:lastmodified":1564113749,
+    "wof:lastmodified":1566644472,
     "wof:name":"La Ermita",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-46.405273,
     "lbl:longitude":-72.615612,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"De Aisen",
     "mps:latitude":-46.785452,
     "mps:longitude":-72.808444,
@@ -229,9 +230,6 @@
     "name:ukr_x_preferred":[
         "XI \u0420\u0435\u0433\u0456\u043e\u043d \u0410\u0439\u0441\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0633\u06cc\u0646 \u0631\u06cc\u062c\u0646"
     ],
@@ -319,9 +317,9 @@
     "src:geom_alt":[
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"108,494",
     "statoids:area_mi":"41,890",
     "statoids:as_of_date":"2012-04-09",
@@ -363,7 +361,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565662669,
+    "wof:lastmodified":1566644295,
     "wof:name":"De Aisen",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

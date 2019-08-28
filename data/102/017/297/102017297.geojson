@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-40.57154,
     "lbl:longitude":-73.130794,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-40.57154,
     "mps:longitude":-73.130794,
     "mz:hierarchy_label":1,
@@ -195,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u043e\u0440\u043d\u043e"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "ZOS"
     ],
     "name:urd_x_preferred":[
@@ -320,7 +322,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -333,7 +335,6 @@
         "fct:id":"06b14b28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3877949,
         "gp:id":349865,
-        "qs:id":274537,
         "qs_pg:id":274537,
         "wd:id":"Q51059"
     },
@@ -352,7 +353,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581697,
+    "wof:lastmodified":1566644217,
     "wof:name":"Osorno",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

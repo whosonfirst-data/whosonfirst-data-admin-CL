@@ -11,8 +11,12 @@
     "geom:longitude":-70.709724,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.809724,-34.067281,-70.609724,-33.867281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0430\u0441\u0430\u043b\u044c"
     ],
@@ -95,10 +99,12 @@
     "wof:concordances":{
         "gn:id":8261284,
         "gp:id":26794199,
-        "qs:id":1104046,
         "qs_pg:id":1042636,
         "wd:id":"Q51035",
         "wk:page":"Mostazal"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1104046
     },
     "wof:country":"CL",
     "wof:created":1469056039,
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":890517993,
-    "wof:lastmodified":1563582303,
+    "wof:lastmodified":1566644618,
     "wof:name":"Mostazal",
     "wof:parent_id":102063155,
     "wof:placetype":"localadmin",

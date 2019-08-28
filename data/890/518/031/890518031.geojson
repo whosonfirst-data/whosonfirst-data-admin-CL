@@ -11,8 +11,12 @@
     "geom:longitude":-71.852989,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.952989,-34.060055,-71.752989,-33.860055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041d\u0430\u0432\u0438\u0434\u0430\u0434"
     ],
@@ -71,9 +75,11 @@
     "wof:concordances":{
         "gn:id":8261253,
         "gp:id":26794211,
-        "qs:id":1110074,
         "qs_pg:id":1042627,
         "wk:page":"Navidad"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110074
     },
     "wof:country":"CL",
     "wof:created":1469056040,
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890518031,
-    "wof:lastmodified":1564113972,
+    "wof:lastmodified":1566644640,
     "wof:name":"Navidad",
     "wof:parent_id":102063149,
     "wof:placetype":"localadmin",

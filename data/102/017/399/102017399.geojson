@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001708,
-    "geom:area_square_m":17589098.920113,
+    "geom:area_square_m":17589098.920139,
     "geom:bbox":"-70.8837890625,-33.6420625048,-70.8263025689,-33.5813026446",
     "geom:latitude":-33.616191,
     "geom:longitude":-70.851839,
     "iso:country":"CL",
     "lbl:latitude":-33.609104,
     "lbl:longitude":-70.844289,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.609104,
     "mps:longitude":-70.844289,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3880825,
         "gp:id":348587,
-        "qs:id":1141869,
         "qs_pg:id":1141869
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017399,
-    "wof:lastmodified":1497297273,
+    "wof:lastmodified":1566644161,
     "wof:name":"Malloco",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

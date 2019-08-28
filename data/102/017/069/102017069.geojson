@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.342035,
     "lbl:longitude":-70.93795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.342035,
     "mps:longitude":-70.93795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041a\u0438\u043d\u0442\u0430-\u0434\u0435-\u0422\u0438\u043b\u044c\u043a\u043e\u043a\u043e"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":231,
     "wof:belongsto":[
         102191577,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":3873999,
         "gp:id":349235,
-        "qs:id":180636,
         "qs_pg:id":180636,
         "wd:id":"Q56112",
         "wk:page":"Quinta de Tilcoco"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":102017069,
-    "wof:lastmodified":1563581697,
+    "wof:lastmodified":1566644217,
     "wof:name":"Quinta de Tilcoco",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

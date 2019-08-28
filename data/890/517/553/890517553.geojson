@@ -11,8 +11,12 @@
     "geom:longitude":-73.030071,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.130071,-41.2329,-72.930071,-41.0329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0648\u062a\u064a\u0644\u0627\u0631"
     ],
@@ -94,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794162,
-        "qs:id":1263706,
+        "qs_pg:id":1263706,
         "wd:id":"Q13058",
         "wk:page":"Frutillar"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890517553,
-    "wof:lastmodified":1563582307,
+    "wof:lastmodified":1566644619,
     "wof:name":"Frutillar",
     "wof:parent_id":102063135,
     "wof:placetype":"localadmin",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.79536,-36.0439,-72.75536,-36.0039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Pullay"
     ],
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":1293287597,
-    "wof:lastmodified":1564113647,
+    "wof:lastmodified":1566644402,
     "wof:name":"Pullay",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

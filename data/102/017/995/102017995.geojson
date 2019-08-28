@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00189,
-    "geom:area_square_m":20080207.217706,
+    "geom:area_square_m":20080207.217701,
     "geom:bbox":"-71.5589009249,-30.7838934084,-71.4830937694,-30.7092114333",
     "geom:latitude":-30.747038,
     "geom:longitude":-71.523245,
     "iso:country":"CL",
     "lbl:latitude":-30.755163,
     "lbl:longitude":-71.537317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.755163,
     "mps:longitude":-71.537317,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":347114
     },
     "wof:country":"CL",
-    "wof:geomhash":"d52c57038e7adf274c2f1b00913b2efa",
+    "wof:geomhash":"092ad0c7c01b068e02682236ea1f88d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102017995,
-    "wof:lastmodified":1479948873,
+    "wof:lastmodified":1566644191,
     "wof:name":"Socos",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

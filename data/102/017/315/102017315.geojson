@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-38.745162,
     "lbl:longitude":-72.944651,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-38.745162,
     "mps:longitude":-72.944651,
     "mz:hierarchy_label":1,
@@ -194,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":670,
     "wof:belongsto":[
@@ -207,7 +209,6 @@
     "wof:concordances":{
         "gn:id":3878456,
         "gp:id":349934,
-        "qs:id":232938,
         "qs_pg:id":232938,
         "wd:id":"Q51050",
         "wk:page":"Nueva Imperial"
@@ -224,7 +225,7 @@
         }
     ],
     "wof:id":102017315,
-    "wof:lastmodified":1563581610,
+    "wof:lastmodified":1566644185,
     "wof:name":"Nueva Imperial",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

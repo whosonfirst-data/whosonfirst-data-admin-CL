@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.513359,
     "lbl:longitude":-70.761596,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.513359,
     "mps:longitude":-70.761596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0438\u043f\u0443"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -130,7 +133,6 @@
         "fct:id":"06b0e80e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3880980,
         "gp:id":348571,
-        "qs:id":1141870,
         "qs_pg:id":1141870,
         "wd:id":"Q16918"
     },
@@ -149,7 +151,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581584,
+    "wof:lastmodified":1566644176,
     "wof:name":"Maip\u00fa",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

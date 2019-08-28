@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.076813,
     "lbl:longitude":-70.715997,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-34.076813,
     "mps:longitude":-70.715997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bak_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0435\u0440\u043e\u0441"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":225,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3888749,
         "gp:id":350242,
-        "qs:id":119793,
         "qs_pg:id":119793,
         "wd:id":"Q13068",
         "wk:page":"Graneros"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":102017625,
-    "wof:lastmodified":1563581658,
+    "wof:lastmodified":1566644202,
     "wof:name":"Graneros",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

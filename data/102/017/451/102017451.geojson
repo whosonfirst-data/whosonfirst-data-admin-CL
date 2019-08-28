@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
-    "geom:area_square_m":3121286.707066,
+    "geom:area_square_m":3121286.707064,
     "geom:bbox":"-71.4164532009,-33.9660409502,-71.3948259832,-33.9480189309",
     "geom:latitude":-33.95703,
     "geom:longitude":-71.40564,
     "iso:country":"CL",
     "lbl:latitude":-33.95703,
     "lbl:longitude":-71.405639,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.95703,
     "mps:longitude":-71.405639,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Santiago",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3882540,
         "gp:id":348417,
-        "qs:id":180617,
         "qs_pg:id":180617
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017451,
-    "wof:lastmodified":1497296207,
+    "wof:lastmodified":1566644212,
     "wof:name":"Longovilo",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

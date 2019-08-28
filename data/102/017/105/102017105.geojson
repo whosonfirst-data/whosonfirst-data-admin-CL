@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000938,
-    "geom:area_square_m":9472437.062725,
+    "geom:area_square_m":9472437.06273,
     "geom:bbox":"-72.3065098514,-35.2411663023,-72.2735709234,-35.1962262353",
     "geom:latitude":-35.218698,
     "geom:longitude":-72.29004,
     "iso:country":"CL",
     "lbl:latitude":-35.223994,
     "lbl:longitude":-72.295294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.223994,
     "mps:longitude":-72.295294,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Maule",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3874543,
         "gp:id":349148,
-        "qs:id":338528,
         "qs_pg:id":338528
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017105,
-    "wof:lastmodified":1497291268,
+    "wof:lastmodified":1566644158,
     "wof:name":"Put\u00fa",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.659669,
     "lbl:longitude":-71.199745,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.659669,
     "mps:longitude":-71.199745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041d\u0430\u043d\u043a\u0430\u0433\u0443\u0430"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":218,
     "wof:belongsto":[
         102191577,
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3879062,
         "gp:id":349867,
-        "qs:id":150612,
+        "qs_pg:id":150612,
         "wd:id":"Q51042",
         "wk:page":"Nancagua"
     },
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":102017345,
-    "wof:lastmodified":1563581710,
+    "wof:lastmodified":1566644222,
     "wof:name":"Nancagua",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

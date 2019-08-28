@@ -11,16 +11,18 @@
     "geom:longitude":-70.999359,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
-    "gn:population":23090,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
     "lbl:latitude":-33.684407,
     "lbl:longitude":-70.991311,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-33.684407,
     "mps:longitude":-70.991311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0622\u064a\u0644 \u0645\u0648\u0646\u062a\u064a"
     ],
@@ -84,7 +86,7 @@
     "name:swe_x_preferred":[
         "El Monte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Monte Las Mercedes"
     ],
     "name:zho_x_preferred":[
@@ -119,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -131,9 +133,11 @@
     "wof:concordances":{
         "gn:id":3890949,
         "gp:id":347595,
-        "qs:id":992302,
         "qs_pg:id":666619,
         "wd:id":"Q13038"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":992302
     },
     "wof:country":"CL",
     "wof:geomhash":"24cf893fe7328866c8ee331e7e5c5644",
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":102017679,
-    "wof:lastmodified":1563581676,
+    "wof:lastmodified":1566644209,
     "wof:name":"El Monte",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

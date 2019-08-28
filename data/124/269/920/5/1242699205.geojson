@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.07102,-30.07031,-71.03102,-30.03031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Los Corrales"
     ],
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":1242699205,
-    "wof:lastmodified":1564114044,
+    "wof:lastmodified":1566644687,
     "wof:name":"Los Corrales",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.29476,-34.22696,-71.25476,-34.18696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343481191,
-    "wof:lastmodified":1536716586,
+    "wof:lastmodified":1566644249,
     "wof:name":"Casas de Lata",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

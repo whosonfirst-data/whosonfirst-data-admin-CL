@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.196514,
     "lbl:longitude":-73.164359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.196514,
     "mps:longitude":-73.164359,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043b\u0442\u0435\u043d"
     ],
@@ -68,7 +71,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":241,
     "wof:belongsto":[
         102191577,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102016867,
-    "wof:lastmodified":1563581469,
+    "wof:lastmodified":1566644142,
     "wof:name":"Tolt\u00e9n",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

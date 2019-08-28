@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-35.590312,
     "lbl:longitude":-71.090561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.590312,
     "mps:longitude":-71.090561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vilches"
     ],
@@ -39,7 +42,7 @@
     "name:swe_x_preferred":[
         "Vilches"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alto Vilches"
     ],
     "qs:a0":"Chile",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191577,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":3868211,
         "gp:id":349789,
-        "qs:id":1262767,
         "qs_pg:id":1262767
     },
     "wof:country":"CL",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":102016821,
-    "wof:lastmodified":1564113452,
+    "wof:lastmodified":1566644139,
     "wof:name":"Vilches",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

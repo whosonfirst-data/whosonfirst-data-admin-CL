@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.26711,-41.08601,-73.22711,-41.04601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Estero del Medio"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310176195,
-    "wof:lastmodified":1537591176,
+    "wof:lastmodified":1566644557,
     "wof:name":"Estero del Medio",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

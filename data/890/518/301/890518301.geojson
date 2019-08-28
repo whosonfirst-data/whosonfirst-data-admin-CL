@@ -11,11 +11,15 @@
     "geom:longitude":-71.83234,
     "gn:country":"CL",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.93234,-44.59229,-71.73234,-44.39229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Lago Verde"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":8261161,
         "gp:id":26794030,
-        "qs:id":206453,
+        "qs_pg:id":206453,
         "wk:page":"Lago Verde"
     },
     "wof:country":"CL",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890518301,
-    "wof:lastmodified":1564113966,
+    "wof:lastmodified":1566644633,
     "wof:name":"Lago Verde",
     "wof:parent_id":102063079,
     "wof:placetype":"localadmin",

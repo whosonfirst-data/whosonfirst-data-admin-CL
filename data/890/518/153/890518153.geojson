@@ -11,11 +11,15 @@
     "geom:longitude":-71.42667,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.44667,-35.81538,-71.40667,-35.77538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quinam\u00e1vida"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3874053,
         "gp:id":349221,
-        "qs:id":336669,
+        "qs_pg:id":336669,
         "wd:id":"Q7272070",
         "wk:page":"Quinam\u00e1vida, Chile"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890518153,
-    "wof:lastmodified":1561749889,
+    "wof:lastmodified":1566644645,
     "wof:name":"Quinam\u00e1vida",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

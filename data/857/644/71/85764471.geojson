@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":61840581.59511,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.401161,-23.65737,-70.401161,-23.65737",
     "geom:latitude":-23.65737,
     "geom:longitude":-70.401161,
     "gn:latitude":-23.67555,
     "gn:longitude":-70.40838,
     "iso:country":"CL",
+    "lbl:bbox":"-70.406161,-23.66237,-70.396161,-23.65237",
     "lbl:latitude":-23.65737,
     "lbl:longitude":-70.401161,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-23.678962,
     "mps:longitude":-70.407088,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
     "name:swe_x_preferred":[
         "Playa Blanca"
     ],
-    "name:unk_x_variant":[
-        "Playa Blanca"
-    ],
     "qs:gn_adm0_cc":"CL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3899539,
@@ -88,21 +87,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1534,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85682175,
         102191577,
         85633057,
         102017963,
-        102063073,
-        85682175
+        102063073
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3875652,
         "gp:id":348987,
-        "qs:id":466724,
         "qs_pg:id":466724
     },
     "wof:country":"CL",
@@ -121,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858901,
+    "wof:lastmodified":1566644283,
     "wof:name":"Playa Blanca",
     "wof:parent_id":102017963,
     "wof:placetype":"neighbourhood",

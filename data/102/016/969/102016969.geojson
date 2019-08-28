@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-36.257578,
     "lbl:longitude":-71.812134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.257578,
     "mps:longitude":-71.812134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Gregorio"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":171,
     "wof:belongsto":[
         102191577,
@@ -87,7 +90,9 @@
     "wof:concordances":{
         "gn:id":3872196,
         "gp:id":722696,
-        "qs:id":180708,
+        "qs_pg:id":180708
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1189932
     },
     "wof:country":"CL",
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102016969,
-    "wof:lastmodified":1564113455,
+    "wof:lastmodified":1566644146,
     "wof:name":"San Gregorio",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

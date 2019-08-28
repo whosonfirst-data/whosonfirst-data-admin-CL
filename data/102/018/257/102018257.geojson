@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.487075,
     "lbl:longitude":-72.159385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.487075,
     "mps:longitude":-72.159385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lic\u00e1n Ray"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":807,
     "wof:belongsto":[
         102191577,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102018257,
-    "wof:lastmodified":1561749813,
+    "wof:lastmodified":1566644118,
     "wof:name":"Lican Ray",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

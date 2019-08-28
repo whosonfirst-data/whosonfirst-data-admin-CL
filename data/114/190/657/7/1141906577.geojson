@@ -10,10 +10,14 @@
     "geom:latitude":-52.649979,
     "geom:longitude":-71.466604,
     "iso:country":"CL",
+    "lbl:bbox":"-71.4866044532,-52.6699788221,-71.4466044532,-52.6299788221",
     "lbl:latitude":-52.649979,
     "lbl:longitude":-71.466604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "R\u00edo Verde"
     ],
@@ -179,7 +183,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":350130,
-        "qs:id":1075334,
+        "qs_pg:id":1075334,
         "wd:id":"Q56131",
         "wk:page":"Rio Verde"
     },
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":1141906577,
-    "wof:lastmodified":1563582645,
+    "wof:lastmodified":1566644803,
     "wof:name":"Rio Verde",
     "wof:parent_id":102063075,
     "wof:placetype":"locality",

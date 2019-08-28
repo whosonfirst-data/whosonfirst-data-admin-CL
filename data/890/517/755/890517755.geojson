@@ -11,11 +11,15 @@
     "geom:longitude":-70.23807,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.25807,-28.99043,-70.21807,-28.95043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Pampa"
     ],
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3885113,
         "gp:id":348101,
-        "qs:id":472220,
+        "qs_pg:id":472220,
         "wk:page":"La Pampa"
     },
     "wof:country":"CL",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890517755,
-    "wof:lastmodified":1564113925,
+    "wof:lastmodified":1566644599,
     "wof:name":"La Pampa",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

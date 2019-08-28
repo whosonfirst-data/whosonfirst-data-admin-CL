@@ -11,11 +11,15 @@
     "geom:longitude":-73.71998,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.73998,-40.26625,-73.69998,-40.22625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Barra"
     ],
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3886503,
         "gp:id":350048,
-        "qs:id":972910,
+        "qs_pg:id":972910,
         "wk:page":"La Barra"
     },
     "wof:country":"CL",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890517777,
-    "wof:lastmodified":1564113948,
+    "wof:lastmodified":1566644615,
     "wof:name":"La Barra",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

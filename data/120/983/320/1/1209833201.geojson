@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.14377,-32.40128,-71.10377,-32.36128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sco_x_preferred":[
         "Pichilemu"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209833201,
-    "wof:lastmodified":1564113747,
+    "wof:lastmodified":1566644471,
     "wof:name":"Pichilemu",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

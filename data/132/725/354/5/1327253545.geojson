@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.9304,-34.46528,-70.8904,-34.42528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327253545,
-    "wof:lastmodified":1536939812,
+    "wof:lastmodified":1566643962,
     "wof:name":"Pelequen Viejo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001548,
-    "geom:area_square_m":16513665.584727,
+    "geom:area_square_m":16513665.5847,
     "geom:bbox":"-70.8996874659,-30.4150632761,-70.8349353522,-30.3591163007",
     "geom:latitude":-30.388637,
     "geom:longitude":-70.866,
     "iso:country":"CL",
     "lbl:latitude":-30.390238,
     "lbl:longitude":-70.865511,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.390238,
     "mps:longitude":-70.865511,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Coquimbo",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3876318,
         "gp:id":348925,
-        "qs:id":236580,
         "qs_pg:id":236580
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017221,
-    "wof:lastmodified":1497291160,
+    "wof:lastmodified":1566644167,
     "wof:name":"Pichasca",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

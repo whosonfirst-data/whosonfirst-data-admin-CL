@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28258933.182588,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.536398,-33.028081,-71.536398,-33.028081",
     "geom:latitude":-33.028081,
     "geom:longitude":-71.536398,
     "gn:latitude":-33.03414,
     "gn:longitude":-71.53396,
     "iso:country":"CL",
+    "lbl:bbox":"-71.541398,-33.033081,-71.531398,-33.023081",
     "lbl:latitude":-33.028081,
     "lbl:longitude":-71.536398,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.042271,
     "mps:longitude":-71.529573,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Poblacion Chorrillos"
     ],
     "name:spa_x_preferred":[
-        "Poblaci\u00f3n Chorrillos"
-    ],
-    "name:unk_x_variant":[
         "Poblaci\u00f3n Chorrillos"
     ],
     "qs:gn_fcode":"PPLX",
@@ -62,20 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016801,
-        102063161,
-        85682143
+        102063161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3875597,
         "gp:id":348990,
-        "qs:id":1114219,
         "qs_pg:id":1114219
     },
     "wof:country":"CL",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858902,
+    "wof:lastmodified":1566644282,
     "wof:name":"Poblaci\u00f3n Chorrillos",
     "wof:parent_id":102016801,
     "wof:placetype":"neighbourhood",

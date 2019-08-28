@@ -12,8 +12,10 @@
     "gn:latitude":-33.02649,
     "gn:longitude":-71.56282,
     "iso:country":"CL",
+    "lbl:bbox":"-71.573386,-33.038222,-71.563386,-33.028222",
     "lbl:latitude":-33.033222,
     "lbl:longitude":-71.568386,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.049819,
     "mps:longitude":-71.560726,
     "mz:hierarchy_label":0,
@@ -79,9 +81,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0440\u0430\u043c\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Miramar"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"01",
@@ -110,8 +109,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682143,
         102191577,
@@ -123,7 +121,6 @@
     "wof:concordances":{
         "gn:id":3879708,
         "gp:id":348661,
-        "qs:id":1114217,
         "qs_pg:id":1114217
     },
     "wof:country":"CL",
@@ -142,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564113569,
+    "wof:lastmodified":1566644281,
     "wof:name":"Miramar",
     "wof:parent_id":102016801,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
-    "geom:area_square_m":1007543.80058,
+    "geom:area_square_m":1007543.800581,
     "geom:bbox":"-70.6764679718,-32.7981981214,-70.6634615287,-32.787274527",
     "geom:latitude":-32.791938,
     "geom:longitude":-70.669967,
     "iso:country":"CL",
     "lbl:latitude":-32.791102,
     "lbl:longitude":-70.671377,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.791102,
     "mps:longitude":-70.671377,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Valpara\u00edso",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3892853,
         "gp:id":347407,
-        "qs:id":180598,
         "qs_pg:id":180598
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017707,
-    "wof:lastmodified":1497296204,
+    "wof:lastmodified":1566644163,
     "wof:name":"Curim\u00f3n",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

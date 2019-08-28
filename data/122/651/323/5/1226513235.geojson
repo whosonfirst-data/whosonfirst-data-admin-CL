@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.77924,-42.00253,-72.73924,-41.96253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Lleguim\u00e1n"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226513235,
-    "wof:lastmodified":1537591175,
+    "wof:lastmodified":1566644767,
     "wof:name":"Lleguiman",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

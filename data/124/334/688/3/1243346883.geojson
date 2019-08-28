@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.72822,-42.35177,-73.68822,-42.31177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mocopulle",
         "Moncopulli",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243346883,
-    "wof:lastmodified":1537591120,
+    "wof:lastmodified":1566644697,
     "wof:name":"Mocopulli",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

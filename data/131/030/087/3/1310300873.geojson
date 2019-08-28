@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.93028,-34.6011,-70.89028,-34.5611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0645\u0627"
     ],
@@ -155,7 +159,6 @@
     ],
     "name:und_x_variant":[
         "Comunidad de Roma",
-        "Roma",
         "Roma Abajo"
     ],
     "name:vol_x_preferred":[
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1310300873,
-    "wof:lastmodified":1564113851,
+    "wof:lastmodified":1566644547,
     "wof:name":"Roma",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

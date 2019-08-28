@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000775,
-    "geom:area_square_m":7349393.69826,
+    "geom:area_square_m":7349393.698264,
     "geom:bbox":"-73.5596732338,-39.9398076946,-73.5143030107,-39.9133686469",
     "geom:latitude":-39.925557,
     "geom:longitude":-73.53746,
     "iso:country":"CL",
     "lbl:latitude":-39.922588,
     "lbl:longitude":-73.539296,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.922588,
     "mps:longitude":-73.539296,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Huape"
     ],
     "qs:a0":"Chile",
@@ -35,7 +38,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577
     ],
@@ -43,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3891296,
         "gp:id":347543,
-        "qs:id":180600
+        "qs_pg:id":180600
     },
     "wof:country":"CL",
     "wof:geomhash":"345650dd590e1f3e96b0115e39f2079d",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":102017683,
-    "wof:lastmodified":1506732310,
+    "wof:lastmodified":1566644209,
     "wof:name":"El Guape",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

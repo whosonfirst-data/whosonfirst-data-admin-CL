@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00048,
-    "geom:area_square_m":5136567.724066,
+    "geom:area_square_m":5136567.724065,
     "geom:bbox":"-70.9875317338,-29.9782308587,-70.9558274917,-29.9601922194",
     "geom:latitude":-29.969212,
     "geom:longitude":-70.97168,
     "iso:country":"CL",
     "lbl:latitude":-29.969211,
     "lbl:longitude":-70.97168,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-29.969211,
     "mps:longitude":-70.97168,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Marquesa"
     ],
     "qs:a0":"Chile",
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3885380,
         "gp:id":348075,
-        "qs:id":180613,
         "qs_pg:id":180613
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017537,
-    "wof:lastmodified":1497296206,
+    "wof:lastmodified":1566644191,
     "wof:name":"La Marquesa",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

@@ -11,15 +11,18 @@
     "geom:longitude":-73.844605,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
     "lbl:latitude":-41.29019,
     "lbl:longitude":-73.844604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.29019,
     "mps:longitude":-73.844604,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Llico"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -63,7 +66,7 @@
         "fct:id":"06b17396-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3882901,
         "gp:id":348362,
-        "qs:id":468899
+        "qs_pg:id":468899
     },
     "wof:country":"CL",
     "wof:geomhash":"ed18f16f993b4853f00825d0d40dc12c",
@@ -80,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338952,
+    "wof:lastmodified":1566644181,
     "wof:name":"Llico",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

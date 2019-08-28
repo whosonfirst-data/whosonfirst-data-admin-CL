@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000665,
-    "geom:area_square_m":6905225.535595,
+    "geom:area_square_m":6905225.535588,
     "geom:bbox":"-71.0867380277,-32.9301110254,-71.0543750856,-32.9028592239",
     "geom:latitude":-32.917837,
     "geom:longitude":-71.072159,
     "iso:country":"CL",
     "lbl:latitude":-32.918342,
     "lbl:longitude":-71.074085,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.918342,
     "mps:longitude":-71.074085,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":347831
     },
     "wof:country":"CL",
-    "wof:geomhash":"7f01c13d0e4909f73dbd95b7e36e4cae",
+    "wof:geomhash":"2d3e9071cd1f1417d58e467e064a21c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102017311,
-    "wof:lastmodified":1479948846,
+    "wof:lastmodified":1566644221,
     "wof:name":"Ocoa",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

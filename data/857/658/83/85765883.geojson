@@ -14,6 +14,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.423755,
     "lbl:longitude":-70.663307,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.398603,
     "mps:longitude":-70.661004,
     "mz:hierarchy_label":1,
@@ -67,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0441\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Independencia"
-    ],
     "qs:gn_adm0_cc":"CL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3871336,
@@ -99,8 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682207,
         102191577,
@@ -112,7 +109,6 @@
     "wof:concordances":{
         "gn:id":7114107,
         "gp:id":22723877,
-        "qs:id":1299747,
         "qs_pg:id":1299747
     },
     "wof:country":"CL",
@@ -131,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564113575,
+    "wof:lastmodified":1566644284,
     "wof:name":"Independencia",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

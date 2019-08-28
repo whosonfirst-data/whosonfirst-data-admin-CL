@@ -9,14 +9,18 @@
     "geom:bbox":"-71.00304,-31.17863,-71.00304,-31.17863",
     "geom:latitude":-31.17863,
     "geom:longitude":-71.00304,
-    "gn:gn_country":"CL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CL",
+    "lbl:bbox":"-71.02304,-31.19863,-70.98304,-31.15863",
     "lbl:latitude":-31.17863,
     "lbl:longitude":-71.00304,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bak_x_preferred":[
         "\u041a\u043e\u043c\u0431\u0430\u0440\u0431\u0430\u043b\u0430"
@@ -81,9 +85,6 @@
     "name:spa_x_preferred":[
         "Combarbal\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Combarbal\u00e1"
-    ],
     "name:zho_x_preferred":[
         "\u5b54\u5df4\u723e\u74e6\u62c9"
     ],
@@ -106,7 +107,7 @@
     "qs_pg:woe_adm0":23424782,
     "qs_pg:woe_id":419922,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424782,
     "woe:name_adm0":"Chile",
     "woe:name_adm1":"Coquimbo",
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1125826865,
-    "wof:lastmodified":1563582454,
+    "wof:lastmodified":1566644666,
     "wof:name":"Combarabala",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

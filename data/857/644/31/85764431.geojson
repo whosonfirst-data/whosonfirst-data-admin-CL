@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003098,
-    "geom:area_square_m":31933480.8778,
+    "geom:area_square_m":31933480.877789,
     "geom:bbox":"-70.7042749023,-33.5719953426,-70.6403295898,-33.5047590086",
     "geom:latitude":-33.541811,
     "geom:longitude":-70.67502,
@@ -14,6 +14,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.531601,
     "lbl:longitude":-70.669405,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.532378,
     "mps:longitude":-70.677611,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "name:spa_x_preferred":[
-        "Lo Ovalle"
-    ],
-    "name:unk_x_variant":[
         "Lo Ovalle"
     ],
     "qs:gn_adm0_cc":"CL",
@@ -60,8 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682207,
         102191577,
@@ -73,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3882518,
         "gp:id":348392,
-        "qs:id":1062812,
         "qs_pg:id":1062812
     },
     "wof:country":"CL",
@@ -92,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497313083,
+    "wof:lastmodified":1566644282,
     "wof:name":"Lo Ovalle",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

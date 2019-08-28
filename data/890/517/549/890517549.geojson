@@ -11,8 +11,12 @@
     "geom:longitude":-72.219829,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.319829,-39.385419,-72.119829,-39.185419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f\u0440\u044b\u043a\u0430"
     ],
@@ -103,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794061,
-        "qs:id":1263703,
+        "qs_pg:id":1263703,
         "wk:page":"Villarrica"
     },
     "wof:country":"CL",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":890517549,
-    "wof:lastmodified":1564113957,
+    "wof:lastmodified":1566644627,
     "wof:name":"Villarrica",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

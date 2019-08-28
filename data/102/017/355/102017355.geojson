@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.095233,
     "lbl:longitude":-72.396398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.095233,
     "mps:longitude":-72.396398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Monte \u00c1guila"
     ],
@@ -524,7 +527,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -536,7 +539,6 @@
         "fct:id":"06b1254e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3879476,
         "gp:id":348683,
-        "qs:id":271169,
         "qs_pg:id":271169,
         "wd:id":"Q6022566"
     },
@@ -555,7 +557,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581541,
+    "wof:lastmodified":1566644162,
     "wof:name":"Monte \u00c1guila",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

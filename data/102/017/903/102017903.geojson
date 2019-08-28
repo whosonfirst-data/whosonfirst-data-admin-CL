@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-22.466177,
     "lbl:longitude":-68.919734,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":-22.466177,
     "mps:longitude":-68.919734,
     "mz:hierarchy_label":1,
@@ -308,7 +310,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":-22.466667,
     "wd:longitude":-68.916667,
@@ -323,7 +325,6 @@
     "wof:concordances":{
         "gn:id":3897347,
         "gp:id":349875,
-        "qs:id":1047118,
         "qs_pg:id":1047118,
         "wd:id":"Q3685",
         "wk:page":"Calama, Chile"
@@ -340,7 +341,7 @@
         }
     ],
     "wof:id":102017903,
-    "wof:lastmodified":1563581633,
+    "wof:lastmodified":1566644194,
     "wof:name":"Calama",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

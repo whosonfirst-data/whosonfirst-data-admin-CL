@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-47.028951,
     "lbl:longitude":-72.822876,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-47.028951,
     "mps:longitude":-72.822876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Puerto Bertrand"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -70,7 +73,6 @@
         "fct:id":"06b17b16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3874990,
         "gp:id":350101,
-        "qs:id":1047074,
         "qs_pg:id":1047074,
         "wd:id":"Q6091969"
     },
@@ -89,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581643,
+    "wof:lastmodified":1566644197,
     "wof:name":"Puerto Bertrand",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

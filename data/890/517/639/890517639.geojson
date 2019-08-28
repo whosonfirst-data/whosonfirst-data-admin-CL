@@ -11,11 +11,15 @@
     "geom:longitude":-73.53678,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":320,
+    "gn:population":320,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.55678,-47.82098,-73.51678,-47.78098",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tortel"
     ],
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3869486,
         "gp:id":349685,
-        "qs:id":281743,
+        "qs_pg:id":281743,
         "wd:id":"Q2390232",
         "wk:page":"Tortel"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890517639,
-    "wof:lastmodified":1563582324,
+    "wof:lastmodified":1566644624,
     "wof:name":"Tortel",
     "wof:parent_id":102063085,
     "wof:placetype":"locality",

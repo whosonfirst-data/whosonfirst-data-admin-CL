@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.11836,-30.52775,-71.07836,-30.48775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Algarrobo"
     ],
@@ -67,8 +71,7 @@
         "Algarrobo"
     ],
     "name:und_x_variant":[
-        "Los Algarrobos",
-        "Algarrobo"
+        "Los Algarrobos"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u52a0\u7f57\u6c83"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1276143697,
-    "wof:lastmodified":1564113699,
+    "wof:lastmodified":1566644436,
     "wof:name":"Algarrobo",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

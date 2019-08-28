@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.62245,-19.11465,-69.58245,-19.07465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Mi\u00f1ita"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360157935,
-    "wof:lastmodified":1537591120,
+    "wof:lastmodified":1566644570,
     "wof:name":"Minita",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

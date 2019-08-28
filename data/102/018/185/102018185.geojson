@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.736768,
     "lbl:longitude":-73.141391,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.736768,
     "mps:longitude":-73.141391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mariquina"
     ],
@@ -81,7 +84,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":236,
     "wof:belongsto":[
         102191577,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":8261365,
         "gp:id":349872,
-        "qs:id":1042650,
+        "qs_pg:id":1042650,
         "wd:id":"Q16922",
         "wk:page":"Mariquina, Chile"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102018185,
-    "wof:lastmodified":1563581451,
+    "wof:lastmodified":1566644135,
     "wof:name":"Mariquina",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

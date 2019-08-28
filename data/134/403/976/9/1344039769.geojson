@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.10462,-18.93361,-69.06462,-18.89361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Aijota"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344039769,
-    "wof:lastmodified":1537591172,
+    "wof:lastmodified":1566644269,
     "wof:name":"Aijota",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

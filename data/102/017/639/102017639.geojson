@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-43.185153,
     "lbl:longitude":-71.867065,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":-43.185153,
     "mps:longitude":-71.867065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0648\u062a\u0627\u0644\u064a\u0648\u0641\u064a\u0648"
     ],
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "Futaleuf\u00fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Futalelf\u00fa"
     ],
     "name:zho_x_preferred":[
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1019,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3889223,
         "gp:id":347764,
-        "qs:id":1210431,
         "qs_pg:id":1210431,
         "wd:id":"Q13060",
         "wk:page":"Futaleuf\u00fa, Chile"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":102017639,
-    "wof:lastmodified":1563581687,
+    "wof:lastmodified":1566644214,
     "wof:name":"Futaleuf\u00fa",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001579,
-    "geom:area_square_m":16151498.990232,
+    "geom:area_square_m":16151498.990229,
     "geom:bbox":"-71.3285957013,-34.2298981086,-71.2629565899,-34.1846180131",
     "geom:latitude":-34.207584,
     "geom:longitude":-71.293199,
     "iso:country":"CL",
     "lbl:latitude":-34.200562,
     "lbl:longitude":-71.283128,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.200562,
     "mps:longitude":-71.283128,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Parc national Las Palmas de Cocal\u00e1n"
     ],
@@ -44,7 +48,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -57,7 +61,7 @@
         "gp:id":350259
     },
     "wof:country":"CL",
-    "wof:geomhash":"df2a90ace79dc50ba4ac2ae641b3d455",
+    "wof:geomhash":"9b944d46666bec2981809e36e1943b50",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":102017803,
-    "wof:lastmodified":1479951603,
+    "wof:lastmodified":1566644175,
     "wof:name":"Cocal\u00e1n",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

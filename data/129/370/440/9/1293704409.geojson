@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.93937,-32.83077,-70.89937,-32.79077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ocampo",
         "Lo Campo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293704409,
-    "wof:lastmodified":1537591127,
+    "wof:lastmodified":1566644374,
     "wof:name":"Lo Campo",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

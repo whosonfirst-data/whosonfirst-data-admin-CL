@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.844982,
     "lbl:longitude":-70.689292,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.844982,
     "mps:longitude":-70.689292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rinconada"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3873249,
         "gp:id":349339,
-        "qs:id":1159353,
         "qs_pg:id":1159353,
         "wd:id":"Q56123",
         "wk:page":"Rinconada"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":102017023,
-    "wof:lastmodified":1561749824,
+    "wof:lastmodified":1566644164,
     "wof:name":"Rinconada de los Andes",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

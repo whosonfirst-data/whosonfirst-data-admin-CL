@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.95333,-33.75333,-70.91333,-33.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Los G\u00fcertos"
     ],
@@ -80,8 +84,7 @@
         "\u041b\u043e\u0441-\u0423\u0435\u0440\u0442\u043e\u0441"
     ],
     "name:und_x_variant":[
-        "El Huerto",
-        "Los Huertos"
+        "El Huerto"
     ],
     "name:vie_x_preferred":[
         "Los Huertos"
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1226129527,
-    "wof:lastmodified":1564114175,
+    "wof:lastmodified":1566644783,
     "wof:name":"Los Huertos",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

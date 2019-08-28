@@ -11,11 +11,15 @@
     "geom:longitude":-70.74629,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.76629,-30.35204,-70.72629,-30.31204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0648\u0646"
     ],
@@ -94,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cer\u00f3n"
     ],
     "name:uzb_x_preferred":[
@@ -132,7 +136,7 @@
     "wof:concordances":{
         "gn:id":3871001,
         "gp:id":349559,
-        "qs:id":261058,
+        "qs_pg:id":261058,
         "wk:page":"Ser\u00f3n"
     },
     "wof:country":"CL",
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":890518453,
-    "wof:lastmodified":1564113977,
+    "wof:lastmodified":1566644641,
     "wof:name":"Ser\u00f3n",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

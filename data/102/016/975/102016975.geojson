@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.95728,
     "lbl:longitude":-70.712968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.95728,
     "mps:longitude":-70.712968,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Francisco"
     ],
@@ -513,7 +516,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -524,7 +527,6 @@
     "wof:concordances":{
         "gn:id":3872230,
         "gp:id":350361,
-        "qs:id":897614,
         "qs_pg:id":897614
     },
     "wof:country":"CL",
@@ -539,7 +541,7 @@
         }
     ],
     "wof:id":102016975,
-    "wof:lastmodified":1564113462,
+    "wof:lastmodified":1566644153,
     "wof:name":"San Francisco",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

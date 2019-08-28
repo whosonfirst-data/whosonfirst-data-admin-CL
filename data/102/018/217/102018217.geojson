@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-42.702623,
     "lbl:longitude":-73.67981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-42.702623,
     "mps:longitude":-73.67981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "Keilen"
     ],
@@ -87,7 +90,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":584,
     "wof:belongsto":[
         102191577,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":8261429,
         "gp:id":349134,
-        "qs:id":381579,
+        "qs_pg:id":381579,
         "wd:id":"Q51607"
     },
     "wof:country":"CL",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102018217,
-    "wof:lastmodified":1563581397,
+    "wof:lastmodified":1566644117,
     "wof:name":"Queilen",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

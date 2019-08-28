@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.73187,-18.8377,-69.69187,-18.7977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Gua\u00f1acagua"
     ],
     "name:und_x_variant":[
-        "Guanacahua",
-        "Gua\u00f1acagua"
+        "Guanacahua"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1242844041,
-    "wof:lastmodified":1564114060,
+    "wof:lastmodified":1566644701,
     "wof:name":"Guanacagua",
     "wof:parent_id":102063165,
     "wof:placetype":"locality",

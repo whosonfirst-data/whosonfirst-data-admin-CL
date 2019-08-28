@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Punta_Arenas",
     "iso:country":"CL",
+    "lbl:bbox":"-71.26666,-52.62032,-71.22666,-52.58032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Manzano",
         "Secci\u00f3n Manzano"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327013707,
-    "wof:lastmodified":1537591103,
+    "wof:lastmodified":1566643948,
     "wof:name":"Seccion Manzano",
     "wof:parent_id":102063075,
     "wof:placetype":"locality",

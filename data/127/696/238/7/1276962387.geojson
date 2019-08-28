@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.50838,-41.23882,-73.46838,-41.19882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1353\u122d\u130b"
     ],
@@ -106,8 +110,7 @@
         "\u041f\u0430\u0440\u0433\u0430"
     ],
     "name:und_x_variant":[
-        "Estaci\u00f3n Parga",
-        "Parga"
+        "Estaci\u00f3n Parga"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u06af\u0627"
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1276962387,
-    "wof:lastmodified":1564113721,
+    "wof:lastmodified":1566644451,
     "wof:name":"Parga",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

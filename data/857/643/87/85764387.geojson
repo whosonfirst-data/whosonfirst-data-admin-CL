@@ -12,8 +12,10 @@
     "gn:latitude":-33.59599,
     "gn:longitude":-71.60007,
     "iso:country":"CL",
+    "lbl:bbox":"-71.621554,-33.609382,-71.611554,-33.599382",
     "lbl:latitude":-33.604382,
     "lbl:longitude":-71.616554,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.601168,
     "mps:longitude":-71.612251,
     "mz:hierarchy_label":0,
@@ -39,10 +41,6 @@
     ],
     "name:spa_x_variant":[
         "Lo Gallardo"
-    ],
-    "name:unk_x_variant":[
-        "Lo Gallardo",
-        "Barrancas"
     ],
     "qs:gn_adm0_cc":"CL",
     "qs:gn_fcode":"PPLX",
@@ -74,9 +72,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":17,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85682143,
         102191577,
@@ -88,7 +85,6 @@
     "wof:concordances":{
         "gn:id":3882697,
         "gp:id":346868,
-        "qs:id":1262730,
         "qs_pg:id":1262730,
         "wd:id":"Q4863231"
     },
@@ -108,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581802,
+    "wof:lastmodified":1566644279,
     "wof:name":"Barrancas",
     "wof:parent_id":102016993,
     "wof:placetype":"neighbourhood",

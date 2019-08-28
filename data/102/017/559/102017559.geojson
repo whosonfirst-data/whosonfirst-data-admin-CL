@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.205402,
     "lbl:longitude":-71.656376,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.205402,
     "mps:longitude":-71.656376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041b\u0430-\u042d\u0441\u0442\u0440\u0435\u043b\u044c\u044f"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":270,
     "wof:belongsto":[
         102191577,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":3885974,
         "gp:id":350254,
-        "qs:id":180703,
         "qs_pg:id":180703,
         "wd:id":"Q14458",
         "wk:page":"La Estrella, Chile"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":102017559,
-    "wof:lastmodified":1563581530,
+    "wof:lastmodified":1566644158,
     "wof:name":"La Estrella",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.24631,-35.2982,-72.20631,-35.2582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Florida"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1243442635,
-    "wof:lastmodified":1564114083,
+    "wof:lastmodified":1566644713,
     "wof:name":"La Florida",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

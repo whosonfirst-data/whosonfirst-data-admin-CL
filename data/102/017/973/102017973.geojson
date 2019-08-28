@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":6235798.638939,
+    "geom:area_square_m":6235798.638941,
     "geom:bbox":"-72.5707863484,-39.3560447756,-72.5146506802,-39.2615342909",
     "geom:latitude":-39.30881,
     "geom:longitude":-72.542716,
     "iso:country":"CL",
     "lbl:latitude":-39.347042,
     "lbl:longitude":-72.526245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.347042,
     "mps:longitude":-72.526245,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ancahual"
     ],
     "qs:a0":"Chile",
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3899740,
         "gp:id":346780,
-        "qs:id":180590,
         "qs_pg:id":180590
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017973,
-    "wof:lastmodified":1497296203,
+    "wof:lastmodified":1566644222,
     "wof:name":"Ancagual",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

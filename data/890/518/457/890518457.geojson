@@ -11,11 +11,15 @@
     "geom:longitude":-70.61204,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.63204,-30.03482,-70.59204,-29.99482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "La Campana"
     ],
@@ -135,7 +139,7 @@
     "wof:concordances":{
         "gn:id":3886385,
         "gp:id":350253,
-        "qs:id":261057,
+        "qs_pg:id":261057,
         "wk:page":"La Campana"
     },
     "wof:country":"CL",
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":890518457,
-    "wof:lastmodified":1564113993,
+    "wof:lastmodified":1566644653,
     "wof:name":"La Campana",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

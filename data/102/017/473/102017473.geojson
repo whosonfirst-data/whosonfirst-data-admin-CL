@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.736457,
     "lbl:longitude":-71.85381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.736457,
     "mps:longitude":-71.85381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Liqui\u00f1e"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         102191577,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3883107,
         "gp:id":348342,
-        "qs:id":336650,
         "qs_pg:id":336650,
         "wd:id":"Q6557533",
         "wk:page":"Liqui\u00f1e"
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":102017473,
-    "wof:lastmodified":1561749833,
+    "wof:lastmodified":1566644208,
     "wof:name":"Liqui\u00f1e",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

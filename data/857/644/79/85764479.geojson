@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1749709.308118,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.555114,-33.026402,-71.555114,-33.026402",
     "geom:latitude":-33.026402,
     "geom:longitude":-71.555114,
     "gn:latitude":-33.03087,
     "gn:longitude":-71.53048,
     "iso:country":"CL",
+    "lbl:bbox":"-71.560114,-33.031402,-71.550114,-33.021402",
     "lbl:latitude":-33.026402,
     "lbl:longitude":-71.555114,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.028643,
     "mps:longitude":-71.556183,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
         "Poblaci\u00f3n Miraflores",
         "Distrito de Miraflores"
     ],
-    "name:unk_x_variant":[
-        "Poblaci\u00f3n Miraflores"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"01",
@@ -78,20 +77,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016801,
-        102063161,
-        85682143
+        102063161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3875594,
         "gp:id":348993,
-        "qs:id":1114229,
         "qs_pg:id":1114229
     },
     "wof:country":"CL",
@@ -110,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858902,
+    "wof:lastmodified":1566644283,
     "wof:name":"Poblaci\u00f3n Miraflores",
     "wof:parent_id":102016801,
     "wof:placetype":"neighbourhood",

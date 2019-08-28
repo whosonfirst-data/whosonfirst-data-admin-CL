@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.652217,
     "lbl:longitude":-72.304422,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.652217,
     "mps:longitude":-72.304422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "pangi p\u00fclli"
     ],
@@ -96,7 +99,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":647,
     "wof:belongsto":[
         102191577,
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gn:id":8261354,
         "gp:id":349936,
-        "qs:id":1155742,
+        "qs_pg:id":1155742,
         "wd:id":"Q51076"
     },
     "wof:country":"CL",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":102018183,
-    "wof:lastmodified":1563581447,
+    "wof:lastmodified":1566644134,
     "wof:name":"Panguipulli",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

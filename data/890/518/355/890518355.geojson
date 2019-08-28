@@ -11,8 +11,12 @@
     "geom:longitude":-70.716247,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.816247,-32.729718,-70.616247,-32.529718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0443\u0442\u0430\u0435\u043d\u0434\u043e"
     ],
@@ -91,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794350,
-        "qs:id":220747,
+        "qs_pg:id":220747,
         "wd:id":"Q51604",
         "wk:page":"Putaendo"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890518355,
-    "wof:lastmodified":1563582358,
+    "wof:lastmodified":1566644634,
     "wof:name":"Putaendo",
     "wof:parent_id":102063099,
     "wof:placetype":"localadmin",

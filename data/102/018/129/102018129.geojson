@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.973339,
     "lbl:longitude":-70.695716,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.973339,
     "mps:longitude":-70.695716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0430\u0441\u0430\u043b\u044c"
     ],
@@ -84,7 +87,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":259,
     "wof:belongsto":[
         102191577,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":8261284,
         "gp:id":350133,
-        "qs:id":1042636,
+        "qs_pg:id":1042636,
         "wd:id":"Q51035"
     },
     "wof:country":"CL",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":102018129,
-    "wof:lastmodified":1563581415,
+    "wof:lastmodified":1566644122,
     "wof:name":"Mostazal",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

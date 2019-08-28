@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.118738,
     "lbl:longitude":-71.724882,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.118738,
     "mps:longitude":-71.724882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Litwichi"
     ],
@@ -99,7 +102,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":281,
     "wof:belongsto":[
         102191577,
@@ -111,7 +114,7 @@
     "wof:concordances":{
         "gn:id":8261255,
         "gp:id":26794379,
-        "qs:id":1042639,
+        "qs_pg:id":1042639,
         "wd:id":"Q14496",
         "wk:page":"Litueche"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102018103,
-    "wof:lastmodified":1563581386,
+    "wof:lastmodified":1566644114,
     "wof:name":"Litueche",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

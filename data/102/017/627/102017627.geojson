@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.112972,
     "lbl:longitude":-72.662036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.112972,
     "mps:longitude":-72.662036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0431\u0435\u0430"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":738,
     "wof:belongsto":[
         102191577,
@@ -136,7 +139,6 @@
     "wof:concordances":{
         "gn:id":3888892,
         "gp:id":350035,
-        "qs:id":1210484,
         "qs_pg:id":1210484,
         "wd:id":"Q13067"
     },
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":102017627,
-    "wof:lastmodified":1563581566,
+    "wof:lastmodified":1566644170,
     "wof:name":"Gorbea",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

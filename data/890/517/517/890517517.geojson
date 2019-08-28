@@ -11,8 +11,12 @@
     "geom:longitude":-71.600646,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.700646,-33.642682,-71.500646,-33.442682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0637\u0627\u062c\u0646\u0629"
     ],
@@ -170,9 +174,11 @@
     "wof:concordances":{
         "gn:id":8261450,
         "gp:id":26794342,
-        "qs:id":572772,
         "qs_pg:id":381589,
         "wk:page":"Cartagena"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":572772
     },
     "wof:country":"CL",
     "wof:created":1469056012,
@@ -187,7 +193,7 @@
         }
     ],
     "wof:id":890517517,
-    "wof:lastmodified":1564113941,
+    "wof:lastmodified":1566644612,
     "wof:name":"Cartagena",
     "wof:parent_id":102063167,
     "wof:placetype":"localadmin",

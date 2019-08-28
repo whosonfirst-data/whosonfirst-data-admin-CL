@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-20.071411,
     "lbl:longitude":-69.213867,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.071411,
     "mps:longitude":-69.213867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mami\u00f1a"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191577,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":3880777,
         "gp:id":349927,
-        "qs:id":180675,
         "qs_pg:id":180675,
         "wd:id":"Q5802751",
         "wk:page":"Mami\u00f1a"
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":102017395,
-    "wof:lastmodified":1561749830,
+    "wof:lastmodified":1566644191,
     "wof:name":"Mami\u00f1a",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

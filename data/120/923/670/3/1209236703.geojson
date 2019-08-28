@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.87113,-34.66942,-70.83113,-34.62942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Agua Buena"
     ],
@@ -46,8 +50,7 @@
         "Agua Buena"
     ],
     "name:und_x_variant":[
-        "Agua Blanca",
-        "Agua Buena"
+        "Agua Blanca"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0648\u0627 \u0628\u06cc\u0648\u0646\u0627"
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209236703,
-    "wof:lastmodified":1564113753,
+    "wof:lastmodified":1566644475,
     "wof:name":"Agua Buena",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

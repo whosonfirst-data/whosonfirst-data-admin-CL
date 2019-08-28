@@ -11,12 +11,16 @@
     "geom:longitude":-70.66227,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.68227,-26.16385,-70.64227,-26.12385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Caleta Pan de Az\u00facar"
     ],
     "qs:name":"Puerto Pan de Az\u00facar",
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":3874949,
         "gp:id":349087,
-        "qs:id":231955
+        "qs_pg:id":231955
     },
     "wof:country":"CL",
     "wof:created":1469056062,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890518387,
-    "wof:lastmodified":1505343909,
+    "wof:lastmodified":1566644657,
     "wof:name":"Puerto Pan de Az\u00facar",
     "wof:parent_id":102063133,
     "wof:placetype":"locality",

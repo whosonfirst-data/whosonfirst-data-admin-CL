@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.397622,
     "lbl:longitude":-71.166353,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.397622,
     "mps:longitude":-71.166353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Piwmu"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":231,
     "wof:belongsto":[
         102191577,
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":3876383,
         "gp:id":348918,
-        "qs:id":268675,
         "qs_pg:id":268675,
         "wd:id":"Q51097",
         "wk:page":"Peumo"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":102017229,
-    "wof:lastmodified":1563581544,
+    "wof:lastmodified":1566644163,
     "wof:name":"Peumo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

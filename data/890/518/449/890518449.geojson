@@ -11,11 +11,15 @@
     "geom:longitude":-72.58246,
     "gn:country":"CL",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.68246,-37.41247,-72.48246,-37.21247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Laja"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":8261353,
         "gp:id":26794092,
-        "qs:id":1193989,
+        "qs_pg:id":1193989,
         "wk:page":"Laja"
     },
     "wof:country":"CL",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890518449,
-    "wof:lastmodified":1564113968,
+    "wof:lastmodified":1566644635,
     "wof:name":"Laja",
     "wof:parent_id":102063151,
     "wof:placetype":"localadmin",

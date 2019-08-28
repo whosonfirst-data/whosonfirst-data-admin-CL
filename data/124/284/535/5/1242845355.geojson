@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.59489,-41.96286,-73.55489,-41.92286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Lecan"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242845355,
-    "wof:lastmodified":1537591174,
+    "wof:lastmodified":1566644700,
     "wof:name":"Lecan",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

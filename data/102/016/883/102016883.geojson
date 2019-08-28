@@ -15,10 +15,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.870856,
     "lbl:longitude":-71.156269,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":-34.870856,
     "mps:longitude":-71.156269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Teno"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":252,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
     "wof:concordances":{
         "gn:id":3869979,
         "gp:id":350378,
-        "qs:id":454437,
         "qs_pg:id":454437,
         "wd:id":"Q2383688",
         "wk:page":"Teno"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":102016883,
-    "wof:lastmodified":1563581495,
+    "wof:lastmodified":1566644147,
     "wof:name":"Teno",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.8485,
     "lbl:longitude":-71.374385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.8485,
     "mps:longitude":-71.374385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rapel"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":3873719,
         "gp:id":350123,
-        "qs:id":180695,
         "qs_pg:id":180695,
         "wd:id":"Q7293923"
     },
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":102017051,
-    "wof:lastmodified":1561749834,
+    "wof:lastmodified":1566644218,
     "wof:name":"Rapel",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

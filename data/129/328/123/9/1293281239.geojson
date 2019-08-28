@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Punta_Arenas",
     "iso:country":"CL",
+    "lbl:bbox":"-72.83588,-51.14025,-72.79588,-51.10025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lazo",
         "Secci\u00f3n Lazo"
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1293281239,
-    "wof:lastmodified":1537591103,
+    "wof:lastmodified":1566644403,
     "wof:name":"Seccion Lazo",
     "wof:parent_id":102063081,
     "wof:placetype":"locality",

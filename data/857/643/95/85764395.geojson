@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":40709188.323872,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.217479,-39.819647,-73.217479,-39.819647",
     "geom:latitude":-39.819647,
     "geom:longitude":-73.217479,
     "gn:latitude":-39.79337,
     "gn:longitude":-73.19675,
     "iso:country":"CL",
+    "lbl:bbox":"-73.222479,-39.824647,-73.212479,-39.814647",
     "lbl:latitude":-39.819647,
     "lbl:longitude":-73.217479,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-39.824438,
     "mps:longitude":-73.215637,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Collico"
-    ],
-    "name:unk_x_variant":[
         "Collico"
     ],
     "qs:gn_adm0_cc":"CL",
@@ -61,20 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682171,
         102191577,
         85633057,
         102016837,
-        102063183,
-        85682171
+        102063183
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3894202,
         "gp:id":347283,
-        "qs:id":1270677,
         "qs_pg:id":1270677
     },
     "wof:country":"CL",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858897,
+    "wof:lastmodified":1566644279,
     "wof:name":"Collico",
     "wof:parent_id":102016837,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":-72.24626,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.26626,-39.0085,-72.22626,-38.9685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Los Laureles"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3881967,
         "gp:id":350067,
-        "qs:id":180689,
+        "qs_pg:id":180689,
         "wk:page":"Los Laureles"
     },
     "wof:country":"CL",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890518277,
-    "wof:lastmodified":1564113984,
+    "wof:lastmodified":1566644648,
     "wof:name":"Los Laureles",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

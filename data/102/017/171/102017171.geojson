@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":3121614.681344,
+    "geom:area_square_m":3121614.681341,
     "geom:bbox":"-71.3614887264,-33.701363975,-71.3399271801,-33.6833404616",
     "geom:latitude":-33.692352,
     "geom:longitude":-71.350708,
     "iso:country":"CL",
     "lbl:latitude":-33.692352,
     "lbl:longitude":-71.350708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.692352,
     "mps:longitude":-71.350708,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Puangue"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -48,7 +52,6 @@
         "fct:id":"06b1e902-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3875119,
         "gp:id":349037,
-        "qs:id":1116108,
         "qs_pg:id":1116108
     },
     "wof:country":"CL",
@@ -66,7 +69,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497295190,
+    "wof:lastmodified":1566644229,
     "wof:name":"Puangue",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

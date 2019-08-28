@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.222694,
     "lbl:longitude":-71.429817,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.222694,
     "mps:longitude":-71.429817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041b\u0430\u0441-\u041a\u0430\u0431\u0440\u0430\u0441"
     ],
@@ -93,7 +96,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":12,
     "wof:belongsto":[
         102191577,
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":8261260,
         "gp:id":347498,
-        "qs:id":1246134,
+        "qs_pg:id":1246134,
         "wd:id":"Q14480"
     },
     "wof:country":"CL",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":102018111,
-    "wof:lastmodified":1563581416,
+    "wof:lastmodified":1566644123,
     "wof:name":"Las Cabras",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

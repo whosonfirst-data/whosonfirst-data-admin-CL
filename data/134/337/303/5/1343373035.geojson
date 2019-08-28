@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.33953,-32.73039,-71.29953,-32.69039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Canela"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343373035,
-    "wof:lastmodified":1564113499,
+    "wof:lastmodified":1566644234,
     "wof:name":"La Canela",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

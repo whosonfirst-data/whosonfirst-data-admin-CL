@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.2964,-33.7891,-70.2564,-33.7491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ingenio",
         "El Injenio",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260158111,
-    "wof:lastmodified":1537591147,
+    "wof:lastmodified":1566644514,
     "wof:name":"El Ingenio",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-70.647941,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.652941,-33.454579,-70.642941,-33.444579",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0648 \u0646\u0627\u0641\u064a\u0627"
     ],
@@ -98,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723873,
-        "qs:id":415187,
+        "qs_pg:id":415187,
         "wd:id":"Q3756",
         "wk:page":"Cerro Navia"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890517709,
-    "wof:lastmodified":1563582245,
+    "wof:lastmodified":1566644601,
     "wof:name":"Cerro Navia",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

@@ -12,9 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-41.137289,
     "lbl:longitude":-72.395279,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.137289,
     "mps:longitude":-72.395279,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Saltos de Petrohu\u00e9"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3876411,
         "gp:id":350089,
-        "qs:id":905775,
         "qs_pg:id":905775
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017231,
-    "wof:lastmodified":1497292747,
+    "wof:lastmodified":1566644210,
     "wof:name":"Petrohu\u00e9",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

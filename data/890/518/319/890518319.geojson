@@ -11,11 +11,15 @@
     "geom:longitude":-72.55859,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.57859,-44.34488,-72.53859,-44.30488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Puerto Puyuguapi",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Aisen del General Carlos Ibanez Del Campo",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":3874944,
         "gp:id":350110,
-        "qs:id":210599
+        "qs_pg:id":210599
     },
     "wof:country":"CL",
     "wof:created":1469056058,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890518319,
-    "wof:lastmodified":1505343908,
+    "wof:lastmodified":1566644658,
     "wof:name":"Puerto Puyuguapi",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",

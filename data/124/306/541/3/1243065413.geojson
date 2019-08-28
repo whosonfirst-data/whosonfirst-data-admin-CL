@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.82465,-36.40464,-72.78465,-36.36464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243065413,
-    "wof:lastmodified":1536856625,
+    "wof:lastmodified":1566644674,
     "wof:name":"Puaun",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

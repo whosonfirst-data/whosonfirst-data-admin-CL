@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.90333,-32.30333,-70.86333,-32.26333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Polcura",
         "Comunidad La Polcura"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326747931,
-    "wof:lastmodified":1537591155,
+    "wof:lastmodified":1566643955,
     "wof:name":"Comunidad La Polcura",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000756,
-    "geom:area_square_m":8730376.515442,
+    "geom:area_square_m":8730376.515435,
     "geom:bbox":"-69.5475819511,-20.9550851491,-69.517359421,-20.9267538197",
     "geom:latitude":-20.94092,
     "geom:longitude":-69.532471,
     "iso:country":"CL",
     "lbl:latitude":-20.940919,
     "lbl:longitude":-69.532471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-20.940919,
     "mps:longitude":-69.532471,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Oficina Victoria"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":3878177,
         "gp:id":348770,
-        "qs:id":1156170,
         "qs_pg:id":1156170
     },
     "wof:country":"CL",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017305,
-    "wof:lastmodified":1497298520,
+    "wof:lastmodified":1566644199,
     "wof:name":"Oficina Victoria",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

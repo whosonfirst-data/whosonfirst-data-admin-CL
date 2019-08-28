@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002982,
-    "geom:area_square_m":28750044.889894,
+    "geom:area_square_m":28750044.889892,
     "geom:bbox":"-72.8124056599,-38.784503852,-72.7075195312,-38.7407944001",
     "geom:latitude":-38.763848,
     "geom:longitude":-72.75729,
     "iso:country":"CL",
     "lbl:latitude":-38.76863,
     "lbl:longitude":-72.761536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.76863,
     "mps:longitude":-72.761536,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Araucania",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3886460,
         "gp:id":350054,
-        "qs:id":1003079,
         "qs_pg:id":1003079
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017571,
-    "wof:lastmodified":1497292239,
+    "wof:lastmodified":1566644220,
     "wof:name":"Labranza",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.03867,-34.71804,-70.99867,-34.67804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mariposas",
         "Las Mariposas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343878345,
-    "wof:lastmodified":1537591131,
+    "wof:lastmodified":1566644273,
     "wof:name":"Las Mariposas",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

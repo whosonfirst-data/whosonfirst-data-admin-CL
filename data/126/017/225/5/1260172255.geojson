@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.4753,-34.73401,-71.4353,-34.69401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lagunillas",
         "Rinc\u00f3n de Lagunillas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260172255,
-    "wof:lastmodified":1537591106,
+    "wof:lastmodified":1566644523,
     "wof:name":"Rincon de Lagunillas",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-35.68844,
     "lbl:longitude":-71.581715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.68844,
     "mps:longitude":-71.581715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yerbas Buenas"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":580,
     "wof:belongsto":[
         102191577,
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3867668,
         "gp:id":349834,
-        "qs:id":180658,
         "qs_pg:id":180658,
         "wd:id":"Q201046"
     },
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":102016797,
-    "wof:lastmodified":1563581452,
+    "wof:lastmodified":1566644135,
     "wof:name":"Yerbas Buenas",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

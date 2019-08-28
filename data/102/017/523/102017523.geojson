@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.161857,
     "lbl:longitude":-73.177212,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.161857,
     "mps:longitude":-73.177212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Laraquetoski"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191577,
@@ -59,7 +62,6 @@
         "fct:id":"06b117fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3884823,
         "gp:id":348200,
-        "qs:id":246727,
         "qs_pg:id":246727,
         "wd:id":"Q6488698",
         "wk:page":"Laraquete"
@@ -79,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561749836,
+    "wof:lastmodified":1566644228,
     "wof:name":"Laraquete",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

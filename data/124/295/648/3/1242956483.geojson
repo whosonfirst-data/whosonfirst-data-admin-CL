@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.82979,-41.38427,-72.78979,-41.34427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Colonia Metrenqu\u00e9n"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242956483,
-    "wof:lastmodified":1537591177,
+    "wof:lastmodified":1566644683,
     "wof:name":"Colonia Metrenquen",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

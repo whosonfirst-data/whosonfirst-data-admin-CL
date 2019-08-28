@@ -11,11 +11,15 @@
     "geom:longitude":-70.93826,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.95826,-30.42846,-70.91826,-30.38846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Samo Alto",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Coquimbo",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":3872475,
         "gp:id":350131,
-        "qs:id":150585
+        "qs_pg:id":150585
     },
     "wof:country":"CL",
     "wof:created":1469056052,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890518189,
-    "wof:lastmodified":1505343908,
+    "wof:lastmodified":1566644642,
     "wof:name":"Samo Alto",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

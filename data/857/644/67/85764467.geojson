@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":41014849.076773,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.633381,-33.037519,-71.633381,-33.037519",
     "geom:latitude":-33.037519,
     "geom:longitude":-71.633381,
     "gn:latitude":-33.03553,
     "gn:longitude":-71.64182,
     "iso:country":"CL",
+    "lbl:bbox":"-71.638381,-33.042519,-71.628381,-33.032519",
     "lbl:latitude":-33.037519,
     "lbl:longitude":-71.633381,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.033706,
     "mps:longitude":-71.649762,
     "mz:hierarchy_label":0,
@@ -30,10 +32,6 @@
     ],
     "name:spa_x_variant":[
         "Cerro Playa Ancha"
-    ],
-    "name:unk_x_variant":[
-        "Cerro Playa Ancha",
-        "Playa Ancha"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -63,20 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016833,
-        102063161,
-        85682143
+        102063161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3875654,
         "gp:id":348986,
-        "qs:id":1026471,
         "qs_pg:id":1026471
     },
     "wof:country":"CL",
@@ -95,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858900,
+    "wof:lastmodified":1566644281,
     "wof:name":"Playa Ancha",
     "wof:parent_id":102016833,
     "wof:placetype":"neighbourhood",

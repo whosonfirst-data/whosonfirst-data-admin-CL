@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-38.192451,
     "lbl:longitude":-72.990113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.192451,
     "mps:longitude":-72.990113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u064a\u062a\u0627\u0646 \u0628\u0627\u0633\u062a\u064a\u0646"
     ],
@@ -43,7 +46,7 @@
     "name:spa_x_preferred":[
         "Capit\u00e1n Pastene"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Capitan Pastenes"
     ],
     "qs:a0":"Chile",
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":342,
     "wof:belongsto":[
         102191577,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":3896833,
         "gp:id":350187,
-        "qs:id":1320902,
         "qs_pg:id":1320902,
         "wd:id":"Q3656938",
         "wk:page":"Capit\u00e1n Pastene"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":102017881,
-    "wof:lastmodified":1563581567,
+    "wof:lastmodified":1566644170,
     "wof:name":"Capit\u00e1n Pastene",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

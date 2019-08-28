@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.17626,-37.09873,-73.13626,-37.05873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lota Alta",
         "Lota Alto"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260205723,
-    "wof:lastmodified":1537591122,
+    "wof:lastmodified":1566644520,
     "wof:name":"Lota Alto",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

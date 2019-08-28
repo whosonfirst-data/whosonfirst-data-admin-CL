@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.863371,
     "lbl:longitude":-73.449097,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":-39.863371,
     "mps:longitude":-73.449097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0427\u0430\u0438\u0445\u0443\u0438\u043d"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":6458736,
         "gp:id":349906,
-        "qs:id":279809,
         "qs_pg:id":279809,
         "wd:id":"Q5019542",
         "wk:page":"Caleta Chaihu\u00edn"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102018011,
-    "wof:lastmodified":1561749816,
+    "wof:lastmodified":1566644129,
     "wof:name":"Chaihuin",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

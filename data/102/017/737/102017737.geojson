@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.88763,
     "lbl:longitude":-73.424729,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":-39.88763,
     "mps:longitude":-73.424729,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0627\u0644"
     ],
@@ -86,7 +89,7 @@
     "name:swe_x_preferred":[
         "Corral"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Corral"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":850,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":3893516,
         "gp:id":349906,
-        "qs:id":1320547,
         "qs_pg:id":1320547,
         "wd:id":"Q3875",
         "wk:page":"Corral, Chile"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":102017737,
-    "wof:lastmodified":1563581529,
+    "wof:lastmodified":1566644157,
     "wof:name":"Corral",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

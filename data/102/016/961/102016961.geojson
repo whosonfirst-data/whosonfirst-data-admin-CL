@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.645087,
     "lbl:longitude":-70.353472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.645087,
     "mps:longitude":-70.353472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "San Jos\u00e9 de Maipo"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":555,
     "wof:belongsto":[
         102191577,
@@ -103,7 +106,6 @@
         "fct:id":"06b181ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3872073,
         "gp:id":350135,
-        "qs:id":507861,
         "qs_pg:id":507861,
         "wd:id":"Q187847",
         "wk:page":"San Jos\u00e9 de Maipo"
@@ -123,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581488,
+    "wof:lastmodified":1566644145,
     "wof:name":"San Jos\u00e9 de Maipo",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

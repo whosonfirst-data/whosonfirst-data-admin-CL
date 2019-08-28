@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.10182,-25.78866,-70.06182,-25.74866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327139075,
-    "wof:lastmodified":1536603356,
+    "wof:lastmodified":1566643962,
     "wof:name":"Sierra Overa",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

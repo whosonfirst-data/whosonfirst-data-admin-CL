@@ -12,8 +12,12 @@
     "gn:country":"CL",
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.547006,-32.604314,-71.347006,-32.404314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0434\u043e"
     ],
@@ -89,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794331,
-        "qs:id":430240,
+        "qs_pg:id":430240,
         "wd:id":"Q51079",
         "wk:page":"Papudo"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890517741,
-    "wof:lastmodified":1563582295,
+    "wof:lastmodified":1566644615,
     "wof:name":"Papudo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

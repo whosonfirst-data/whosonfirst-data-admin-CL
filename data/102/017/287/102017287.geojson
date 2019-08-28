@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-30.104404,
     "lbl:longitude":-70.483005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-30.104404,
     "mps:longitude":-70.483005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u0430\u0439\u0433\u0443\u0430\u043d\u043e"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Paihuano"
     ],
-    "name:unk_x_variant":[
-        "Paihuano"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Paiguano"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191577,
@@ -124,7 +124,6 @@
     "wof:concordances":{
         "gn:id":3877770,
         "gp:id":348797,
-        "qs:id":893530,
         "qs_pg:id":893530,
         "wd:id":"Q51064",
         "wk:page":"Paiguano"
@@ -141,7 +140,7 @@
         }
     ],
     "wof:id":102017287,
-    "wof:lastmodified":1563581554,
+    "wof:lastmodified":1566644166,
     "wof:name":"Paiguano",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

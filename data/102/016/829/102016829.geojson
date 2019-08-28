@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.79534,
     "lbl:longitude":-72.060075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.79534,
     "mps:longitude":-72.060075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vichuqu\u00e9n"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":307,
     "wof:belongsto":[
         102191577,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":3868339,
         "gp:id":350392,
-        "qs:id":119915,
         "qs_pg:id":119915,
         "wd:id":"Q200992",
         "wk:page":"Vichuqu\u00e9n"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":102016829,
-    "wof:lastmodified":1563581460,
+    "wof:lastmodified":1566644139,
     "wof:name":"Vichuqu\u00e9n",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-71.33045,
     "gn:country":"CL",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.43045,-33.16787,-71.23045,-32.96787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Villa Alemana"
     ],
@@ -264,7 +268,7 @@
     "wof:concordances":{
         "gn:id":8261165,
         "gp:id":26794358,
-        "qs:id":1081918,
+        "qs_pg:id":1081918,
         "wd:id":"Q174744",
         "wk:page":"Villa Alemana"
     },
@@ -281,7 +285,7 @@
         }
     ],
     "wof:id":890517959,
-    "wof:lastmodified":1563582299,
+    "wof:lastmodified":1566644617,
     "wof:name":"Villa Alemana",
     "wof:parent_id":1108721747,
     "wof:placetype":"localadmin",

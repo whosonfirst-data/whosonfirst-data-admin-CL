@@ -11,11 +11,15 @@
     "geom:longitude":-73.27488,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.29488,-39.80135,-73.25488,-39.76135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Los Molinos"
     ],
@@ -29,9 +33,6 @@
         "Los Molinos"
     ],
     "name:spa_x_preferred":[
-        "Los Molinos"
-    ],
-    "name:unk_x_variant":[
         "Los Molinos"
     ],
     "qs:name":"El Molino",
@@ -52,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3890987,
         "gp:id":347584,
-        "qs:id":1070201,
+        "qs_pg:id":1070201,
         "wd:id":"Q18355925"
     },
     "wof:country":"CL",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":890517917,
-    "wof:lastmodified":1561749888,
+    "wof:lastmodified":1566644630,
     "wof:name":"El Molino",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-36.952865,
     "lbl:longitude":-72.963988,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n del B\u00edo-B\u00edo",
     "meso:gadm_admin":"Concepci\u00f3n",
     "meso:gadm_hasc2":"CL.BI.CN",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.964095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u062b\u0628\u062b\u064a\u0648\u0646"
     ],
@@ -338,9 +341,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"3,439",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Concepci\u00f3n",
@@ -361,7 +364,7 @@
     "wof:concordances":{
         "gp:id":26793990,
         "hasc:id":"CL.BI.CN",
-        "qs:id":368847,
+        "qs_pg:id":368847,
         "wd:id":"Q40008",
         "wk:page":"Concepci\u00f3n"
     },
@@ -376,7 +379,7 @@
         }
     ],
     "wof:id":102063171,
-    "wof:lastmodified":1563581379,
+    "wof:lastmodified":1566644108,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

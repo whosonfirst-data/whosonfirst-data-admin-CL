@@ -14,6 +14,8 @@
     "iso:country":"CL",
     "lbl:latitude":-37.804678,
     "lbl:longitude":-72.702036,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":-37.804678,
     "mps:longitude":-72.702036,
     "mz:hierarchy_label":1,
@@ -312,7 +314,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -324,7 +326,6 @@
     "wof:concordances":{
         "gn:id":3899629,
         "gp:id":349889,
-        "qs:id":776678,
         "qs_pg:id":776678,
         "wd:id":"Q3608",
         "wk:page":"Angol"
@@ -341,7 +342,7 @@
         }
     ],
     "wof:id":102017967,
-    "wof:lastmodified":1563581639,
+    "wof:lastmodified":1566644195,
     "wof:name":"Angol",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

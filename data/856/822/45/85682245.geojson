@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-20.263434,
     "lbl:longitude":-69.414507,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"De Tarapaca",
     "mps:latitude":-19.689458,
     "mps:longitude":-69.440675,
@@ -231,7 +232,7 @@
     "name:ukr_x_preferred":[
         "I \u0420\u0435\u0433\u0456\u043e\u043d \u0422\u0430\u0440\u0430\u043f\u0430\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "I Regi\u00f3n"
     ],
     "name:urd_x_preferred":[
@@ -318,9 +319,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"42,226",
     "statoids:area_mi":"16,303",
     "statoids:as_of_date":"2012-04-09",
@@ -362,11 +363,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565662705,
+    "wof:lastmodified":1566644356,
     "wof:name":"De Tarapaca",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":295095,
     "wof:population_rank":10,

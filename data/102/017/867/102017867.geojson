@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-41.009896,
     "lbl:longitude":-73.119629,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.009896,
     "mps:longitude":-73.119629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Kasma"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-9.474167,
     "wd:longitude":-78.310556,
     "wd:wordcount":412,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":3896281,
         "gp:id":347057,
-        "qs:id":347356,
         "qs_pg:id":347356
     },
     "wof:country":"CL",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":102017867,
-    "wof:lastmodified":1564113470,
+    "wof:lastmodified":1566644179,
     "wof:name":"Casma",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

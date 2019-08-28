@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.00135,-30.85859,-70.96135,-30.81859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633057
@@ -36,7 +40,7 @@
         "gn:id":3888323
     },
     "wof:country":"CL",
-    "wof:geomhash":"842257a7733a4fdbeff3db106b79299e",
+    "wof:geomhash":"294f87fcc8430d8f518effced2914105",
     "wof:hierarchy":[
         {
             "country_id":85633057,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209636581,
-    "wof:lastmodified":1536281025,
+    "wof:lastmodified":1566644467,
     "wof:name":"Guatulame",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -70.98135,
-    -30.838590000000003,
+    -30.83859,
     -70.98135,
-    -30.838590000000003
+    -30.83859
 ],
   "geometry": {"coordinates":[-70.98135000000001,-30.83859],"type":"Point"}
 }

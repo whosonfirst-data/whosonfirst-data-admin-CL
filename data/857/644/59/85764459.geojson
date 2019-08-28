@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":37257426.190425,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.553029,-33.009034,-71.553029,-33.009034",
     "geom:latitude":-33.009034,
     "geom:longitude":-71.553029,
     "gn:id":"",
     "iso:country":"CL",
+    "lbl:bbox":"-71.558029,-33.014034,-71.548029,-33.004034",
     "lbl:latitude":-33.009034,
     "lbl:longitude":-71.553029,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-32.981297,
     "mps:longitude":-71.540352,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Parque Sauzalito"
-    ],
-    "name:unk_x_variant":[
         "Parque Sauzalito"
     ],
     "qs:gn_id":0,
@@ -56,19 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682143,
         102191577,
         85633057,
         102016801,
-        102063161,
-        85682143
+        102063161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":348862,
-        "qs:id":460261,
         "qs_pg:id":460261
     },
     "wof:country":"CL",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858899,
+    "wof:lastmodified":1566644280,
     "wof:name":"Parque Sauzalito",
     "wof:parent_id":102016801,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,8 @@
     "iso:country":"CL",
     "lbl:latitude":-37.679473,
     "lbl:longitude":-71.746216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.679473,
     "mps:longitude":-71.746216,
     "mz:hierarchy_label":1,
@@ -184,7 +186,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -196,7 +198,7 @@
         "fct:id":"06b0bfc8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8261321,
         "gp:id":26794100,
-        "qs:id":381562,
+        "qs_pg:id":381562,
         "wd:id":"Q187961"
     },
     "wof:country":"CL",
@@ -214,7 +216,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581389,
+    "wof:lastmodified":1566644115,
     "wof:name":"Santa Barbara",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

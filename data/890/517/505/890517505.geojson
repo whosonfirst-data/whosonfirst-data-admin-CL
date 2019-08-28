@@ -11,8 +11,12 @@
     "geom:longitude":-73.104743,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-73.204743,-36.944743,-73.004743,-36.744743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0628\u064a\u062f\u0631\u0648 \u062f\u064a \u0644\u0627 \u0628\u0627\u0632"
     ],
@@ -59,10 +63,12 @@
     "wof:concordances":{
         "gn:id":8261455,
         "gp:id":26794277,
-        "qs:id":221111,
-        "qs_pg:id":280051,
+        "qs_pg:id":221111,
         "wd:id":"Q19344",
         "wk:page":"San Pedro de la Paz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":280051
     },
     "wof:country":"CL",
     "wof:created":1469056011,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890517505,
-    "wof:lastmodified":1563582241,
+    "wof:lastmodified":1566644600,
     "wof:name":"San Pedro de la Paz",
     "wof:parent_id":102063171,
     "wof:placetype":"localadmin",

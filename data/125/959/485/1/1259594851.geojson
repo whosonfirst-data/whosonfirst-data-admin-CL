@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-67.12683,-23.33296,-67.08683,-23.29296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hefboom"
     ],
@@ -281,7 +285,7 @@
         }
     ],
     "wof:id":1259594851,
-    "wof:lastmodified":1564114116,
+    "wof:lastmodified":1566644737,
     "wof:name":"Lever",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

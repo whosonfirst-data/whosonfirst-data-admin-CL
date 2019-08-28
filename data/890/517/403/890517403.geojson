@@ -11,11 +11,15 @@
     "geom:longitude":-71.65567,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.67567,-35.93468,-71.63567,-35.89468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Miraflores"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3879724,
         "gp:id":348659,
-        "qs:id":271168,
+        "qs_pg:id":271168,
         "wk:page":"Miraflores"
     },
     "wof:country":"CL",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890517403,
-    "wof:lastmodified":1564113956,
+    "wof:lastmodified":1566644626,
     "wof:name":"Miraflores",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

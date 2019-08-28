@@ -11,8 +11,12 @@
     "geom:longitude":-72.486526,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.586526,-40.427018,-72.386526,-40.227018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lago Ranco"
     ],
@@ -50,9 +54,11 @@
     "wof:concordances":{
         "gn:id":8261367,
         "gp:id":26794182,
-        "qs:id":1137269,
         "qs_pg:id":279598,
         "wk:page":"Lago Ranco"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1137269
     },
     "wof:country":"CL",
     "wof:created":1469056048,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890518101,
-    "wof:lastmodified":1564113983,
+    "wof:lastmodified":1566644647,
     "wof:name":"Lago Ranco",
     "wof:parent_id":102063189,
     "wof:placetype":"localadmin",

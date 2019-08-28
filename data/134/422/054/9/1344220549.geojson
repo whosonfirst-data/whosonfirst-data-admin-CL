@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.26766,-40.15944,-72.22766,-40.11944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caunahue",
         "Caunao"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344220549,
-    "wof:lastmodified":1537591162,
+    "wof:lastmodified":1566644237,
     "wof:name":"Caunao",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

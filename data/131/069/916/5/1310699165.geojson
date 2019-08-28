@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.59779,-36.14841,-72.55779,-36.10841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Durazno"
     ],
@@ -34,8 +38,7 @@
         "El Durazno"
     ],
     "name:und_x_variant":[
-        "Durazno",
-        "El Durazno"
+        "Durazno"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1310699165,
-    "wof:lastmodified":1564113876,
+    "wof:lastmodified":1566644565,
     "wof:name":"El Durazno",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

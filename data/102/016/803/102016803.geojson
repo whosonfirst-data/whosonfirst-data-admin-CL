@@ -14,10 +14,13 @@
     "iso:country":"CL",
     "lbl:latitude":-35.866795,
     "lbl:longitude":-71.812134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-35.866795,
     "mps:longitude":-71.812134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vila-seca"
     ],
@@ -44,7 +47,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191577,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102016803,
-    "wof:lastmodified":1564113452,
+    "wof:lastmodified":1566644141,
     "wof:name":"Villaseca",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

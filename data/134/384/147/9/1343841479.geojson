@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.47661,-42.97188,-73.43661,-42.93188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343841479,
-    "wof:lastmodified":1536694219,
+    "wof:lastmodified":1566644251,
     "wof:name":"Millahue",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

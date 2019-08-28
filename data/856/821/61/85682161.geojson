@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-30.650788,
     "lbl:longitude":-70.92578,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"De Coquimbo",
     "mps:latitude":-30.597726,
     "mps:longitude":-70.879354,
@@ -226,7 +227,7 @@
     "name:ukr_x_preferred":[
         "IV \u0420\u0435\u0433\u0456\u043e\u043d \u041a\u043e\u043a\u0456\u043c\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "IV Regi\u00f3n"
     ],
     "name:urd_x_preferred":[
@@ -310,9 +311,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"40,580",
     "statoids:area_mi":"15,668",
     "statoids:as_of_date":"2012-04-09",
@@ -356,11 +357,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565662667,
+    "wof:lastmodified":1566644292,
     "wof:name":"De Coquimbo",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":687806,
     "wof:population_rank":11,

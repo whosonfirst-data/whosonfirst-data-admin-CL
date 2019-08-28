@@ -11,8 +11,12 @@
     "geom:longitude":-70.909366,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.009366,-32.963295,-70.809366,-32.763295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Llaillay"
     ],
@@ -85,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794348,
-        "qs:id":1154651,
+        "qs_pg:id":1154651,
         "wd:id":"Q14498",
         "wk:page":"Llay-Llay"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890518111,
-    "wof:lastmodified":1563582388,
+    "wof:lastmodified":1566644643,
     "wof:name":"Llaillay",
     "wof:parent_id":102063099,
     "wof:placetype":"localadmin",

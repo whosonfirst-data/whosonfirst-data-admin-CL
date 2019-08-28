@@ -11,11 +11,15 @@
     "geom:longitude":-69.63563,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-69.65563,-20.64198,-69.61563,-20.60198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pintados"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3875891,
         "gp:id":350093,
-        "qs:id":150599,
+        "qs_pg:id":150599,
         "wd:id":"Q7196506",
         "wk:page":"Pintados"
     },
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890518191,
-    "wof:lastmodified":1563582395,
+    "wof:lastmodified":1566644645,
     "wof:name":"Pintados",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

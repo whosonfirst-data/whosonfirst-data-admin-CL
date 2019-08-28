@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.07744,-32.33917,-71.03744,-32.29917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Montt"
     ],
@@ -43,8 +47,7 @@
         "\u041c\u043e\u043d\u0442\u0442"
     ],
     "name:und_x_variant":[
-        "Las Casas",
-        "Montt"
+        "Las Casas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1327148393,
-    "wof:lastmodified":1564113397,
+    "wof:lastmodified":1566643964,
     "wof:name":"Montt",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

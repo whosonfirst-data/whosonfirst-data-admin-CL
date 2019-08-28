@@ -13,12 +13,13 @@
     "gn:fcode":"PPL",
     "gn:latitude":-38.73965,
     "gn:longitude":-72.59842,
-    "gn:pop":0,
-    "gn:population":238129,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
     "lbl:latitude":-38.735031,
     "lbl:longitude":-72.632158,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-38.735031,
     "mps:longitude":-72.632158,
     "mz:hierarchy_label":1,
@@ -303,7 +304,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043c\u0443\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad Temuco"
     ],
     "name:urd_x_preferred":[
@@ -466,7 +467,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2170,
     "wof:belongsto":[
@@ -479,10 +480,12 @@
     "wof:concordances":{
         "gn:id":3870011,
         "gp:id":349871,
-        "qs:id":1114234,
         "qs_pg:id":353400,
         "wd:id":"Q82128",
         "wk:page":"Temuco"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114234
     },
     "wof:country":"CL",
     "wof:geomhash":"2a8cfb832ea81c4058f0e7e110845ac8",
@@ -496,7 +499,7 @@
         }
     ],
     "wof:id":102016885,
-    "wof:lastmodified":1563581499,
+    "wof:lastmodified":1566644148,
     "wof:name":"Temuco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

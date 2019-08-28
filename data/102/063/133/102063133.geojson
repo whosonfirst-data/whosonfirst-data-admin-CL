@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.399468,
     "lbl:longitude":-69.826945,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Atacama",
     "meso:gadm_admin":"Cha\u00f1aral",
     "meso:gadm_hasc2":"CL.AT.CR",
@@ -32,6 +34,7 @@
     "mps:longitude":-69.0402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0427\u0430\u043d\u044c\u044f\u0440\u0430\u043b\u044c"
     ],
@@ -114,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"24,436",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Cha\u00f1aral",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":102063133,
-    "wof:lastmodified":1561749751,
+    "wof:lastmodified":1566643999,
     "wof:name":"Cha\u00f1aral",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

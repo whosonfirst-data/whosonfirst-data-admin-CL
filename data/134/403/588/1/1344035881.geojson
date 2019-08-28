@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.00354,-36.18375,-71.96354,-36.14375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Loma Torca",
         "Loma de Torca"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344035881,
-    "wof:lastmodified":1537591126,
+    "wof:lastmodified":1566644268,
     "wof:name":"Loma de Torca",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

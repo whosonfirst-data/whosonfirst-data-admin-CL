@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.96372,-35.68152,-71.92372,-35.64152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huerta del Maule",
         "La Huerta",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226830187,
-    "wof:lastmodified":1537591135,
+    "wof:lastmodified":1566644787,
     "wof:name":"La Huerta del Maule",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

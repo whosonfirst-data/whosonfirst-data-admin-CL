@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-32.823153,
     "lbl:longitude":-70.33885,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Valpara\u00edso",
     "meso:gadm_admin":"Los Andes",
     "meso:gadm_hasc2":"CL.VS.LA",
@@ -33,6 +35,7 @@
     "mps:longitude":-70.345742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Los Andes"
     ],
@@ -128,9 +131,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"3,054",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Los Andes",
@@ -151,7 +154,7 @@
     "wof:concordances":{
         "gp:id":26794002,
         "hasc:id":"CL.VS.LA",
-        "qs:id":220304,
+        "qs_pg:id":220304,
         "wd:id":"Q721424",
         "wk:page":"Los Andes"
     },
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":102063139,
-    "wof:lastmodified":1561749780,
+    "wof:lastmodified":1566644056,
     "wof:name":"Los Andes",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

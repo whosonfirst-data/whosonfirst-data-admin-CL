@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-45.407848,
     "lbl:longitude":-72.690474,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":-45.407848,
     "mps:longitude":-72.690474,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0631\u062a\u0648 \u0622\u064a\u0633\u0646"
     ],
@@ -146,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u0410\u0439\u0441\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Aysen"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u06cc\u0631\u062a\u0648 \u0627\u06cc\u0633\u06cc\u0646"
     ],
@@ -179,7 +179,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":218,
     "wof:belongsto":[
@@ -191,7 +191,6 @@
         "fct:id":"06b15ae6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3874997,
         "gp:id":349944,
-        "qs:id":150595,
         "qs_pg:id":150595,
         "wd:id":"Q1909281",
         "wk:page":"Puerto Ays\u00e9n"
@@ -209,7 +208,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581524,
+    "wof:lastmodified":1566644156,
     "wof:name":"Puerto Ais\u00e9n",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

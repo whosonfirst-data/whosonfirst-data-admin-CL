@@ -11,7 +11,12 @@
     "geom:longitude":-72.466697,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.566697,-36.839984,-72.366697,-36.639984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Comuna Quillon",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Biobio",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794119,
-        "qs:id":1110061
+        "qs_pg:id":1110061
     },
     "wof:country":"CL",
     "wof:created":1469056040,
-    "wof:geomhash":"e826864b57864646ce42a31abde0bbe2",
+    "wof:geomhash":"3ffa84c954c4e8ca0b26fd1c79caf8cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -47,7 +52,7 @@
         }
     ],
     "wof:id":890518013,
-    "wof:lastmodified":1469056040,
+    "wof:lastmodified":1566644636,
     "wof:name":"Comuna Quillon",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

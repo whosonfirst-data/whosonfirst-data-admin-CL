@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.16372,-35.19877,-72.12372,-35.15877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Macal"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1277165339,
-    "wof:lastmodified":1564113727,
+    "wof:lastmodified":1566644455,
     "wof:name":"Macal",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

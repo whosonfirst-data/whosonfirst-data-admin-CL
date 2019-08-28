@@ -11,7 +11,12 @@
     "geom:longitude":-70.71968,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.81968,-32.847796,-70.61968,-32.647796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"San Felipe",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Valpara\u00edso",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794351,
-        "qs:id":1154652
+        "qs_pg:id":1154652
     },
     "wof:country":"CL",
     "wof:created":1469056049,
-    "wof:geomhash":"4131d891a8c15a3c8fd1ab05c6e8385b",
+    "wof:geomhash":"faf35da2655a9c3c643ea0fc36b1dba4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -47,7 +52,7 @@
         }
     ],
     "wof:id":890518115,
-    "wof:lastmodified":1469056049,
+    "wof:lastmodified":1566644656,
     "wof:name":"San Felipe",
     "wof:parent_id":102063099,
     "wof:placetype":"localadmin",

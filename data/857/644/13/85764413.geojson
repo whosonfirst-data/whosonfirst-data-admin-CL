@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001238,
-    "geom:area_square_m":12767260.247662,
+    "geom:area_square_m":12767260.247658,
     "geom:bbox":"-70.7099187948,-33.4965362133,-70.652202832,-33.4555055154",
     "geom:latitude":-33.475984,
     "geom:longitude":-70.68096,
@@ -14,6 +14,7 @@
     "iso:country":"CL",
     "lbl:latitude":-33.467017,
     "lbl:longitude":-70.666819,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-33.47498,
     "mps:longitude":-70.678114,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "name:spa_x_preferred":[
-        "La Feria"
-    ],
-    "name:unk_x_variant":[
         "La Feria"
     ],
     "qs:gn_adm0_cc":"CL",
@@ -60,8 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682207,
         102191577,
@@ -73,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3885958,
         "gp:id":348004,
-        "qs:id":1114213,
         "qs_pg:id":1114213
     },
     "wof:country":"CL",
@@ -92,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1509488085,
+    "wof:lastmodified":1566644283,
     "wof:name":"La Feria",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

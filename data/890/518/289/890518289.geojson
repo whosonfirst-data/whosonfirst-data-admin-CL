@@ -11,11 +11,15 @@
     "geom:longitude":-72.27723,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.29723,-37.61486,-72.25723,-37.57486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"San Carlos de Pur\u00e9n",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Biobio",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":3872313,
         "gp:id":349411,
-        "qs:id":466736
+        "qs_pg:id":466736
     },
     "wof:country":"CL",
     "wof:created":1469056057,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890518289,
-    "wof:lastmodified":1505343908,
+    "wof:lastmodified":1566644636,
     "wof:name":"San Carlos de Pur\u00e9n",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

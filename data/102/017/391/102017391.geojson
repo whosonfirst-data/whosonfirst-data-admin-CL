@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.396553,
     "lbl:longitude":-71.615792,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.396553,
     "mps:longitude":-71.615792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Marichiwe"
     ],
@@ -82,9 +85,6 @@
     "name:spa_x_preferred":[
         "Marchig\u00fce"
     ],
-    "name:unk_x_variant":[
-        "Marchig\u00fce"
-    ],
     "name:zho_x_preferred":[
         "\u99ac\u5947\u572d"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":236,
     "wof:belongsto":[
         102191577,
@@ -118,7 +118,6 @@
     "wof:concordances":{
         "gn:id":3880534,
         "gp:id":350279,
-        "qs:id":260317,
         "qs_pg:id":260317,
         "wd:id":"Q16921",
         "wk:page":"Marchig\u00fce"
@@ -135,7 +134,7 @@
         }
     ],
     "wof:id":102017391,
-    "wof:lastmodified":1563581522,
+    "wof:lastmodified":1566644155,
     "wof:name":"Marchihue",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

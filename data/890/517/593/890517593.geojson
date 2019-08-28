@@ -11,8 +11,12 @@
     "geom:longitude":-71.249167,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.349167,-30.001972,-71.149167,-29.801972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Serena"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794141,
-        "qs:id":1313010,
+        "qs_pg:id":1313010,
         "wk:page":"La Serena"
     },
     "wof:country":"CL",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890517593,
-    "wof:lastmodified":1564113925,
+    "wof:lastmodified":1566644598,
     "wof:name":"La Serena",
     "wof:parent_id":102063091,
     "wof:placetype":"localadmin",

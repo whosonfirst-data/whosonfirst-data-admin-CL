@@ -11,8 +11,12 @@
     "geom:longitude":-71.682014,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.782014,-36.058381,-71.582014,-35.858381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0430\u043d\u0433\u0430\u0432\u0456"
     ],
@@ -97,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794247,
-        "qs:id":1263722,
+        "qs_pg:id":1263722,
         "wd:id":"Q16901",
         "wk:page":"Longav\u00ed"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890518245,
-    "wof:lastmodified":1563582365,
+    "wof:lastmodified":1566644636,
     "wof:name":"Longav\u00ed",
     "wof:parent_id":102063097,
     "wof:placetype":"localadmin",

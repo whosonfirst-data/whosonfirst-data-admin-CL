@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.39905,-19.88593,-69.35905,-19.84593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Angostura"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1209689083,
-    "wof:lastmodified":1564113760,
+    "wof:lastmodified":1566644479,
     "wof:name":"Angostura",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

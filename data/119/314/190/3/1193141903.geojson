@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.50508,-28.98058,-71.46508,-28.94058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Agua Dulce"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1193141903,
-    "wof:lastmodified":1564113797,
+    "wof:lastmodified":1566644509,
     "wof:name":"Agua Dulce",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

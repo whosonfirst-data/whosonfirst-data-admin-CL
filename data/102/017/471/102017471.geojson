@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000529,
-    "geom:area_square_m":5241396.260271,
+    "geom:area_square_m":5241396.260272,
     "geom:bbox":"-72.9828031384,-36.7286840657,-72.9572540191,-36.6968523388",
     "geom:latitude":-36.711689,
     "geom:longitude":-72.96963,
     "iso:country":"CL",
     "lbl:latitude":-36.711008,
     "lbl:longitude":-72.969628,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.711008,
     "mps:longitude":-72.969628,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Biobio",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3883093,
         "gp:id":348345,
-        "qs:id":889757,
         "qs_pg:id":889757
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017471,
-    "wof:lastmodified":1497292413,
+    "wof:lastmodified":1566644164,
     "wof:name":"Lirqu\u00e9n",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

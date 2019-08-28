@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-30.822956,
     "lbl:longitude":-70.884897,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Coquimbo",
     "meso:gadm_admin":"Limar\u00ed",
     "meso:gadm_hasc2":"CL.CO.LM",
@@ -33,6 +35,7 @@
     "mps:longitude":-70.885109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u041b\u0438\u043c\u0430\u0440\u0438"
     ],
@@ -129,9 +132,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"13,553",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Ovalle",
@@ -152,7 +155,7 @@
     "wof:concordances":{
         "gp:id":26793999,
         "hasc:id":"CL.CO.LM",
-        "qs:id":425473,
+        "qs_pg:id":425473,
         "wd:id":"Q63774",
         "wk:page":"Limar\u00ed"
     },
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":102063113,
-    "wof:lastmodified":1561749807,
+    "wof:lastmodified":1566644105,
     "wof:name":"Limar\u00ed",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

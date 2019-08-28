@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-68.8248,-19.24906,-68.7848,-19.20906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Enquelga",
         "Enquelca"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310178433,
-    "wof:lastmodified":1537591144,
+    "wof:lastmodified":1566644557,
     "wof:name":"Enquelca",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.45615,-39.24023,-71.41615,-39.20023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326554391,
-    "wof:lastmodified":1536952233,
+    "wof:lastmodified":1566643978,
     "wof:name":"Quinenahuin",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

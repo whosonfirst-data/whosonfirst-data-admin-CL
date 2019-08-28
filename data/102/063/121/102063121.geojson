@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-40.672424,
     "lbl:longitude":-73.159007,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Los Lagos",
     "meso:gadm_admin":"Osorno",
     "meso:gadm_hasc2":"CL.LL.OS",
@@ -32,6 +34,7 @@
     "mps:longitude":-73.161373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Osorno"
     ],
@@ -131,9 +134,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"15,302.0",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Osorno",
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":102063121,
-    "wof:lastmodified":1561749776,
+    "wof:lastmodified":1566644045,
     "wof:name":"Osorno",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

@@ -13,10 +13,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.77655,
     "lbl:longitude":-70.843202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.77655,
     "mps:longitude":-70.843202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Panquehue"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":270,
     "wof:belongsto":[
         102191577,
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":3877310,
         "gp:id":348843,
-        "qs:id":180627,
         "qs_pg:id":180627,
         "wd:id":"Q51078",
         "wk:page":"Panquehue"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":102017271,
-    "wof:lastmodified":1563581673,
+    "wof:lastmodified":1566644207,
     "wof:name":"Panquehue",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

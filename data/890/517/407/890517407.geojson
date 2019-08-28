@@ -11,10 +11,13 @@
     "geom:longitude":-73.20045,
     "gn:country":"CL",
     "gn:fcode":"PPLX",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"CL",
+    "lbl:bbox":"-73.20545,-39.77251,-73.19545,-39.76251",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Las Fanegas",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":6458710,
         "gp:id":347283,
-        "qs:id":625713
+        "qs_pg:id":625713
     },
     "wof:country":"CL",
     "wof:created":1469056007,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890517407,
-    "wof:lastmodified":1505343906,
+    "wof:lastmodified":1566644609,
     "wof:name":"Las Fanegas",
     "wof:parent_id":102016837,
     "wof:placetype":"neighbourhood",

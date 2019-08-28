@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-69.56959,-20.48591,-69.52959,-20.44591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cami\u00f1alla",
         "Cumi\u00f1alla"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209184547,
-    "wof:lastmodified":1537591152,
+    "wof:lastmodified":1566644491,
     "wof:name":"Cuminalla",
     "wof:parent_id":85633057,
     "wof:placetype":"locality",

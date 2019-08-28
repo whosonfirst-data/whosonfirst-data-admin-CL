@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-38.938048,
     "lbl:longitude":-72.570191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.938048,
     "mps:longitude":-72.570191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u0631\u064a"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":254,
     "wof:belongsto":[
         102191577,
@@ -110,10 +113,12 @@
     "wof:concordances":{
         "gn:id":3889322,
         "gp:id":350030,
-        "qs:id":1155750,
         "qs_pg:id":1047107,
         "wd:id":"Q13049",
         "wk:page":"Freire, Chile"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155750
     },
     "wof:country":"CL",
     "wof:geomhash":"89f1e9a584f92cbfba866b25180a9019",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":102018197,
-    "wof:lastmodified":1563581427,
+    "wof:lastmodified":1566644126,
     "wof:name":"Freire",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

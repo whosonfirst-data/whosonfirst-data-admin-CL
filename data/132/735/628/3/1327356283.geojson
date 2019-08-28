@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.38196,-27.36605,-70.34196,-27.32605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mirador"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1327356283,
-    "wof:lastmodified":1564113408,
+    "wof:lastmodified":1566643972,
     "wof:name":"Mirador",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

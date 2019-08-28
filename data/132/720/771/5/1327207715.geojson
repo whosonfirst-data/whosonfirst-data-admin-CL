@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.6252,-42.6659,-73.5852,-42.6259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Liucura"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327207715,
-    "wof:lastmodified":1537591176,
+    "wof:lastmodified":1566643990,
     "wof:name":"Liucura",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

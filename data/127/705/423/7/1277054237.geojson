@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-72.11562,-35.08483,-72.07562,-35.04483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277054237,
-    "wof:lastmodified":1536807098,
+    "wof:lastmodified":1566644434,
     "wof:name":"Pununquen",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

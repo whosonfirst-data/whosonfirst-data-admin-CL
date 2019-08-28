@@ -12,9 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-37.240334,
     "lbl:longitude":-71.940916,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-37.240334,
     "mps:longitude":-71.940916,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_colloquial":[
         "Huepil"
     ],
@@ -39,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -51,7 +55,6 @@
         "fct:id":"06b16ed2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3887636,
         "gp:id":350041,
-        "qs:id":1047102,
         "qs_pg:id":1047102
     },
     "wof:country":"CL",
@@ -69,7 +72,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497297151,
+    "wof:lastmodified":1566644158,
     "wof:name":"Hu\u00e9pil",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000978,
-    "geom:area_square_m":9117516.637032,
+    "geom:area_square_m":9117516.637029,
     "geom:bbox":"-72.658990166,-41.1007724953,-72.6242117056,-41.066209622",
     "geom:latitude":-41.082188,
     "geom:longitude":-72.640474,
     "iso:country":"CL",
     "lbl:latitude":-41.081517,
     "lbl:longitude":-72.640143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.081517,
     "mps:longitude":-72.640143,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":349946
     },
     "wof:country":"CL",
-    "wof:geomhash":"47e898f400e3876868fe102e50009ac8",
+    "wof:geomhash":"e3c8570444bafa3c3a331a1308077eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102018043,
-    "wof:lastmodified":1479948959,
+    "wof:lastmodified":1566644130,
     "wof:name":"Las Cascadas",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

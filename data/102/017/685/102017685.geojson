@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":3118991.876841,
+    "geom:area_square_m":3118991.87684,
     "geom:bbox":"-73.0982075547,-39.7204176048,-73.0748882603,-39.7024071715",
     "geom:latitude":-39.711413,
     "geom:longitude":-73.086548,
     "iso:country":"CL",
     "lbl:latitude":-39.711413,
     "lbl:longitude":-73.086548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.711413,
     "mps:longitude":-73.086548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cielo"
     ],
@@ -23,9 +26,6 @@
         "Cielo"
     ],
     "name:spa_x_preferred":[
-        "Cielo"
-    ],
-    "name:unk_x_variant":[
         "Cielo"
     ],
     "qs:a1":"*",
@@ -39,7 +39,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":114,
     "wof:belongsto":[
         102191577,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":102017685,
-    "wof:lastmodified":1527637778,
+    "wof:lastmodified":1566644203,
     "wof:name":"El Cielo",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

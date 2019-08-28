@@ -13,6 +13,8 @@
     "iso:country":"CL",
     "lbl:latitude":-30.596734,
     "lbl:longitude":-71.193054,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":-30.596734,
     "mps:longitude":-71.193054,
     "mz:hierarchy_label":1,
@@ -275,7 +277,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":335,
     "wof:belongsto":[
@@ -288,7 +290,6 @@
     "wof:concordances":{
         "gn:id":3877918,
         "gp:id":349935,
-        "qs:id":776746,
         "qs_pg:id":776746,
         "wd:id":"Q51060",
         "wk:page":"Ovalle"
@@ -305,7 +306,7 @@
         }
     ],
     "wof:id":102017293,
-    "wof:lastmodified":1563581587,
+    "wof:lastmodified":1566644177,
     "wof:name":"Ovalle",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.46098,-42.58885,-73.42098,-42.54885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Matao"
     ],
@@ -35,8 +39,7 @@
     ],
     "name:und_x_variant":[
         "Matas",
-        "Matau",
-        "Matao"
+        "Matau"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1360168265,
-    "wof:lastmodified":1564113894,
+    "wof:lastmodified":1566644578,
     "wof:name":"Matao",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

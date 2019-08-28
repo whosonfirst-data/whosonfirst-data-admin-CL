@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000646,
-    "geom:area_square_m":6235621.50714,
+    "geom:area_square_m":6235621.507138,
     "geom:bbox":"-72.4168821693,-38.6987999711,-72.349964084,-38.6807948202",
     "geom:latitude":-38.689798,
     "geom:longitude":-72.383423,
     "iso:country":"CL",
     "lbl:latitude":-38.689798,
     "lbl:longitude":-72.405395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-38.689798,
     "mps:longitude":-72.405395,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Chile",
     "qs:a1":"*Araucania",
     "qs:a1r":"*",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":3889018,
         "gp:id":347773,
-        "qs:id":180608,
         "qs_pg:id":180608
     },
     "wof:country":"CL",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102017629,
-    "wof:lastmodified":1497296206,
+    "wof:lastmodified":1566644170,
     "wof:name":"General L\u00f3pez",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

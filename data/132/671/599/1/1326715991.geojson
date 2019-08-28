@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.8509,-34.10953,-71.8109,-34.06953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Manzano",
         "Los Manzanos"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326715991,
-    "wof:lastmodified":1537591123,
+    "wof:lastmodified":1566643976,
     "wof:name":"Los Manzanos",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

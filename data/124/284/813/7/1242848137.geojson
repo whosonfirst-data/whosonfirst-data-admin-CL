@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.41223,-40.54473,-73.37223,-40.50473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0646 \u062e\u0648\u0622\u0646 \u062f\u0648 \u0644\u0627 \u06a9\u0648\u0633\u062a\u0627"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1242848137,
-    "wof:lastmodified":1564114060,
+    "wof:lastmodified":1566644701,
     "wof:name":"San Juan de la Costa",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

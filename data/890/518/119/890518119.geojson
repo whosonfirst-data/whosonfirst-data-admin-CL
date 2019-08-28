@@ -11,11 +11,15 @@
     "geom:longitude":-70.92978,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.94978,-33.1159,-70.90978,-33.0759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Sauce"
     ],
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3890393,
         "gp:id":347690,
-        "qs:id":1156033,
+        "qs_pg:id":1156033,
         "wk:page":"El Sauce"
     },
     "wof:country":"CL",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890518119,
-    "wof:lastmodified":1564113980,
+    "wof:lastmodified":1566644644,
     "wof:name":"El Sauce",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

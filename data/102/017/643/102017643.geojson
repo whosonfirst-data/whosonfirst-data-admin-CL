@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-41.153551,
     "lbl:longitude":-73.419981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.153551,
     "mps:longitude":-73.419981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Fresia"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":204,
     "wof:belongsto":[
         102191577,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":3889310,
         "gp:id":350032,
-        "qs:id":1047105,
         "qs_pg:id":1047105,
         "wd:id":"Q13052",
         "wk:page":"Fresia, Chile"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":102017643,
-    "wof:lastmodified":1563581550,
+    "wof:lastmodified":1566644164,
     "wof:name":"Fresia",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

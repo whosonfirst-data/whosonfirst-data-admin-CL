@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-28.193085,
     "lbl:longitude":-71.152954,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-28.193085,
     "mps:longitude":-71.152954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Huasco"
     ],
@@ -96,7 +99,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -108,7 +111,7 @@
         "fct:id":"06b0bb86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8261131,
         "gp:id":26794081,
-        "qs:id":904462,
+        "qs_pg:id":904462,
         "wd:id":"Q14422"
     },
     "wof:country":"CL",
@@ -126,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581400,
+    "wof:lastmodified":1566644118,
     "wof:name":"Huasco",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

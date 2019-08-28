@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-36.69953,
     "lbl:longitude":-71.894492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-36.69953,
     "mps:longitude":-71.894492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pinto"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":272,
     "wof:belongsto":[
         102191577,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":3875882,
         "gp:id":350323,
-        "qs:id":150598,
         "qs_pg:id":150598,
         "wd:id":"Q51106",
         "wk:page":"Pinto, Chile"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":102017209,
-    "wof:lastmodified":1563581681,
+    "wof:lastmodified":1566644211,
     "wof:name":"Pinto",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":-71.272945,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.372945,-34.835405,-71.172945,-34.635405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0628\u064a\u0643\u0627"
     ],
@@ -97,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794214,
-        "qs:id":1017803,
+        "qs_pg:id":1017803,
         "wd:id":"Q3790",
         "wk:page":"Ch\u00e9pica"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890517849,
-    "wof:lastmodified":1563582314,
+    "wof:lastmodified":1566644621,
     "wof:name":"Ch\u00e9pica",
     "wof:parent_id":102063157,
     "wof:placetype":"localadmin",

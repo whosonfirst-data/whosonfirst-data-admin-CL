@@ -11,11 +11,15 @@
     "geom:longitude":-70.79912,
     "gn:country":"CL",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-70.81912,-33.64238,-70.77912,-33.60238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a\u0631\u0627 \u062f\u064a \u062a\u0627\u0646\u062c\u0648"
     ],
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3897301,
         "gp:id":346939,
-        "qs:id":1209617,
+        "qs_pg:id":1209617,
         "wd:id":"Q3725",
         "wk:page":"Calera de Tango"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890517529,
-    "wof:lastmodified":1563582286,
+    "wof:lastmodified":1566644613,
     "wof:name":"Calera de Tango",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

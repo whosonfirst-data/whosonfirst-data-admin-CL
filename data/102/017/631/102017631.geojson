@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-17.596903,
     "lbl:longitude":-69.472046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-17.596903,
     "mps:longitude":-69.472046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "General Lagos"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":238,
     "wof:belongsto":[
         102191577,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3889021,
         "gp:id":347771,
-        "qs:id":1058246,
         "qs_pg:id":1058246,
         "wd:id":"Q13065"
     },
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":102017631,
-    "wof:lastmodified":1563581701,
+    "wof:lastmodified":1566644218,
     "wof:name":"General Lagos",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

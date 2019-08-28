@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-33.7546,
     "lbl:longitude":-71.164865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-33.7546,
     "mps:longitude":-71.164865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0644\u064a\u0628\u064a\u0644\u0644\u0627"
     ],
@@ -164,7 +167,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -176,7 +179,7 @@
         "fct:id":"06b0e426-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8261185,
         "gp:id":26794276,
-        "qs:id":1201170,
+        "qs_pg:id":1201170,
         "wd:id":"Q51032"
     },
     "wof:country":"CL",
@@ -194,7 +197,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563581446,
+    "wof:lastmodified":1566644133,
     "wof:name":"Melipilla",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

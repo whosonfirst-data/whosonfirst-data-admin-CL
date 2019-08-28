@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.0413,-41.32117,-73.0013,-41.28117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "L\u00ednea Nueva"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226720981,
-    "wof:lastmodified":1537591177,
+    "wof:lastmodified":1566644750,
     "wof:name":"Linea Nueva",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

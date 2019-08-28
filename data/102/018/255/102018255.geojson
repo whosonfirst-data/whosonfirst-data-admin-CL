@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001635,
-    "geom:area_square_m":15194888.204678,
+    "geom:area_square_m":15194888.204684,
     "geom:bbox":"-72.8787544813,-41.2929999542,-72.8109447676,-41.2564191839",
     "geom:latitude":-41.276338,
     "geom:longitude":-72.842648,
     "iso:country":"CL",
     "lbl:latitude":-41.277799,
     "lbl:longitude":-72.843293,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.277799,
     "mps:longitude":-72.843293,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -26,7 +30,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057,
@@ -39,7 +43,7 @@
         "gp:id":349946
     },
     "wof:country":"CL",
-    "wof:geomhash":"481ca4d33a5c1beb66814146ce1863de",
+    "wof:geomhash":"509257a9eeebd206f2833e2903d37c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102018255,
-    "wof:lastmodified":1479947996,
+    "wof:lastmodified":1566644133,
     "wof:name":"La Poza",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

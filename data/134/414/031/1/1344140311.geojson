@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.54449,-42.9373,-73.50449,-42.8973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Isla Tranqui"
     ],
@@ -34,8 +38,7 @@
         "Tranqui"
     ],
     "name:und_x_variant":[
-        "Fanqui",
-        "Tranqui"
+        "Fanqui"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1344140311,
-    "wof:lastmodified":1564113507,
+    "wof:lastmodified":1566644240,
     "wof:name":"Tranqui",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

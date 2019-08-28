@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Punta_Arenas",
     "iso:country":"CL",
+    "lbl:bbox":"-69.88068,-52.88678,-69.84068,-52.84678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Reserva Fiscal Bah\u00eda Felipe"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360281341,
-    "wof:lastmodified":1537591186,
+    "wof:lastmodified":1566644579,
     "wof:name":"Reserva Fiscal Bahia Felipe",
     "wof:parent_id":102063185,
     "wof:placetype":"locality",

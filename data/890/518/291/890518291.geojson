@@ -11,8 +11,12 @@
     "geom:longitude":-72.584523,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.6845235,-37.769214,-72.4845235,-37.569214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "Renaico"
     ],
@@ -95,10 +99,12 @@
     "wof:concordances":{
         "gn:id":8261388,
         "gp:id":26794070,
-        "qs:id":469401,
-        "qs_pg:id":1155753,
+        "qs_pg:id":469401,
         "wd:id":"Q56118",
         "wk:page":"Renaico"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155753
     },
     "wof:country":"CL",
     "wof:created":1469056057,
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":890518291,
-    "wof:lastmodified":1563582422,
+    "wof:lastmodified":1566644652,
     "wof:name":"Renaico",
     "wof:parent_id":102063101,
     "wof:placetype":"localadmin",

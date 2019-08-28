@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-32.452208,
     "lbl:longitude":-71.296257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-32.452208,
     "mps:longitude":-71.296257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u043b\u0430\u0441\u0438\u043b\u044c\u044f"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":304,
     "wof:belongsto":[
         102191577,
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3875691,
         "gp:id":348978,
-        "qs:id":1056176
+        "qs_pg:id":1056176
     },
     "wof:country":"CL",
     "wof:geomhash":"ad6510f4d0cf3dffe05c569c1edabaac",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102017195,
-    "wof:lastmodified":1564113464,
+    "wof:lastmodified":1566644157,
     "wof:name":"Placilla",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-39.794586,
     "lbl:longitude":-72.968599,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-39.794586,
     "mps:longitude":-72.968599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043d\u0442\u0438\u043b\u0445\u0443\u0435"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191577,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3899545,
         "gp:id":350167,
-        "qs:id":150652,
         "qs_pg:id":150652,
         "wd:id":"Q4774881",
         "wk:page":"Antilhue"
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":102017965,
-    "wof:lastmodified":1561749822,
+    "wof:lastmodified":1566644156,
     "wof:name":"Antilhue",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

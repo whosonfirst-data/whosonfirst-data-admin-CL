@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.77091,-39.35894,-71.73091,-39.31894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Palgu\u00edn Bajo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259416079,
-    "wof:lastmodified":1537591116,
+    "wof:lastmodified":1566644727,
     "wof:name":"Palguin Bajo",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

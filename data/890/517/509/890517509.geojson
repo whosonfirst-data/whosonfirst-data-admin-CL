@@ -11,8 +11,12 @@
     "geom:longitude":-72.615176,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.715176,-38.845774,-72.515176,-38.645774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Padre Las Casas"
     ],
@@ -98,10 +102,12 @@
     "wof:concordances":{
         "gn:id":8261351,
         "gp:id":26794052,
-        "qs:id":221113,
-        "qs_pg:id":381572,
+        "qs_pg:id":221113,
         "wd:id":"Q51063",
         "wk:page":"Padre Las Casas, Chile"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":381572
     },
     "wof:country":"CL",
     "wof:created":1469056011,
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":890517509,
-    "wof:lastmodified":1563582306,
+    "wof:lastmodified":1566644618,
     "wof:name":"Padre Las Casas",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

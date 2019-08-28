@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-73.06707,-41.14933,-73.02707,-41.10933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Poblaci\u00f3n Vermontt"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343841419,
-    "wof:lastmodified":1537591176,
+    "wof:lastmodified":1566644251,
     "wof:name":"Poblacion Vermontt",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":-71.517048,
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-71.6170475,-32.1972745,-71.4170475,-31.9972745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arn_x_preferred":[
         "Vilu"
     ],
@@ -100,7 +104,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794136,
-        "qs:id":359135,
+        "qs_pg:id":359135,
         "wd:id":"Q16908",
         "wk:page":"Los Vilos"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890517733,
-    "wof:lastmodified":1563582298,
+    "wof:lastmodified":1566644616,
     "wof:name":"Los Vilos",
     "wof:parent_id":102063179,
     "wof:placetype":"localadmin",

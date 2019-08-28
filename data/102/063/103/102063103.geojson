@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-32.807481,
     "lbl:longitude":-71.164695,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Valpara\u00edso",
     "meso:gadm_admin":"Quillota",
     "meso:gadm_hasc2":"CL.VS.QU",
@@ -33,6 +35,7 @@
     "mps:longitude":-71.185708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Provinz Quillota"
     ],
@@ -119,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-04-09",
+    "src:population_date":"2012-04-09",
     "statoids:area_km":"8,232.0",
     "statoids:as_of_date":"2012-04-09",
     "statoids:capital":"Quillota",
@@ -142,7 +145,7 @@
     "wof:concordances":{
         "gp:id":26794012,
         "hasc:id":"CL.VS.QT",
-        "qs:id":1086508,
+        "qs_pg:id":1086508,
         "wd:id":"Q721567",
         "wk:page":"Quillota"
     },
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":102063103,
-    "wof:lastmodified":1561749750,
+    "wof:lastmodified":1566643995,
     "wof:name":"Quillota",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

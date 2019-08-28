@@ -12,10 +12,13 @@
     "iso:country":"CL",
     "lbl:latitude":-34.541022,
     "lbl:longitude":-71.605302,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.541022,
     "mps:longitude":-71.605302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u0443\u043c\u0430\u043d\u043a\u0435"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":205,
     "wof:belongsto":[
         102191577,
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3874843,
         "gp:id":349108,
-        "qs:id":1159337,
         "qs_pg:id":1159337,
         "wd:id":"Q2098355",
         "wk:page":"Pumanque"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":102017127,
-    "wof:lastmodified":1563581611,
+    "wof:lastmodified":1566644186,
     "wof:name":"Pumanque",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",
