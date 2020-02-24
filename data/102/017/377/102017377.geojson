@@ -108,6 +108,9 @@
         "wk:page":"Maull\u00edn"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70909ea43356ec3737cac1e13e6f56be",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102017377,
-    "wof:lastmodified":1566644183,
+    "wof:lastmodified":1582316290,
     "wof:name":"Maull\u00edn",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

@@ -131,6 +131,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056032,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17addc3b1b80b23b7e470b6ff7eabff1",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":890517867,
-    "wof:lastmodified":1566644609,
+    "wof:lastmodified":1582316356,
     "wof:name":"Nogales",
     "wof:parent_id":102063103,
     "wof:placetype":"localadmin",

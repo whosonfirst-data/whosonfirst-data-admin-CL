@@ -168,6 +168,9 @@
         "wk:page":"Colchagua"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fbf955d310c373ad16c8542d92325828",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":102063157,
-    "wof:lastmodified":1566643995,
+    "wof:lastmodified":1582316207,
     "wof:name":"Colchagua",
     "wof:parent_id":85682165,
     "wof:placetype":"county",

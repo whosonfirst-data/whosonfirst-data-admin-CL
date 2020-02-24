@@ -150,6 +150,9 @@
         "wd:id":"Q63916"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f671286aa075f7bf0e1ac1cbce72218a",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102063179,
-    "wof:lastmodified":1566644104,
+    "wof:lastmodified":1582316275,
     "wof:name":"Choapa",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

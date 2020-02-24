@@ -153,6 +153,9 @@
         "wk:page":"Chacabuco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac15ab59f7ac856841d79a099f5c1b32",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":102063173,
-    "wof:lastmodified":1566644037,
+    "wof:lastmodified":1582316235,
     "wof:name":"Chacabuco",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

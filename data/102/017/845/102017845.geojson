@@ -150,6 +150,9 @@
         "wk:page":"Cha\u00f1aral"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f731982d7e0947077bc2a59a2d8a918",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644165,
+    "wof:lastmodified":1582316287,
     "wof:name":"Cha\u00f1aral",
     "wof:parent_id":102063133,
     "wof:placetype":"locality",

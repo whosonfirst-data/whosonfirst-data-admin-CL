@@ -95,6 +95,9 @@
         "wk:page":"Rinconada"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3933824239c0bfc69d466e6c1d21b2b4",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":102017023,
-    "wof:lastmodified":1566644164,
+    "wof:lastmodified":1582316287,
     "wof:name":"Rinconada de los Andes",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

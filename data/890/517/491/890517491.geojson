@@ -84,6 +84,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056011,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cdf7078f4fa7394a12454aa02d70f370",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890517491,
-    "wof:lastmodified":1566644610,
+    "wof:lastmodified":1582316356,
     "wof:name":"Tamarugal",
     "wof:parent_id":85682245,
     "wof:placetype":"county",

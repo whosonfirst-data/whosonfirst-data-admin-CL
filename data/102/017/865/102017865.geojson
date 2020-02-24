@@ -340,6 +340,9 @@
         "wk:page":"Castro, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c48beb1d342fcae1d22c7279320fb801",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
         }
     ],
     "wof:id":102017865,
-    "wof:lastmodified":1566644213,
+    "wof:lastmodified":1582316295,
     "wof:name":"Castro",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

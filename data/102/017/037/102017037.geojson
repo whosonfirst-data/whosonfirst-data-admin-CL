@@ -114,6 +114,9 @@
         "wk:page":"Renaico"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f4035513ba16ad40962b12d1ea8d8de",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017037,
-    "wof:lastmodified":1566644180,
+    "wof:lastmodified":1582316290,
     "wof:name":"Renaico",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

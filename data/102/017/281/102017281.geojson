@@ -125,6 +125,9 @@
         "wk:page":"Paine, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21a2eb10a41c211b500b69848f94cd02",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":102017281,
-    "wof:lastmodified":1566644171,
+    "wof:lastmodified":1582316288,
     "wof:name":"Paine",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

@@ -438,6 +438,9 @@
         "wk:page":"Talcahuano"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2aa90b255ef36a82bbc887a0d5650728",
     "wof:hierarchy":[
         {
@@ -449,7 +452,7 @@
         }
     ],
     "wof:id":102016891,
-    "wof:lastmodified":1566644150,
+    "wof:lastmodified":1582316284,
     "wof:name":"Talcahuano",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

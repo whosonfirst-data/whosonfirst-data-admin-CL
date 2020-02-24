@@ -53,6 +53,9 @@
         "qs_pg:id":992572
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d899cf9055d024d928e9efb6f9fbc61",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102016839,
-    "wof:lastmodified":1566644150,
+    "wof:lastmodified":1582316284,
     "wof:name":"Tulahu\u00e9n",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

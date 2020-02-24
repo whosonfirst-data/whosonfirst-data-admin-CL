@@ -199,6 +199,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -218,6 +219,10 @@
         "wk:page":"Caldera, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42d884f04fbe3b8ce3fcb2eda0a27431",
     "wof:hierarchy":[
         {
@@ -229,7 +234,7 @@
         }
     ],
     "wof:id":102017899,
-    "wof:lastmodified":1566644217,
+    "wof:lastmodified":1582316295,
     "wof:name":"Caldera",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

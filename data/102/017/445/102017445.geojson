@@ -114,6 +114,9 @@
         "wk:page":"Los \u00c1lamos"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5138a0a2efac583c619f974540a4df3",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017445,
-    "wof:lastmodified":1566644209,
+    "wof:lastmodified":1582316294,
     "wof:name":"Los \u00c1lamos",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

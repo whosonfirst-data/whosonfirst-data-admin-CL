@@ -216,6 +216,9 @@
         "wk:page":"Victoria, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cc1f604d90b7241e2a4c1a369fc4096",
     "wof:hierarchy":[
         {
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":102016825,
-    "wof:lastmodified":1566644149,
+    "wof:lastmodified":1582316284,
     "wof:name":"Victoria",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

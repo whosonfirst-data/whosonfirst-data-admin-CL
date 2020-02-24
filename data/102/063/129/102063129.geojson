@@ -147,6 +147,9 @@
         "wk:page":"Cauquenes"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b4c3c1e6ba04732cceeab1c8125cf99b",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":102063129,
-    "wof:lastmodified":1566644039,
+    "wof:lastmodified":1582316237,
     "wof:name":"Cauquenes",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

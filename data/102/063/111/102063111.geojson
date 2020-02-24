@@ -162,6 +162,9 @@
         "wk:page":"Talca"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f04858e25b06e5a4a46977a7393e56f4",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":102063111,
-    "wof:lastmodified":1566644040,
+    "wof:lastmodified":1582316237,
     "wof:name":"Talca",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

@@ -120,6 +120,9 @@
         "wk:page":"Pica, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ddefa0e64893ce95edab4178b698432",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102017227,
-    "wof:lastmodified":1566644164,
+    "wof:lastmodified":1582316287,
     "wof:name":"Pica",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

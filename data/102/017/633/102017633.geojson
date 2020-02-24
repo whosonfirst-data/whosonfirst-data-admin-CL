@@ -122,6 +122,9 @@
         "wd:id":"Q13063"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac29f6e4b32fade5e202c2f8e4fa85af",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":102017633,
-    "wof:lastmodified":1566644172,
+    "wof:lastmodified":1582316289,
     "wof:name":"Galvarino",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

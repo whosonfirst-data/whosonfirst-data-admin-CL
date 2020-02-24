@@ -146,6 +146,9 @@
         "qs_pg:id":1262737
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dba2b8c1c45326bc1fde57803d121a29",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":102017929,
-    "wof:lastmodified":1566644220,
+    "wof:lastmodified":1582316296,
     "wof:name":"Buin",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

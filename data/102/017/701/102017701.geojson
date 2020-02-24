@@ -87,6 +87,9 @@
         "wk:page":"Dichato"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8acc139754bbbaae78e3f3e43167d334",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":102017701,
-    "wof:lastmodified":1566644155,
+    "wof:lastmodified":1582316285,
     "wof:name":"Dichato",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

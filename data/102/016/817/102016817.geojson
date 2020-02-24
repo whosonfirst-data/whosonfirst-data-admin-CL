@@ -97,6 +97,9 @@
         "wd:id":"Q201015"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9cd7fb267f61b54e20aff96bfef5514b",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":102016817,
-    "wof:lastmodified":1561749819,
+    "wof:lastmodified":1582316282,
     "wof:name":"Villa Alegre",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

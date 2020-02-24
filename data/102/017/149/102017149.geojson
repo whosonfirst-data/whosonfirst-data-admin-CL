@@ -51,6 +51,9 @@
         "qs_pg:id":1159340
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"813d2267ce54a0cfcc7236fb05411848",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017149,
-    "wof:lastmodified":1566644228,
+    "wof:lastmodified":1582316297,
     "wof:name":"Puerto Dom\u00ednguez",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

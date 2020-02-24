@@ -51,6 +51,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056015,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3af948e49dbfd0d88e9eca0464d2a99a",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890517565,
-    "wof:lastmodified":1566644619,
+    "wof:lastmodified":1582316357,
     "wof:name":"Torres del Paine",
     "wof:parent_id":102063081,
     "wof:placetype":"localadmin",

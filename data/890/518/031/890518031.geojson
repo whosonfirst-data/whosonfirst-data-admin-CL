@@ -83,6 +83,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056040,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1cb79a84e59aa2a66ed73898f84a5b82",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890518031,
-    "wof:lastmodified":1566644640,
+    "wof:lastmodified":1582316358,
     "wof:name":"Navidad",
     "wof:parent_id":102063149,
     "wof:placetype":"localadmin",

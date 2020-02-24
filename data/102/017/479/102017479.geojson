@@ -288,6 +288,9 @@
         "wk:page":"Linares, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"88d4a018c399d7e9f85775d796b95e98",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644169,
+    "wof:lastmodified":1582316288,
     "wof:name":"Linares",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

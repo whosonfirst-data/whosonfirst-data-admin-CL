@@ -156,6 +156,9 @@
         "wk:page":"San Felipe de Aconcagua"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bedd606732a675143cae15bcb5cf1658",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":102063099,
-    "wof:lastmodified":1566644029,
+    "wof:lastmodified":1582316230,
     "wof:name":"San Felipe",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

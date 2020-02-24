@@ -181,6 +181,9 @@
         "wd:id":"Q201267"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f859b7c04807d1903f93af884193389",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":102063115,
-    "wof:lastmodified":1566644096,
+    "wof:lastmodified":1582316270,
     "wof:name":"Chiloe",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

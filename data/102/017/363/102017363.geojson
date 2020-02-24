@@ -51,6 +51,9 @@
         "qs_pg:id":1014349
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8c18d4a94ec8f77cb63c57dcf6a1156",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017363,
-    "wof:lastmodified":1566644163,
+    "wof:lastmodified":1582316287,
     "wof:name":"Metrenco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

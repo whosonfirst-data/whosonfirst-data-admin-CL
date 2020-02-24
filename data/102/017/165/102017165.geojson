@@ -128,6 +128,9 @@
         "wk:page":"Puc\u00f3n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7c0b11aba9b1bc023f91511d70a9745",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":102017165,
-    "wof:lastmodified":1566644192,
+    "wof:lastmodified":1582316292,
     "wof:name":"Puc\u00f3n",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

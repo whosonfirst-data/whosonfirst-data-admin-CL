@@ -58,6 +58,9 @@
         "qs_pg:id":1262756
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a49959c4eb2f01d7178c3829cd675e1",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644181,
+    "wof:lastmodified":1582316290,
     "wof:name":"Leyda",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

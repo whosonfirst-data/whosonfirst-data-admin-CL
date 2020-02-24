@@ -110,6 +110,9 @@
         "wk:page":"Lanco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a1975d8175f4a46a8d712fbf599f1ce",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102017533,
-    "wof:lastmodified":1566644155,
+    "wof:lastmodified":1582316285,
     "wof:name":"Lanco",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

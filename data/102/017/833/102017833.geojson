@@ -207,6 +207,9 @@
         "wk:page":"Chiguayante"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b3aebbaf9d86e69dddf4beea7a35736",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":102017833,
-    "wof:lastmodified":1566644179,
+    "wof:lastmodified":1582316290,
     "wof:name":"Chiguayante",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

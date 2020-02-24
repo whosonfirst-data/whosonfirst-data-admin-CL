@@ -137,6 +137,9 @@
         "wd:id":"Q16918"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6007dde8acb910042e7df68c5b00f162",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644176,
+    "wof:lastmodified":1582316289,
     "wof:name":"Maip\u00fa",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

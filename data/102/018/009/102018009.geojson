@@ -97,6 +97,9 @@
         "wd:id":"Q56129"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb373b1da1f3b0a9d1de6d76d1edc8e5",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":102018009,
-    "wof:lastmodified":1566644120,
+    "wof:lastmodified":1582316281,
     "wof:name":"Villa Cerro Castillo",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

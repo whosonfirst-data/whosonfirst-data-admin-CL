@@ -116,6 +116,9 @@
         "wd:id":"Q13072"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2666c505921e8be8a6df0e361b7b97bf",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102017611,
-    "wof:lastmodified":1566644171,
+    "wof:lastmodified":1582316288,
     "wof:name":"Hualaihu\u00e9",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

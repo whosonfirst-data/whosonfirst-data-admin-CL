@@ -116,6 +116,9 @@
         "wd:id":"Q51598"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"316f89a0ce0cb942b755405b2cb5e7f9",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102017125,
-    "wof:lastmodified":1566644225,
+    "wof:lastmodified":1582316297,
     "wof:name":"Punitaqui",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

@@ -170,6 +170,9 @@
         "wk:page":"Malleco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ffd6457886e20ba00e63ab9b2db67d4d",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":102063101,
-    "wof:lastmodified":1566644056,
+    "wof:lastmodified":1582316245,
     "wof:name":"Malleco",
     "wof:parent_id":85682179,
     "wof:placetype":"county",

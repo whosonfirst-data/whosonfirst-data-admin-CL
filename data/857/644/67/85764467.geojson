@@ -76,6 +76,10 @@
         "qs_pg:id":1026471
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d99ef8b5f42890439a0bdde89b8a9f5d",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644281,
+    "wof:lastmodified":1582316298,
     "wof:name":"Playa Ancha",
     "wof:parent_id":102016833,
     "wof:placetype":"neighbourhood",

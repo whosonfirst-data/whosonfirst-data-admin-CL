@@ -289,6 +289,9 @@
         "wk:page":"Constituci\u00f3n, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6079e9ffe7a2e7500d36977291c33f74",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":102017755,
-    "wof:lastmodified":1566644154,
+    "wof:lastmodified":1582316285,
     "wof:name":"Constituci\u00f3n",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

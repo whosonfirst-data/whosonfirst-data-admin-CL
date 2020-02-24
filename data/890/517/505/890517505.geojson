@@ -72,6 +72,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056011,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"28387728c7834e24788e58264ef8a39a",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890517505,
-    "wof:lastmodified":1566644600,
+    "wof:lastmodified":1582316356,
     "wof:name":"San Pedro de la Paz",
     "wof:parent_id":102063171,
     "wof:placetype":"localadmin",

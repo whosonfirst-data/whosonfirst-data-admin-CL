@@ -437,6 +437,9 @@
         "wk:page":"Coyhaique"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9bf9a284a6417c6927d8ac1a0b339f9d",
     "wof:hierarchy":[
         {
@@ -451,7 +454,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644226,
+    "wof:lastmodified":1582316297,
     "wof:name":"Coihaique",
     "wof:parent_id":102063079,
     "wof:placetype":"locality",

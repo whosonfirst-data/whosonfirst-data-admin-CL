@@ -277,6 +277,9 @@
         "wk:page":"Puerto Varas"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e47030bb176d5490fc4f04491dcac155",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":102017135,
-    "wof:lastmodified":1566644153,
+    "wof:lastmodified":1582316285,
     "wof:name":"Puerto Varas",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

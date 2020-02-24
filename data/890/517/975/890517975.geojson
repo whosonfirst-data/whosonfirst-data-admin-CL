@@ -104,6 +104,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056038,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ac51f2909dbe1b6549fd9228e4ca3c5",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":890517975,
-    "wof:lastmodified":1566644631,
+    "wof:lastmodified":1582316357,
     "wof:name":"Ca\u00f1ete",
     "wof:parent_id":102063153,
     "wof:placetype":"localadmin",

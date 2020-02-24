@@ -220,6 +220,9 @@
         "wk:page":"Curanilahue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8ee7bd116a08cf5cf017f890ab8fe30",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":102017719,
-    "wof:lastmodified":1566644222,
+    "wof:lastmodified":1582316296,
     "wof:name":"Curanilahue",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

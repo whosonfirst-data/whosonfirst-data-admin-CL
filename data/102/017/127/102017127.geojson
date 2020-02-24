@@ -108,6 +108,9 @@
         "wk:page":"Pumanque"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3a72b0e5d18f439d0d30b2f56b5b5de",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102017127,
-    "wof:lastmodified":1566644186,
+    "wof:lastmodified":1582316291,
     "wof:name":"Pumanque",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

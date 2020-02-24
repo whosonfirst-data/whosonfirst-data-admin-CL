@@ -331,6 +331,9 @@
         "wk:page":"Angol"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd10905c132140cee450c3c2ebbeaf7f",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
         }
     ],
     "wof:id":102017967,
-    "wof:lastmodified":1566644195,
+    "wof:lastmodified":1582316292,
     "wof:name":"Angol",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

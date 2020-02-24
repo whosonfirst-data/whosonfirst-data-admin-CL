@@ -250,6 +250,9 @@
         "wk:page":"Illapel"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"81d52643b808501820ce439de0ffa2f7",
     "wof:hierarchy":[
         {
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":102017585,
-    "wof:lastmodified":1566644221,
+    "wof:lastmodified":1582316296,
     "wof:name":"Illapel",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

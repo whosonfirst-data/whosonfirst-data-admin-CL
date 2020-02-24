@@ -55,6 +55,9 @@
         "qs_pg:id":1116108
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9873a000ccc13a1912c797143ca7267",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644229,
+    "wof:lastmodified":1582316297,
     "wof:name":"Puangue",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

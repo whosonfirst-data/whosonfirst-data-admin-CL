@@ -130,6 +130,9 @@
         "wd:id":"Q14477"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4436a54ea381d8dc6eabb0286bc0344",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":102017535,
-    "wof:lastmodified":1566644163,
+    "wof:lastmodified":1582316287,
     "wof:name":"Lampa",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

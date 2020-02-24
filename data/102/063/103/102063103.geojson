@@ -150,6 +150,9 @@
         "wk:page":"Quillota"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a69e81e65b6171cb082427f8adcee715",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102063103,
-    "wof:lastmodified":1566643995,
+    "wof:lastmodified":1582316206,
     "wof:name":"Quillota",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

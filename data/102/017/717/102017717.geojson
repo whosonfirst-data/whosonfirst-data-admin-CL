@@ -81,6 +81,9 @@
         "wk:page":"Curanipe"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ab790046706979bf4c9dcbf06b4abb5",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102017717,
-    "wof:lastmodified":1566644223,
+    "wof:lastmodified":1582316296,
     "wof:name":"Curanipe",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

@@ -164,6 +164,9 @@
         "qs_pg:id":180651
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"feb84864e9bcd9bd1b69a00b0512a501",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":102016927,
-    "wof:lastmodified":1566644151,
+    "wof:lastmodified":1582316284,
     "wof:name":"Santa Clara",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

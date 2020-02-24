@@ -149,6 +149,9 @@
         "wk:page":"Santa Juana"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6eaf1baa5dbe4f2051dbd7e3173390f5",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102016921,
-    "wof:lastmodified":1566644152,
+    "wof:lastmodified":1582316284,
     "wof:name":"Santa Juana",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

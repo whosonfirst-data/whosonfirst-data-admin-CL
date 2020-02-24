@@ -67,6 +67,9 @@
         "wk:page":"Laraquete"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c20c49ab3dfdee34e3515257bb15be5c",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644228,
+    "wof:lastmodified":1582316297,
     "wof:name":"Laraquete",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

@@ -153,6 +153,9 @@
         "wd:id":"Q201119"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3fbc564c977e32e146c1700fca01038d",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":102063165,
-    "wof:lastmodified":1566644050,
+    "wof:lastmodified":1582316242,
     "wof:name":"Arica",
     "wof:parent_id":1108804709,
     "wof:placetype":"county",

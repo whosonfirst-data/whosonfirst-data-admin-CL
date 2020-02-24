@@ -58,6 +58,9 @@
         "wd:id":"Q21003566"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ecb7d43a200d0664bd906423939cb0c",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102017045,
-    "wof:lastmodified":1566644201,
+    "wof:lastmodified":1582316293,
     "wof:name":"Recinto",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

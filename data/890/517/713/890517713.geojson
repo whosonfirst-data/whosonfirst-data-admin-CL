@@ -108,6 +108,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056021,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d052a4433176db16a61d87eea9b1859",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890517713,
-    "wof:lastmodified":1566644612,
+    "wof:lastmodified":1582316357,
     "wof:name":"Lanco",
     "wof:parent_id":102063183,
     "wof:placetype":"localadmin",

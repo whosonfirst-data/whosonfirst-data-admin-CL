@@ -224,6 +224,9 @@
         "wk:page":"Puente Alto"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19f56e717d21ebd2392c16aa074bc320",
     "wof:hierarchy":[
         {
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":102017163,
-    "wof:lastmodified":1566644196,
+    "wof:lastmodified":1582316292,
     "wof:name":"Puente Alto",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

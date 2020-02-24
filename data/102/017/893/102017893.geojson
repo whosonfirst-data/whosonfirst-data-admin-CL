@@ -83,6 +83,9 @@
         "wd:id":"Q396828"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37f4d949b9b3806d7f95d79628383b24",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102017893,
-    "wof:lastmodified":1566644178,
+    "wof:lastmodified":1582316289,
     "wof:name":"Camarones",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

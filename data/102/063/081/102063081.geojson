@@ -186,6 +186,9 @@
         "wd:id":"Q721769"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"f1b03df20a4b2fe8d517e0d61414aa25",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":102063081,
-    "wof:lastmodified":1566644081,
+    "wof:lastmodified":1582316261,
     "wof:name":"Ultima Esperanza",
     "wof:parent_id":-1,
     "wof:placetype":"county",

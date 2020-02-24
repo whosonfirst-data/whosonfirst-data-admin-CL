@@ -193,7 +193,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":820,
@@ -213,6 +214,10 @@
         "wk:page":"Mejillones"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"7bc85c28bebe87bd630d4085aa65d60c",
     "wof:hierarchy":[
         {
@@ -227,7 +232,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644224,
+    "wof:lastmodified":1582316296,
     "wof:name":"Mejillones",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

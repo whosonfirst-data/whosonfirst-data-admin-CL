@@ -131,6 +131,9 @@
         "wd:id":"Q13045"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a77e87a0a4d027edb04c1357eed50d73",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644172,
+    "wof:lastmodified":1582316288,
     "wof:name":"Central",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

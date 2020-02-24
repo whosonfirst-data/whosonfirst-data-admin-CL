@@ -118,6 +118,9 @@
         "wk:page":"Antuco, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1375949da58f5d65eb72a13de702b8bb",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644192,
+    "wof:lastmodified":1582316292,
     "wof:name":"Antuco",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

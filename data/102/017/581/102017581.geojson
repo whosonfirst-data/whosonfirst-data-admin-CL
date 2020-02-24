@@ -448,6 +448,9 @@
         "wk:page":"Iquique"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cada5fd4feb394121ec8b0f5e1002f9c",
     "wof:hierarchy":[
         {
@@ -462,7 +465,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644184,
+    "wof:lastmodified":1582316290,
     "wof:megacity":0,
     "wof:name":"Iquique",
     "wof:parent_id":102063145,

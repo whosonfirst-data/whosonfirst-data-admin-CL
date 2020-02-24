@@ -295,6 +295,9 @@
         "wk:page":"Ovalle"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec1651dcef5ed4f9496feb5e18d36e5f",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":102017293,
-    "wof:lastmodified":1566644177,
+    "wof:lastmodified":1582316289,
     "wof:name":"Ovalle",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

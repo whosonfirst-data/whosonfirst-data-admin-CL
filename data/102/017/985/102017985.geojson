@@ -135,6 +135,9 @@
         "wk:page":"Algarrobo, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef4b23a33eae2de8244d6cc214f0d328",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":102017985,
-    "wof:lastmodified":1566644187,
+    "wof:lastmodified":1582316291,
     "wof:name":"Algarrobo",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

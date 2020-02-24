@@ -135,6 +135,9 @@
         "wk:page":"Lo Prado"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"427ec2d51ee9368dd525dcff39629b1b",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":85765873,
-    "wof:lastmodified":1566644284,
+    "wof:lastmodified":1582316299,
     "wof:name":"Lo Prado",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

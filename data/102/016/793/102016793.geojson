@@ -149,6 +149,9 @@
         "wk:page":"Yungay, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eef73e1dac209fc0dbbee07b801cee17",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102016793,
-    "wof:lastmodified":1566644146,
+    "wof:lastmodified":1582316283,
     "wof:name":"Yungay",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

@@ -101,6 +101,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056020,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"826f263bc59267fd8dea78ef72d2d722",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890517693,
-    "wof:lastmodified":1566644608,
+    "wof:lastmodified":1582316356,
     "wof:name":"Yerbas Buenas",
     "wof:parent_id":102063097,
     "wof:placetype":"localadmin",

@@ -339,6 +339,9 @@
         "wd:id":"Q51059"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87a88127c17083f9289e2b6870945c39",
     "wof:hierarchy":[
         {
@@ -353,7 +356,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644217,
+    "wof:lastmodified":1582316295,
     "wof:name":"Osorno",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

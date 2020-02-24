@@ -105,6 +105,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056019,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4c8fbf1a294ea9ce60031f917432b3ed",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890517641,
-    "wof:lastmodified":1566644622,
+    "wof:lastmodified":1582316357,
     "wof:name":"Perquenco",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

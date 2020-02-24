@@ -132,6 +132,9 @@
         "wk:page":"Corral, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"986c496c5a653e96a9d955a4f0cf5f43",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":102017737,
-    "wof:lastmodified":1566644157,
+    "wof:lastmodified":1582316286,
     "wof:name":"Corral",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -147,6 +147,9 @@
         "wk:page":"San Pedro de Atacama"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3cd659a01a2fba183133be020967160f",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644143,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Pedro de Atacama",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

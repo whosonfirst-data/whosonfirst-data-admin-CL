@@ -76,6 +76,10 @@
         "qs_pg:id":1114230
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ade246b4508e1b778c340fa89efd23d",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644283,
+    "wof:lastmodified":1582316299,
     "wof:name":"Poblaci\u00f3n Vergara",
     "wof:parent_id":102016801,
     "wof:placetype":"neighbourhood",

@@ -157,6 +157,9 @@
         "wd:id":"Q721755"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9df1e15e44f5000b8b99d414f4473ca6",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":102063109,
-    "wof:lastmodified":1566644052,
+    "wof:lastmodified":1582316242,
     "wof:name":"\u00d1uble",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

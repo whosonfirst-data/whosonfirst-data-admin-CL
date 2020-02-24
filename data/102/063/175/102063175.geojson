@@ -164,6 +164,9 @@
         "wk:page":"Huasco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"283289267cac7c137fe2d74a800ec8de",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":102063175,
-    "wof:lastmodified":1566644043,
+    "wof:lastmodified":1582316239,
     "wof:name":"Huasco",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

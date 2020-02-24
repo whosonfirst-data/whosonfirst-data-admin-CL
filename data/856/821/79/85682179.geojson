@@ -359,6 +359,9 @@
         "wd:id":"Q2176"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6dee5bc176821c563ea077c9235481b1",
     "wof:hierarchy":[
         {
@@ -374,7 +377,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644319,
+    "wof:lastmodified":1582316326,
     "wof:name":"De La Araucania",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

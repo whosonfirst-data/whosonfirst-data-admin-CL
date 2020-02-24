@@ -92,6 +92,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056010,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5aa12d090e6779bcaba5d5162c8f540d",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":890517463,
-    "wof:lastmodified":1566644607,
+    "wof:lastmodified":1582316356,
     "wof:name":"Rinconada",
     "wof:parent_id":102063139,
     "wof:placetype":"localadmin",

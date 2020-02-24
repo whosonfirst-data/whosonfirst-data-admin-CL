@@ -139,6 +139,9 @@
         "qs_pg:id":180605
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06a56ff93c9ccff68ff377979bb4d74d",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":102017573,
-    "wof:lastmodified":1566644190,
+    "wof:lastmodified":1582316291,
     "wof:name":"La Boca",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wd:id":"Q51104"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"011a5163fa6a44492ef8689d5b99bead",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102017217,
-    "wof:lastmodified":1566644169,
+    "wof:lastmodified":1582316288,
     "wof:name":"Pichidegua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

@@ -246,6 +246,9 @@
         "wk:page":"Villarrica, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"663746ca40358202c5ac9259d0a08d7a",
     "wof:hierarchy":[
         {
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":102016805,
-    "wof:lastmodified":1566644142,
+    "wof:lastmodified":1582316283,
     "wof:name":"Villarrica",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

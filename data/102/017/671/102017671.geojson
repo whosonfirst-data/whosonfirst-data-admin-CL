@@ -106,6 +106,9 @@
         "wk:page":"El Salvador, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad25a5cd03853223599408b7bc7a3ec6",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":102017671,
-    "wof:lastmodified":1566644204,
+    "wof:lastmodified":1582316294,
     "wof:name":"El Salvador",
     "wof:parent_id":102063133,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Tir\u00faa"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cf19460168d018fc59091c5471e4a44",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102016873,
-    "wof:lastmodified":1566644139,
+    "wof:lastmodified":1582316282,
     "wof:name":"Tir\u00faa",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

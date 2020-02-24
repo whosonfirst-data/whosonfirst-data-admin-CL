@@ -142,6 +142,9 @@
         "wk:page":"San Carlos, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"922679851b61377573d510e00fd62bba",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":102016987,
-    "wof:lastmodified":1566644151,
+    "wof:lastmodified":1582316284,
     "wof:name":"San Carlos",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

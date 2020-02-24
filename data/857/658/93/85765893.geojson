@@ -145,6 +145,9 @@
         "qs_pg:id":192082
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da1876634b8ec6b5c3aeaae50dabae2d",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644284,
+    "wof:lastmodified":1582316299,
     "wof:name":"Pedro Aguirre Cerda",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

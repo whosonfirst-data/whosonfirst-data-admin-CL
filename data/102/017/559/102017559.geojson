@@ -126,6 +126,9 @@
         "wk:page":"La Estrella, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b522a0259bbd905c40ac1a8791f5cbc5",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":102017559,
-    "wof:lastmodified":1566644158,
+    "wof:lastmodified":1582316286,
     "wof:name":"La Estrella",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

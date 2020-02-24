@@ -169,6 +169,9 @@
         "wd:id":"Q201237"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c4f6a9eacffd9f5f5d452205cf2f9ba7",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":102063107,
-    "wof:lastmodified":1566644054,
+    "wof:lastmodified":1582316244,
     "wof:name":"Caut\u00edn",
     "wof:parent_id":85682179,
     "wof:placetype":"county",

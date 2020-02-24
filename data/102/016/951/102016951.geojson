@@ -110,6 +110,9 @@
         "wk:page":"San Nicol\u00e1s, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8e2df7015f2cdfd800c0c68b50aa578",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102016951,
-    "wof:lastmodified":1566644146,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Nicol\u00e1s",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

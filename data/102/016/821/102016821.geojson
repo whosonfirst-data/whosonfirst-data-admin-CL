@@ -78,6 +78,9 @@
         "qs_pg:id":1262767
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d6301cfa2bba2d4064263ca11175c17",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102016821,
-    "wof:lastmodified":1566644139,
+    "wof:lastmodified":1582316282,
     "wof:name":"Vilches",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

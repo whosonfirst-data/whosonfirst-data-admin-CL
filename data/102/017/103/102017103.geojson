@@ -122,6 +122,9 @@
         "wk:page":"Puyehue, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07f0c588050e921848fa62e41092f293",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":102017103,
-    "wof:lastmodified":1566644155,
+    "wof:lastmodified":1582316285,
     "wof:name":"Puyehue",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

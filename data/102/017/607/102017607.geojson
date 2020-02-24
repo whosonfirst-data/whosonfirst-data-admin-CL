@@ -186,6 +186,9 @@
         "wk:page":"Hualp\u00e9n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73f2e7aed656f6ad9e1a3271310d1dc7",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":102017607,
-    "wof:lastmodified":1566644218,
+    "wof:lastmodified":1582316296,
     "wof:name":"Hualp\u00e9n",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

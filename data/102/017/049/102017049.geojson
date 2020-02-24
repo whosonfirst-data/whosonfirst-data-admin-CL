@@ -62,6 +62,9 @@
         "qs_pg:id":180635
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1226124eb5eaa18309b05123dbdacdb7",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1582316288,
     "wof:name":"Rarinco",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

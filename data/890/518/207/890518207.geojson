@@ -132,6 +132,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056053,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b07aab7e9bf06a86b1f6567fb02a65c",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":890518207,
-    "wof:lastmodified":1566644652,
+    "wof:lastmodified":1582316358,
     "wof:name":"Santa Juana",
     "wof:parent_id":102063151,
     "wof:placetype":"localadmin",

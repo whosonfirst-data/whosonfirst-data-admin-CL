@@ -209,6 +209,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -230,6 +231,10 @@
         "wk:page":"Cochrane, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b543855df24005a64b689a570a6a719",
     "wof:hierarchy":[
         {
@@ -244,7 +249,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644153,
+    "wof:lastmodified":1582316285,
     "wof:name":"Cochrane",
     "wof:parent_id":102063085,
     "wof:placetype":"locality",

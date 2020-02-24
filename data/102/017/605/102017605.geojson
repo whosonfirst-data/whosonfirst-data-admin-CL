@@ -123,6 +123,9 @@
         "wk:page":"Huara"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e1768cb8f962d83e2244ac964a1788e",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":102017605,
-    "wof:lastmodified":1566644173,
+    "wof:lastmodified":1582316289,
     "wof:name":"Huara",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

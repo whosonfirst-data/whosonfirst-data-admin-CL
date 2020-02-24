@@ -100,6 +100,9 @@
         "qs_pg:id":901151
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"768d3b1cd829107e558f734d63e3f561",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644284,
+    "wof:lastmodified":1582316299,
     "wof:name":"Cerrillos",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

@@ -122,6 +122,9 @@
         "wk:page":"Monte Patria"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac6e309a8ff831d8b74fd425fc0e94e8",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":102017353,
-    "wof:lastmodified":1566644157,
+    "wof:lastmodified":1582316286,
     "wof:name":"Monte Patria",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

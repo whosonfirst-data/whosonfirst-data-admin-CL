@@ -149,6 +149,9 @@
         "wk:page":"Parral, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9521f95ebb10fa5addf7ed0492d77124",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102017261,
-    "wof:lastmodified":1566644174,
+    "wof:lastmodified":1582316289,
     "wof:name":"Parral",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

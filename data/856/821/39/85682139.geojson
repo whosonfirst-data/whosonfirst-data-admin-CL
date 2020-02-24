@@ -342,6 +342,9 @@
         "wd:id":"Q2120"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"230d38f4088d532fd4a18153be7c4115",
     "wof:hierarchy":[
         {
@@ -357,7 +360,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644313,
+    "wof:lastmodified":1582316322,
     "wof:name":"De Atacama",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

@@ -53,6 +53,9 @@
         "qs_pg:id":444316
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93427f9f5c9d9bee8522b151d825763e",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102016963,
-    "wof:lastmodified":1566644137,
+    "wof:lastmodified":1582316282,
     "wof:name":"San Jos\u00e9 de la Mariquina",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

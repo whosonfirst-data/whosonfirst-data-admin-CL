@@ -123,6 +123,9 @@
         "wk:page":"Chill\u00e1n Viejo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"160d4e8a376209c306a47aa1025480f0",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":102017825,
-    "wof:lastmodified":1566644209,
+    "wof:lastmodified":1582316294,
     "wof:name":"Chill\u00e1n Viejo",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

@@ -122,6 +122,9 @@
         "wk:page":"Machal\u00ed"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d87c62213319293d5cb12176031191c3",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":102017417,
-    "wof:lastmodified":1566644202,
+    "wof:lastmodified":1582316293,
     "wof:name":"Machal\u00ed",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

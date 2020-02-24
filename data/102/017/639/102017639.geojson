@@ -128,6 +128,9 @@
         "wk:page":"Futaleuf\u00fa, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"78dc0be620ad784c41cd03403c8ec85b",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":102017639,
-    "wof:lastmodified":1566644214,
+    "wof:lastmodified":1582316295,
     "wof:name":"Futaleuf\u00fa",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

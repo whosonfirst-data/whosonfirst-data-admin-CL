@@ -114,6 +114,9 @@
         "wk:page":"Queil\u00e9n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"851aefd280de44f3f274c9b4671772d4",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017099,
-    "wof:lastmodified":1566644176,
+    "wof:lastmodified":1582316289,
     "wof:name":"Queil\u00e9n",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

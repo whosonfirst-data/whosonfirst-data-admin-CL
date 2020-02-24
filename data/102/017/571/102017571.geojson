@@ -51,6 +51,9 @@
         "qs_pg:id":1003079
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29341fda7ec8e30d06bf1f1566da46d0",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017571,
-    "wof:lastmodified":1566644220,
+    "wof:lastmodified":1582316296,
     "wof:name":"Labranza",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

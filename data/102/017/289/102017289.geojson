@@ -116,6 +116,9 @@
         "wd:id":"Q51063"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f50b00f682c8a0f093b24d20d16de0a5",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102017289,
-    "wof:lastmodified":1566644167,
+    "wof:lastmodified":1582316288,
     "wof:name":"Padre Las Casas",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

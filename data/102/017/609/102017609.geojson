@@ -119,6 +119,9 @@
         "wd:id":"Q13074"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd3e665cd0f98abb222d7df42bc97920",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":102017609,
-    "wof:lastmodified":1566644219,
+    "wof:lastmodified":1582316296,
     "wof:name":"Huala\u00f1\u00e9",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

@@ -74,6 +74,9 @@
         "wd:id":"Q22981909"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"174f1067f32161ecee1d288f8914d15b",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102018029,
-    "wof:lastmodified":1566644129,
+    "wof:lastmodified":1582316281,
     "wof:name":"Puyuhuapi",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",

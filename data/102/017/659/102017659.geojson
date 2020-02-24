@@ -115,6 +115,9 @@
         "wd:id":"Q13044"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f00ce599b025d1e5ae0221fe1a99a548",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":102017659,
-    "wof:lastmodified":1566644179,
+    "wof:lastmodified":1582316290,
     "wof:name":"Ercilla",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

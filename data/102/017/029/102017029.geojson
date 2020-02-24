@@ -114,6 +114,9 @@
         "wk:page":"Retiro, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"178fc48fc55fb9b200257b94782a4048",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017029,
-    "wof:lastmodified":1566644205,
+    "wof:lastmodified":1582316294,
     "wof:name":"Retiro",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

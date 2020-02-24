@@ -75,6 +75,9 @@
         "qs_pg:id":1105250
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"069886c4c19bae8af439eaca9d1aa506",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102016937,
-    "wof:lastmodified":1566644137,
+    "wof:lastmodified":1582316282,
     "wof:name":"San Ram\u00f3n",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

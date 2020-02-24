@@ -63,6 +63,9 @@
         "wk:page":"Neltume"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b0b0f6af8505678f97d00ffa9407a27",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102017335,
-    "wof:lastmodified":1566644194,
+    "wof:lastmodified":1582316292,
     "wof:name":"Neltume",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

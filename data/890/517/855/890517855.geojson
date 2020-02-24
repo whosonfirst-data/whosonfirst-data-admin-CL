@@ -114,6 +114,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056032,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e6c91c33869e900593c93f9bc8a2757a",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890517855,
-    "wof:lastmodified":1566644626,
+    "wof:lastmodified":1582316357,
     "wof:name":"Palmilla",
     "wof:parent_id":102063157,
     "wof:placetype":"localadmin",

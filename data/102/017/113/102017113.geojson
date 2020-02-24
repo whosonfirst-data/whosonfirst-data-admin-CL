@@ -110,6 +110,9 @@
         "wk:page":"Purranque"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b32be13ce82ccd2690e524bf6cdc8f5",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102017113,
-    "wof:lastmodified":1566644227,
+    "wof:lastmodified":1582316297,
     "wof:name":"Purranque",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

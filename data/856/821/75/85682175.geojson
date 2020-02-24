@@ -348,6 +348,9 @@
         "wd:id":"Q2118"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"85e0357dcc33f8d026174fb9f8d8542f",
     "wof:hierarchy":[
         {
@@ -363,7 +366,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644303,
+    "wof:lastmodified":1582316316,
     "wof:name":"De Antofagasta",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

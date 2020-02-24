@@ -108,6 +108,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056024,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8548d11bd35d28525290091069a7c3a4",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890517765,
-    "wof:lastmodified":1566644601,
+    "wof:lastmodified":1582316356,
     "wof:name":"Puerto Octay",
     "wof:parent_id":102063121,
     "wof:placetype":"localadmin",

@@ -112,6 +112,9 @@
         "wd:id":"Q201046"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca0e25b2f4584d8d6001b05bef1c2b61",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":102016797,
-    "wof:lastmodified":1566644135,
+    "wof:lastmodified":1582316282,
     "wof:name":"Yerbas Buenas",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

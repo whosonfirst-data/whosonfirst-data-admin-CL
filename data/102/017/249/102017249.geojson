@@ -122,6 +122,9 @@
         "wk:page":"Pe\u00f1aflor, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69eb4c8eb5ada6cfd20a188aa3b09269",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":102017249,
-    "wof:lastmodified":1566644207,
+    "wof:lastmodified":1582316294,
     "wof:name":"Pe\u00f1aflor",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wd:id":"Q6706547"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8381764cc69cdda773c18a8b67534086",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644281,
+    "wof:lastmodified":1582316298,
     "wof:name":"Lo Valdivieso",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

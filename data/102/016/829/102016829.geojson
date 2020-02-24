@@ -98,6 +98,9 @@
         "wk:page":"Vichuqu\u00e9n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c0cc96ff4f730b2db566dc55f48d8e5",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102016829,
-    "wof:lastmodified":1566644139,
+    "wof:lastmodified":1582316282,
     "wof:name":"Vichuqu\u00e9n",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

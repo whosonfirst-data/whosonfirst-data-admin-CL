@@ -72,6 +72,9 @@
         "wk:page":"Liqui\u00f1e"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8eca8aa352966825cbf08336dc66b81",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102017473,
-    "wof:lastmodified":1566644208,
+    "wof:lastmodified":1582316294,
     "wof:name":"Liqui\u00f1e",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

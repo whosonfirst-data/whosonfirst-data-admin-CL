@@ -54,6 +54,9 @@
         "qs_pg:id":1222684
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3829a0f8ebdf4d064f7a9d5b11132bc",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102017989,
-    "wof:lastmodified":1566644224,
+    "wof:lastmodified":1582316296,
     "wof:name":"Aldachildo",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Tiltil"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2d9d6716890ce91c7eed57835fdf785",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102016875,
-    "wof:lastmodified":1566644140,
+    "wof:lastmodified":1582316282,
     "wof:name":"Tiltil",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

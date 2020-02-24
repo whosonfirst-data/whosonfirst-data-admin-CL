@@ -62,6 +62,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056048,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7f15d237aa5099a469bbb0c48b0bc55",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890518101,
-    "wof:lastmodified":1566644647,
+    "wof:lastmodified":1582316358,
     "wof:name":"Lago Ranco",
     "wof:parent_id":102063189,
     "wof:placetype":"localadmin",

@@ -121,6 +121,9 @@
         "wd:id":"Q13058"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a5ff6ca80b63f45fc5f9bc072197336",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102017641,
-    "wof:lastmodified":1566644209,
+    "wof:lastmodified":1582316294,
     "wof:name":"Frutillar",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

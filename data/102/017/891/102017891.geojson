@@ -117,6 +117,9 @@
         "wk:page":"Cami\u00f1a"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f1d5282701b6583f75dde6ac180025f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":102017891,
-    "wof:lastmodified":1566644213,
+    "wof:lastmodified":1582316295,
     "wof:name":"Cami\u00f1a",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

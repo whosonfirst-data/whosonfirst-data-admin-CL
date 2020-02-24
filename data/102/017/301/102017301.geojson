@@ -54,6 +54,9 @@
         "qs_pg:id":860074
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9daee25e0d3d08259e5efcc0ffbd5bde",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102017301,
-    "wof:lastmodified":1566644160,
+    "wof:lastmodified":1582316286,
     "wof:name":"Olivar Bajo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

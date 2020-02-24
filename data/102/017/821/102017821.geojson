@@ -55,6 +55,9 @@
         "qs_pg:id":313522
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90421b1b17f9b70e26caa8a01d3b07b6",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644169,
+    "wof:lastmodified":1582316288,
     "wof:name":"Chincolco",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

@@ -195,6 +195,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056024,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c67fd9a167f30bb26801980c95560a4",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":890517779,
-    "wof:lastmodified":1566644615,
+    "wof:lastmodified":1582316357,
     "wof:name":"Pinto",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

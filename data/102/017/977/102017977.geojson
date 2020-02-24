@@ -133,6 +133,9 @@
         "wk:page":"Alto Hospicio"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b594e368da498a8116bf9d362bc2f63",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644182,
+    "wof:lastmodified":1582316290,
     "wof:name":"Alto Hospicio",
     "wof:parent_id":102063145,
     "wof:placetype":"locality",

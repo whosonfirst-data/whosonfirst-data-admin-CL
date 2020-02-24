@@ -129,6 +129,9 @@
         "wk:page":"Santa B\u00e1rbara, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2747ff040adbf1961e5be3dd7e51f41c",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644151,
+    "wof:lastmodified":1582316284,
     "wof:name":"Santa B\u00e1rbara",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

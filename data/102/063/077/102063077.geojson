@@ -161,6 +161,9 @@
         "wk:page":"Petorca"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a310fecbb949890dfae79d5b34d57dc5",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":102063077,
-    "wof:lastmodified":1566644006,
+    "wof:lastmodified":1582316214,
     "wof:name":"Petorca",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

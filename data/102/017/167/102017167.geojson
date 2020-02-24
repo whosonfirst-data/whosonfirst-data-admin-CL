@@ -109,6 +109,9 @@
         "wk:page":"Puchuncav\u00ed"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e963d38a4a2ddd3f17ff761930ca885",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644162,
+    "wof:lastmodified":1582316286,
     "wof:name":"Puchuncav\u00ed",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

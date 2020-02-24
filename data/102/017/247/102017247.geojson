@@ -131,6 +131,9 @@
         "wk:page":"Pe\u00f1alol\u00e9n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ddaf241b55a451d76057cf6df15b636",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644206,
+    "wof:lastmodified":1582316294,
     "wof:name":"Pe\u00f1alol\u00e9n",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

@@ -123,6 +123,9 @@
         "wk:page":"Cabildo, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"032cc44c093c3ef59755c41f4642cdbf",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":102017923,
-    "wof:lastmodified":1566644186,
+    "wof:lastmodified":1582316291,
     "wof:name":"Cabildo",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

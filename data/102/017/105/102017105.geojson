@@ -51,6 +51,9 @@
         "qs_pg:id":338528
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7edc3b8bab439b715bd7f579ab23303c",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017105,
-    "wof:lastmodified":1566644158,
+    "wof:lastmodified":1582316286,
     "wof:name":"Put\u00fa",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

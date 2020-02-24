@@ -113,6 +113,9 @@
         "wk:page":"Lago Ranco, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dea37c3c8761e1ab48f2f58d57b6a479",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102017189,
-    "wof:lastmodified":1566644184,
+    "wof:lastmodified":1582316290,
     "wof:name":"Poblaci\u00f3n Lago Ranco",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

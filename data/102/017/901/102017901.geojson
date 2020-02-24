@@ -220,6 +220,9 @@
         "wk:page":"Calbuco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"75e52784ae5a63ce952dfa8363aae6f6",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":102017901,
-    "wof:lastmodified":1566644157,
+    "wof:lastmodified":1582316286,
     "wof:name":"Calbuco",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

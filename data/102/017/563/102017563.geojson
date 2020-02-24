@@ -114,6 +114,9 @@
         "wk:page":"La Cruz, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ffe0777fd7204262d38786fd3dc6885b",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017563,
-    "wof:lastmodified":1566644195,
+    "wof:lastmodified":1582316292,
     "wof:name":"La Cruz",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

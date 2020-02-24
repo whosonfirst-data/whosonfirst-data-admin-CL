@@ -120,6 +120,9 @@
         "wk:page":"Padre Hurtado"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17284ba633f980f9e5ee3f5ec5f0ca73",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102017291,
-    "wof:lastmodified":1566644214,
+    "wof:lastmodified":1582316295,
     "wof:name":"Padre Hurtado",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

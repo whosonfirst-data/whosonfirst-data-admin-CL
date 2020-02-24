@@ -117,6 +117,9 @@
         "wk:page":"Isla de Maipo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"935949a6e3ea047f31117c56152d2150",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":102017579,
-    "wof:lastmodified":1566644226,
+    "wof:lastmodified":1582316297,
     "wof:name":"Isla de Maipo",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

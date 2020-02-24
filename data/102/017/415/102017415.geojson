@@ -120,6 +120,9 @@
         "wd:id":"Q16916"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5ea24fefa5ca14e1548e22134914c87",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1582316288,
     "wof:name":"Macul",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

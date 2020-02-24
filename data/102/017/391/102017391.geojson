@@ -123,6 +123,9 @@
         "wk:page":"Marchig\u00fce"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c102ca441ac19fff077be39b439b6fe",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":102017391,
-    "wof:lastmodified":1566644155,
+    "wof:lastmodified":1582316285,
     "wof:name":"Marchihue",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

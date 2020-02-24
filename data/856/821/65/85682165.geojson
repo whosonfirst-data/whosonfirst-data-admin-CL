@@ -341,6 +341,9 @@
         "wd:id":"Q2133"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ba7552bb6308d0f7ea310647ca750ff1",
     "wof:hierarchy":[
         {
@@ -356,7 +359,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644311,
+    "wof:lastmodified":1582316321,
     "wof:name":"Del Libertador B Ohiggins",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

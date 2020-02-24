@@ -121,6 +121,9 @@
         "qs_pg:id":1155750
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89f1e9a584f92cbfba866b25180a9019",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102018197,
-    "wof:lastmodified":1566644126,
+    "wof:lastmodified":1582316281,
     "wof:name":"Freire",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

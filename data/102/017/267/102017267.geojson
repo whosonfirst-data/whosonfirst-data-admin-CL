@@ -114,6 +114,9 @@
         "wk:page":"Papudo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"635d173e04b6957a089d56a508bb6bdb",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017267,
-    "wof:lastmodified":1566644177,
+    "wof:lastmodified":1582316289,
     "wof:name":"Papudo",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

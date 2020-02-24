@@ -223,6 +223,9 @@
         "wk:page":"Collipulli"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e9133b9e3d8c497c28de53e48c3c420",
     "wof:hierarchy":[
         {
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":102017769,
-    "wof:lastmodified":1566644194,
+    "wof:lastmodified":1582316292,
     "wof:name":"Collipulli",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

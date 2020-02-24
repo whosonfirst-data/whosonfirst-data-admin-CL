@@ -297,6 +297,9 @@
         "wk:page":"San Felipe, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d475aef0a5ffdb107f42f30853fd51b5",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":102016979,
-    "wof:lastmodified":1566644143,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Felipe",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

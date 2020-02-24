@@ -86,6 +86,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056061,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea646f63321d8bd9304ae04c715e693c",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890518357,
-    "wof:lastmodified":1566644645,
+    "wof:lastmodified":1582316358,
     "wof:name":"Los Lagos",
     "wof:parent_id":102063183,
     "wof:placetype":"localadmin",

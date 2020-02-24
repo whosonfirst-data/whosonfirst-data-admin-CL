@@ -190,6 +190,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -209,6 +210,10 @@
         "wk:page":"Lonquimay"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c0b3d01392d1d1a5dd512d18ddfd5841",
     "wof:hierarchy":[
         {
@@ -220,7 +225,7 @@
         }
     ],
     "wof:id":102017449,
-    "wof:lastmodified":1566644165,
+    "wof:lastmodified":1582316287,
     "wof:name":"Lonquimay",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
         "qs_pg:id":1205993
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9f73fecdfb5f6f0ceae0fbddcba3221",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644204,
+    "wof:lastmodified":1582316294,
     "wof:name":"Limar\u00ed",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

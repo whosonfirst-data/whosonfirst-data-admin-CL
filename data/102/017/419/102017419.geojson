@@ -288,6 +288,9 @@
         "wk:page":"Lota, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60c074404fb466d41223043c6e2beaac",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":102017419,
-    "wof:lastmodified":1566644200,
+    "wof:lastmodified":1582316293,
     "wof:name":"Lota",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

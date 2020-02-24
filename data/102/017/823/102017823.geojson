@@ -128,6 +128,9 @@
         "wk:page":"Chimbarongo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4756fc59abae50eb5d0125d7fb9ae690",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":102017823,
-    "wof:lastmodified":1566644203,
+    "wof:lastmodified":1582316293,
     "wof:name":"Chimbarongo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

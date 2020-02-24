@@ -117,6 +117,9 @@
         "wk:page":"Las Cabras, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"78897812611652f79629165ec46305c3",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":102017519,
-    "wof:lastmodified":1566644184,
+    "wof:lastmodified":1582316290,
     "wof:name":"Las Cabras",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

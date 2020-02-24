@@ -72,6 +72,9 @@
         "wk:page":"Antilhue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d674498b8bbcfb2d1dd20655f11d38e6",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102017965,
-    "wof:lastmodified":1566644156,
+    "wof:lastmodified":1582316286,
     "wof:name":"Antilhue",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

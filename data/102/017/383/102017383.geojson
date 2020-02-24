@@ -64,6 +64,9 @@
         "wd:id":"Q6786077"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ea4c3271b51203d51dd08870ecf17ec",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102017383,
-    "wof:lastmodified":1566644183,
+    "wof:lastmodified":1582316290,
     "wof:name":"Matanzas",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

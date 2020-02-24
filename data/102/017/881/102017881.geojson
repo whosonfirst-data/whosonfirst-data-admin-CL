@@ -84,6 +84,9 @@
         "wk:page":"Capit\u00e1n Pastene"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9d0c72c313d980e43917ca0add00fb5",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":102017881,
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1582316288,
     "wof:name":"Capit\u00e1n Pastene",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

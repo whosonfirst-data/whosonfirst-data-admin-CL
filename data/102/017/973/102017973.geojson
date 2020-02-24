@@ -54,6 +54,9 @@
         "qs_pg:id":180590
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1f1829057172f0460e53a17842dbb00",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102017973,
-    "wof:lastmodified":1566644222,
+    "wof:lastmodified":1582316296,
     "wof:name":"Ancagual",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

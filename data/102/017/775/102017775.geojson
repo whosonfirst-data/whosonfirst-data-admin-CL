@@ -54,6 +54,9 @@
         "qs_pg:id":1222694
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"113fea4539101a32bbc18d7223f242dc",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102017775,
-    "wof:lastmodified":1566644221,
+    "wof:lastmodified":1582316296,
     "wof:name":"Colihue",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056061,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1cbae8a9c64abab82c919cd808e6cfe8",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890518367,
-    "wof:lastmodified":1566644646,
+    "wof:lastmodified":1582316358,
     "wof:name":"Hijuelas",
     "wof:parent_id":102063103,
     "wof:placetype":"localadmin",

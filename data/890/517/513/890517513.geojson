@@ -114,6 +114,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056012,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3954c77d8aa8fdfe876b97b08311d458",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890517513,
-    "wof:lastmodified":1566644629,
+    "wof:lastmodified":1582316357,
     "wof:name":"Curepto",
     "wof:parent_id":102063111,
     "wof:placetype":"localadmin",

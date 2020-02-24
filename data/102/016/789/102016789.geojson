@@ -113,6 +113,9 @@
         "wk:page":"Zapallar"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"333ce0e008d55bc385ea533f63bb63b8",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102016789,
-    "wof:lastmodified":1566644152,
+    "wof:lastmodified":1582316285,
     "wof:name":"Zapallar",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

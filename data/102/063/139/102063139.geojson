@@ -159,6 +159,9 @@
         "wk:page":"Los Andes"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aaf2ff99a0167135dc0cd7bb2a2e5023",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":102063139,
-    "wof:lastmodified":1566644056,
+    "wof:lastmodified":1582316245,
     "wof:name":"Los Andes",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

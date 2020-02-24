@@ -69,6 +69,10 @@
         "qs_pg:id":460259
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0117d87d25a4609972ef92557276566c",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644282,
+    "wof:lastmodified":1582316299,
     "wof:name":"Placeres",
     "wof:parent_id":102016833,
     "wof:placetype":"neighbourhood",

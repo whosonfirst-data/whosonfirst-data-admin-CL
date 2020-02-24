@@ -162,6 +162,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056015,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"799e75d0ffd5bbf2b5130fcb36be0c72",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":890517587,
-    "wof:lastmodified":1566644615,
+    "wof:lastmodified":1582316357,
     "wof:name":"Hualqui",
     "wof:parent_id":102063171,
     "wof:placetype":"localadmin",

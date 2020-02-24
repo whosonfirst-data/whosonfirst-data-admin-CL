@@ -102,6 +102,9 @@
         "wk:page":"Puerto Cisnes"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dbb82c98e3acade0769a661bdd3c1915",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644190,
+    "wof:lastmodified":1582316291,
     "wof:name":"Puerto Cisnes",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",

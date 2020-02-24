@@ -117,6 +117,9 @@
         "wk:page":"Tucapel"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"487005eddb6e54c54afe9cd59f5e2dbd",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644147,
+    "wof:lastmodified":1582316283,
     "wof:name":"Tucapel",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

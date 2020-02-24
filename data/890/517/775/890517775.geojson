@@ -108,6 +108,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056024,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c928dc1bb3ee804dc4c4ec41c930b208",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890517775,
-    "wof:lastmodified":1566644628,
+    "wof:lastmodified":1582316357,
     "wof:name":"Lonquimay",
     "wof:parent_id":102063101,
     "wof:placetype":"localadmin",

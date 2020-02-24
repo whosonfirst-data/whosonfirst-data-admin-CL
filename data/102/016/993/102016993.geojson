@@ -305,6 +305,9 @@
         "wk:page":"San Antonio, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63f2f483cae35e975f1055731e7a6f2b",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644146,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Antonio",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

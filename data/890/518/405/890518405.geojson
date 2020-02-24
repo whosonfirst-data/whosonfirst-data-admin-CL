@@ -117,6 +117,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056063,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64e2e2050b256ce903186c2a397d2c8f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":890518405,
-    "wof:lastmodified":1566644652,
+    "wof:lastmodified":1582316358,
     "wof:name":"Alhue",
     "wof:parent_id":102063083,
     "wof:placetype":"localadmin",

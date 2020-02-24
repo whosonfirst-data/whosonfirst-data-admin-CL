@@ -51,6 +51,9 @@
         "qs_pg:id":667113
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7bc8bb8ec5b1aee2c64dc7a361a60eb",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017005,
-    "wof:lastmodified":1566644216,
+    "wof:lastmodified":1582316295,
     "wof:name":"Rocas de Santo Domingo",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

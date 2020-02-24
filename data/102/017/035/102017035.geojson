@@ -112,6 +112,9 @@
         "wk:page":"Renca"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bdb22e8a48f8dbc5e59382493d004471",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644212,
+    "wof:lastmodified":1582316295,
     "wof:name":"Renca",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

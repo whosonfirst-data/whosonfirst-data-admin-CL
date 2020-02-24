@@ -51,6 +51,9 @@
         "qs_pg:id":1116109
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2dde56f659739492c432e0d0766c44b9",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017161,
-    "wof:lastmodified":1566644157,
+    "wof:lastmodified":1582316286,
     "wof:name":"Puente Negro",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

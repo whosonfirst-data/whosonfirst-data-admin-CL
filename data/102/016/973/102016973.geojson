@@ -53,6 +53,9 @@
         "qs_pg:id":454438
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d1190343828dab378e35539331aede1",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102016973,
-    "wof:lastmodified":1566644151,
+    "wof:lastmodified":1582316284,
     "wof:name":"San Francisco de Mostazal",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

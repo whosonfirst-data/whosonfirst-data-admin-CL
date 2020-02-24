@@ -109,6 +109,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056041,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b62b0ca60cc9a646ddcb21dcee1b528e",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890518035,
-    "wof:lastmodified":1566644652,
+    "wof:lastmodified":1582316358,
     "wof:name":"Pelluhue",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

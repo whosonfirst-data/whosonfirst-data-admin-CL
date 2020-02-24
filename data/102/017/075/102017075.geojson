@@ -307,6 +307,9 @@
         "wk:page":"Quillota"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ceca357458f388a545913b147a4be1c2",
     "wof:hierarchy":[
         {
@@ -321,7 +324,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644206,
+    "wof:lastmodified":1582316294,
     "wof:name":"Quillota",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

@@ -126,6 +126,9 @@
         "wk:page":"Los Vilos"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cdc282e4456699c2c34cef51f500595",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":102017423,
-    "wof:lastmodified":1566644171,
+    "wof:lastmodified":1582316288,
     "wof:name":"Los Vilos",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

@@ -147,6 +147,9 @@
         "wk:page":"Coyhaique"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3e80042399adef306740700d37b53ba",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":102063079,
-    "wof:lastmodified":1566644005,
+    "wof:lastmodified":1582316213,
     "wof:name":"Coyhaique",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

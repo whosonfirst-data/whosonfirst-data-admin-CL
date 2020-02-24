@@ -54,6 +54,9 @@
         "qs_pg:id":385834
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f7884bf40e32c5a01108429479d96964",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102017303,
-    "wof:lastmodified":1566644193,
+    "wof:lastmodified":1582316292,
     "wof:name":"Olivar Alto",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

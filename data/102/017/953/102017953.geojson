@@ -465,6 +465,9 @@
         "qs_pg:id":1075287
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bff53b9414511842e74a712d6a3dd3f2",
     "wof:hierarchy":[
         {
@@ -486,7 +489,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644156,
+    "wof:lastmodified":1582316286,
     "wof:name":"Arica",
     "wof:parent_id":102063165,
     "wof:placetype":"locality",

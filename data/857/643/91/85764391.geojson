@@ -73,6 +73,9 @@
         "qs_pg:id":216620
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ecaadbd11c2736629f8d7a47ebc5765",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644280,
+    "wof:lastmodified":1582316298,
     "wof:name":"Carrascal",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

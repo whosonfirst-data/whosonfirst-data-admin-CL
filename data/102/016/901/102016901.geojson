@@ -53,6 +53,9 @@
         "qs_pg:id":1159354
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"68c5b7c1f045d99f41100a91b4a4bffc",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102016901,
-    "wof:lastmodified":1566644137,
+    "wof:lastmodified":1582316282,
     "wof:name":"Sotaqu\u00ed",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

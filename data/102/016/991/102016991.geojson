@@ -297,6 +297,9 @@
         "wk:page":"San Bernardo, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ebf551aabd31666a4ffc2444c81d6b4",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":102016991,
-    "wof:lastmodified":1566644137,
+    "wof:lastmodified":1582316282,
     "wof:name":"San Bernardo",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

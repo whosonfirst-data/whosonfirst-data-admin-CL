@@ -117,6 +117,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056057,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38f12daa1e9340f8e90232532d8bfa02",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":890518307,
-    "wof:lastmodified":1566644632,
+    "wof:lastmodified":1582316357,
     "wof:name":"Calbuco",
     "wof:parent_id":102063135,
     "wof:placetype":"localadmin",

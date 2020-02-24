@@ -55,6 +55,9 @@
         "qs_pg:id":1191584
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7bcaa1eb62b2f83463991e8139e00692",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644162,
+    "wof:lastmodified":1582316286,
     "wof:name":"Malvilla",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

@@ -63,6 +63,9 @@
         "wk:page":"Nirivilo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff38092039c4baec0e1d79e5f076f3ec",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102017323,
-    "wof:lastmodified":1566644184,
+    "wof:lastmodified":1582316290,
     "wof:name":"Nirivilo",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

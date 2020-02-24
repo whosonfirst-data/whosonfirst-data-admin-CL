@@ -214,6 +214,9 @@
         "wk:page":"Carahue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fafd4e10524de3999e88fae76bdaa609",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":102017879,
-    "wof:lastmodified":1566644201,
+    "wof:lastmodified":1582316293,
     "wof:name":"Carahue",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

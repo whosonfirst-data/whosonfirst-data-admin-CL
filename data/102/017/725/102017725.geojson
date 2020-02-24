@@ -110,6 +110,9 @@
         "wd:id":"Q3880"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4c3dea6653b499e9c326a76b91c40d80",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102017725,
-    "wof:lastmodified":1566644182,
+    "wof:lastmodified":1582316290,
     "wof:name":"Curacaut\u00edn",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

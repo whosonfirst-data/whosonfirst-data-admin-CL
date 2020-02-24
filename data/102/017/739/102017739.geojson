@@ -346,6 +346,9 @@
         "wk:page":"Coronel, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86216692199284fbccbf485f67921a41",
     "wof:hierarchy":[
         {
@@ -357,7 +360,7 @@
         }
     ],
     "wof:id":102017739,
-    "wof:lastmodified":1566644156,
+    "wof:lastmodified":1582316286,
     "wof:name":"Coronel",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

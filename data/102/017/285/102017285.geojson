@@ -51,6 +51,9 @@
         "qs_pg:id":180626
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c10d7ecb66e4913b5f648258e77f1e51",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017285,
-    "wof:lastmodified":1566644207,
+    "wof:lastmodified":1582316294,
     "wof:name":"Pailahueque",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

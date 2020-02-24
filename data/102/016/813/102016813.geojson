@@ -124,6 +124,9 @@
         "wk:page":"Alhu\u00e9"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"387dc79246c49b59b1cadfd3009c967a",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":102016813,
-    "wof:lastmodified":1566644149,
+    "wof:lastmodified":1582316284,
     "wof:name":"Villa Alhu\u00e9",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

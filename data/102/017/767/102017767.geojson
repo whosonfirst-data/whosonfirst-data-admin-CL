@@ -123,6 +123,9 @@
         "wk:page":"Coltauco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8246c16a8842147600df5dcad730057f",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":102017767,
-    "wof:lastmodified":1566644192,
+    "wof:lastmodified":1582316292,
     "wof:name":"Coltauco",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

@@ -193,6 +193,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -212,6 +213,10 @@
         "wk:page":"Los Lagos, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c79713d75657fe990455c1955ad72b3e",
     "wof:hierarchy":[
         {
@@ -223,7 +228,7 @@
         }
     ],
     "wof:id":102017435,
-    "wof:lastmodified":1566644217,
+    "wof:lastmodified":1582316296,
     "wof:name":"Los Lagos",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Peralillo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0636297989ca2641c0e3446a56e78781",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017237,
-    "wof:lastmodified":1566644216,
+    "wof:lastmodified":1582316295,
     "wof:name":"Peralillo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

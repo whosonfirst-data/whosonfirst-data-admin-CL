@@ -277,6 +277,9 @@
         "wd:id":"Q2177"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d3c98a13eb191827e9125610cd927df",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644321,
+    "wof:lastmodified":1582316327,
     "wof:name":"De Los Rios",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

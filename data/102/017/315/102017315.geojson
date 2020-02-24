@@ -214,6 +214,9 @@
         "wk:page":"Nueva Imperial"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4d37362e107be5275b635fbeed2eb75",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":102017315,
-    "wof:lastmodified":1566644185,
+    "wof:lastmodified":1582316291,
     "wof:name":"Nueva Imperial",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

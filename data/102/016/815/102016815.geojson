@@ -296,6 +296,9 @@
         "wk:page":"Villa Alemana"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0018db7f3cd125f59890c288bf2666c",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644148,
+    "wof:lastmodified":1582316284,
     "wof:name":"Villa Alemana",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

@@ -493,6 +493,9 @@
         "wk:page":"Antofagasta"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7d05f481ed8d49bd7272bb9902ea807",
     "wof:hierarchy":[
         {
@@ -507,7 +510,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644160,
+    "wof:lastmodified":1582316286,
     "wof:megacity":0,
     "wof:name":"Antofagasta",
     "wof:parent_id":102063073,

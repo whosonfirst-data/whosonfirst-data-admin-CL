@@ -51,6 +51,9 @@
         "qs_pg:id":1141869
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e796ce4e86c3f9a9688cf74b1d223b97",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017399,
-    "wof:lastmodified":1566644161,
+    "wof:lastmodified":1582316286,
     "wof:name":"Malloco",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

@@ -192,7 +192,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
@@ -211,6 +212,10 @@
         "wk:page":"Tierra Amarilla, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"b7dc05f88f45d105b322ec470d07ba15",
     "wof:hierarchy":[
         {
@@ -222,7 +227,7 @@
         }
     ],
     "wof:id":102016877,
-    "wof:lastmodified":1566644147,
+    "wof:lastmodified":1582316283,
     "wof:name":"Tierra Amarilla",
     "wof:parent_id":102063143,
     "wof:placetype":"locality",

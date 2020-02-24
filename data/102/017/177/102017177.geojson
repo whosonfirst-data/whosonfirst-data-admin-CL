@@ -58,6 +58,9 @@
         "qs_pg:id":1156200
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c042cb50221f9c9cf5e3b87d5a5a6d0f",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102017177,
-    "wof:lastmodified":1566644222,
+    "wof:lastmodified":1582316296,
     "wof:name":"Potrero Grande",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

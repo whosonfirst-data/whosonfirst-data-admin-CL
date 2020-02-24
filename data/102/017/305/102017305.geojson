@@ -54,6 +54,9 @@
         "qs_pg:id":1156170
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"211985db9e5141bb36e7bff7825aacd8",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102017305,
-    "wof:lastmodified":1566644199,
+    "wof:lastmodified":1582316293,
     "wof:name":"Oficina Victoria",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

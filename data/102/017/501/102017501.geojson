@@ -235,6 +235,9 @@
         "wk:page":"La Uni\u00f3n, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3366fa0403b3f7ec6b8a4afc6e66d801",
     "wof:hierarchy":[
         {
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":102017501,
-    "wof:lastmodified":1566644191,
+    "wof:lastmodified":1582316291,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056006,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03f2389f377d4059cef08d4458c69af3",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":890517399,
-    "wof:lastmodified":1566644601,
+    "wof:lastmodified":1582316356,
     "wof:name":"Do\u00f1ihue",
     "wof:parent_id":102063155,
     "wof:placetype":"localadmin",

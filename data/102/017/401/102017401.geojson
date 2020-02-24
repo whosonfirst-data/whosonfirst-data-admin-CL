@@ -120,6 +120,9 @@
         "wk:page":"Malloa"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1aa0d2a73f4b5516b1ec0187f565b48",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102017401,
-    "wof:lastmodified":1566644172,
+    "wof:lastmodified":1582316289,
     "wof:name":"Malloa",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
         "wk:page":"Ri\u00f1ihue, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11ba48d4e7bb56bac68c89cc7c171d03",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102017021,
-    "wof:lastmodified":1566644210,
+    "wof:lastmodified":1582316294,
     "wof:name":"Ri\u00f1ihue",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

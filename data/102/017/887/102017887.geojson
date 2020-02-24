@@ -59,6 +59,9 @@
         "wd:id":"Q5742568"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"18a1de6c5965f6c95ddaf60e1f7e6723",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102017887,
-    "wof:lastmodified":1566644167,
+    "wof:lastmodified":1582316287,
     "wof:name":"Campanario",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

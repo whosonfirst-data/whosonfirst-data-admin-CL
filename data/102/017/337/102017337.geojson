@@ -111,6 +111,9 @@
         "wd:id":"Q51046"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25f3dd1b1220980b9cd0a71b0ec47b0d",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644158,
+    "wof:lastmodified":1582316286,
     "wof:name":"Negrete",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

@@ -51,6 +51,9 @@
         "qs_pg:id":887594
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15bba8fb83f651285c023dab0afac91e",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017477,
-    "wof:lastmodified":1566644167,
+    "wof:lastmodified":1582316288,
     "wof:name":"Linderos",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

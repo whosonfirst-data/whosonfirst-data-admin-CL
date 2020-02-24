@@ -114,6 +114,9 @@
         "wk:page":"Puerto Octay"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd7f66fed72f8a2d2efd4e42f4060081",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017139,
-    "wof:lastmodified":1566644198,
+    "wof:lastmodified":1582316293,
     "wof:name":"Puerto Octay",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

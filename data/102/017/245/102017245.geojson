@@ -114,6 +114,9 @@
         "wk:page":"Pencahue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76d07eb9d027073e346b6c6f23b14ff9",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017245,
-    "wof:lastmodified":1566644166,
+    "wof:lastmodified":1582316287,
     "wof:name":"Pencahue",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

@@ -91,6 +91,9 @@
         "wd:id":"Q187885"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"450c64361787471521694f281cceb9c6",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":102016945,
-    "wof:lastmodified":1566644152,
+    "wof:lastmodified":1582316284,
     "wof:name":"San Pedro",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

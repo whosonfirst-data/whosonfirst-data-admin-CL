@@ -297,6 +297,9 @@
         "wk:page":"Vallenar"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f9482846c41952604c001896b6be2a1",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":102016835,
-    "wof:lastmodified":1566644141,
+    "wof:lastmodified":1582316282,
     "wof:name":"Vallenar",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

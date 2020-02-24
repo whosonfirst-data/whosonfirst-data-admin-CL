@@ -53,6 +53,9 @@
         "qs_pg:id":180657
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"472b625ccf28271f88a9f3f0e46489b7",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102016807,
-    "wof:lastmodified":1566644149,
+    "wof:lastmodified":1582316284,
     "wof:name":"Villa Prat",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

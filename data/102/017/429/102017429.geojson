@@ -114,6 +114,9 @@
         "wk:page":"Los Muermos"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a70f94ec92ff4fa8b8fbdf2fe14bcd8",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017429,
-    "wof:lastmodified":1566644206,
+    "wof:lastmodified":1582316294,
     "wof:name":"Los Muermos",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

@@ -221,6 +221,9 @@
         "wk:page":"La Ligua"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38739df8940b169f85f24f97f1f870ae",
     "wof:hierarchy":[
         {
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":102017541,
-    "wof:lastmodified":1561749835,
+    "wof:lastmodified":1582316297,
     "wof:name":"La Ligua",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

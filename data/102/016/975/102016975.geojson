@@ -530,6 +530,9 @@
         "qs_pg:id":897614
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"220393d636c861ad8c94a5e9ab9aae9d",
     "wof:hierarchy":[
         {
@@ -541,7 +544,7 @@
         }
     ],
     "wof:id":102016975,
-    "wof:lastmodified":1566644153,
+    "wof:lastmodified":1582316285,
     "wof:name":"San Francisco",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

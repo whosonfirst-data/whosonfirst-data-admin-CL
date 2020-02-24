@@ -65,6 +65,9 @@
         "wd:id":"Q4716204"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e60678270524f38be86ba04fca0dada",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102017987,
-    "wof:lastmodified":1566644222,
+    "wof:lastmodified":1582316296,
     "wof:name":"Alerce",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

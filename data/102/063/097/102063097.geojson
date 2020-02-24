@@ -156,6 +156,9 @@
         "wk:page":"Linares"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77b812692f82732cc3ae311a6d1d6f59",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":102063097,
-    "wof:lastmodified":1566644030,
+    "wof:lastmodified":1582316231,
     "wof:name":"Linares",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

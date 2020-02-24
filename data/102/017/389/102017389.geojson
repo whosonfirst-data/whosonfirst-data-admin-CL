@@ -108,6 +108,9 @@
         "wk:page":"Mar\u00eda Pinto"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8c15c19acafbf82f2e1a5ffd52031d1",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102017389,
-    "wof:lastmodified":1566644222,
+    "wof:lastmodified":1582316296,
     "wof:name":"Mar\u00eda Pinto",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

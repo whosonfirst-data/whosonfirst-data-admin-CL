@@ -51,6 +51,9 @@
         "qs_pg:id":1026671
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"18cf60ac7e1e5efb202cc3d2c3d0cafc",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102018251,
-    "wof:lastmodified":1566644121,
+    "wof:lastmodified":1582316281,
     "wof:name":"Maitencillo",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",
