@@ -1020,7 +1020,6 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso",
-        "naturalearth",
         "naturalearth"
     ],
     "src:geom_via":"meso",
@@ -1088,7 +1087,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582316303,
+    "wof:lastmodified":1583203163,
     "wof:name":"Chile",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
