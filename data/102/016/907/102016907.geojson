@@ -108,6 +108,9 @@
         "wk:page":"Sierra Gorda, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de4e85f20ca39e2cfef9df7cd20ba299",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644136,
+    "wof:lastmodified":1582316282,
     "wof:name":"Sierra Gorda",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

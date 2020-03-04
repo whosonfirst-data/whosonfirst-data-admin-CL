@@ -182,6 +182,9 @@
         "wk:page":"Penco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f8300ad1c3e741d4ab4db1d6053412c",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":102017243,
-    "wof:lastmodified":1566644169,
+    "wof:lastmodified":1582316288,
     "wof:name":"Penco",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

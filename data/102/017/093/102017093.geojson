@@ -51,6 +51,9 @@
         "qs_pg:id":211866
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52c290b4aa4532a0b32242d74b96c527",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017093,
-    "wof:lastmodified":1566644218,
+    "wof:lastmodified":1582316296,
     "wof:name":"Quepe",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

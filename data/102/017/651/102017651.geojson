@@ -184,6 +184,9 @@
         "wd:id":"Q3841"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50cb3c0cf0974b463073803f9931eede",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":102017651,
-    "wof:lastmodified":1566644174,
+    "wof:lastmodified":1582316289,
     "wof:name":"Estaci\u00f3n Colina",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

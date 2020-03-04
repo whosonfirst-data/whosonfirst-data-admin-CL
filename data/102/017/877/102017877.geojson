@@ -64,6 +64,9 @@
         "wk:page":"Carampangue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"598dc8d33f3c5ef2a7e23282a81071c6",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644202,
+    "wof:lastmodified":1582316293,
     "wof:name":"Carampangue",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

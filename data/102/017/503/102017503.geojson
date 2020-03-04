@@ -71,6 +71,9 @@
         "wd:id":"Q6465417"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0a185f3b23bb4f2d859c192022b44b2",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102017503,
-    "wof:lastmodified":1566644162,
+    "wof:lastmodified":1582316286,
     "wof:name":"La Tirana",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

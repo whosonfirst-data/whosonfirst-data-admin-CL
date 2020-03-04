@@ -114,6 +114,9 @@
         "wk:page":"Pirque"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0882e50be8182f88f693ec0163130ef0",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017203,
-    "wof:lastmodified":1566644175,
+    "wof:lastmodified":1582316289,
     "wof:name":"Pirque",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

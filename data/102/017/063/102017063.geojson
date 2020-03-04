@@ -184,6 +184,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -203,6 +204,10 @@
         "wk:page":"Quirihue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e29cbc585eb8cff0d0888bf92ae1e62",
     "wof:hierarchy":[
         {
@@ -214,7 +219,7 @@
         }
     ],
     "wof:id":102017063,
-    "wof:lastmodified":1566644178,
+    "wof:lastmodified":1582316289,
     "wof:name":"Quirihue",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

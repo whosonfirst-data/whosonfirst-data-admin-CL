@@ -63,6 +63,9 @@
         "wk:page":"Mami\u00f1a"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74b85204985eb25989300482f6f17bd1",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102017395,
-    "wof:lastmodified":1566644191,
+    "wof:lastmodified":1582316291,
     "wof:name":"Mami\u00f1a",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

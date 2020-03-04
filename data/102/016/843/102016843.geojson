@@ -60,6 +60,9 @@
         "qs_pg:id":1159350
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1943ba29617bf9f6a36e565b4a66682d",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644140,
+    "wof:lastmodified":1582316282,
     "wof:name":"Trup\u00e1n",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

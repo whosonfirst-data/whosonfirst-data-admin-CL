@@ -348,6 +348,9 @@
         "wd:id":"Q2114"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ad6094684e59a900811235f0e9a99321",
     "wof:hierarchy":[
         {
@@ -363,7 +366,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644356,
+    "wof:lastmodified":1582316350,
     "wof:name":"De Tarapaca",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

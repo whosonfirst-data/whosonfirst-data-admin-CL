@@ -165,6 +165,9 @@
         "wk:page":"El Loa"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f8b69ecb3e1903dfa767c63f1a5784f",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":102063131,
-    "wof:lastmodified":1566644051,
+    "wof:lastmodified":1582316242,
     "wof:name":"El Loa",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

@@ -60,6 +60,9 @@
         "qs_pg:id":1253565
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16d30f6dace865d455650926d077c1bd",
     "wof:hierarchy":[
         {
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102017269,
-    "wof:lastmodified":1566644179,
+    "wof:lastmodified":1582316289,
     "wof:name":"Paposo",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

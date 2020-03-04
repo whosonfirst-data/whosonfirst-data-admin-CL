@@ -350,6 +350,9 @@
         "wd:id":"Q2131"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"93ce39964d3f5b7760194894f88da937",
     "wof:hierarchy":[
         {
@@ -365,7 +368,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644358,
+    "wof:lastmodified":1582316351,
     "wof:name":"Metropolitana",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

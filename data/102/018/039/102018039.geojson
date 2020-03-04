@@ -265,7 +265,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -282,6 +283,10 @@
         "wd:id":"Q187807"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"896071e27d41f0b4c011b3c5c95380c4",
     "wof:hierarchy":[
         {
@@ -293,7 +298,7 @@
         }
     ],
     "wof:id":102018039,
-    "wof:lastmodified":1566644122,
+    "wof:lastmodified":1582316281,
     "wof:name":"San Fernando",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

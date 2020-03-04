@@ -127,6 +127,9 @@
         "wk:page":"Conc\u00f3n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5415d0989a3c1ca0ccb58d98bb07918e",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644198,
+    "wof:lastmodified":1582316293,
     "wof:name":"Conc\u00f3n",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

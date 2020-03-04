@@ -68,6 +68,9 @@
         "wk:page":"Batuco, Santiago"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d71e3e55ca55a7672c183f6ee757b266",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102017941,
-    "wof:lastmodified":1566644184,
+    "wof:lastmodified":1582316290,
     "wof:name":"Batuco",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

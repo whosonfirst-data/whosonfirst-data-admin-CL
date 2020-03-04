@@ -107,6 +107,9 @@
         "wd:id":"Q51038"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de79e5f892661472b999243f92885cc3",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102017413,
-    "wof:lastmodified":1566644166,
+    "wof:lastmodified":1582316287,
     "wof:name":"M\u00e1fil",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

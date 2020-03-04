@@ -72,6 +72,9 @@
         "wk:page":"Quillagua"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a8440697ce5cee888a2dbb8bcb4cd333",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102017083,
-    "wof:lastmodified":1566644166,
+    "wof:lastmodified":1582316287,
     "wof:name":"Quillagua",
     "wof:parent_id":102063093,
     "wof:placetype":"locality",

@@ -176,6 +176,9 @@
         "wk:page":"Cordillera"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cdbff1001c5043b67e6aaf0e40b9662a",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":102063137,
-    "wof:lastmodified":1566644059,
+    "wof:lastmodified":1582316246,
     "wof:name":"Cordillera",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

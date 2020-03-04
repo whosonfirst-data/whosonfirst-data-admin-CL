@@ -109,6 +109,9 @@
         "wk:page":"Quilaco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67b30d41ae3350404c761c704f721f88",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644200,
+    "wof:lastmodified":1582316293,
     "wof:name":"Quilaco",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

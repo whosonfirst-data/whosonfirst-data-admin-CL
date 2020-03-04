@@ -117,6 +117,9 @@
         "qs_pg:id":1001213
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"26f6fd12fe1539f12d7fbb460d0840e5",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":102018229,
-    "wof:lastmodified":1566644116,
+    "wof:lastmodified":1582316281,
     "wof:name":"Hijuelas",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

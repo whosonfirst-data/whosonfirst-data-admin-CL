@@ -113,6 +113,9 @@
         "wk:page":"Rauco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89ad002126d119aa14ef6b26d26cdbb6",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102017047,
-    "wof:lastmodified":1566644171,
+    "wof:lastmodified":1582316288,
     "wof:name":"Rauco",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

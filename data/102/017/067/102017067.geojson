@@ -55,6 +55,9 @@
         "qs_pg:id":150591
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6935721f320e70db89e963718060f05",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644218,
+    "wof:lastmodified":1582316296,
     "wof:name":"Quintay",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

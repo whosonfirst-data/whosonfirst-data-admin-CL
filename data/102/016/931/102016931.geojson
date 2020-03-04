@@ -116,6 +116,9 @@
         "wk:page":"San Rosendo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2114a46517957b5430fb530ae5dc0a0e",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102016931,
-    "wof:lastmodified":1566644136,
+    "wof:lastmodified":1582316282,
     "wof:name":"San Rosendo",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

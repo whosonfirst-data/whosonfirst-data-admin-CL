@@ -369,6 +369,9 @@
         "wk:page":"Concepci\u00f3n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e4a792ff9ad2790f6d8a47a7ae1a3dd",
     "wof:hierarchy":[
         {
@@ -379,7 +382,7 @@
         }
     ],
     "wof:id":102063171,
-    "wof:lastmodified":1566644108,
+    "wof:lastmodified":1582316277,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

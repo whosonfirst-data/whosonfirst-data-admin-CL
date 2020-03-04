@@ -202,6 +202,9 @@
         "wd:id":"Q187961"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"2fa8de1af6e1c6fd7ccc7f59ea58933e",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644115,
+    "wof:lastmodified":1582316281,
     "wof:name":"Santa Barbara",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

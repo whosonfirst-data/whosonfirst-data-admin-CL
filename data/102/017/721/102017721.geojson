@@ -110,6 +110,9 @@
         "wk:page":"Curaco de V\u00e9lez"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f611f0a56cfebc75a231b72e38729b44",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102017721,
-    "wof:lastmodified":1566644222,
+    "wof:lastmodified":1582316296,
     "wof:name":"Curaco",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

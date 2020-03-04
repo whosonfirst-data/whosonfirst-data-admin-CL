@@ -301,6 +301,9 @@
         "wk:page":"Puerto Natales"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c54cbdd1ca40475faec7bc4ccddbe7fa",
     "wof:hierarchy":[
         {
@@ -333,7 +336,7 @@
         }
     ],
     "wof:id":102017143,
-    "wof:lastmodified":1566644187,
+    "wof:lastmodified":1582316291,
     "wof:name":"Puerto Natales",
     "wof:parent_id":102063081,
     "wof:placetype":"locality",

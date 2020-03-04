@@ -51,6 +51,9 @@
         "qs_pg:id":236647
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b3f6ed4f14efeb2deaa142624855e9f8",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017695,
-    "wof:lastmodified":1566644180,
+    "wof:lastmodified":1582316290,
     "wof:name":"Duao",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

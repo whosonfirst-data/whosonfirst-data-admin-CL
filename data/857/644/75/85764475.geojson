@@ -76,6 +76,10 @@
         "qs_pg:id":1114219
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7626d319067d4d30c1aa7218500d211",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644282,
+    "wof:lastmodified":1582316298,
     "wof:name":"Poblaci\u00f3n Chorrillos",
     "wof:parent_id":102016801,
     "wof:placetype":"neighbourhood",

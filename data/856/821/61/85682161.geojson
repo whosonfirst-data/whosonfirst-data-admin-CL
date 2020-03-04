@@ -342,6 +342,9 @@
         "wd:id":"Q2121"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bdd355530fb7678d6cd9e36c751139d0",
     "wof:hierarchy":[
         {
@@ -357,7 +360,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644292,
+    "wof:lastmodified":1582316308,
     "wof:name":"De Coquimbo",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

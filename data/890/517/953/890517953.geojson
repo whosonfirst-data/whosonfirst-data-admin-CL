@@ -246,6 +246,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056037,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"990ab90fc4b41842f8b8a0faf2aa7600",
     "wof:hierarchy":[
         {
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":890517953,
-    "wof:lastmodified":1566644599,
+    "wof:lastmodified":1582316356,
     "wof:name":"Caldera",
     "wof:parent_id":102063143,
     "wof:placetype":"localadmin",

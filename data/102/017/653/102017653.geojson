@@ -109,6 +109,9 @@
         "wd:id":"Q14503"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"134cc0223e970db3b129a6c98d5955ca",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":102017653,
-    "wof:lastmodified":1566644215,
+    "wof:lastmodified":1582316295,
     "wof:name":"Espejo",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

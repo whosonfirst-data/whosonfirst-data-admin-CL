@@ -78,6 +78,9 @@
         "qs_pg:id":1075246
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d8807db132c1f04792439ae3736dd89",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644282,
+    "wof:lastmodified":1582316298,
     "wof:name":"La Legua de Macul",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

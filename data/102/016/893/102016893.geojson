@@ -393,6 +393,9 @@
         "wk:page":"Talca"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0294e5128ad31635440450482fa9572",
     "wof:hierarchy":[
         {
@@ -407,7 +410,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644142,
+    "wof:lastmodified":1582316282,
     "wof:name":"Talca",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

@@ -125,6 +125,9 @@
         "qs_pg:id":1151476
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e37feadc848d32179dbdd970097694f8",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":85765877,
-    "wof:lastmodified":1566644285,
+    "wof:lastmodified":1582316299,
     "wof:name":"Pudahuel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

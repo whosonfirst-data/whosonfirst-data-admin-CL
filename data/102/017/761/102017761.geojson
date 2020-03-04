@@ -75,6 +75,9 @@
         "wk:page":"Co\u00f1aripe"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c77f4190f4c37b94faf954f5aa25b134",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102017761,
-    "wof:lastmodified":1566644199,
+    "wof:lastmodified":1582316293,
     "wof:name":"Co\u00f1aripe",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

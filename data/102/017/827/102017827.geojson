@@ -430,6 +430,9 @@
         "wk:page":"Chill\u00e1n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8bae3707bf5f8a0641ab814b1bb5a9c",
     "wof:hierarchy":[
         {
@@ -441,7 +444,7 @@
         }
     ],
     "wof:id":102017827,
-    "wof:lastmodified":1566644163,
+    "wof:lastmodified":1582316287,
     "wof:name":"Chill\u00e1n",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Pitrufqu\u00e9n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e05f4db96381312e6d4892c876f3225",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102017197,
-    "wof:lastmodified":1566644196,
+    "wof:lastmodified":1582316292,
     "wof:name":"Pitrufqu\u00e9n",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

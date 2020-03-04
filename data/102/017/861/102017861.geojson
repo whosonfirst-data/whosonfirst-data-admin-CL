@@ -289,6 +289,9 @@
         "wk:page":"Cauquenes"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e51ffedf3ac567d4c5c22696cbde35e",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644173,
+    "wof:lastmodified":1582316289,
     "wof:name":"Cauquenes",
     "wof:parent_id":102063129,
     "wof:placetype":"locality",

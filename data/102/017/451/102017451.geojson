@@ -51,6 +51,9 @@
         "qs_pg:id":180617
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"452bcc2a9fde5eae9ad09591f862c010",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017451,
-    "wof:lastmodified":1566644212,
+    "wof:lastmodified":1582316295,
     "wof:name":"Longovilo",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

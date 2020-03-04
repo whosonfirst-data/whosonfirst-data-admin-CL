@@ -120,6 +120,9 @@
         "wk:page":"Casablanca, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ecf61cb68b6415220f0b197dbe30bd8",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644177,
+    "wof:lastmodified":1582316289,
     "wof:name":"Casablanca",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

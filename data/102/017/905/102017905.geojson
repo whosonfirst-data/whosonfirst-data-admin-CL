@@ -152,6 +152,9 @@
         "wd:id":"Q748455"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee81fe82ee0651bca81cbb509ef8b171",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":102017905,
-    "wof:lastmodified":1566644198,
+    "wof:lastmodified":1582316293,
     "wof:name":"Caj\u00f3n",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

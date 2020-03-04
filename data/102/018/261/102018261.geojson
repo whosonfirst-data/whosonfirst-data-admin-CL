@@ -190,6 +190,9 @@
         "wd:id":"Q992143"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"b2862be2099ab660337799a95e1564d4",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":102018261,
-    "wof:lastmodified":1566644119,
+    "wof:lastmodified":1582316281,
     "wof:name":"Villa O'Higgins",
     "wof:parent_id":102063085,
     "wof:placetype":"locality",

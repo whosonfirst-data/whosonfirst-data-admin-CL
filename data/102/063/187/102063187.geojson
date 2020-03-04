@@ -161,6 +161,10 @@
         "wd:id":"Q201126"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "meso-reversegeo",
+        "meso"
+    ],
     "wof:geomhash":"1d892746c5b8ede8ebcdc44da5eb17a5",
     "wof:hierarchy":[
         {
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":102063187,
-    "wof:lastmodified":1566644031,
+    "wof:lastmodified":1583203151,
     "wof:name":"Ays\u00e9n",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

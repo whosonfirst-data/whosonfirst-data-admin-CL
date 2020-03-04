@@ -153,6 +153,9 @@
         "wd:id":"Q684369"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"4173aa522aae6e932a9535e403815b55",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":102063075,
-    "wof:lastmodified":1566644089,
+    "wof:lastmodified":1582316266,
     "wof:name":"Magallanes",
     "wof:parent_id":85682211,
     "wof:placetype":"county",

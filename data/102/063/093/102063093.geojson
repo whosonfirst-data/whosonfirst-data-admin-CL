@@ -146,6 +146,9 @@
         "wd:id":"Q251448"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f2b8fe63813287a173570038f4ac931",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":102063093,
-    "wof:lastmodified":1566644094,
+    "wof:lastmodified":1582316269,
     "wof:name":"Tocopilla",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

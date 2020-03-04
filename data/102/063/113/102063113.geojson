@@ -160,6 +160,9 @@
         "wk:page":"Limar\u00ed"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3890159f1cecd73eac0b2e936e625801",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":102063113,
-    "wof:lastmodified":1566644105,
+    "wof:lastmodified":1582316275,
     "wof:name":"Limar\u00ed",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

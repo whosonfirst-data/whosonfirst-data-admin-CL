@@ -248,6 +248,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056039,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3c4cf54c87373038eb164a808513581",
     "wof:hierarchy":[
         {
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":890517997,
-    "wof:lastmodified":1566644602,
+    "wof:lastmodified":1582316356,
     "wof:name":"Victoria",
     "wof:parent_id":102063101,
     "wof:placetype":"localadmin",

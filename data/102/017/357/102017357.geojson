@@ -122,6 +122,9 @@
         "wk:page":"Molina, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8346b8891ab69b358dbfd9224b581d9c",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":102017357,
-    "wof:lastmodified":1566644192,
+    "wof:lastmodified":1582316291,
     "wof:name":"Molina",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

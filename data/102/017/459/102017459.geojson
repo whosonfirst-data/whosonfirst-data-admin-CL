@@ -63,6 +63,9 @@
         "wk:page":"Lo Miranda"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"27d1e4d1d7006d21e9a9b86a4c097857",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102017459,
-    "wof:lastmodified":1566644216,
+    "wof:lastmodified":1582316295,
     "wof:name":"Lo Miranda",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

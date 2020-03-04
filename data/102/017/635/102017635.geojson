@@ -120,6 +120,9 @@
         "wk:page":"Futrono"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"040f088014a1fe10594df576afbabad3",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102017635,
-    "wof:lastmodified":1566644178,
+    "wof:lastmodified":1582316289,
     "wof:name":"Futrono",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

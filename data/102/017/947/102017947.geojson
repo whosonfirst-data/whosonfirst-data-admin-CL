@@ -62,6 +62,9 @@
         "qs_pg:id":1320526
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"148b8a32d4f8c512acf834238d31a1ac",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644187,
+    "wof:lastmodified":1582316291,
     "wof:name":"Baquedano",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

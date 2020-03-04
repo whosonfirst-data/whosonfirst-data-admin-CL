@@ -114,6 +114,9 @@
         "wd:id":"Q13065"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dcc9f5a54cbbad63109ff9ece430d4aa",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102017631,
-    "wof:lastmodified":1566644218,
+    "wof:lastmodified":1582316296,
     "wof:name":"General Lagos",
     "wof:parent_id":102063181,
     "wof:placetype":"locality",

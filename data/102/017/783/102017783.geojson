@@ -116,6 +116,9 @@
         "wk:page":"Colb\u00fan"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af9c9041d53cae9b5eca9629c0e18d36",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102017783,
-    "wof:lastmodified":1566644188,
+    "wof:lastmodified":1582316291,
     "wof:name":"Colb\u00fan",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

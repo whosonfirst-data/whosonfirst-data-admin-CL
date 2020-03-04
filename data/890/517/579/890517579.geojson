@@ -145,6 +145,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056015,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d6cd693314730e23b5a69859965bb67",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":890517579,
-    "wof:lastmodified":1566644629,
+    "wof:lastmodified":1582316357,
     "wof:name":"San Miguel",
     "wof:parent_id":102063117,
     "wof:placetype":"localadmin",

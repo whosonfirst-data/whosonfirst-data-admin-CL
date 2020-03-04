@@ -126,6 +126,9 @@
         "wk:page":"Quintero"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"75a6d869fe23b62e8f0f69a9457a4f6d",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644172,
+    "wof:lastmodified":1582316288,
     "wof:name":"Quintero",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

@@ -393,6 +393,9 @@
         "wk:page":"Salamanca, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f28d3b42555016c507944730fc2d6464",
     "wof:hierarchy":[
         {
@@ -404,7 +407,7 @@
         }
     ],
     "wof:id":102016997,
-    "wof:lastmodified":1566644138,
+    "wof:lastmodified":1582316282,
     "wof:name":"Salamanca",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

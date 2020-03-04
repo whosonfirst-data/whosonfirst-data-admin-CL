@@ -109,6 +109,9 @@
         "wk:page":"Panquehue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"409cf63fc7ab2be2292d76300f199df6",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":102017271,
-    "wof:lastmodified":1566644207,
+    "wof:lastmodified":1582316294,
     "wof:name":"Panquehue",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

@@ -160,6 +160,9 @@
         "wk:page":"Maipo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2bd22586f67e70df6ba118e4e17baa4",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":102063119,
-    "wof:lastmodified":1566644046,
+    "wof:lastmodified":1582316240,
     "wof:name":"Maipo",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

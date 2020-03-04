@@ -126,6 +126,9 @@
         "wk:page":"Codegua"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"caa28b3f94f1651606cbfc2cb5a1506b",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":102017793,
-    "wof:lastmodified":1566644193,
+    "wof:lastmodified":1582316292,
     "wof:name":"Codegua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

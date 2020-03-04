@@ -214,6 +214,9 @@
         "wk:page":"R\u00edo Bueno, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73a48b2e8d49a714713bb0fdaebc40fa",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":102017015,
-    "wof:lastmodified":1566644164,
+    "wof:lastmodified":1582316287,
     "wof:name":"R\u00edo Bueno",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

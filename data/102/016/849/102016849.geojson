@@ -53,6 +53,9 @@
         "qs_pg:id":180706
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"59e701a68385165c4e308c8c4968004f",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102016849,
-    "wof:lastmodified":1566644148,
+    "wof:lastmodified":1582316284,
     "wof:name":"Tres Pinos",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

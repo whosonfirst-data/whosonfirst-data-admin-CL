@@ -72,6 +72,9 @@
         "wk:page":"Pisco Elqui"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61c8922e0a9ec9cfde3e622a12c71009",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102017199,
-    "wof:lastmodified":1566644197,
+    "wof:lastmodified":1582316292,
     "wof:name":"Pisco Elqui",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

@@ -70,6 +70,9 @@
         "qs_pg:id":150632
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fdb6d636b62d25d3ca07ca2f8a20e600",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":102017667,
-    "wof:lastmodified":1566644176,
+    "wof:lastmodified":1582316289,
     "wof:name":"El Tambo",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

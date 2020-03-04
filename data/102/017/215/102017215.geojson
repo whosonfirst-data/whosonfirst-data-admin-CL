@@ -434,6 +434,9 @@
         "wk:page":"Pichilemu"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"33cbe16c738fc892c3840338c33d6f09",
     "wof:hierarchy":[
         {
@@ -445,7 +448,7 @@
         }
     ],
     "wof:id":102017215,
-    "wof:lastmodified":1566644203,
+    "wof:lastmodified":1582316293,
     "wof:name":"Pichilemu",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

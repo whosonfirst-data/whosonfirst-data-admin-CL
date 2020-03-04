@@ -67,6 +67,9 @@
         "wd:id":"Q5850306"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5859a05d97794efd2508e17ff3f0bb36",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102018003,
-    "wof:lastmodified":1566644131,
+    "wof:lastmodified":1582316281,
     "wof:name":"La Junta",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",

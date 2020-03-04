@@ -101,6 +101,9 @@
         "wk:page":"San Esteban, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"748467940025e2c8e011bccb99ac652d",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":102016983,
-    "wof:lastmodified":1566644143,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Esteban",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

@@ -122,6 +122,9 @@
         "wd:id":"Q13036"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5dbd6648ebdee006da1b1b2b0eb0eb89",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644176,
+    "wof:lastmodified":1582316289,
     "wof:name":"El Bosque",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

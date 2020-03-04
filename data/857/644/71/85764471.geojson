@@ -103,6 +103,10 @@
         "qs_pg:id":466724
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"808af5e9e713660064fc75c3093e1e17",
     "wof:hierarchy":[
         {
@@ -118,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644283,
+    "wof:lastmodified":1582316299,
     "wof:name":"Playa Blanca",
     "wof:parent_id":102017963,
     "wof:placetype":"neighbourhood",

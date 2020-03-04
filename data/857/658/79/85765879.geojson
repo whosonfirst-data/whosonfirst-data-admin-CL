@@ -140,6 +140,9 @@
         "wd:id":"Q13045"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d23a10e54ec0242b30a431bb860c845",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644284,
+    "wof:lastmodified":1582316299,
     "wof:name":"Estacion Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

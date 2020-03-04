@@ -120,6 +120,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056055,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a2c1177b49d2da4cbea794867166534",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":890518243,
-    "wof:lastmodified":1566644637,
+    "wof:lastmodified":1582316358,
     "wof:name":"Panguipulli",
     "wof:parent_id":102063183,
     "wof:placetype":"localadmin",

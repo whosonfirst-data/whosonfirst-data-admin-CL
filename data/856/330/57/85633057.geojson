@@ -1070,6 +1070,12 @@
     },
     "wof:country":"CL",
     "wof:country_alpha3":"CHL",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso-reversegeo"
+    ],
     "wof:geomhash":"43e8f6f4b399e40acd2085faa9f9bb82",
     "wof:hierarchy":[
         {
@@ -1081,7 +1087,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644285,
+    "wof:lastmodified":1583203163,
     "wof:name":"Chile",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

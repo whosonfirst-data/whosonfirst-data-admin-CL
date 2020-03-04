@@ -120,6 +120,9 @@
         "wk:page":"Peumo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"71476de2c7adbbad11debc7cf0f20ce2",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102017229,
-    "wof:lastmodified":1566644163,
+    "wof:lastmodified":1582316287,
     "wof:name":"Peumo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

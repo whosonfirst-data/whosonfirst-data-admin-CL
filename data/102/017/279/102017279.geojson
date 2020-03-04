@@ -110,6 +110,9 @@
         "wd:id":"Q51073"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f7f820c2736865167960aa190fa762df",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644202,
+    "wof:lastmodified":1582316293,
     "wof:name":"Palena",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

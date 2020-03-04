@@ -884,6 +884,9 @@
         "wk:page":"Santiago"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4050575f049c8f8b235bd98b592fcb4",
     "wof:hierarchy":[
         {
@@ -898,7 +901,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644143,
+    "wof:lastmodified":1582316283,
     "wof:name":"Santiago",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

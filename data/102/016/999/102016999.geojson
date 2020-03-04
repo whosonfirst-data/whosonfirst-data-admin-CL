@@ -116,6 +116,9 @@
         "wk:page":"Sagrada Familia, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0cee9ff599330b6569b56e25c9cbd30a",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102016999,
-    "wof:lastmodified":1566644138,
+    "wof:lastmodified":1582316282,
     "wof:name":"Sagrada Familia",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

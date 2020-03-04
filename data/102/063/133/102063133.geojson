@@ -142,6 +142,9 @@
         "wd:id":"Q201256"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d4f8ce90476a1f5a39d853522e8cfc8a",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":102063133,
-    "wof:lastmodified":1566643999,
+    "wof:lastmodified":1582316209,
     "wof:name":"Cha\u00f1aral",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

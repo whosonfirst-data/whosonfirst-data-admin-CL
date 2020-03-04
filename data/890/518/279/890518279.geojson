@@ -89,6 +89,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056056,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79098cbdc50ef12a675692e054f93f18",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890518279,
-    "wof:lastmodified":1566644649,
+    "wof:lastmodified":1582316358,
     "wof:name":"Gorbea",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

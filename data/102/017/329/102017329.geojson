@@ -51,6 +51,9 @@
         "qs_pg:id":180622
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1b94c5a04938c8d92d172a2367e566c",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017329,
-    "wof:lastmodified":1566644221,
+    "wof:lastmodified":1582316296,
     "wof:name":"Nilahue Cornejo",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

@@ -543,6 +543,9 @@
         "wd:id":"Q6022566"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f363c5df88fb34e3714b7b56259ef241",
     "wof:hierarchy":[
         {
@@ -557,7 +560,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644162,
+    "wof:lastmodified":1582316286,
     "wof:name":"Monte \u00c1guila",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

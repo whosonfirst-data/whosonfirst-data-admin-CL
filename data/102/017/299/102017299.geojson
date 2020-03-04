@@ -105,6 +105,9 @@
         "wk:page":"Olmu\u00e9"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e90a8d70b8a977c9da66dcb680a16727",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":102017299,
-    "wof:lastmodified":1566644219,
+    "wof:lastmodified":1582316296,
     "wof:name":"Olmu\u00e9",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

@@ -126,6 +126,9 @@
         "wk:page":"Mulch\u00e9n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"809b0f5f49550680667d0054bbec5db2",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644195,
+    "wof:lastmodified":1582316292,
     "wof:name":"Mulch\u00e9n",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

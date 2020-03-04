@@ -123,6 +123,9 @@
         "wk:page":"Cobquecura"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9530a321bd51620c9a21119814e02b15",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":102017805,
-    "wof:lastmodified":1566644181,
+    "wof:lastmodified":1582316290,
     "wof:name":"Cobquecura",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

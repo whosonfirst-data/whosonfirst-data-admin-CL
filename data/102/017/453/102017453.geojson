@@ -114,6 +114,9 @@
         "wk:page":"Longav\u00ed"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"544eaec9ccd18e057e4672f402b68352",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017453,
-    "wof:lastmodified":1566644180,
+    "wof:lastmodified":1582316290,
     "wof:name":"Longav\u00ed",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

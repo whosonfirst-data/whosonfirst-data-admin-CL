@@ -161,6 +161,9 @@
         "wk:page":"Iquique"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3641dc5c24451565d934156e3843049a",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":102063145,
-    "wof:lastmodified":1566644037,
+    "wof:lastmodified":1582316235,
     "wof:name":"Iquique",
     "wof:parent_id":85682245,
     "wof:placetype":"county",

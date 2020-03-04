@@ -114,6 +114,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056065,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff29ee5d5788dd1043e17442c37f7aca",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890518441,
-    "wof:lastmodified":1566644637,
+    "wof:lastmodified":1582316357,
     "wof:name":"Mejillones",
     "wof:parent_id":102063073,
     "wof:placetype":"localadmin",

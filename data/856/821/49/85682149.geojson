@@ -354,6 +354,9 @@
         "wd:id":"Q2166"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8bba7b2cee4735b8ebe11568b79ddb9a",
     "wof:hierarchy":[
         {
@@ -369,7 +372,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644323,
+    "wof:lastmodified":1582316328,
     "wof:name":"Del Maule",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

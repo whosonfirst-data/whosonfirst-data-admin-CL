@@ -110,6 +110,9 @@
         "wk:page":"Teodoro Schmidt, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43c2b5f32c1822249ec69630e5d53c95",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102016879,
-    "wof:lastmodified":1566644147,
+    "wof:lastmodified":1582316283,
     "wof:name":"Teodoro Schmidt",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

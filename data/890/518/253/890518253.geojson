@@ -255,6 +255,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056055,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aeb8a1e3ab9f05782592ae5a7789858b",
     "wof:hierarchy":[
         {
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":890518253,
-    "wof:lastmodified":1566644652,
+    "wof:lastmodified":1582316358,
     "wof:name":"Lolol",
     "wof:parent_id":102063157,
     "wof:placetype":"localadmin",

@@ -160,6 +160,9 @@
         "wd:id":"Q201338"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"00a4ceead8b5c7da43312402e1492bf8",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":102063147,
-    "wof:lastmodified":1566644106,
+    "wof:lastmodified":1582316276,
     "wof:name":"Curic\u00f3",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

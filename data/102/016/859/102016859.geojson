@@ -68,6 +68,9 @@
         "wk:page":"Tongoy"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42d0a623b6e70dd79de4462ff0363ec9",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102016859,
-    "wof:lastmodified":1566644140,
+    "wof:lastmodified":1582316282,
     "wof:name":"Tongoy",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

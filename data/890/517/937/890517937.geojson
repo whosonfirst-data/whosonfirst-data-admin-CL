@@ -189,6 +189,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056036,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"042306b38cfd2340d186d8701582681d",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":890517937,
-    "wof:lastmodified":1561749886,
+    "wof:lastmodified":1582316356,
     "wof:name":"Rio Verde",
     "wof:parent_id":102063075,
     "wof:placetype":"locality",

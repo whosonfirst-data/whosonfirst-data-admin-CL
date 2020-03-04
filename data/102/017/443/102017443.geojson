@@ -303,6 +303,9 @@
         "wk:page":"Los Andes, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"00ec148d5d5eae41ed831f4e61ebafd4",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644204,
+    "wof:lastmodified":1582316293,
     "wof:name":"Los Andes",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

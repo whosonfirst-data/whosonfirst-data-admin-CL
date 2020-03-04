@@ -217,6 +217,9 @@
         "wk:page":"Diego de Almagro, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25367b001ea715ba954641ae1cc8d08d",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":102017699,
-    "wof:lastmodified":1566644211,
+    "wof:lastmodified":1582316295,
     "wof:name":"Diego de Almagro",
     "wof:parent_id":102063133,
     "wof:placetype":"locality",

@@ -85,6 +85,9 @@
         "wk:page":"Puerto Chacabuco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7042798f8a1b07617914874f2403710",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644162,
+    "wof:lastmodified":1582316287,
     "wof:name":"Puerto Chacabuco",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",

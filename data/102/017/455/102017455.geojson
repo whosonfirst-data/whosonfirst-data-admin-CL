@@ -213,6 +213,9 @@
         "wd:id":"Q16900"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"627459a4d5ee98ea3f7ed183ec8653bd",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":102017455,
-    "wof:lastmodified":1566644176,
+    "wof:lastmodified":1582316289,
     "wof:name":"Loncoche",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

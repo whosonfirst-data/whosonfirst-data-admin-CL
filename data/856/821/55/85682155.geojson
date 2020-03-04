@@ -403,6 +403,9 @@
         "wd:id":"Q2170"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ead13381ee2d670feb92de5eb0476e6",
     "wof:hierarchy":[
         {
@@ -418,7 +421,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644316,
+    "wof:lastmodified":1582316323,
     "wof:name":"Del Bio-Bio",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

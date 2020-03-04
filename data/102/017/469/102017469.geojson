@@ -116,6 +116,9 @@
         "wk:page":"Llay-Llay"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a10b0edee67f6f218ad9858ae33757b8",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102017469,
-    "wof:lastmodified":1566644212,
+    "wof:lastmodified":1582316295,
     "wof:name":"Llaillay",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

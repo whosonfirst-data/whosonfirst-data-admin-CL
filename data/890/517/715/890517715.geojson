@@ -50,6 +50,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056021,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1f9c1e87118a40b8f884bd0fb06d8b9",
     "wof:hierarchy":[
         {
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890517715,
-    "wof:lastmodified":1566644613,
+    "wof:lastmodified":1582316357,
     "wof:name":"Villa Alegre",
     "wof:parent_id":102063097,
     "wof:placetype":"localadmin",

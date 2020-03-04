@@ -143,6 +143,9 @@
         "wk:page":"Ranco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec1e9e675cf61c2dd766129e7b4b022d",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":102063189,
-    "wof:lastmodified":1566644038,
+    "wof:lastmodified":1582316236,
     "wof:name":"Ranco",
     "wof:parent_id":85682171,
     "wof:placetype":"county",

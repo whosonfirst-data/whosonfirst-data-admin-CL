@@ -108,6 +108,9 @@
         "wk:page":"Requ\u00ednoa"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3e68bf3c5cc5bd6d2535de6c39867b6",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102017031,
-    "wof:lastmodified":1566644175,
+    "wof:lastmodified":1582316289,
     "wof:name":"Requ\u00ednoa",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

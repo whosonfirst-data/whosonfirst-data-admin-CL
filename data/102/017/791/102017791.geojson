@@ -120,6 +120,9 @@
         "wk:page":"Coelemu"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"518e0d633a1fcc82188cb620ec2e50ba",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102017791,
-    "wof:lastmodified":1566644159,
+    "wof:lastmodified":1582316286,
     "wof:name":"Coelemu",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

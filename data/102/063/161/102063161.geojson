@@ -725,6 +725,9 @@
         "hasc:id":"CL.VS.IP"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b89acd5afc69daea47e88ef567619f19",
     "wof:hierarchy":[
         {
@@ -735,7 +738,7 @@
         }
     ],
     "wof:id":102063161,
-    "wof:lastmodified":1566643996,
+    "wof:lastmodified":1582316208,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

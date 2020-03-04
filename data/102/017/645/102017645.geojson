@@ -129,6 +129,9 @@
         "wk:page":"Freirina"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62cda545f5ba6e353d824dc45cfaa52b",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":102017645,
-    "wof:lastmodified":1566644167,
+    "wof:lastmodified":1582316288,
     "wof:name":"Freirina",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

@@ -111,6 +111,9 @@
         "wk:page":"San Jos\u00e9 de Maipo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e41aa18f5e9d4d381a0e9e7ddf0dd860",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644145,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Jos\u00e9 de Maipo",
     "wof:parent_id":102063137,
     "wof:placetype":"locality",

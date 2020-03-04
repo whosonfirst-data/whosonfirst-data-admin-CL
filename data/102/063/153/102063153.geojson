@@ -167,6 +167,9 @@
         "wd:id":"Q201109"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b51d37f3fd15fe1c169fd70b18bc698d",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":102063153,
-    "wof:lastmodified":1566644048,
+    "wof:lastmodified":1582316241,
     "wof:name":"Arauco",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

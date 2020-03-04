@@ -462,6 +462,9 @@
         "wk:page":"Punta Arenas"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6eb51d8647f54fd654cec32a9ecde532",
     "wof:hierarchy":[
         {
@@ -476,7 +479,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644221,
+    "wof:lastmodified":1582316296,
     "wof:megacity":0,
     "wof:name":"Punta Arenas",
     "wof:parent_id":102063075,

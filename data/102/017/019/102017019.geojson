@@ -51,6 +51,9 @@
         "qs_pg:id":271252
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"293e48b21e41deec580c1d37a17de6fb",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017019,
-    "wof:lastmodified":1566644209,
+    "wof:lastmodified":1582316294,
     "wof:name":"Ri\u00f1inahue",
     "wof:parent_id":102063189,
     "wof:placetype":"locality",

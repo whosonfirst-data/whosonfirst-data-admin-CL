@@ -321,6 +321,9 @@
         "wd:id":"Q13030"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b84b3a08cadc4295ee1097920b462d1e",
     "wof:hierarchy":[
         {
@@ -335,7 +338,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644228,
+    "wof:lastmodified":1582316297,
     "wof:name":"Curic\u00f3",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

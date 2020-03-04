@@ -104,6 +104,9 @@
         "wk:page":"San Pablo, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d0cbae2584256975fa790b4b7af7c37",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102016949,
-    "wof:lastmodified":1566644145,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Pablo",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

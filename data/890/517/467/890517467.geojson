@@ -104,6 +104,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056010,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3413b73a78b7a6237ee13ca710eaf592",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":890517467,
-    "wof:lastmodified":1566644623,
+    "wof:lastmodified":1582316357,
     "wof:name":"Cisnes",
     "wof:parent_id":102063187,
     "wof:placetype":"localadmin",

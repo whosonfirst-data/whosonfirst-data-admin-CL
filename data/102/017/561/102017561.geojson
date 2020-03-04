@@ -73,6 +73,9 @@
         "wd:id":"Q3054947"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6d310137d0f4ef64754c5420c894610",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102017561,
-    "wof:lastmodified":1566644159,
+    "wof:lastmodified":1582316286,
     "wof:name":"La Ensenada",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

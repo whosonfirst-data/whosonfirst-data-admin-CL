@@ -202,6 +202,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -221,6 +222,10 @@
         "wk:page":"Pozo Almonte"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a354e13e91f2b875e9848a4678ad16b",
     "wof:hierarchy":[
         {
@@ -232,7 +237,7 @@
         }
     ],
     "wof:id":102017175,
-    "wof:lastmodified":1566644188,
+    "wof:lastmodified":1582316291,
     "wof:name":"Pozo Almonte",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wd:id":"Q49076"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba9e51c6bfdc9b1d7123989e5266ae36",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":102017371,
-    "wof:lastmodified":1566644187,
+    "wof:lastmodified":1582316291,
     "wof:name":"Melipeuco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

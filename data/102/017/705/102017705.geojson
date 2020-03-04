@@ -133,6 +133,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -150,6 +151,10 @@
         "wd:id":"Q5795129"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f4221102d82d1477ce9fddf4e14400f",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":102017705,
-    "wof:lastmodified":1566644191,
+    "wof:lastmodified":1582316291,
     "wof:name":"Cuya",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

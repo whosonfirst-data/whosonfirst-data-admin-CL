@@ -76,6 +76,9 @@
         "wk:page":"Niebla, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cf57f9368523c4694d81a14aea94654",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102017333,
-    "wof:lastmodified":1566644199,
+    "wof:lastmodified":1582316293,
     "wof:name":"Niebla",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

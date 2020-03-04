@@ -86,6 +86,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056041,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"12310ac49bfdca74c15ff388f17b2b0e",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890518047,
-    "wof:lastmodified":1566644638,
+    "wof:lastmodified":1582316358,
     "wof:name":"Puyehue",
     "wof:parent_id":102063189,
     "wof:placetype":"localadmin",

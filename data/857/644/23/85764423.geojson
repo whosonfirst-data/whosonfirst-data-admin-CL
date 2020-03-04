@@ -77,6 +77,9 @@
         "qs_pg:id":1262738
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5841332242d074d99bfdeb858032af69",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644283,
+    "wof:lastmodified":1582316299,
     "wof:name":"La Loma de Macul",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

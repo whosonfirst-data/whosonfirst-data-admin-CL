@@ -111,6 +111,9 @@
         "wk:page":"El Quisco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c42222ef7929b6839a1b114b9642548e",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":102017675,
-    "wof:lastmodified":1566644163,
+    "wof:lastmodified":1582316287,
     "wof:name":"El Quisco",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

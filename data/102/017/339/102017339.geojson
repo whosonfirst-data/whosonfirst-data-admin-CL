@@ -116,6 +116,9 @@
         "wd:id":"Q51045"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5990b0bb6e9088e30f0b9b94d6a4bc32",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":102017339,
-    "wof:lastmodified":1566644160,
+    "wof:lastmodified":1582316286,
     "wof:name":"Navidad",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

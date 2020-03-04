@@ -214,6 +214,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -232,6 +233,10 @@
         "wd:id":"Q746606"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76419fca4d2c13e424b4f8dcf7214b8a",
     "wof:hierarchy":[
         {
@@ -243,7 +248,7 @@
         }
     ],
     "wof:id":102017807,
-    "wof:lastmodified":1566644211,
+    "wof:lastmodified":1582316294,
     "wof:name":"Chuquicamata",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

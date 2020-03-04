@@ -163,6 +163,9 @@
         "wk:page":"Copiap\u00f3"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17e457b1d6b40b3801cfd2eb93ef9f4c",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":102063143,
-    "wof:lastmodified":1566644042,
+    "wof:lastmodified":1582316238,
     "wof:name":"Copiap\u00f3",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

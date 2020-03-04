@@ -114,6 +114,9 @@
         "wk:page":"Pelarco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1562335042390b79bc9c0c38e6b1544",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017257,
-    "wof:lastmodified":1566644172,
+    "wof:lastmodified":1582316288,
     "wof:name":"Pelarco",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

@@ -255,6 +255,9 @@
         "wk:page":"Vicu\u00f1a, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0de90cf4de779de4469d7404cf6bf673",
     "wof:hierarchy":[
         {
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":102016823,
-    "wof:lastmodified":1566644148,
+    "wof:lastmodified":1582316284,
     "wof:name":"Vicu\u00f1a",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

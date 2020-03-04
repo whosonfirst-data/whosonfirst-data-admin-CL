@@ -120,6 +120,9 @@
         "wk:page":"La Calera, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1fe9c2ce3a89b17b2a562ee16fe6743",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102017569,
-    "wof:lastmodified":1566644154,
+    "wof:lastmodified":1582316285,
     "wof:name":"La Calera",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

@@ -430,6 +430,9 @@
         "wk:page":"Valdivia"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"265baad63ad8c2d6652e0d4ab1cf1700",
     "wof:hierarchy":[
         {
@@ -444,7 +447,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644150,
+    "wof:lastmodified":1582316284,
     "wof:megacity":0,
     "wof:name":"Valdivia",
     "wof:parent_id":102063183,

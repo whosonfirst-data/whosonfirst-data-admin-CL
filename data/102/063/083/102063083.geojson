@@ -176,6 +176,9 @@
         "wk:page":"Melipilla"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8a14fba8a2dd0319331a4348ed915a4d",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":102063083,
-    "wof:lastmodified":1566644007,
+    "wof:lastmodified":1582316214,
     "wof:name":"Melipilla",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

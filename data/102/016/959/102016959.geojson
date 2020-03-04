@@ -108,6 +108,9 @@
         "wd:id":"Q3725"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9924c91adcec62ba869fdd004391424c",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102016959,
-    "wof:lastmodified":1566644145,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Jos\u00e9 de Tango",
     "wof:parent_id":102063119,
     "wof:placetype":"locality",

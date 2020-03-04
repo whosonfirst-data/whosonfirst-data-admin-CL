@@ -69,6 +69,9 @@
         "wk:page":"Putag\u00e1n, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3577d073dc53b73accad04a39bf0edcf",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102017109,
-    "wof:lastmodified":1566644194,
+    "wof:lastmodified":1582316292,
     "wof:name":"Putag\u00e1n",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

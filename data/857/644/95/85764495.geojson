@@ -77,6 +77,9 @@
         "qs_pg:id":553174
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1a1a2215822357590896416304c2bcd",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644280,
+    "wof:lastmodified":1582316298,
     "wof:name":"Santa Julia",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

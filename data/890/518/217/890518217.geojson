@@ -144,6 +144,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056054,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"56ead0506e826fcbb76257fd97f42909",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":890518217,
-    "wof:lastmodified":1566644636,
+    "wof:lastmodified":1582316357,
     "wof:name":"La Laguna",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

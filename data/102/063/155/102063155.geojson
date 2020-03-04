@@ -168,6 +168,9 @@
         "wk:page":"Cachapoal"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"104ca354938d2271819d439de3e43418",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":102063155,
-    "wof:lastmodified":1566644055,
+    "wof:lastmodified":1582316244,
     "wof:name":"Cachapoal",
     "wof:parent_id":85682165,
     "wof:placetype":"county",

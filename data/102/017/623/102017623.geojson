@@ -177,6 +177,9 @@
         "wk:page":"Hualqui"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d711f4ca1c0c7ae035061517ccee37d",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":102017623,
-    "wof:lastmodified":1566644205,
+    "wof:lastmodified":1582316294,
     "wof:name":"Hualqui",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

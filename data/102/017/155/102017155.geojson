@@ -77,6 +77,9 @@
         "wd:id":"Q6091969"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4098cb955d79d22d5e947621909d69a7",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644197,
+    "wof:lastmodified":1582316292,
     "wof:name":"Puerto Bertrand",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

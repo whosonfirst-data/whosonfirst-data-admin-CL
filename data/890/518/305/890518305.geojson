@@ -56,6 +56,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056057,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d1e123ac34c2ec7f457948f865bb595",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890518305,
-    "wof:lastmodified":1566644647,
+    "wof:lastmodified":1582316358,
     "wof:name":"Cunco",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

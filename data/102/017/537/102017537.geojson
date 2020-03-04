@@ -54,6 +54,9 @@
         "qs_pg:id":180613
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"569587bfa40a468234eae43254b84f9e",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102017537,
-    "wof:lastmodified":1566644191,
+    "wof:lastmodified":1582316291,
     "wof:name":"La Marquesa",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

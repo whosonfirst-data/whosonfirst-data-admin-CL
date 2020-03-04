@@ -190,6 +190,9 @@
         "wd:id":"Q51032"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f870e1fa60d3a54a1712d2d95560bb8f",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644195,
+    "wof:lastmodified":1582316292,
     "wof:name":"Melipilla",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

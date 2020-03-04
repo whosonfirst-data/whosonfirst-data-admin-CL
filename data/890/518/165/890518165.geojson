@@ -105,6 +105,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056051,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ee04d62ba0bb1bd5df2330d5096d795",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890518165,
-    "wof:lastmodified":1566644645,
+    "wof:lastmodified":1582316358,
     "wof:name":"Tiltil",
     "wof:parent_id":102063173,
     "wof:placetype":"localadmin",

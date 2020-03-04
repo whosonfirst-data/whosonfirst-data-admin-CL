@@ -73,6 +73,9 @@
         "qs_pg:id":484768
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b93b71f588dbf35c634644cc569d8a66",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644282,
+    "wof:lastmodified":1582316299,
     "wof:name":"Monserrat",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

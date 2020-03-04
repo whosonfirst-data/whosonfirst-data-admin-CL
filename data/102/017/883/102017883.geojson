@@ -143,6 +143,9 @@
         "wk:page":"Ca\u00f1ete, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0729d8e6af45549afa8705021c186bc",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":102017883,
-    "wof:lastmodified":1566644202,
+    "wof:lastmodified":1582316293,
     "wof:name":"Ca\u00f1ete",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

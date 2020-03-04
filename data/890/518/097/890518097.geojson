@@ -48,6 +48,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056043,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fdeaad833bab0a096699c82e01455893",
     "wof:hierarchy":[
         {
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890518097,
-    "wof:lastmodified":1566644641,
+    "wof:lastmodified":1582316358,
     "wof:name":"San Fabian",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

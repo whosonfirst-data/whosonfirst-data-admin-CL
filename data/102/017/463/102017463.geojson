@@ -148,6 +148,9 @@
         "wk:page":"Lo Barnechea"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"328c693d23bd310f92d6aadeb08e18e6",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644174,
+    "wof:lastmodified":1582316289,
     "wof:name":"Lo Barnechea",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

@@ -159,6 +159,9 @@
         "wd:id":"Q721503"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d83edea70c84af224e269db8ef2244db",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":102063121,
-    "wof:lastmodified":1566644045,
+    "wof:lastmodified":1582316240,
     "wof:name":"Osorno",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

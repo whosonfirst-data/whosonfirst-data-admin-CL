@@ -148,6 +148,9 @@
         "wk:page":"La Reina"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f3dddf42cbeeb5da901a867006e4bbc",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644183,
+    "wof:lastmodified":1582316290,
     "wof:name":"La Reina",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

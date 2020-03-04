@@ -74,6 +74,9 @@
         "wk:page":"Socaire"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"387a6c6e35b357576d6cd4626c77f8f4",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102016905,
-    "wof:lastmodified":1566644146,
+    "wof:lastmodified":1582316283,
     "wof:name":"Socaire",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

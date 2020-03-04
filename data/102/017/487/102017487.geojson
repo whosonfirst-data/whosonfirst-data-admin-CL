@@ -64,6 +64,9 @@
         "wd:id":"Q6543563"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b3efb1bb4bb1f609ba4fef1574f8cabc",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102017487,
-    "wof:lastmodified":1566644208,
+    "wof:lastmodified":1582316294,
     "wof:name":"Licanray",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

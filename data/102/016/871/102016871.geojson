@@ -147,7 +147,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
@@ -166,6 +167,10 @@
         "wk:page":"Toconao"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"0983a770e524a0632bf82be2672c7015",
     "wof:hierarchy":[
         {
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":102016871,
-    "wof:lastmodified":1566644148,
+    "wof:lastmodified":1582316284,
     "wof:name":"Toconao",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

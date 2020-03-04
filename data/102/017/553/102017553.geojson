@@ -138,6 +138,9 @@
         "wk:page":"La Higuera, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfbcb788417a20cd1f23f2f1b1140768",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":102017553,
-    "wof:lastmodified":1566644199,
+    "wof:lastmodified":1582316293,
     "wof:name":"La Higuera",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

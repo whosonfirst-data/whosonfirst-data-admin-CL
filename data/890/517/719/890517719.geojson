@@ -356,6 +356,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056021,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0f7db3abcae1e09dc5b7a00c7f664d0",
     "wof:hierarchy":[
         {
@@ -367,7 +370,7 @@
         }
     ],
     "wof:id":890517719,
-    "wof:lastmodified":1566644628,
+    "wof:lastmodified":1582316357,
     "wof:name":"Santo Domingo",
     "wof:parent_id":102063167,
     "wof:placetype":"localadmin",

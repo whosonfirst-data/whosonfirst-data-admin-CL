@@ -168,6 +168,9 @@
         "wd:id":"Q721224"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ecffffe08befe80db3a4e6a93d4b6abd",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":102063091,
-    "wof:lastmodified":1566644028,
+    "wof:lastmodified":1582316229,
     "wof:name":"Elqui",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

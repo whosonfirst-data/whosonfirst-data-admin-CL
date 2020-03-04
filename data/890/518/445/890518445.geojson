@@ -72,6 +72,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056065,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43b074f1baea82c891ab0b319b1aa446",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890518445,
-    "wof:lastmodified":1566644651,
+    "wof:lastmodified":1582316358,
     "wof:name":"Chanco",
     "wof:parent_id":102063129,
     "wof:placetype":"localadmin",

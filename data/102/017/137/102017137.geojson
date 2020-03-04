@@ -110,6 +110,9 @@
         "wk:page":"Saavedra, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f52aa4bb36cdbb75661cd406271da46",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102017137,
-    "wof:lastmodified":1566644199,
+    "wof:lastmodified":1582316293,
     "wof:name":"Puerto Saavedra",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

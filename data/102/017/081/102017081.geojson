@@ -109,6 +109,9 @@
         "wk:page":"Quilleco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f840d40cbb51eae4bbfcff47799c9c4",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644205,
+    "wof:lastmodified":1582316294,
     "wof:name":"Quilleco",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

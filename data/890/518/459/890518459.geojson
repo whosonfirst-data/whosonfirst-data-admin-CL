@@ -62,6 +62,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056066,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"be01367a66174a78ce222fbca8675500",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890518459,
-    "wof:lastmodified":1566644654,
+    "wof:lastmodified":1582316358,
     "wof:name":"Calera de Tango",
     "wof:parent_id":102063119,
     "wof:placetype":"localadmin",

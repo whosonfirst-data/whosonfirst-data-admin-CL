@@ -135,6 +135,9 @@
         "wk:page":"Andacollo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b72ef70f67689c7459b059ca5ce3df9b",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":102017969,
-    "wof:lastmodified":1566644197,
+    "wof:lastmodified":1582316292,
     "wof:name":"Andacollo",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

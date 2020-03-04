@@ -397,6 +397,9 @@
         "wk:page":"Vi\u00f1a del Mar"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ebf44ff50599440649d7189b0074e4f",
     "wof:hierarchy":[
         {
@@ -411,7 +414,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644150,
+    "wof:lastmodified":1582316284,
     "wof:name":"Vi\u00f1a del Mar",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

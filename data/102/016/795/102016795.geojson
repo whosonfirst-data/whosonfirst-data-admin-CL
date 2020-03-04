@@ -140,6 +140,9 @@
         "wk:page":"Yumbel"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1874e10a77d910581a6539fb35db80d0",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644146,
+    "wof:lastmodified":1582316283,
     "wof:name":"Yumbel",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

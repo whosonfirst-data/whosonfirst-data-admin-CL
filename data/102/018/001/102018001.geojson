@@ -49,6 +49,9 @@
         "qs_pg:id":232959
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1521eeec6ae308dde736c6d64d76948d",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102018001,
-    "wof:lastmodified":1566644122,
+    "wof:lastmodified":1582316281,
     "wof:name":"Chacao Viejo",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

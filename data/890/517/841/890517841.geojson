@@ -117,6 +117,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056028,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"205ea97d6b19d7227e80246807acbf21",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":890517841,
-    "wof:lastmodified":1566644619,
+    "wof:lastmodified":1582316357,
     "wof:name":"Chill\u00e1n Viejo",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

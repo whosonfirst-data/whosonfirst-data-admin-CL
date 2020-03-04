@@ -51,6 +51,9 @@
         "qs_pg:id":180608
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff40e8a507736f85d2f7e318912bd731",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017629,
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1582316288,
     "wof:name":"General L\u00f3pez",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

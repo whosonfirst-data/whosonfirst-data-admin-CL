@@ -137,6 +137,9 @@
         "wk:page":"Rengo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6c2f2cd1a7232c35f41d09d705309e5",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":102017033,
-    "wof:lastmodified":1566644215,
+    "wof:lastmodified":1582316295,
     "wof:name":"Rengo",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

@@ -74,6 +74,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056014,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c38d9b24d795cfa3add8b474832c1d08",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890517561,
-    "wof:lastmodified":1566644601,
+    "wof:lastmodified":1582316356,
     "wof:name":"Fresia",
     "wof:parent_id":102063135,
     "wof:placetype":"localadmin",

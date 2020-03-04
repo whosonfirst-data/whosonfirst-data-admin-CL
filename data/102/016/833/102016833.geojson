@@ -824,6 +824,9 @@
         "wk:page":"Valpara\u00edso"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ede333897c31ad85450faaec2ef1e743",
     "wof:hierarchy":[
         {
@@ -835,7 +838,7 @@
         }
     ],
     "wof:id":102016833,
-    "wof:lastmodified":1566644142,
+    "wof:lastmodified":1582316282,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

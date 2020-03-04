@@ -120,6 +120,9 @@
         "wk:page":"Do\u00f1ihue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b23eb5f89f6109d2a01247c0342e85d",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":102017697,
-    "wof:lastmodified":1566644212,
+    "wof:lastmodified":1582316295,
     "wof:name":"Do\u00f1ihue",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

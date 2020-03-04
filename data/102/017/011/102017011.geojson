@@ -121,6 +121,9 @@
         "qs_pg:id":281756
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b4300ed5ca283d39e35db1f132cd898",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102017011,
-    "wof:lastmodified":1566644205,
+    "wof:lastmodified":1582316294,
     "wof:name":"R\u00edo Negro",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

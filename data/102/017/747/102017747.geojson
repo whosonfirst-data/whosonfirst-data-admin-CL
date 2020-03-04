@@ -349,6 +349,9 @@
         "wk:page":"Coquimbo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8a3d4ded24e0491ea0109cbf3203e39",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
         }
     ],
     "wof:id":102017747,
-    "wof:lastmodified":1566644185,
+    "wof:lastmodified":1582316290,
     "wof:name":"Coquimbo",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

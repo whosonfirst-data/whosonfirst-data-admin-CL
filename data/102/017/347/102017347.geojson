@@ -117,6 +117,9 @@
         "wk:page":"Nacimiento, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"993f3e2fdefa86d277cd6e5ba823b30b",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644188,
+    "wof:lastmodified":1582316291,
     "wof:name":"Nacimiento",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

@@ -257,6 +257,9 @@
         "wd:id":"Q16899"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e64fcbff7a5dffaa9812b6ec8df71733",
     "wof:hierarchy":[
         {
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":102017461,
-    "wof:lastmodified":1566644216,
+    "wof:lastmodified":1582316295,
     "wof:name":"Lolol",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

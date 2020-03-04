@@ -54,6 +54,9 @@
         "qs_pg:id":892592
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4820e72818c6fc982b92e4c05f88f4ca",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102017839,
-    "wof:lastmodified":1566644216,
+    "wof:lastmodified":1582316295,
     "wof:name":"Cherquenco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

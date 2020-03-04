@@ -130,6 +130,9 @@
         "qs_pg:id":454405
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f33c8ebd420624de2fc1116f8460e0b8",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":102016911,
-    "wof:lastmodified":1566644151,
+    "wof:lastmodified":1582316284,
     "wof:name":"San Vicente",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

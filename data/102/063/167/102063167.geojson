@@ -164,6 +164,9 @@
         "wk:page":"San Antonio"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2224027477014941b83b15303f4108a7",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":102063167,
-    "wof:lastmodified":1566643999,
+    "wof:lastmodified":1582316210,
     "wof:name":"San Antonio",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

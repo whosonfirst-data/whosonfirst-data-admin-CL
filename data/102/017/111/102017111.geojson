@@ -114,6 +114,9 @@
         "wk:page":"Putaendo"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d068d48f266a5380ec5f67eec3373eb9",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017111,
-    "wof:lastmodified":1566644184,
+    "wof:lastmodified":1582316290,
     "wof:name":"Putaendo",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

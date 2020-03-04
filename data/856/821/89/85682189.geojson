@@ -346,6 +346,9 @@
         "wd:id":"Q2181"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"fd221e35c5490e5411c49ce7869b1b1b",
     "wof:hierarchy":[
         {
@@ -361,7 +364,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644295,
+    "wof:lastmodified":1582316310,
     "wof:name":"De Aisen",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

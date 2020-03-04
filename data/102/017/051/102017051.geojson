@@ -64,6 +64,9 @@
         "wd:id":"Q7293923"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cc117ca87571cfa66e86a6d2fc0d824c",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102017051,
-    "wof:lastmodified":1566644218,
+    "wof:lastmodified":1582316296,
     "wof:name":"Rapel",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

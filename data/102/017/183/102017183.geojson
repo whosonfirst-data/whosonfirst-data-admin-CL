@@ -76,6 +76,9 @@
         "wk:page":"Pomaire"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e590cb21beafc754a859aff8ed575a5c",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644223,
+    "wof:lastmodified":1582316296,
     "wof:name":"Pomaire",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",

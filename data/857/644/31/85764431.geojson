@@ -73,6 +73,9 @@
         "qs_pg:id":1062812
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2344dbff6aadaf6e5b400b7bcd2ec42f",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644282,
+    "wof:lastmodified":1582316298,
     "wof:name":"Lo Ovalle",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

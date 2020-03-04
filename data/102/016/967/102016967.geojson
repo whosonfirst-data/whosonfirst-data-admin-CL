@@ -127,6 +127,9 @@
         "wk:page":"San Javier, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cfff7f27953bb96c9d9a518f40466545",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":102016967,
-    "wof:lastmodified":1566644146,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Javier",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

@@ -128,6 +128,9 @@
         "wk:page":"Panguipulli"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f4315d85cca9857fd8f986726ce54cc",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":102017273,
-    "wof:lastmodified":1566644165,
+    "wof:lastmodified":1582316287,
     "wof:name":"Panguipulli",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

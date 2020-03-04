@@ -114,6 +114,9 @@
         "wk:page":"Calle Larga"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2a11876d46cd3a7422423fc2c9e725a",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017895,
-    "wof:lastmodified":1566644173,
+    "wof:lastmodified":1582316289,
     "wof:name":"Calle Larga",
     "wof:parent_id":102063139,
     "wof:placetype":"locality",

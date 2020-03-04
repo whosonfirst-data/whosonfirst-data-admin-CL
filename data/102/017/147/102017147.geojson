@@ -60,6 +60,9 @@
         "qs_pg:id":1059857
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08eed0afc27b372a9a3cb774d1113786",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644227,
+    "wof:lastmodified":1582316297,
     "wof:name":"Puerto Guadal",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

@@ -58,6 +58,9 @@
         "qs_pg:id":1047102
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6557e57d6db893d7415640d4af9395b",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644158,
+    "wof:lastmodified":1582316286,
     "wof:name":"Hu\u00e9pil",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

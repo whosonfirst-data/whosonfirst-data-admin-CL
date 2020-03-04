@@ -189,6 +189,9 @@
         "wk:page":"Colina, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c5b7e668ac9a1c4adf6769b6894baab",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":102017773,
-    "wof:lastmodified":1566644224,
+    "wof:lastmodified":1582316297,
     "wof:name":"Colina",
     "wof:parent_id":102063173,
     "wof:placetype":"locality",

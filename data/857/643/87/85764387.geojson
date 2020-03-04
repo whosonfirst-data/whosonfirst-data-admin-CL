@@ -89,6 +89,10 @@
         "wd:id":"Q4863231"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d315159e53fcdec812c98c3a2c57fa96",
     "wof:hierarchy":[
         {
@@ -104,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644279,
+    "wof:lastmodified":1582316298,
     "wof:name":"Barrancas",
     "wof:parent_id":102016993,
     "wof:placetype":"neighbourhood",

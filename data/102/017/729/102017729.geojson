@@ -125,6 +125,9 @@
         "wd:id":"Q3878"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"572d2b51837e253c2b207c036a310a84",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":102017729,
-    "wof:lastmodified":1566644228,
+    "wof:lastmodified":1582316297,
     "wof:name":"Cunco",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

@@ -150,6 +150,9 @@
         "wd:id":"Q94552"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"01e48420639ff53395d0aec0a15b8be5",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102063073,
-    "wof:lastmodified":1566644078,
+    "wof:lastmodified":1582316259,
     "wof:name":"Antofagasta",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

@@ -59,6 +59,9 @@
         "wd:id":"Q6682550"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bb333030f3c2967bf2369f132147b49f",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102017909,
-    "wof:lastmodified":1566644153,
+    "wof:lastmodified":1582316285,
     "wof:name":"Caimanes",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

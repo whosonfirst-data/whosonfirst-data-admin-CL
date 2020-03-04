@@ -106,6 +106,9 @@
         "wk:page":"Vilc\u00fan"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"546719410ca27f3bb31948555bb77d80",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":102016819,
-    "wof:lastmodified":1566644140,
+    "wof:lastmodified":1582316282,
     "wof:name":"Vilc\u00fan",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

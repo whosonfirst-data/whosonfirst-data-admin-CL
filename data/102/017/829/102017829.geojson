@@ -134,6 +134,9 @@
         "wk:page":"Chile Chico"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"614c1bfa617113ea9784dc980d60be31",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644164,
+    "wof:lastmodified":1582316287,
     "wof:name":"Chile Chico",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

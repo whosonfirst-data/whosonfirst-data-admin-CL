@@ -182,6 +182,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056012,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1330814839769e790e2953502d0992c",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":890517517,
-    "wof:lastmodified":1566644612,
+    "wof:lastmodified":1582316357,
     "wof:name":"Cartagena",
     "wof:parent_id":102063167,
     "wof:placetype":"localadmin",

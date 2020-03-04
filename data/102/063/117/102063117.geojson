@@ -179,6 +179,9 @@
         "wk:page":"Santiago"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e27911034e2f3afa9a0a8d1284ee43a",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":102063117,
-    "wof:lastmodified":1566644047,
+    "wof:lastmodified":1582316240,
     "wof:name":"Santiago",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

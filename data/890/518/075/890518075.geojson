@@ -92,6 +92,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056042,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"66344152e360fa782fd8d5cc402c5c55",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":890518075,
-    "wof:lastmodified":1566644649,
+    "wof:lastmodified":1582316358,
     "wof:name":"Pica",
     "wof:parent_id":890517491,
     "wof:placetype":"localadmin",

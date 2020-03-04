@@ -121,6 +121,9 @@
         "wd:id":"Q3663"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dda9deaa074f4c7f15632c2ccb595da8",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102017927,
-    "wof:lastmodified":1566644222,
+    "wof:lastmodified":1582316296,
     "wof:name":"Bulnes",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

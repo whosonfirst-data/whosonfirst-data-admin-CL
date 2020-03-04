@@ -458,6 +458,9 @@
         "qs_pg:id":460396
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03f81b9fd719809ab9dd00b12c18ba18",
     "wof:hierarchy":[
         {
@@ -469,7 +472,7 @@
         }
     ],
     "wof:id":102017145,
-    "wof:lastmodified":1566644183,
+    "wof:lastmodified":1582316290,
     "wof:megacity":0,
     "wof:name":"Puerto Montt",
     "wof:parent_id":102063135,

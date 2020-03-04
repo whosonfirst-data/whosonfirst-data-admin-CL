@@ -168,6 +168,9 @@
         "wk:page":"Palena"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2e0b3e4db54e85e8c37e8696d21dca3",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":102063169,
-    "wof:lastmodified":1566644002,
+    "wof:lastmodified":1582316211,
     "wof:name":"Palena",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

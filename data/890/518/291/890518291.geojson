@@ -108,6 +108,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056057,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f5e570f3fcaa88906e7d7a5ddfc6b9d",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890518291,
-    "wof:lastmodified":1566644652,
+    "wof:lastmodified":1582316358,
     "wof:name":"Renaico",
     "wof:parent_id":102063101,
     "wof:placetype":"localadmin",

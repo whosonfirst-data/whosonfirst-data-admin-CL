@@ -51,6 +51,9 @@
         "qs_pg:id":236580
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7f5fc010e096361ac65499ac96317b6",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017221,
-    "wof:lastmodified":1566644167,
+    "wof:lastmodified":1582316288,
     "wof:name":"Pichasca",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

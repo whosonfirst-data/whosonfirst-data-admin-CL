@@ -180,6 +180,9 @@
         "wd:id":"Q201131"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36de805f619baf757adcd4ffddd6943c",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":102063151,
-    "wof:lastmodified":1566644000,
+    "wof:lastmodified":1582316210,
     "wof:name":"B\u00edo-B\u00edo",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

@@ -78,6 +78,9 @@
         "qs_pg:id":347356
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"421e3253991b2ec4293b7ede77d5d4cd",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102017867,
-    "wof:lastmodified":1566644179,
+    "wof:lastmodified":1582316290,
     "wof:name":"Casma",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",

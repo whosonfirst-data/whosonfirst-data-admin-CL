@@ -114,6 +114,9 @@
         "wk:page":"Pemuco"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fddaf09f9956fb621c46a81d0800f29e",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102017253,
-    "wof:lastmodified":1566644213,
+    "wof:lastmodified":1582316295,
     "wof:name":"Pemuco",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

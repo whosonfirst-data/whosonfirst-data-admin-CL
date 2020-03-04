@@ -112,6 +112,9 @@
         "wk:page":"Teno"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f118d1a6fe7c63a4bd76314e99e18a0",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":102016883,
-    "wof:lastmodified":1566644147,
+    "wof:lastmodified":1582316284,
     "wof:name":"Teno",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

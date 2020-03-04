@@ -126,6 +126,9 @@
         "wk:page":"La Pintana"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc013738dca2841436c4ecebf5ee5c86",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644118,
+    "wof:lastmodified":1582316281,
     "wof:name":"La Pintana",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

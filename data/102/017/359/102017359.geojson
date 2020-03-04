@@ -51,6 +51,9 @@
         "qs_pg:id":231244
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2755f143f17f63588fcb87eef4b44907",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017359,
-    "wof:lastmodified":1566644191,
+    "wof:lastmodified":1582316291,
     "wof:name":"Mininco",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

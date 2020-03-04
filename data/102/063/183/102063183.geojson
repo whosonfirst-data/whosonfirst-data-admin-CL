@@ -140,6 +140,9 @@
         "wd:id":"Q721733"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68a4c1b739aec9a7d751b6068eb45527",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":102063183,
-    "wof:lastmodified":1566644102,
+    "wof:lastmodified":1582316273,
     "wof:name":"Valdivia",
     "wof:parent_id":85682171,
     "wof:placetype":"county",

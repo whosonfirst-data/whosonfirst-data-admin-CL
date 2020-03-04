@@ -126,6 +126,9 @@
         "wk:page":"Curarrehue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c526069bd79b6fda5923aad93f7db3c8",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":102017715,
-    "wof:lastmodified":1566644186,
+    "wof:lastmodified":1582316291,
     "wof:name":"Curarrehue",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

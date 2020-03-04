@@ -51,6 +51,9 @@
         "qs_pg:id":1320652
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69edee5e284aa0799dcb3fa5b1f92234",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017919,
-    "wof:lastmodified":1566644225,
+    "wof:lastmodified":1582316297,
     "wof:name":"Caburgua",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

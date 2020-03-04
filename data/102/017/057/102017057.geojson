@@ -415,6 +415,9 @@
         "qs_pg:id":353401
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"99f80ca7133222108932f63d1b3be84f",
     "wof:hierarchy":[
         {
@@ -426,7 +429,7 @@
         }
     ],
     "wof:id":102017057,
-    "wof:lastmodified":1566644214,
+    "wof:lastmodified":1582316295,
     "wof:name":"Rancagua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

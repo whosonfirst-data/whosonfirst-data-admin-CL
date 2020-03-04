@@ -113,6 +113,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056040,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e6260e67bb9ce4604cad166d138cac71",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890518011,
-    "wof:lastmodified":1566644649,
+    "wof:lastmodified":1582316358,
     "wof:name":"Coronel",
     "wof:parent_id":102063171,
     "wof:placetype":"localadmin",

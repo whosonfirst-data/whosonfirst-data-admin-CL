@@ -340,6 +340,9 @@
         "wk:page":"Lebu, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ede4cb28fe194d28608798d19dc3eda1",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
         }
     ],
     "wof:id":102017497,
-    "wof:lastmodified":1566644174,
+    "wof:lastmodified":1582316289,
     "wof:name":"Lebu",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

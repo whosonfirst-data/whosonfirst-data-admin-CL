@@ -156,6 +156,9 @@
         "wk:page":"Parinacota"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8aca81d430b2009292ab663983869f1e",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":102063181,
-    "wof:lastmodified":1566644043,
+    "wof:lastmodified":1582316239,
     "wof:name":"Parinacota",
     "wof:parent_id":1108804709,
     "wof:placetype":"county",

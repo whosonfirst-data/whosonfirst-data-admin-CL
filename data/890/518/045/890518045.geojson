@@ -71,6 +71,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056041,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bc0d7ddad22ca58ae8b0efce35787bf",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890518045,
-    "wof:lastmodified":1566644648,
+    "wof:lastmodified":1582316358,
     "wof:name":"Cabildo",
     "wof:parent_id":102063077,
     "wof:placetype":"localadmin",

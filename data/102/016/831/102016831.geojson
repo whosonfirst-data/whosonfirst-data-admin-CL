@@ -74,6 +74,9 @@
         "wk:page":"Las Ventanas"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c15593028109ef59eff39a2457eebf86",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102016831,
-    "wof:lastmodified":1566644149,
+    "wof:lastmodified":1582316284,
     "wof:name":"Ventanas",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

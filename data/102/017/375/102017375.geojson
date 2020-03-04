@@ -84,6 +84,9 @@
         "wk:page":"Mehu\u00edn"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63ea494c7d3344ebffee0c2da0bc1c91",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":102017375,
-    "wof:lastmodified":1566644227,
+    "wof:lastmodified":1582316297,
     "wof:name":"Mehu\u00edn",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

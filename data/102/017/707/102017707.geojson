@@ -51,6 +51,9 @@
         "qs_pg:id":180598
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a4b0418d38e1b99a8d34bb3edf64f91b",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017707,
-    "wof:lastmodified":1566644163,
+    "wof:lastmodified":1582316287,
     "wof:name":"Curim\u00f3n",
     "wof:parent_id":102063099,
     "wof:placetype":"locality",

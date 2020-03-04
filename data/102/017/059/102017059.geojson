@@ -56,6 +56,9 @@
         "qs_pg:id":271673
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e228968121d93465f6d46d522488bee7",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644213,
+    "wof:lastmodified":1582316295,
     "wof:name":"Ramadillas",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

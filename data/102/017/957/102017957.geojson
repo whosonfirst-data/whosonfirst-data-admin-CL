@@ -123,6 +123,9 @@
         "wk:page":"Arauco, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a5635d4354fe43b77d36c56608d4118a",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644191,
+    "wof:lastmodified":1582316291,
     "wof:name":"Arauco",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

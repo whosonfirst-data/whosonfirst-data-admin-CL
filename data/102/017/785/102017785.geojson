@@ -121,6 +121,9 @@
         "wd:id":"Q3814"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eadc7382e763c3257835ceb85adc9194",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102017785,
-    "wof:lastmodified":1566644185,
+    "wof:lastmodified":1582316290,
     "wof:name":"Coihueco",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

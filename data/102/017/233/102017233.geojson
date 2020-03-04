@@ -117,6 +117,9 @@
         "wk:page":"Petorca"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c393151206ef6e187c5904167432ecd",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644181,
+    "wof:lastmodified":1582316290,
     "wof:name":"Petorca",
     "wof:parent_id":102063077,
     "wof:placetype":"locality",

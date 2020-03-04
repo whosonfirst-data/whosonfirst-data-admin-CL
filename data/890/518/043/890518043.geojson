@@ -108,6 +108,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056041,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3113f3a1c6e5325970b43563bbb2b5b4",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890518043,
-    "wof:lastmodified":1566644650,
+    "wof:lastmodified":1582316358,
     "wof:name":"Peralillo",
     "wof:parent_id":102063157,
     "wof:placetype":"localadmin",

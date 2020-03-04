@@ -117,6 +117,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056023,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98ef4e9d3a5a095e9b3b485199b964cd",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":890517751,
-    "wof:lastmodified":1566644617,
+    "wof:lastmodified":1582316357,
     "wof:name":"Chimbarongo",
     "wof:parent_id":102063157,
     "wof:placetype":"localadmin",

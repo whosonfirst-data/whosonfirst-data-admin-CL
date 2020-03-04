@@ -118,6 +118,9 @@
         "wk:page":"San Clemente, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"302712de283f899c1fa0094e16cdfda8",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":102016985,
-    "wof:lastmodified":1566644144,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Clemente",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",

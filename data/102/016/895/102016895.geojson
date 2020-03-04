@@ -130,6 +130,9 @@
         "wk:page":"Talagante"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47c7ed38700bdaaafe6be6b163143072",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644140,
+    "wof:lastmodified":1582316282,
     "wof:name":"Talagante",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

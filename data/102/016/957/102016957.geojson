@@ -65,6 +65,9 @@
         "wk:page":"San Juli\u00e1n, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ad01a6cacb8edd6885de1592323edb5",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102016957,
-    "wof:lastmodified":1566644145,
+    "wof:lastmodified":1582316283,
     "wof:name":"San Juli\u00e1n",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

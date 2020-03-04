@@ -81,6 +81,9 @@
         "wk:page":"Pisagua, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"825be52793633875a50091e79ca7c2b4",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102017201,
-    "wof:lastmodified":1566644215,
+    "wof:lastmodified":1582316295,
     "wof:name":"Pisagua",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

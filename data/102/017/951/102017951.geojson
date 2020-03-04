@@ -58,6 +58,9 @@
         "qs_pg:id":150644
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e808549d400e30a0b30e9d533694235",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644198,
+    "wof:lastmodified":1582316293,
     "wof:name":"Bah\u00eda Murta",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

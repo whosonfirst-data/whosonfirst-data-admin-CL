@@ -59,6 +59,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056025,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f04f0d0e9cbdd4173897cdcac6051d0",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890517795,
-    "wof:lastmodified":1566644619,
+    "wof:lastmodified":1582316357,
     "wof:name":"Mariquina",
     "wof:parent_id":102063183,
     "wof:placetype":"localadmin",

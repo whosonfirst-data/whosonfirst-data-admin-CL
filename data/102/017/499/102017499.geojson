@@ -125,6 +125,9 @@
         "wk:page":"Lautaro, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"569fb74048072e4df6f61ea37f011bb4",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":102017499,
-    "wof:lastmodified":1566644175,
+    "wof:lastmodified":1582316289,
     "wof:name":"Lautaro",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

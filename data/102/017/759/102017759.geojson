@@ -843,6 +843,9 @@
         "wk:page":"Concepci\u00f3n, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8376cbffa88661d9353c180d74bc732",
     "wof:hierarchy":[
         {
@@ -857,7 +860,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644200,
+    "wof:lastmodified":1582316293,
     "wof:megacity":0,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":102063171,

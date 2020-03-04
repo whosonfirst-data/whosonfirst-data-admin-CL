@@ -173,6 +173,9 @@
         "wk:page":"Cardenal Caro"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf03814324efd06e896a8549e9dfc9e2",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":102063149,
-    "wof:lastmodified":1566644107,
+    "wof:lastmodified":1582316277,
     "wof:name":"Cardenal Caro",
     "wof:parent_id":85682165,
     "wof:placetype":"county",

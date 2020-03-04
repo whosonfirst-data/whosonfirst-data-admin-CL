@@ -196,6 +196,9 @@
         "wk:page":"Puerto Ays\u00e9n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b38b014f93138f432a57d67f5505f69d",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644156,
+    "wof:lastmodified":1582316285,
     "wof:name":"Puerto Ais\u00e9n",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

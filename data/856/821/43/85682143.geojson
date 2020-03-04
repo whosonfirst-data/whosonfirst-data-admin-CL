@@ -357,6 +357,9 @@
         "wd:id":"Q219458"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b40ef2420a264f8dddb4fecf4cd99bf6",
     "wof:hierarchy":[
         {
@@ -372,7 +375,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644306,
+    "wof:lastmodified":1582316318,
     "wof:name":"De Valparaiso",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

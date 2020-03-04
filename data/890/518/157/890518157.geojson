@@ -89,6 +89,9 @@
     },
     "wof:country":"CL",
     "wof:created":1469056051,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f23a757dd15a7850fd8087d8fcadb7ff",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890518157,
-    "wof:lastmodified":1566644632,
+    "wof:lastmodified":1582316357,
     "wof:name":"Colina",
     "wof:parent_id":102063173,
     "wof:placetype":"localadmin",

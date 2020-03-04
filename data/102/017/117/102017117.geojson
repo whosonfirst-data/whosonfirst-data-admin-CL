@@ -105,6 +105,9 @@
         "wk:page":"Pur\u00e9n"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7157539488c21e65f14bb702590ddaa",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":102017117,
-    "wof:lastmodified":1566644190,
+    "wof:lastmodified":1582316291,
     "wof:name":"Pur\u00e9n",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",

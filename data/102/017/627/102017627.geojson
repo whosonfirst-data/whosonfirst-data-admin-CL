@@ -143,6 +143,9 @@
         "wd:id":"Q13067"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8c897805a281e09c698c82bfca38dc3",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":102017627,
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1582316288,
     "wof:name":"Gorbea",
     "wof:parent_id":102063107,
     "wof:placetype":"locality",

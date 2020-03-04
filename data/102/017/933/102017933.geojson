@@ -51,6 +51,9 @@
         "qs_pg:id":246325
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e8d7bd97a6d86505d04b1442eb5ecce",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102017933,
-    "wof:lastmodified":1566644200,
+    "wof:lastmodified":1582316293,
     "wof:name":"Buchupureo",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",

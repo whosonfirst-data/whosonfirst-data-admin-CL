@@ -63,6 +63,9 @@
         "wk:page":"Malalhue"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1819ccdbba79d5b9a60ab0059b4267e0",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102017405,
-    "wof:lastmodified":1566644213,
+    "wof:lastmodified":1582316295,
     "wof:name":"Malalhue",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

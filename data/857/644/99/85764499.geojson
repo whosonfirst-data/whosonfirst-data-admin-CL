@@ -75,6 +75,10 @@
         "qs_pg:id":1080386
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c68cb7d51861f5084107c139fa6de4e9",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644282,
+    "wof:lastmodified":1582316298,
     "wof:name":"Tejas Verdes",
     "wof:parent_id":102016993,
     "wof:placetype":"neighbourhood",

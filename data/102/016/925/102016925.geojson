@@ -127,6 +127,9 @@
         "wk:page":"Santa Cruz, Chile"
     },
     "wof:country":"CL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04db3033bc6d6e7f3b46572c156b5da5",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":102016925,
-    "wof:lastmodified":1566644145,
+    "wof:lastmodified":1582316283,
     "wof:name":"Santa Cruz",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",
