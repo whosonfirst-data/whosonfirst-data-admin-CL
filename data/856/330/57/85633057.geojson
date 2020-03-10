@@ -1052,9 +1052,7 @@
         102016833
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            152
-        ],
+        "digitalenvoy:country_code":152,
         "fifa:id":"CHI",
         "fips:code":"CI",
         "gaul:id":"51",
@@ -1090,7 +1088,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1583529097,
+    "wof:lastmodified":1583797300,
     "wof:name":"Chile",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
