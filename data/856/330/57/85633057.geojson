@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":78.566656,
-    "geom:area_square_m":751538310812.453979,
+    "geom:area_square_m":751538316339.139404,
     "geom:bbox":"-109.451933,-55.978214,-66.414139,-17.502892",
     "geom:latitude":-37.944156,
     "geom:longitude":-71.385289,
@@ -58,6 +58,9 @@
     ],
     "name:arg_x_preferred":[
         "Chile"
+    ],
+    "name:ary_x_preferred":[
+        "\u0634\u064a\u0644\u064a"
     ],
     "name:arz_x_preferred":[
         "\u062a\u0634\u064a\u0644\u0649"
@@ -188,8 +191,17 @@
     "name:dan_x_preferred":[
         "Chile"
     ],
+    "name:deu_at_x_preferred":[
+        "Chile"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Chile"
+    ],
     "name:deu_x_preferred":[
         "Chile"
+    ],
+    "name:din_x_preferred":[
+        "Cile"
     ],
     "name:diq_x_preferred":[
         "\u015eili"
@@ -211,6 +223,12 @@
     ],
     "name:eml_x_preferred":[
         "C\u00eel"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Chile"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Chile"
     ],
     "name:eng_x_preferred":[
         "Chile"
@@ -274,6 +292,9 @@
     ],
     "name:gan_x_preferred":[
         "\u667a\u5229"
+    ],
+    "name:gcr_x_preferred":[
+        "Chili"
     ],
     "name:ger_x_variant":[
         "Republik Chile"
@@ -671,6 +692,9 @@
     "name:pol_x_preferred":[
         "Chile"
     ],
+    "name:por_br_x_preferred":[
+        "Chile"
+    ],
     "name:por_x_preferred":[
         "Chile"
     ],
@@ -770,6 +794,12 @@
     "name:srn_x_preferred":[
         "Sili"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0427\u0438\u043b\u0435"
+    ],
+    "name:srp_el_x_preferred":[
+        "\u010cile"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0438\u043b\u0435"
     ],
@@ -793,6 +823,9 @@
     ],
     "name:szl_x_preferred":[
         "Czile"
+    ],
+    "name:szy_x_preferred":[
+        "Chile"
     ],
     "name:tah_x_preferred":[
         "T\u012bri"
@@ -1088,7 +1121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1583797300,
+    "wof:lastmodified":1587428379,
     "wof:name":"Chile",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
