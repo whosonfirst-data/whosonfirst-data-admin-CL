@@ -903,7 +903,9 @@
         85682207
     ],
     "wof:breaches":[],
-    "wof:capital_of":85633057,
+    "wof:capital_of":[
+        85633057
+    ],
     "wof:concordances":{
         "dbp:id":"Santiago%2C_Chile",
         "fb:id":"en.santiago_chile",
@@ -934,7 +936,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1587428374,
+    "wof:lastmodified":1607390899,
     "wof:name":"Santiago",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",
