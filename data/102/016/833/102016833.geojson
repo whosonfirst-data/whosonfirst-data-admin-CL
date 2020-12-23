@@ -21,7 +21,7 @@
     "mps:longitude":-71.620322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":6.0,
+    "mz:min_zoom":5.0,
     "name:abk_x_preferred":[
         "\u0412\u0430\u043b\u043f\u0430\u0440\u0430\u0438\u0441\u043e"
     ],
@@ -820,6 +820,7 @@
         "fb:id":"en.valparaiso",
         "gn:id":3868626,
         "loc:id":"n81018779",
+        "ne:id":1159150931,
         "nyt:id":"N63886586962019524001",
         "qs_pg:id":353395,
         "wd:id":"Q33986",
@@ -840,7 +841,8 @@
         }
     ],
     "wof:id":102016833,
-    "wof:lastmodified":1607390899,
+    "wof:lastmodified":1608688178,
+    "wof:megacity":1,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",
