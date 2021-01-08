@@ -24,7 +24,7 @@
     "mps:longitude":-70.630133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":4.0,
+    "mz:min_zoom":2.0,
     "name:abk_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0438\u0430\u0433\u043e \u0434\u0435 \u0427\u0438\u043b\u0438"
     ],
@@ -913,6 +913,7 @@
         "gn:id":3871336,
         "gp:id":349859,
         "loc:id":"n79077402",
+        "ne:id":1159151615,
         "nyt:id":"N16164022079959354031",
         "qs_pg:id":776654,
         "wd:id":"Q2887",
@@ -936,7 +937,8 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1607390899,
+    "wof:lastmodified":1608688193,
+    "wof:megacity":1,
     "wof:name":"Santiago",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",
