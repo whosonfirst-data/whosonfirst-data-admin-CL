@@ -101,9 +101,6 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aac\u0ab0\u0acd\u0a9f\u0abe\u0aa1\u0acb\u0ab0 \u0a9c\u0aa8\u0ab0\u0ab2"
     ],
-    "name:guj_x_variant":[
-        "\u0ab2\u0abf\u0aac\u0ab0\u0acd\u0a9f\u0abe\u0aa1\u0acb\u0ab0 \u0a9c\u0aa8\u0ab0\u0ab2"
-    ],
     "name:hin_x_preferred":[
         "\u0932\u093f\u092c\u0930\u094d\u091f\u0921\u094b\u0930 \u091c\u0928\u0930\u0932 \u092c\u0930\u094d\u0928\u093e\u0930\u094d\u0921\u094b \u0913'\u0939\u093f\u0917\u093f\u0928\u094d\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
@@ -201,11 +198,11 @@
         "Libertador General Bernardo O'Higgins"
     ],
     "name:spa_x_preferred":[
-        "Regi\u00f3n del Libertador General Bernardo O'Higgins"
+        "O'Higgins"
     ],
     "name:spa_x_variant":[
-        "O'Higgins",
-        "Regi\u00f3n de O'Higgins"
+        "Regi\u00f3n de O'Higgins",
+        "Regi\u00f3n del Libertador General Bernardo O'Higgins"
     ],
     "name:swa_x_preferred":[
         "Mkoa wa O'Higgins"
@@ -359,7 +356,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1587163139,
+    "wof:lastmodified":1614893147,
     "wof:name":"Del Libertador B Ohiggins",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
