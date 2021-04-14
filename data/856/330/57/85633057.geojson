@@ -1117,7 +1117,8 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso",
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst"
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -1173,7 +1174,8 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth",
-        "meso-reversegeo"
+        "meso-reversegeo",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"a2b30d30928f9d9549d1895a537fdfd2",
     "wof:hierarchy":[
@@ -1186,7 +1188,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1617827838,
+    "wof:lastmodified":1618362144,
     "wof:name":"Chile",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
