@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.414172,
     "geom:area_square_m":3328155049.586578,
-    "geom:bbox":"-73.6166000366,-49.7868995667,-72.966003418,-49.1500015259",
+    "geom:bbox":"-73.6166,-49.7869,-72.966003,-49.150002",
     "geom:latitude":-49.4685,
     "geom:longitude":-73.291151,
     "iso:country":"CL",
@@ -25,6 +25,9 @@
     "name:eng_x_variant":[
         "Disputed border area with Argentina",
         "Andean Southern Ice Field"
+    ],
+    "name:fra_x_preferred":[
+        "Champ de glace Sud de Patagonie (Campo de Hielo Sur)"
     ],
     "name:spa_x_preferred":[
         "Campo de Hielo Sur"
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CL",
-    "wof:geomhash":"131be41beda83528f6a4205a89469a29",
+    "wof:geomhash":"03155c804cbbf963ed682514da7a2412",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -67,7 +70,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644320,
+    "wof:lastmodified":1627522003,
     "wof:name":"Andean Southern Ice Field (Campo de Hielo Sur)",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
@@ -77,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.6166000366211,
-    -49.78689956665039,
-    -72.96600341796875,
-    -49.15000152587891
+    -73.6166,
+    -49.7869,
+    -72.966003,
+    -49.150002
 ],
-  "geometry": {"coordinates":[[[-73.61599731445312,-49.15000152587891],[-73.31098937988281,-49.15000152587891],[-73.09657287597656,-49.15000152587891],[-72.96600341796875,-49.15000152587891],[-72.96600341796875,-49.78689956665039],[-73.43980407714844,-49.78689956665039],[-73.61660003662109,-49.78689956665039],[-73.61599731445312,-49.15000152587891]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-73.61599699999999,-49.150002],[-73.31098900000001,-49.150002],[-73.09657300000001,-49.150002],[-72.966003,-49.150002],[-72.966003,-49.7869],[-73.439804,-49.7869],[-73.61660000000001,-49.7869],[-73.61599699999999,-49.150002]]],"type":"Polygon"}
 }
