@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.485202,
     "geom:area_square_m":3897342539.318445,
-    "geom:bbox":"-73.6416647554,-49.8127603306,-72.8711537394,-49.1690240615",
+    "geom:bbox":"-73.641665,-49.81276,-72.871154,-49.169024",
     "geom:latitude":-49.488719,
     "geom:longitude":-73.255231,
     "iso:country":"CL",
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:fra_x_preferred":[
+        "Zone non marqu\u00e9e"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"meso",
@@ -50,7 +53,7 @@
     "wof:concordances":{},
     "wof:country":"CL",
     "wof:created":1476220470,
-    "wof:geomhash":"cf9830b08815d01a246d7cf355534556",
+    "wof:geomhash":"977235bf03acf6e8dad68d9cd298299a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108721741,
-    "wof:lastmodified":1566644530,
+    "wof:lastmodified":1628266751,
     "wof:name":"Zona sin demarcar",
     "wof:parent_id":-1,
     "wof:placetype":"county",
@@ -90,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.64166475542838,
-    -49.81276033064853,
-    -72.8711537393938,
-    -49.16902406150793
+    -73.641665,
+    -49.81276,
+    -72.871154,
+    -49.169024
 ],
-  "geometry": {"coordinates":[[[[-72.87683543320978,-49.16902406150793],[-72.8711537393938,-49.81276033064853],[-73.64021425150774,-49.79675019530384],[-73.64166475542838,-49.17515485857646],[-72.87683543320978,-49.16902406150793]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-72.876835,-49.169024],[-72.871154,-49.81276],[-73.640214,-49.79675],[-73.641665,-49.175155],[-72.876835,-49.169024]]]],"type":"MultiPolygon"}
 }
