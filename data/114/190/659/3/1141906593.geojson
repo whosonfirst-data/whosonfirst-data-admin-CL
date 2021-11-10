@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.2332853614,-38.4333272107,-71.2332853614,-38.4333272107",
+    "geom:bbox":"-71.233285,-38.433327,-71.233285,-38.433327",
     "geom:latitude":-38.433327,
     "geom:longitude":-71.233285,
     "iso:country":"CL",
@@ -18,11 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0646\u0643\u064a\u0645\u064a"
+    ],
     "name:arg_x_preferred":[
         "Lonquimay"
     ],
     "name:ast_x_preferred":[
         "Lonquimay"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09a8\u0995\u09c1\u0987\u09ae\u09c7"
     ],
     "name:cat_x_preferred":[
         "Lonquimay"
@@ -30,16 +36,34 @@
     "name:deu_x_preferred":[
         "Lonquimay"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03bd\u03ba\u03b9\u03bc\u03ac\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Lonquimay"
     ],
     "name:eus_x_preferred":[
         "Lonquimay"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0646\u06a9\u06cc\u0645\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Lonquimay"
     ],
     "name:glg_x_preferred":[
+        "Lonquimay"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e0\u05e7\u05d5\u05d5\u05d9\u05de\u05d0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u0902\u0915\u094d\u0935\u093f\u092e\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Lonquimay"
+    ],
+    "name:ind_x_preferred":[
         "Lonquimay"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +94,21 @@
         "\u041b\u043e\u043d\u043a\u0438\u043c\u0430\u0439"
     ],
     "name:spa_x_preferred":[
+        "Lonquimay"
+    ],
+    "name:swe_x_preferred":[
+        "Lonquimay"
+    ],
+    "name:tur_x_preferred":[
+        "Lonquimay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043d\u043a\u0456\u043c\u0430\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0646\u06a9\u06cc\u0645\u06d2"
+    ],
+    "name:vie_x_preferred":[
         "Lonquimay"
     ],
     "name:zho_x_preferred":[
@@ -183,7 +222,7 @@
     },
     "wof:country":"CL",
     "wof:created":1499130614,
-    "wof:geomhash":"1c8ddbd7e7556292544b3f7b4f252d0e",
+    "wof:geomhash":"83c76a249dfa89b58b900d88ffb47411",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -194,7 +233,7 @@
         }
     ],
     "wof:id":1141906593,
-    "wof:lastmodified":1566644803,
+    "wof:lastmodified":1636495062,
     "wof:name":"Lonquimay",
     "wof:parent_id":102063101,
     "wof:placetype":"locality",
@@ -204,10 +243,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.23328536140014,
-    -38.43332721074927,
-    -71.23328536140014,
-    -38.43332721074927
+    -71.233285,
+    -38.433327,
+    -71.233285,
+    -38.433327
 ],
-  "geometry": {"coordinates":[-71.23328536140014,-38.43332721074927],"type":"Point"}
+  "geometry": {"coordinates":[-71.233285,-38.433327],"type":"Point"}
 }

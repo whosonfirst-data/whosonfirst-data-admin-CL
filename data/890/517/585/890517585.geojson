@@ -20,6 +20,12 @@
     "name:ceb_x_preferred":[
         "Lebu"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d1\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Lebu"
+    ],
     "name:spa_x_preferred":[
         "Lebu"
     ],
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":890517585,
-    "wof:lastmodified":1566644627,
+    "wof:lastmodified":1636495046,
     "wof:name":"Lebu",
     "wof:parent_id":102063153,
     "wof:placetype":"localadmin",

@@ -77,6 +77,9 @@
     "name:hin_x_preferred":[
         "\u0915\u094d\u092f\u0942\u0932\u094b\u091f\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Quillota"
+    ],
     "name:ind_x_preferred":[
         "Quillota"
     ],
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890517683,
-    "wof:lastmodified":1566644622,
+    "wof:lastmodified":1636495045,
     "wof:name":"Quillota",
     "wof:parent_id":102063103,
     "wof:placetype":"localadmin",

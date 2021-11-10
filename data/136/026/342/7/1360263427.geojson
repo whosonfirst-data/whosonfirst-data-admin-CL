@@ -83,6 +83,9 @@
         "Rota"
     ],
     "name:rus_x_preferred":[
+        "\u043e\u0441\u0442\u0440\u043e\u0432 \u0420\u043e\u0442\u0430"
+    ],
+    "name:rus_x_variant":[
         "\u0420\u043e\u0442\u0430"
     ],
     "name:slk_x_preferred":[
@@ -94,8 +97,23 @@
     "name:swe_x_preferred":[
         "Rota"
     ],
+    "name:tur_x_preferred":[
+        "Rota"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Rota"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7f57\u5854"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7f85\u5854"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -109,7 +127,7 @@
         "gn:id":3872777
     },
     "wof:country":"CL",
-    "wof:geomhash":"97a2cf9f465edc3bc65f35bcaa360db1",
+    "wof:geomhash":"2220a142f725e25f380298096e7731b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":1360263427,
-    "wof:lastmodified":1566644582,
+    "wof:lastmodified":1636495041,
     "wof:name":"Rota",
     "wof:parent_id":102063111,
     "wof:placetype":"locality",
@@ -130,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.41223000000002,
+    -71.41223,
     -35.58682,
-    -71.41223000000002,
+    -71.41223,
     -35.58682
 ],
-  "geometry": {"coordinates":[-71.41223000000002,-35.58682],"type":"Point"}
+  "geometry": {"coordinates":[-71.41222999999999,-35.58682],"type":"Point"}
 }

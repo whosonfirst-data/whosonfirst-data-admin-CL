@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.4830645,-25.406376,-70.4830645,-25.406376",
+    "geom:bbox":"-70.483064,-25.406376,-70.483064,-25.406376",
     "geom:latitude":-25.406376,
     "geom:longitude":-70.483064,
     "gp:adm0":23424782,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0644\u062a\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b2\u09be\u09a4\u09b2"
+    ],
     "name:ceb_x_preferred":[
         "Taltal"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Taltal"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bb\u03c4\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Taltal"
@@ -36,6 +45,18 @@
         "\u062a\u0627\u0644 \u062a\u0627\u0644"
     ],
     "name:fra_x_preferred":[
+        "Taltal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05dc\u05d8\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093e\u0932\u094d\u091f\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Taltal"
+    ],
+    "name:ind_x_preferred":[
         "Taltal"
     ],
     "name:ita_x_preferred":[
@@ -71,6 +92,15 @@
     "name:tur_x_preferred":[
         "Taltal"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043b\u044c\u0442\u0430\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0644\u0679\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Taltal"
+    ],
     "name:zho_x_preferred":[
         "\u5854\u723e\u5854\u723e"
     ],
@@ -101,7 +131,7 @@
     },
     "wof:country":"CL",
     "wof:created":1469056015,
-    "wof:geomhash":"657abfb126edff9e7dfac79a203a371c",
+    "wof:geomhash":"21a0c8edbcad31d774a4e6a56381a8d9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +142,7 @@
         }
     ],
     "wof:id":890517583,
-    "wof:lastmodified":1566644630,
+    "wof:lastmodified":1636495047,
     "wof:name":"Taltal",
     "wof:parent_id":102063073,
     "wof:placetype":"localadmin",
@@ -122,10 +152,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.4830645,
+    -70.483064,
     -25.406376,
-    -70.4830645,
+    -70.483064,
     -25.406376
 ],
-  "geometry": {"coordinates":[-70.4830645,-25.406376],"type":"Point"}
+  "geometry": {"coordinates":[-70.483064,-25.406376],"type":"Point"}
 }

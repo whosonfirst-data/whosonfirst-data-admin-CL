@@ -52,6 +52,9 @@
     "name:bel_x_variant":[
         "\u041f\u0456\u0447\u044b\u043b\u0435\u043c\u0443"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u099a\u09b2\u09c7\u09ae\u09c1"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u0447\u0438\u043b\u0435\u043c\u0443"
     ],
@@ -329,7 +332,7 @@
         }
     ],
     "wof:id":1125328187,
-    "wof:lastmodified":1566644659,
+    "wof:lastmodified":1636495052,
     "wof:name":"Pichilemu",
     "wof:parent_id":102063149,
     "wof:placetype":"localadmin",

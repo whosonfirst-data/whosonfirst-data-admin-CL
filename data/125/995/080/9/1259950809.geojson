@@ -42,6 +42,12 @@
     "name:fra_x_preferred":[
         "Calabozo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d1\u05d5\u05d6\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Calabozo"
+    ],
     "name:ita_x_preferred":[
         "Calabozo"
     ],
@@ -84,7 +90,7 @@
         "gn:id":8308883
     },
     "wof:country":"CL",
-    "wof:geomhash":"7ebe5f188159b39287759f2f688a7609",
+    "wof:geomhash":"5d4dd51655cd406c21c5509a51c9bb85",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1259950809,
-    "wof:lastmodified":1566644736,
+    "wof:lastmodified":1636495057,
     "wof:name":"Calabozo",
     "wof:parent_id":102063135,
     "wof:placetype":"locality",
@@ -105,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.13649000000002,
+    -73.13649,
     -41.36452,
-    -73.13649000000002,
+    -73.13649,
     -41.36452
 ],
-  "geometry": {"coordinates":[-73.13649000000002,-41.36452],"type":"Point"}
+  "geometry": {"coordinates":[-73.13648999999999,-41.36452],"type":"Point"}
 }

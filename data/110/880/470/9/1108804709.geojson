@@ -39,6 +39,9 @@
     "name:bar_x_preferred":[
         "Regi\u00f3n de Arica y Parinacota"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09bf\u0995\u09be \u0987\u09df\u09be \u09aa\u09be\u09b0\u09bf\u09a8\u09be\u0995\u09cb\u099f\u09be"
+    ],
     "name:bre_x_preferred":[
         "Rannvro Arica ha Parinacota"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:deu_x_preferred":[
         "Regi\u00f3n de Arica y Parinacota"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03af\u03ba\u03b1 \u03b9 \u03a0\u03b1\u03c1\u03b9\u03bd\u03b1\u03ba\u03cc\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Arica and Parinacota"
@@ -87,8 +93,14 @@
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Arica e Parinacota"
     ],
+    "name:hin_x_preferred":[
+        "\u090f\u0930\u093f\u0915\u093e \u0935\u093e\u0908 \u092a\u0930\u093f\u0928\u093e\u0915\u094b\u091f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "XV. regija Arica i Parinacota"
+    ],
+    "name:hun_x_preferred":[
+        "Arica y Parinacota"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u056b\u056f\u0561 \u0587 \u054a\u0561\u0580\u056b\u0576\u0561\u056f\u0578\u057f\u0561"
@@ -296,7 +308,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614893157,
+    "wof:lastmodified":1636495037,
     "wof:name":"Arica y Parinacota",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09b2\u09bf\u0997\u09c1\u09df\u09be"
+    ],
     "name:ceb_x_preferred":[
         "La Ligua"
     ],
@@ -40,6 +43,9 @@
     "name:deu_x_preferred":[
         "La Ligua"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u039b\u03af\u03b3\u03ba\u03bf\u03c5\u03b1"
+    ],
     "name:eus_x_preferred":[
         "La Ligua"
     ],
@@ -47,6 +53,18 @@
         "\u0644\u0627 \u0644\u06cc\u06af\u0648\u0622"
     ],
     "name:fra_x_preferred":[
+        "La Ligua"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05dc\u05d9\u05d2\u05d5\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0932\u093f\u0917\u0941\u0906"
+    ],
+    "name:hun_x_preferred":[
+        "La Ligua"
+    ],
+    "name:ind_x_preferred":[
         "La Ligua"
     ],
     "name:ita_x_preferred":[
@@ -79,8 +97,17 @@
     "name:swe_x_preferred":[
         "La Ligua"
     ],
+    "name:tur_x_preferred":[
+        "La Ligua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041b\u0456\u0433\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0644\u06cc\u06af\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Ligua"
     ],
     "name:war_x_preferred":[
         "La Ligua"
@@ -100,7 +127,7 @@
         "gn:id":3885458
     },
     "wof:country":"CL",
-    "wof:geomhash":"ab466ecad1a8e3e2da184e8bf2ff96c6",
+    "wof:geomhash":"61658c8878470f98ba5feb36ffc94f93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +138,7 @@
         }
     ],
     "wof:id":1360306661,
-    "wof:lastmodified":1566644574,
+    "wof:lastmodified":1636495040,
     "wof:name":"La Ligua",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",
@@ -121,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.03886999999997,
+    -71.03887,
     -31.04768,
-    -71.03886999999997,
+    -71.03887,
     -31.04768
 ],
-  "geometry": {"coordinates":[-71.03886999999997,-31.04768],"type":"Point"}
+  "geometry": {"coordinates":[-71.03887,-31.04768],"type":"Point"}
 }

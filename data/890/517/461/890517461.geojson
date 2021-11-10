@@ -51,7 +51,13 @@
         "\u0414\u0456\u0454\u0491\u043e \u0434\u0435 \u0410\u043b\u044c\u043c\u0430\u0491\u0440\u043e"
     ],
     "name:urd_x_preferred":[
+        "\u0688\u06cc\u06af\u0648 \u0688\u06cc \u0627\u0644\u0645\u06cc\u06af\u0631\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u0688\u06cc\u0627\u06cc\u06af\u0648 \u0688\u06cc \u0627\u0644\u0645\u0627\u0631\u06af\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Diego de Almagro"
     ],
     "name:zho_x_preferred":[
         "\u8fed\u6208\u00b7\u5fb7\u00b7\u963f\u723e\u99ac\u683c\u7f85"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":890517461,
-    "wof:lastmodified":1566644625,
+    "wof:lastmodified":1636495046,
     "wof:name":"Diego de Almagro",
     "wof:parent_id":102063133,
     "wof:placetype":"localadmin",

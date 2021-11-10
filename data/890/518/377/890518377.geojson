@@ -23,6 +23,9 @@
     "name:aze_x_preferred":[
         "Curanilahue"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u0989\u09b0\u09be\u09a8\u09bf\u09b2\u09be\u09b9\u09c1\u09df\u09c7"
+    ],
     "name:cat_x_preferred":[
         "Curanilahue"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Curanilahue"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03b1\u03bd\u03b9\u03bb\u03ac\u03bf\u03c5\u03b5"
     ],
     "name:eng_x_preferred":[
         "Curanilahue"
@@ -44,8 +50,23 @@
     "name:fra_x_preferred":[
         "Curanilahue"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d0\u05e0\u05d9\u05dc\u05d4\u05d5\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0930\u093e\u0928\u093f\u0932\u093e\u0939\u094d\u092f\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Curanilahue"
+    ],
+    "name:ind_x_preferred":[
+        "Curanilahue"
+    ],
     "name:ita_x_preferred":[
         "Curanilahue"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30cb\u30e9\u30a6\u30a8"
     ],
     "name:kor_x_preferred":[
         "\ucfe0\ub77c\ub2d0\ub77c\uc6b0\uc5d0"
@@ -78,6 +99,18 @@
         "\u041a\u0443\u0440\u0430\u043d\u0438\u043b\u0430\u0432\u0435"
     ],
     "name:swe_x_preferred":[
+        "Curanilahue"
+    ],
+    "name:tur_x_preferred":[
+        "Curanilahue"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u043d\u0456\u043b\u0430\u0443\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0648\u0631\u0627\u0646\u0644\u0627\u06c1\u0648\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Curanilahue"
     ],
     "name:zho_x_preferred":[
@@ -121,7 +154,7 @@
         }
     ],
     "wof:id":890518377,
-    "wof:lastmodified":1566644642,
+    "wof:lastmodified":1636495050,
     "wof:name":"Curanilahue",
     "wof:parent_id":102063153,
     "wof:placetype":"localadmin",

@@ -119,6 +119,9 @@
         "\u10e2\u10e0\u10d8\u10dc\u10d8\u10d3\u10d0\u10d3\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc\uc12c"
     ],
     "name:kur_x_preferred":[
@@ -232,7 +235,7 @@
         "gn:id":3869082
     },
     "wof:country":"CL",
-    "wof:geomhash":"f510917f28a1ec853f1e7de730f11d3d",
+    "wof:geomhash":"12a3911572d42f757c99e11ca2fe86cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":1242563261,
-    "wof:lastmodified":1566644687,
+    "wof:lastmodified":1636495055,
     "wof:name":"Trinidad",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",
@@ -254,9 +257,9 @@
 },
   "bbox": [
     -71.5652,
-    -34.37730999999999,
+    -34.37731,
     -71.5652,
-    -34.37730999999999
+    -34.37731
 ],
-  "geometry": {"coordinates":[-71.5652,-34.37730999999999],"type":"Point"}
+  "geometry": {"coordinates":[-71.5652,-34.37731],"type":"Point"}
 }

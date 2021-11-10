@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a8\u09cb\u0997\u09be\u09b2\u09c7\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Nogales"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Nogales"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u094b\u0917\u093e\u0932\u0947\u0938"
     ],
     "name:ita_x_preferred":[
         "Nogales"
@@ -68,6 +74,12 @@
         "Nogales"
     ],
     "name:spa_x_preferred":[
+        "Nogales"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06af\u0627\u0644\u06cc\u0632"
+    ],
+    "name:vie_x_preferred":[
         "Nogales"
     ],
     "name:zho_x_preferred":[
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1193146581,
-    "wof:lastmodified":1566644509,
+    "wof:lastmodified":1636495035,
     "wof:name":"Nogales",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

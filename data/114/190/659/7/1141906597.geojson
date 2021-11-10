@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.0199815284,-37.6700146294,-72.0199815284,-37.6700146294",
+    "geom:bbox":"-72.019982,-37.670015,-72.019982,-37.670015",
     "geom:latitude":-37.670015,
     "geom:longitude":-72.019982,
     "iso:country":"CL",
@@ -43,6 +43,9 @@
         "\u30b5\u30f3\u30bf\u30fb\u30d0\u30eb\u30d0\u30e9"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0\ud0c0 \ubc14\ubc14\ub77c"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ud0c0\ubc14\ub974\ubc14\ub77c"
     ],
     "name:nan_x_preferred":[
@@ -53,6 +56,9 @@
     ],
     "name:oci_x_preferred":[
         "Santa B\u00e1rbara"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Barbara"
     ],
     "name:por_x_preferred":[
         "Santa B\u00e1rbara"
@@ -68,6 +74,15 @@
     ],
     "name:swe_x_preferred":[
         "Santa B\u00e1rbara"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u06cc\u0631\u0627"
     ],
     "name:war_x_preferred":[
         "Santa B\u00e1rbara"
@@ -183,7 +198,7 @@
     },
     "wof:country":"CL",
     "wof:created":1499130614,
-    "wof:geomhash":"da531ca65f2b4cd8c822321439e70217",
+    "wof:geomhash":"d5e8ac19c4079d6c58ff92e1ebc23525",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -194,7 +209,7 @@
         }
     ],
     "wof:id":1141906597,
-    "wof:lastmodified":1566644803,
+    "wof:lastmodified":1636495062,
     "wof:name":"Santa Barbara",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",
@@ -204,10 +219,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.01998152839548,
-    -37.67001462936599,
-    -72.01998152839548,
-    -37.67001462936599
+    -72.019982,
+    -37.670015,
+    -72.019982,
+    -37.670015
 ],
-  "geometry": {"coordinates":[-72.01998152839548,-37.67001462936599],"type":"Point"}
+  "geometry": {"coordinates":[-72.019982,-37.670015],"type":"Point"}
 }

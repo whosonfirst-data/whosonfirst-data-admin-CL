@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ovalle"
     ],
+    "name:hun_x_preferred":[
+        "Ovalle"
+    ],
     "name:ita_x_preferred":[
         "Ovalle"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1125417783,
-    "wof:lastmodified":1566644667,
+    "wof:lastmodified":1636495054,
     "wof:name":"Ovalle",
     "wof:parent_id":102063113,
     "wof:placetype":"localadmin",

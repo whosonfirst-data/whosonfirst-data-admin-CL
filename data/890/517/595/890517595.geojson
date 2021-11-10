@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0646\u0634\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09cb\u099e\u09cd\u099a\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Chonchi"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Chonchi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03cc\u03bd\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Chonchi"
@@ -42,6 +48,18 @@
         "Chonchi"
     ],
     "name:glg_x_preferred":[
+        "Chonchi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05e0\u05e6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u094b\u0902\u091a\u093f"
+    ],
+    "name:hun_x_preferred":[
+        "Chonchi"
+    ],
+    "name:ind_x_preferred":[
         "Chonchi"
     ],
     "name:ita_x_preferred":[
@@ -78,6 +96,18 @@
         "Chonchi"
     ],
     "name:swe_x_preferred":[
+        "Chonchi"
+    ],
+    "name:tur_x_preferred":[
+        "Chonchi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u043d\u0447\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u0646\u0686\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Chonchi"
     ],
     "name:zho_x_preferred":[
@@ -121,7 +151,7 @@
         }
     ],
     "wof:id":890517595,
-    "wof:lastmodified":1566644600,
+    "wof:lastmodified":1636495043,
     "wof:name":"Chonchi",
     "wof:parent_id":102063115,
     "wof:placetype":"localadmin",

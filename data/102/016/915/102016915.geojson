@@ -861,6 +861,9 @@
         "\u5723\u5730\u4e9a\u54e5"
     ],
     "name:zho_tw_x_preferred":[
+        "\u8056\u5730\u7259\u54e5"
+    ],
+    "name:zho_tw_x_variant":[
         "\u8056\u5730\u4e9e\u54e5"
     ],
     "name:zho_x_preferred":[
@@ -937,7 +940,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1617130666,
+    "wof:lastmodified":1636495011,
     "wof:megacity":1,
     "wof:name":"Santiago",
     "wof:parent_id":102063117,

@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u0648 \u0623\u0644\u0645\u0648\u0646\u062a\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u099c\u09cb \u0986\u09b2\u09ae\u09a8\u09cd\u09a4\u09c7"
+    ],
     "name:cat_x_preferred":[
         "Pozo Almonte"
     ],
     "name:deu_x_preferred":[
         "Pozo Almonte"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03b6\u03bf \u0391\u03bb\u03bc\u03cc\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Pozo Almonte"
@@ -41,8 +47,23 @@
     "name:glg_x_preferred":[
         "Pozo Almonte"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d6\u05d5 \u05d0\u05dc\u05de\u05d5\u05e0\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u091c\u093c\u094b \u0910\u0932\u094d\u092e\u093e\u0902\u091f\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Pozo Almonte"
+    ],
+    "name:ind_x_preferred":[
+        "Pozo Almonte"
+    ],
     "name:ita_x_preferred":[
         "Pozo Almonte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30bd\u30a2\u30eb\u30e2\u30f3\u30c6"
     ],
     "name:kor_x_preferred":[
         "\ud3ec\uc18c\uc54c\ubaac\ud14c"
@@ -74,7 +95,19 @@
     "name:spa_x_preferred":[
         "Pozo Almonte"
     ],
+    "name:swe_x_preferred":[
+        "Pozo Almonte"
+    ],
     "name:tur_x_preferred":[
+        "Pozo Almonte"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0441\u043e-\u0410\u043b\u044c\u043c\u043e\u043d\u0442\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0632\u0648 \u0627\u0644\u0645\u0648\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Pozo Almonte"
     ],
     "name:war_x_preferred":[
@@ -121,7 +154,7 @@
         }
     ],
     "wof:id":890517973,
-    "wof:lastmodified":1566644628,
+    "wof:lastmodified":1636495047,
     "wof:name":"Pozo Almonte",
     "wof:parent_id":890517491,
     "wof:placetype":"localadmin",

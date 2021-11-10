@@ -104,6 +104,9 @@
     "name:hin_x_preferred":[
         "\u0915\u094b\u092f\u0939\u093e\u0907\u0915"
     ],
+    "name:hun_x_preferred":[
+        "Coihaique"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0575\u0561\u0575\u056f\u0565"
     ],
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":890517999,
-    "wof:lastmodified":1566644602,
+    "wof:lastmodified":1636495044,
     "wof:name":"Coihaique",
     "wof:parent_id":102063079,
     "wof:placetype":"localadmin",

@@ -66,7 +66,16 @@
         "Cochrane"
     ],
     "name:ukr_x_preferred":[
+        "\u041a\u043e\u043a\u0440\u0430\u043d"
+    ],
+    "name:ukr_x_variant":[
         "\u041a\u043e\u043a\u0440\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0686\u0631\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Cochrane"
     ],
     "qs:name":"Cochrane",
     "qs:name_adm0":"Chile",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":890517523,
-    "wof:lastmodified":1566644630,
+    "wof:lastmodified":1636495047,
     "wof:name":"Cochrane",
     "wof:parent_id":102063085,
     "wof:placetype":"localadmin",

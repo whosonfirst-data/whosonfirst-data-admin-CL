@@ -41,9 +41,15 @@
         "Rinconada"
     ],
     "name:kor_x_preferred":[
+        "\ub9b0\ucf54\ub098\ub2e4"
+    ],
+    "name:kor_x_variant":[
         "\ub9c1\ucf54\ub098\ub2e4"
     ],
     "name:nld_x_preferred":[
+        "Rinconada"
+    ],
+    "name:pol_x_preferred":[
         "Rinconada"
     ],
     "name:por_x_preferred":[
@@ -57,6 +63,21 @@
     ],
     "name:spa_x_preferred":[
         "Rinconada"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043d\u043a\u043e\u043d\u0430\u0434\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0646\u06a9\u0648\u0646\u0627\u0688\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Rinconada"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6797\u79d1\u7eb3\u8fbe"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6797\u79d1\u7d0d\u9054"
     ],
     "name:zho_x_preferred":[
         "\u6797\u79d1\u7d0d\u9054"
@@ -73,7 +94,7 @@
         "gn:id":3873275
     },
     "wof:country":"CL",
-    "wof:geomhash":"04b2a8d2b1ea3beaad40b6c3698ac61a",
+    "wof:geomhash":"56d9d50a14a4975aef36f61017cde064",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +105,7 @@
         }
     ],
     "wof:id":1276321751,
-    "wof:lastmodified":1566644430,
+    "wof:lastmodified":1636495031,
     "wof:name":"Rinconada",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",
@@ -94,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.76581999999998,
+    -71.76582,
     -36.05694,
-    -71.76581999999998,
+    -71.76582,
     -36.05694
 ],
-  "geometry": {"coordinates":[-71.76581999999998,-36.05694],"type":"Point"}
+  "geometry": {"coordinates":[-71.76582000000001,-36.05694],"type":"Point"}
 }

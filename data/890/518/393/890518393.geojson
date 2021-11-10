@@ -128,6 +128,9 @@
     "name:hat_x_preferred":[
         "Talcahuano"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05dc\u05e7\u05d7\u05d5\u05d0\u05e0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0932\u0915\u0941\u0906\u0928\u094b"
     ],
@@ -328,7 +331,7 @@
         }
     ],
     "wof:id":890518393,
-    "wof:lastmodified":1566644647,
+    "wof:lastmodified":1636495050,
     "wof:name":"Talcahuano",
     "wof:parent_id":102063171,
     "wof:placetype":"localadmin",

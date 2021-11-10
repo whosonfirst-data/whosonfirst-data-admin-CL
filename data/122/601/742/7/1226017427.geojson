@@ -58,6 +58,12 @@
     "name:glg_x_preferred":[
         "Cobija"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d1\u05d9\u05d7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Cobija"
+    ],
     "name:ita_x_preferred":[
         "Cobija"
     ],
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":1226017427,
-    "wof:lastmodified":1566644792,
+    "wof:lastmodified":1636495061,
     "wof:name":"Cobija",
     "wof:parent_id":102063165,
     "wof:placetype":"locality",

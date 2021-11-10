@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Carora"
     ],
+    "name:hun_x_preferred":[
+        "Carora"
+    ],
     "name:ita_x_preferred":[
         "Carora"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1276853907,
-    "wof:lastmodified":1566644438,
+    "wof:lastmodified":1636495031,
     "wof:name":"Carora",
     "wof:parent_id":890517491,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.4666044532,-52.6499788221,-71.4666044532,-52.6499788221",
+    "geom:bbox":"-71.466604,-52.649979,-71.466604,-52.649979",
     "geom:latitude":-52.649979,
     "geom:longitude":-71.466604,
     "iso:country":"CL",
@@ -43,6 +43,9 @@
         "R\u00edo Verde"
     ],
     "name:kor_x_preferred":[
+        "\ub9ac\uc624 \ubca0\ub974\ub370"
+    ],
+    "name:kor_x_variant":[
         "\ub9ac\uc624\ubca0\ub974\ub370"
     ],
     "name:nan_x_preferred":[
@@ -72,8 +75,14 @@
     "name:swe_x_preferred":[
         "R\u00edo Verde"
     ],
+    "name:tur_x_preferred":[
+        "Rio Verde"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043e-\u0412\u0435\u0440\u0434\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u0648\u0631\u0688\u06d2"
     ],
     "name:zho_x_preferred":[
         "\u91cc\u5967\u97cb\u723e\u5fb7"
@@ -189,7 +198,7 @@
     },
     "wof:country":"CL",
     "wof:created":1499130612,
-    "wof:geomhash":"2a7304eb413bb53e33158e746b7ef422",
+    "wof:geomhash":"a128686bb40a12d5bc76ea789d333d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":1141906577,
-    "wof:lastmodified":1566644803,
+    "wof:lastmodified":1636495062,
     "wof:name":"Rio Verde",
     "wof:parent_id":102063075,
     "wof:placetype":"locality",
@@ -212,10 +221,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.46660445319793,
-    -52.64997882213436,
-    -71.46660445319793,
-    -52.64997882213436
+    -71.466604,
+    -52.649979,
+    -71.466604,
+    -52.649979
 ],
-  "geometry": {"coordinates":[-71.46660445319793,-52.64997882213436],"type":"Point"}
+  "geometry": {"coordinates":[-71.466604,-52.649979],"type":"Point"}
 }
