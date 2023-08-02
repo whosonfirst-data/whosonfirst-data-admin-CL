@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.42678,-42.2410675,-73.42678,-42.2410675",
+    "geom:bbox":"-73.42678,-42.241067,-73.42678,-42.241067",
     "geom:latitude":-42.241067,
     "geom:longitude":-73.42678,
     "gp:adm0":23424782,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Quemchi"
+    ],
+    "name:bre_x_preferred":[
+        "Quemchi"
+    ],
     "name:cat_x_preferred":[
         "Quemchi"
     ],
@@ -56,6 +62,9 @@
     "name:oci_x_preferred":[
         "Quemchi"
     ],
+    "name:pol_x_preferred":[
+        "Quemchi"
+    ],
     "name:por_x_preferred":[
         "Quemchi"
     ],
@@ -69,6 +78,12 @@
         "Quemchi"
     ],
     "name:swe_x_preferred":[
+        "Quemchi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043c\u0447\u0456"
+    ],
+    "name:war_x_preferred":[
         "Quemchi"
     ],
     "name:zho_x_preferred":[
@@ -101,7 +116,7 @@
     },
     "wof:country":"CL",
     "wof:created":1469056040,
-    "wof:geomhash":"6ea9428abcf2b886a84905e53ef26fa1",
+    "wof:geomhash":"7f3a5d7555148adff700dbd3042ef927",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":890518021,
-    "wof:lastmodified":1566644651,
+    "wof:lastmodified":1690866997,
     "wof:name":"Quemchi",
     "wof:parent_id":102063115,
     "wof:placetype":"localadmin",
@@ -123,9 +138,9 @@
 },
   "bbox": [
     -73.42678,
-    -42.2410675,
+    -42.241067,
     -73.42678,
-    -42.2410675
+    -42.241067
 ],
-  "geometry": {"coordinates":[-73.42677999999999,-42.2410675],"type":"Point"}
+  "geometry": {"coordinates":[-73.42677999999999,-42.241067],"type":"Point"}
 }

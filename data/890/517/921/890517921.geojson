@@ -20,10 +20,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Nogales"
+    ],
     "name:cat_x_preferred":[
         "Nogales"
     ],
     "name:ceb_x_preferred":[
+        "Nogales"
+    ],
+    "name:deu_x_preferred":[
+        "Nogales"
+    ],
+    "name:diq_x_preferred":[
         "Nogales"
     ],
     "name:eng_x_preferred":[
@@ -56,6 +65,9 @@
     "name:oci_x_preferred":[
         "Nogales"
     ],
+    "name:pol_x_preferred":[
+        "Nogales"
+    ],
     "name:por_x_preferred":[
         "Nogales"
     ],
@@ -73,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Nogales"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0433\u0430\u043b\u0435\u0441"
     ],
     "name:zho_x_preferred":[
         "\u8afe\u52a0\u840a\u65af"
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":890517921,
-    "wof:lastmodified":1566644630,
+    "wof:lastmodified":1690866980,
     "wof:name":"Los Nogales",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

@@ -76,6 +76,9 @@
     "name:szl_x_preferred":[
         "Cerro Navia"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u043e-\u041d\u0430\u0432\u0456\u044f"
+    ],
     "name:zho_x_preferred":[
         "\u585e\u7f85\u7d0d\u7dad\u4e9e"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890517709,
-    "wof:lastmodified":1566644601,
+    "wof:lastmodified":1690866954,
     "wof:name":"Cerro Navia",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

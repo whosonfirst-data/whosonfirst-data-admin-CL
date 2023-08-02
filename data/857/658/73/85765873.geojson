@@ -28,6 +28,9 @@
     "mz:max_zoom":0.0,
     "mz:min_zoom":0.0,
     "mz:tier_locality":4,
+    "name:ara_x_preferred":[
+        "\u0644\u0648 \u0628\u0631\u0627\u062f\u0648"
+    ],
     "name:cat_x_preferred":[
         "Lo Prado"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Lo Prado"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e-\u041f\u0440\u0430\u0434\u043e"
     ],
     "name:zho_min_nan_x_preferred":[
         "Lo Prado"
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":85765873,
-    "wof:lastmodified":1617131349,
+    "wof:lastmodified":1690866918,
     "wof:name":"Lo Prado",
     "wof:parent_id":102016915,
     "wof:placetype":"neighbourhood",

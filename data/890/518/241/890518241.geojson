@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bak_x_preferred":[
+        "\u0421\u044c\u044e\u044d\u043b\u043b"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u044e\u044a\u043b"
     ],
@@ -45,6 +48,9 @@
         "Sewell"
     ],
     "name:fra_x_preferred":[
+        "Sewell"
+    ],
+    "name:glg_x_preferred":[
         "Sewell"
     ],
     "name:heb_x_preferred":[
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":890518241,
-    "wof:lastmodified":1566644648,
+    "wof:lastmodified":1690866993,
     "wof:name":"Sewell",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",

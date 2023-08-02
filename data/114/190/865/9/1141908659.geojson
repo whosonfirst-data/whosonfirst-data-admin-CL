@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.7000175391,-45.3999304009,-72.7000175391,-45.3999304009",
+    "geom:bbox":"-72.700018,-45.39993,-72.700018,-45.39993",
     "geom:latitude":-45.39993,
     "geom:longitude":-72.700018,
     "iso:country":"CL",
@@ -24,8 +24,14 @@
     "name:ast_x_preferred":[
         "Puertu Ays\u00e9n"
     ],
+    "name:ast_x_variant":[
+        "Puerto Ays\u00e9n"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u0986\u09b8\u09bf\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Puerto Ais\u00e9n"
     ],
     "name:ceb_x_preferred":[
         "Puerto Ais\u00e9n"
@@ -36,11 +42,17 @@
     "name:deu_x_preferred":[
         "Puerto Ais\u00e9n"
     ],
+    "name:diq_x_preferred":[
+        "Puerto Aysen"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u0391\u03ca\u03c3\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Puerto Ais\u00e9n"
+    ],
+    "name:eng_x_variant":[
+        "Puerto Ays\u00e9n"
     ],
     "name:eus_x_preferred":[
         "Puerto Ays\u00e9n"
@@ -122,6 +134,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e31\u0e27\u0e23\u0e4c\u0e42\u0e15 \u0e44\u0e2d\u0e40\u0e0b\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e44\u0e2d\u0e40\u0e0b\u0e19"
     ],
     "name:tur_x_preferred":[
         "Puerto Aisen"
@@ -249,7 +264,7 @@
     },
     "wof:country":"CL",
     "wof:created":1499130949,
-    "wof:geomhash":"51213f833e174978528dd17354c7dc39",
+    "wof:geomhash":"be45b02d8237ea8f19f3141165c36191",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -260,7 +275,7 @@
         }
     ],
     "wof:id":1141908659,
-    "wof:lastmodified":1566644804,
+    "wof:lastmodified":1690867007,
     "wof:name":"Puerto Aisen",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",
@@ -270,10 +285,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.70001753914039,
-    -45.39993040088132,
-    -72.70001753914039,
-    -45.39993040088132
+    -72.700018,
+    -45.39993,
+    -72.700018,
+    -45.39993
 ],
-  "geometry": {"coordinates":[-72.70001753914039,-45.39993040088132],"type":"Point"}
+  "geometry": {"coordinates":[-72.700018,-45.39993],"type":"Point"}
 }

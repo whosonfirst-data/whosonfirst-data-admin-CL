@@ -23,6 +23,12 @@
     "name:afr_x_preferred":[
         "Lota"
     ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Lota"
+    ],
     "name:aym_x_preferred":[
         "Lota"
     ],
@@ -323,7 +329,7 @@
         }
     ],
     "wof:id":102017419,
-    "wof:lastmodified":1642551711,
+    "wof:lastmodified":1690866893,
     "wof:name":"Lota",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

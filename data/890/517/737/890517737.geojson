@@ -26,7 +26,13 @@
     "name:ceb_x_preferred":[
         "El Quisco"
     ],
+    "name:ces_x_preferred":[
+        "El Quisco"
+    ],
     "name:deu_x_preferred":[
+        "El Quisco"
+    ],
+    "name:diq_x_preferred":[
         "El Quisco"
     ],
     "name:eng_x_preferred":[
@@ -56,6 +62,9 @@
     "name:oci_x_preferred":[
         "El Quisco"
     ],
+    "name:pol_x_preferred":[
+        "El Quisco"
+    ],
     "name:por_x_preferred":[
         "El Quisco"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "El Quisco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0456\u0441\u043a\u043e"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u57fa\u65af\u79d1"
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":890517737,
-    "wof:lastmodified":1566644600,
+    "wof:lastmodified":1690866952,
     "wof:name":"El Quisco",
     "wof:parent_id":102063167,
     "wof:placetype":"localadmin",

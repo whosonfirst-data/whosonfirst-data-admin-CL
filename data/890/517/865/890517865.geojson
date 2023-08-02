@@ -23,6 +23,9 @@
     "name:arn_x_preferred":[
         "Loncoche"
     ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u043d\u043a\u043e\u0447\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09a8\u0995\u09cb\u099a\u09c7"
     ],
@@ -78,6 +81,9 @@
         "Loncoche"
     ],
     "name:oci_x_preferred":[
+        "Loncoche"
+    ],
+    "name:pol_x_preferred":[
         "Loncoche"
     ],
     "name:por_x_preferred":[
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":890517865,
-    "wof:lastmodified":1636495046,
+    "wof:lastmodified":1690866974,
     "wof:name":"Loncoche",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

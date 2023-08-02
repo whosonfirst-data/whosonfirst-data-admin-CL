@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Hijuelas"
     ],
+    "name:diq_x_preferred":[
+        "Hijuelas"
+    ],
     "name:eng_x_preferred":[
         "Hijuelas"
     ],
@@ -38,8 +41,17 @@
     "name:fra_x_preferred":[
         "Hijuelas"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d7\u05d5\u05d0\u05dc\u05e1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u056b\u057b\u0578\u0582\u0565\u056c\u0561\u057d"
+    ],
     "name:ita_x_preferred":[
         "Hijuelas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30d5\u30a8\u30e9\u30b9"
     ],
     "name:kor_x_preferred":[
         "\uc774\ud6c4\uc5d8\ub77c\uc2a4"
@@ -76,6 +88,9 @@
     ],
     "name:swe_x_preferred":[
         "Hijuelas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0445\u0443\u0435\u043b\u0430\u0441"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u80e1\u57c3\u62c9\u65af"
@@ -128,7 +143,7 @@
         }
     ],
     "wof:id":890518367,
-    "wof:lastmodified":1582316358,
+    "wof:lastmodified":1690866992,
     "wof:name":"Hijuelas",
     "wof:parent_id":102063103,
     "wof:placetype":"localadmin",

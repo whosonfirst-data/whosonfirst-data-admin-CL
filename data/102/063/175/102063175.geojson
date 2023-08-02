@@ -42,6 +42,15 @@
     "name:bak_x_preferred":[
         "\u0423\u0430\u0441\u043a\u043e"
     ],
+    "name:bre_x_preferred":[
+        "Provi\u00f1s Huasco"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Huasco"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Huasco"
+    ],
     "name:eng_x_preferred":[
         "Huasco"
     ],
@@ -51,11 +60,20 @@
     "name:epo_x_preferred":[
         "Provinco Huasco"
     ],
+    "name:eus_x_preferred":[
+        "Huasco probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0648\u0622\u0632\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
         "province de Huasco"
+    ],
+    "name:fra_x_variant":[
+        "Huasco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05e1\u05e7\u05d5"
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0561\u057d\u056f\u0578"
@@ -75,6 +93,9 @@
     "name:kor_x_preferred":[
         "\uc6b0\uc544\uc2a4\ucf54 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc544\uc2a4\ucf54\ud604"
+    ],
     "name:lit_x_preferred":[
         "Uasko provincija"
     ],
@@ -83,6 +104,9 @@
     ],
     "name:nld_x_preferred":[
         "Huasco"
+    ],
+    "name:nno_x_preferred":[
+        "Huasco-provinsen"
     ],
     "name:nob_x_preferred":[
         "Provincia de Huasco"
@@ -186,7 +210,7 @@
         }
     ],
     "wof:id":102063175,
-    "wof:lastmodified":1636495001,
+    "wof:lastmodified":1690866777,
     "wof:name":"Huasco",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

@@ -68,6 +68,9 @@
     "name:deu_x_preferred":[
         "Regi\u00f3n de Coquimbo"
     ],
+    "name:diq_x_preferred":[
+        "Coquimbo"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03ba\u03af\u03bc\u03c0\u03bf"
     ],
@@ -101,6 +104,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a95\u0ac1\u0aae\u0acd\u0aac\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e7\u05d9\u05de\u05d1\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0915\u093f\u092e\u094d\u092c\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
@@ -109,6 +115,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u056f\u056b\u0574\u0562\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u0578\u0584\u056b\u0574\u057a\u0585"
     ],
     "name:ilo_x_preferred":[
         "Rehion ti Coquimbo"
@@ -167,6 +176,9 @@
     "name:nld_x_preferred":[
         "Coquimbo"
     ],
+    "name:nno_x_preferred":[
+        "Coquimbo-regionen"
+    ],
     "name:nob_x_preferred":[
         "Coquimbo"
     ],
@@ -218,6 +230,9 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c15\u0c4d\u0c35\u0c3f\u0c02\u0c2c\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0438\u043d\u0442\u0430\u049b\u0430\u0438 \u041a\u043e\u043a\u0438\u043c\u0431\u043e"
+    ],
     "name:tha_x_preferred":[
         "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e42\u0e01\u0e01\u0e34\u0e21\u0e42\u0e1a"
     ],
@@ -238,6 +253,12 @@
     ],
     "name:war_x_preferred":[
         "IV Rehiyon han Coquimbo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u91d1\u535a\u5927\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u79d1\u91d1\u535a\u5927\u5340"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u91d1\u535a\u5927\u533a"
@@ -360,7 +381,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614893142,
+    "wof:lastmodified":1690866923,
     "wof:name":"De Coquimbo",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

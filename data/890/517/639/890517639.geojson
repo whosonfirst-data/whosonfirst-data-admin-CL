@@ -20,7 +20,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "Tortel"
+    ],
     "name:ceb_x_preferred":[
+        "Tortel"
+    ],
+    "name:ces_x_preferred":[
         "Tortel"
     ],
     "name:deu_x_preferred":[
@@ -62,11 +68,17 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u0442\u0435\u043b\u044c"
     ],
+    "name:slk_x_preferred":[
+        "Tortel"
+    ],
     "name:spa_x_preferred":[
         "Tortel"
     ],
     "name:swe_x_preferred":[
         "Tortel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0440\u0442\u0435\u043b\u044c"
     ],
     "name:zho_x_preferred":[
         "\u6258\u723e\u7279\u723e"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":890517639,
-    "wof:lastmodified":1566644624,
+    "wof:lastmodified":1690866975,
     "wof:name":"Tortel",
     "wof:parent_id":102063085,
     "wof:placetype":"locality",

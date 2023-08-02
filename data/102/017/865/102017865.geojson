@@ -47,10 +47,16 @@
     "name:ceb_x_preferred":[
         "Castro"
     ],
+    "name:ces_x_preferred":[
+        "Castro"
+    ],
     "name:dan_x_preferred":[
         "Castro"
     ],
     "name:deu_x_preferred":[
+        "Castro"
+    ],
+    "name:diq_x_preferred":[
         "Castro"
     ],
     "name:ell_x_preferred":[
@@ -121,6 +127,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u0938\u094d\u091f\u094d\u0930\u094b"
+    ],
+    "name:mlg_x_preferred":[
+        "Castro"
     ],
     "name:msa_x_preferred":[
         "Castro"
@@ -363,7 +372,7 @@
         }
     ],
     "wof:id":102017865,
-    "wof:lastmodified":1642551794,
+    "wof:lastmodified":1690866905,
     "wof:name":"Castro",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

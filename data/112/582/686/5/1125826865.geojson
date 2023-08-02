@@ -22,13 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645\u0628\u0627\u0631\u0628\u0627\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Combarbal\u00e1"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u043e\u043c\u0431\u0430\u0440\u0431\u0430\u043b\u0430"
     ],
     "name:cat_x_preferred":[
         "Combarbal\u00e1"
     ],
+    "name:ceb_x_preferred":[
+        "Combarbala"
+    ],
     "name:deu_x_preferred":[
+        "Combarbal\u00e1"
+    ],
+    "name:diq_x_preferred":[
         "Combarbal\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -85,6 +97,12 @@
     "name:spa_x_preferred":[
         "Combarbal\u00e1"
     ],
+    "name:swe_x_preferred":[
+        "Combarbala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0431\u0430\u0440\u0431\u0430\u043b\u0430"
+    ],
     "name:zho_x_preferred":[
         "\u5b54\u5df4\u723e\u74e6\u62c9"
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":1125826865,
-    "wof:lastmodified":1566644666,
+    "wof:lastmodified":1690867004,
     "wof:name":"Combarabala",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

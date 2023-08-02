@@ -41,8 +41,14 @@
     "name:aze_x_preferred":[
         "Temuco"
     ],
+    "name:aze_x_variant":[
+        "Temuko"
+    ],
     "name:bar_x_preferred":[
         "Temuco"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044d\u043c\u0443\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09ae\u09cb\u0995\u09cb"
@@ -66,6 +72,9 @@
         "Temuco"
     ],
     "name:deu_x_preferred":[
+        "Temuco"
+    ],
+    "name:din_x_preferred":[
         "Temuco"
     ],
     "name:ell_x_preferred":[
@@ -96,6 +105,9 @@
         "Temuco"
     ],
     "name:frp_x_preferred":[
+        "Temuco"
+    ],
+    "name:frr_x_preferred":[
         "Temuco"
     ],
     "name:gle_x_preferred":[
@@ -200,6 +212,9 @@
     "name:nld_x_preferred":[
         "Temuco"
     ],
+    "name:nno_x_preferred":[
+        "Temuco"
+    ],
     "name:nob_x_preferred":[
         "Temuco"
     ],
@@ -269,6 +284,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc6\u0bae\u0bc1\u0b95\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u043c\u0443\u043a\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c24\u0c46\u0c2e\u0c41\u0c15\u0c4b"
     ],
@@ -301,6 +319,9 @@
     ],
     "name:war_x_preferred":[
         "Temuco"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7279\u6728\u79d1"
     ],
     "name:yid_x_preferred":[
         "\u05d8\u05e2\u05de\u05d5\u05e7\u05d0"
@@ -352,7 +373,7 @@
         }
     ],
     "wof:id":890517497,
-    "wof:lastmodified":1566644607,
+    "wof:lastmodified":1690866958,
     "wof:name":"Temuco",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

@@ -29,11 +29,17 @@
     "name:arn_x_preferred":[
         "Leuvu"
     ],
+    "name:ast_x_preferred":[
+        "Lebu"
+    ],
     "name:aym_x_preferred":[
         "Lebu"
     ],
     "name:aze_x_preferred":[
         "Lebu"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0435\u0431\u0443"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09ac\u09c1"
@@ -360,7 +366,7 @@
         }
     ],
     "wof:id":102017497,
-    "wof:lastmodified":1642551739,
+    "wof:lastmodified":1690866868,
     "wof:name":"Lebu",
     "wof:parent_id":102063153,
     "wof:placetype":"locality",

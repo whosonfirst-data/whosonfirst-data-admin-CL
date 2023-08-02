@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Hualqui"
     ],
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0643\u064a"
+    ],
     "name:arg_x_preferred":[
         "Hualqui"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:aze_x_preferred":[
         "Hualqui"
+    ],
+    "name:aze_x_variant":[
+        "Ualki"
     ],
     "name:cat_x_preferred":[
         "Hualqui"
@@ -119,6 +125,9 @@
     "name:swe_x_preferred":[
         "Hualqui"
     ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0430\u043b\u044c\u043a\u0456"
+    ],
     "name:vol_x_preferred":[
         "Hualqui"
     ],
@@ -176,7 +185,7 @@
         }
     ],
     "wof:id":890517587,
-    "wof:lastmodified":1582316357,
+    "wof:lastmodified":1690866965,
     "wof:name":"Hualqui",
     "wof:parent_id":102063171,
     "wof:placetype":"localadmin",

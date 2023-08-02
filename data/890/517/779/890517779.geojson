@@ -86,6 +86,9 @@
     "name:ita_x_preferred":[
         "Pinto"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30f3\u30c8"
+    ],
     "name:ksh_x_preferred":[
         "Pinto"
     ],
@@ -161,6 +164,9 @@
     "name:vie_x_preferred":[
         "Pinto"
     ],
+    "name:war_x_preferred":[
+        "Pinto"
+    ],
     "qs:name":"Pinto",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Biobio",
@@ -209,7 +215,7 @@
         }
     ],
     "wof:id":890517779,
-    "wof:lastmodified":1582316357,
+    "wof:lastmodified":1690866965,
     "wof:name":"Pinto",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

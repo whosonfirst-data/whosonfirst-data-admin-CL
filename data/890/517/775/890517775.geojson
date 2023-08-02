@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Lonquimay"
     ],
+    "name:ceb_x_preferred":[
+        "Lonquimay"
+    ],
     "name:deu_x_preferred":[
         "Lonquimay"
     ],
@@ -81,6 +84,9 @@
         "Lonquimay"
     ],
     "name:oci_x_preferred":[
+        "Lonquimay"
+    ],
+    "name:pol_x_preferred":[
         "Lonquimay"
     ],
     "name:por_x_preferred":[
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":890517775,
-    "wof:lastmodified":1636495046,
+    "wof:lastmodified":1690866978,
     "wof:name":"Lonquimay",
     "wof:parent_id":102063101,
     "wof:placetype":"localadmin",

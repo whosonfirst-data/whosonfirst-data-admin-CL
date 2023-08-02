@@ -17,7 +17,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Teno"
+    ],
     "name:ceb_x_preferred":[
+        "Teno"
+    ],
+    "name:deu_x_preferred":[
         "Teno"
     ],
     "name:eng_x_preferred":[
@@ -47,6 +53,9 @@
     "name:nld_x_preferred":[
         "Teno"
     ],
+    "name:pol_x_preferred":[
+        "Teno"
+    ],
     "name:por_x_preferred":[
         "Teno"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:swe_x_preferred":[
         "Teno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043d\u043e"
     ],
     "name:zho_x_preferred":[
         "\u7279\u8afe"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":890518089,
-    "wof:lastmodified":1566644648,
+    "wof:lastmodified":1690866993,
     "wof:name":"Teno",
     "wof:parent_id":102063147,
     "wof:placetype":"localadmin",

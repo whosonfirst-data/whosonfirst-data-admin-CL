@@ -26,6 +26,9 @@
     "name:ast_x_preferred":[
         "Puertu Natales"
     ],
+    "name:ast_x_variant":[
+        "Puerto Natales"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09a8\u09be\u099f\u09be\u09b2\u09c7\u09b8"
     ],
@@ -44,6 +47,9 @@
     "name:deu_x_preferred":[
         "Puerto Natales"
     ],
+    "name:diq_x_preferred":[
+        "Puerto Natales"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039d\u03b1\u03c4\u03ac\u03bb\u03b5\u03c2"
     ],
@@ -51,6 +57,9 @@
         "Puerto Natales"
     ],
     "name:epo_x_preferred":[
+        "Puerto Natales"
+    ],
+    "name:eus_x_preferred":[
         "Puerto Natales"
     ],
     "name:fas_x_preferred":[
@@ -76,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Puerto Natales"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0565\u0580\u057f\u0578-\u0546\u0561\u057f\u0561\u056c\u0565\u057d"
     ],
     "name:ind_x_preferred":[
         "Puerto Natales"
@@ -118,6 +130,9 @@
     ],
     "name:nob_x_preferred":[
         "Puerto Natales"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u041d\u0430\u0442\u0430\u043b\u0435\u0441"
     ],
     "name:pol_x_preferred":[
         "Puerto Natales"
@@ -342,7 +357,7 @@
         }
     ],
     "wof:id":102017143,
-    "wof:lastmodified":1636495017,
+    "wof:lastmodified":1690866879,
     "wof:name":"Puerto Natales",
     "wof:parent_id":102063081,
     "wof:placetype":"locality",

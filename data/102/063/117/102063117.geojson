@@ -48,14 +48,21 @@
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043d\u0442\u2019\u044f\u0433\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Santiago"
+    ],
     "name:deu_x_preferred":[
         "Provinz Santiago"
+    ],
+    "name:diq_x_preferred":[
+        "Santiago"
     ],
     "name:eng_x_preferred":[
         "Santiago"
     ],
     "name:eng_x_variant":[
-        "Santiago Province"
+        "Santiago Province",
+        "Santiago province"
     ],
     "name:epo_x_preferred":[
         "Provinco Santiago"
@@ -68,6 +75,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Santiago du Chili"
+    ],
+    "name:fra_x_variant":[
+        "Santiago"
     ],
     "name:hun_x_preferred":[
         "Santiago tartom\u00e1ny"
@@ -83,6 +93,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud2f0\uc544\uace0 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ud2f0\uc544\uace0\ud604"
     ],
     "name:nan_x_preferred":[
         "Santiago"
@@ -207,7 +220,7 @@
         }
     ],
     "wof:id":102063117,
-    "wof:lastmodified":1636495001,
+    "wof:lastmodified":1690866779,
     "wof:name":"Santiago",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

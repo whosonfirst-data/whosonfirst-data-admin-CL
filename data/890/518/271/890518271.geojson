@@ -26,6 +26,12 @@
     "name:nld_x_preferred":[
         "Tinguiririca"
     ],
+    "name:pol_x_preferred":[
+        "Tinguiririca"
+    ],
+    "name:spa_x_preferred":[
+        "Tinguiririca"
+    ],
     "qs:name":"Tinguiririca",
     "qs:name_adm0":"Chile",
     "qs:name_adm1":"Libertador General Bernardo O'Higgins",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":890518271,
-    "wof:lastmodified":1566644650,
+    "wof:lastmodified":1690866996,
     "wof:name":"Tinguiririca",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

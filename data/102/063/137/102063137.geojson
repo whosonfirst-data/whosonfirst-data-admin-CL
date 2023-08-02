@@ -42,8 +42,14 @@
     "name:bos_x_preferred":[
         "Kordiljeri"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Cordillera"
+    ],
     "name:deu_x_preferred":[
         "Kordillere"
+    ],
+    "name:deu_x_variant":[
+        "Provinz Cordillera"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c1\u03b4\u03b9\u03bb\u03b9\u03ad\u03c1\u03b1"
@@ -67,7 +73,8 @@
         "Cordill\u00e8re"
     ],
     "name:fra_x_variant":[
-        "province de Cordillera"
+        "province de Cordillera",
+        "Cordillera"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05d3\u05d9\u05dc\u05e8\u05d4"
@@ -86,6 +93,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ub974\ub514\uc608\ub77c \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ub974\ub514\uc608\ub77c\ud604"
     ],
     "name:nan_x_preferred":[
         "Cordillera"
@@ -192,7 +202,7 @@
         }
     ],
     "wof:id":102063137,
-    "wof:lastmodified":1636495002,
+    "wof:lastmodified":1690866784,
     "wof:name":"Cordillera",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.0422545,-34.709444,-71.0422545,-34.709444",
+    "geom:bbox":"-71.042254,-34.709444,-71.042254,-34.709444",
     "geom:latitude":-34.709444,
     "geom:longitude":-71.042254,
     "gp:adm0":23424782,
@@ -19,6 +19,9 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0645\u0628\u0627\u0631\u0648\u0646\u063a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Chimbarongo"
     ],
     "name:bak_x_preferred":[
         "\u0427\u0438\u043c\u0431\u0430\u0440\u043e\u043d\u0433\u043e"
@@ -33,6 +36,9 @@
         "Chimbarongo"
     ],
     "name:deu_x_preferred":[
+        "Chimbarongo"
+    ],
+    "name:diq_x_preferred":[
         "Chimbarongo"
     ],
     "name:eng_x_preferred":[
@@ -62,6 +68,9 @@
     "name:oci_x_preferred":[
         "Chimbarongo"
     ],
+    "name:pol_x_preferred":[
+        "Chimbarongo"
+    ],
     "name:por_x_preferred":[
         "Chimbarongo"
     ],
@@ -79,6 +88,9 @@
     ],
     "name:swe_x_preferred":[
         "Chimbarongo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043c\u0431\u0430\u0440\u043e\u043d\u0433\u043e"
     ],
     "name:zho_x_preferred":[
         "\u6b3d\u5df4\u9f8d\u6208"
@@ -120,7 +132,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98ef4e9d3a5a095e9b3b485199b964cd",
+    "wof:geomhash":"b507251bba7018c500d1519d7dd2f010",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":890517751,
-    "wof:lastmodified":1582316357,
+    "wof:lastmodified":1690866967,
     "wof:name":"Chimbarongo",
     "wof:parent_id":102063157,
     "wof:placetype":"localadmin",
@@ -141,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.0422545,
+    -71.042254,
     -34.709444,
-    -71.0422545,
+    -71.042254,
     -34.709444
 ],
-  "geometry": {"coordinates":[-71.0422545,-34.709444],"type":"Point"}
+  "geometry": {"coordinates":[-71.042254,-34.709444],"type":"Point"}
 }

@@ -40,24 +40,44 @@
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0456\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "San Antonio Province"
+    ],
+    "name:ces_x_preferred":[
+        "provincie San Antonio"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith San Antonio"
+    ],
     "name:deu_x_preferred":[
         "Provinz San Antonio"
+    ],
+    "name:diq_x_preferred":[
+        "San Antonio"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a3\u03b1\u03bd \u0391\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "San Antonio"
     ],
     "name:eng_x_variant":[
-        "San Antonio",
         "San Antonio Province"
     ],
     "name:epo_x_preferred":[
         "Provinco San Antonio"
+    ],
+    "name:eus_x_preferred":[
+        "San Antonio probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0646 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648"
     ],
     "name:fra_x_preferred":[
         "province de San Antonio"
+    ],
+    "name:fra_x_variant":[
+        "San Antonio"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5"
@@ -76,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\uc548\ud1a0\ub2c8\uc624 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\uc548\ud1a0\ub2c8\uc624\ud604"
     ],
     "name:nan_x_preferred":[
         "San Antonio"
@@ -183,7 +206,7 @@
         }
     ],
     "wof:id":102063167,
-    "wof:lastmodified":1636494999,
+    "wof:lastmodified":1690866758,
     "wof:name":"San Antonio",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

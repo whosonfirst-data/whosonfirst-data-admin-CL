@@ -20,11 +20,17 @@
     "name:arn_x_preferred":[
         "Keilen"
     ],
+    "name:ast_x_preferred":[
+        "Queil\u00e9n"
+    ],
     "name:cat_x_preferred":[
         "Queil\u00e9n"
     ],
     "name:ceb_x_preferred":[
         "Queilen"
+    ],
+    "name:cym_x_preferred":[
+        "Queil\u00e9n"
     ],
     "name:deu_x_preferred":[
         "Queilen"
@@ -59,6 +65,9 @@
     "name:oci_x_preferred":[
         "Queil\u00e9n"
     ],
+    "name:pol_x_preferred":[
+        "Queil\u00e9n"
+    ],
     "name:por_x_preferred":[
         "Queil\u00e9n"
     ],
@@ -73,6 +82,12 @@
     ],
     "name:swe_x_preferred":[
         "Queilen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0439\u043b\u0435\u043d"
+    ],
+    "name:war_x_preferred":[
+        "Queil\u00e9n"
     ],
     "name:zho_x_preferred":[
         "\u514b\u502b"
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":890518435,
-    "wof:lastmodified":1566644654,
+    "wof:lastmodified":1690867000,
     "wof:name":"Queil\u00e9n",
     "wof:parent_id":102063115,
     "wof:placetype":"localadmin",

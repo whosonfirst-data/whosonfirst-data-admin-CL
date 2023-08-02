@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Puerto Rio Tranquilo"
     ],
+    "name:eng_x_variant":[
+        "Puerto R\u00edo Tranquilo"
+    ],
     "name:nld_x_preferred":[
         "Puerto R\u00edo Tranquilo"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890518227,
-    "wof:lastmodified":1566644635,
+    "wof:lastmodified":1690866983,
     "wof:name":"Puerto Tranquilo",
     "wof:parent_id":102063127,
     "wof:placetype":"locality",

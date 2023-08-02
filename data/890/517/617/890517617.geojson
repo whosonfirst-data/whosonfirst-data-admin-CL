@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Maull\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "Maulln"
+    ],
     "name:deu_x_preferred":[
         "Maull\u00edn"
     ],
@@ -54,6 +57,9 @@
     "name:oci_x_preferred":[
         "Maull\u00edn"
     ],
+    "name:pol_x_preferred":[
+        "Maull\u00edn"
+    ],
     "name:por_x_preferred":[
         "Maull\u00edn"
     ],
@@ -65,6 +71,12 @@
     ],
     "name:spa_x_preferred":[
         "Maull\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "Maull\u00edn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0443\u043b\u044c\u0457\u043d"
     ],
     "name:zho_x_preferred":[
         "\u6bdb\u6797"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":890517617,
-    "wof:lastmodified":1566644603,
+    "wof:lastmodified":1690866956,
     "wof:name":"Maull\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -65,6 +65,9 @@
     "name:deu_x_variant":[
         "Metropolregion Santiago"
     ],
+    "name:diq_x_preferred":[
+        "Santiago Metropolitan"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd\u03c4\u03b9\u03ac\u03b3\u03ba\u03bf \u039c\u03b5\u03c4\u03c1\u03bf\u03c0\u03cc\u03bb\u03b9\u03c4\u03b1\u03bd"
     ],
@@ -86,6 +89,9 @@
     "name:epo_x_variant":[
         "Regi\u00f3n Metropolitana"
     ],
+    "name:est_x_preferred":[
+        "Santiago piirkond"
+    ],
     "name:eus_x_preferred":[
         "Santiagoko metropolitar eskualdea"
     ],
@@ -100,6 +106,9 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion m\u00e9tropolitaine de Santiago"
+    ],
+    "name:fra_x_variant":[
+        "Santiago"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n Metropolitana de Santiago"
@@ -121,6 +130,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576\u057f\u0575\u0561\u0563\u0578\u0575\u056b \u0574\u0561\u0575\u0580\u0561\u0584\u0561\u0572\u0561\u0584\u0561\u0575\u056b\u0576 \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0561\u0576\u0569\u056b\u0561\u056f\u0578\u0575\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Wilayah Metropolitan Santiago"
@@ -166,6 +178,9 @@
     ],
     "name:nld_x_preferred":[
         "Regi\u00f3n Metropolitana de Santiago"
+    ],
+    "name:nno_x_preferred":[
+        "Santiago metropol-regionen"
     ],
     "name:nob_x_preferred":[
         "Regi\u00f3n Metropolitana de Santiago"
@@ -249,6 +264,12 @@
     ],
     "name:war_x_preferred":[
         "Rehiyon Metropolitana han Santiago"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5\u9996\u90fd\u5927\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u8056\u5730\u4e9e\u54e5\u90fd\u6703\u5927\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5723\u5730\u4e9a\u54e5\u9996\u90fd\u5927\u533a"
@@ -369,7 +390,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614893156,
+    "wof:lastmodified":1690866947,
     "wof:name":"Metropolitana",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

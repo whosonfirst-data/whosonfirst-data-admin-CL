@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.5707585,-33.608328,-70.5707585,-33.608328",
+    "geom:bbox":"-70.570758,-33.608328,-70.570758,-33.608328",
     "geom:latitude":-33.608328,
     "geom:longitude":-70.570758,
     "gp:adm0":23424782,
@@ -19,6 +19,12 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u062a\u064a \u0622\u0644\u062a\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0646\u062a\u0649 \u0622\u0644\u062a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Puente Alto"
     ],
     "name:bar_x_preferred":[
         "Puente Alto"
@@ -36,6 +42,9 @@
         "Puente Alto"
     ],
     "name:ceb_x_preferred":[
+        "Puente Alto"
+    ],
+    "name:ces_x_preferred":[
         "Puente Alto"
     ],
     "name:dan_x_preferred":[
@@ -137,6 +146,9 @@
     "name:sin_x_preferred":[
         "\u0db4\u0ddc\u0db1\u0dca\u0da7\u0dda \u0d87\u0dbd\u0dca\u0da7\u0ddd"
     ],
+    "name:slk_x_preferred":[
+        "Puente Alto"
+    ],
     "name:spa_x_preferred":[
         "Puente Alto"
     ],
@@ -144,6 +156,9 @@
         "\u041f\u0443\u0435\u043d\u0442\u0435 \u0410\u043b\u0442\u043e"
     ],
     "name:swe_x_preferred":[
+        "Puente Alto"
+    ],
+    "name:szl_x_preferred":[
         "Puente Alto"
     ],
     "name:tam_x_preferred":[
@@ -157,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e39\u0e40\u0e2d\u0e19\u0e40\u0e15 \u0e2d\u0e31\u0e25\u0e42\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e39\u0e40\u0e2d\u0e19\u0e40\u0e15\u0e2d\u0e31\u0e25\u0e42\u0e15"
     ],
     "name:tur_x_preferred":[
         "Puente Alto"
@@ -206,7 +224,7 @@
     },
     "wof:country":"CL",
     "wof:created":1469056020,
-    "wof:geomhash":"1865d5acb48ec52fc907eb6edac54e49",
+    "wof:geomhash":"835de3e4a208ceb27979e46f5e1a85e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -217,7 +235,7 @@
         }
     ],
     "wof:id":890517691,
-    "wof:lastmodified":1566644625,
+    "wof:lastmodified":1690866976,
     "wof:name":"Puente Alto",
     "wof:parent_id":102063137,
     "wof:placetype":"localadmin",
@@ -227,10 +245,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.5707585,
+    -70.570758,
     -33.608328,
-    -70.5707585,
+    -70.570758,
     -33.608328
 ],
-  "geometry": {"coordinates":[-70.5707585,-33.608328],"type":"Point"}
+  "geometry": {"coordinates":[-70.570758,-33.608328],"type":"Point"}
 }

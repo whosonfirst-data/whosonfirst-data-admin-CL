@@ -50,6 +50,9 @@
     "name:aym_x_preferred":[
         "Punta Arenas"
     ],
+    "name:aze_x_preferred":[
+        "Punta-Arenas"
+    ],
     "name:bar_x_preferred":[
         "Punta Arenas"
     ],
@@ -129,6 +132,9 @@
     "name:fra_x_preferred":[
         "Punta Arenas"
     ],
+    "name:gle_x_preferred":[
+        "Punta Arenas"
+    ],
     "name:grn_x_preferred":[
         "Punta Arenas"
     ],
@@ -155,6 +161,9 @@
     ],
     "name:hun_x_preferred":[
         "Punta Arenas"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0576\u057f\u0561 \u0531\u0580\u0565\u0576\u0561\u057d"
     ],
     "name:ilo_x_preferred":[
         "Punta Arenas"
@@ -317,6 +326,9 @@
     "name:urd_x_preferred":[
         "\u067e\u0648\u0646\u062a\u0627 \u0622\u0631\u06cc\u0646\u0627\u0633"
     ],
+    "name:vec_x_preferred":[
+        "Punta Arenas"
+    ],
     "name:vie_x_preferred":[
         "Punta Arenas"
     ],
@@ -468,8 +480,8 @@
     "wof:belongsto":[
         102191577,
         85633057,
-        102063075,
-        85682211
+        85682211,
+        102063075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -501,7 +513,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1587428376,
+    "wof:lastmodified":1690866912,
     "wof:megacity":0,
     "wof:name":"Punta Arenas",
     "wof:parent_id":102063075,

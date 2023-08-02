@@ -77,6 +77,9 @@
     "name:swe_x_preferred":[
         "Guaitecas"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0430\u0439\u0442\u0435\u043a\u0430\u0441"
+    ],
     "name:vol_x_preferred":[
         "Guaitecas"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":890517989,
-    "wof:lastmodified":1566644629,
+    "wof:lastmodified":1690866979,
     "wof:name":"Guaitecas",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

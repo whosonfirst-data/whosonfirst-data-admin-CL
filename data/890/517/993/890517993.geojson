@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Mostazal"
     ],
+    "name:diq_x_preferred":[
+        "Mostazal"
+    ],
     "name:eng_x_preferred":[
         "Mostazal"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ita_x_preferred":[
         "Mostazal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30b9\u30bf\u30b5\u30eb"
     ],
     "name:kor_x_preferred":[
         "\ubaa8\uc2a4\ud0c0\uc0b4"
@@ -70,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Mostazal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430\u0441\u0430\u043b\u044c"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u65af\u5854\u85a9\u723e"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":890517993,
-    "wof:lastmodified":1582316357,
+    "wof:lastmodified":1690866968,
     "wof:name":"Mostazal",
     "wof:parent_id":102063155,
     "wof:placetype":"localadmin",

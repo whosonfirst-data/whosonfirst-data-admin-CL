@@ -31,6 +31,9 @@
     "name:aym_x_preferred":[
         "\u00d1u\u00f1oa"
     ],
+    "name:cat_x_preferred":[
+        "\u00d1u\u00f1oa"
+    ],
     "name:ceb_x_preferred":[
         "\u00d1u\u00f1oa"
     ],
@@ -73,6 +76,9 @@
     "name:nld_x_preferred":[
         "\u00d1u\u00f1oa"
     ],
+    "name:pol_x_preferred":[
+        "\u00d1u\u00f1oa"
+    ],
     "name:por_x_preferred":[
         "\u00d1u\u00f1oa"
     ],
@@ -96,6 +102,9 @@
     ],
     "name:swe_x_preferred":[
         "\u00d1u\u00f1oa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044e\u043d\u044c\u0439\u043e\u0430"
     ],
     "name:vol_x_preferred":[
         "\u00d1u\u00f1oa"
@@ -158,7 +167,7 @@
         }
     ],
     "wof:id":1108980381,
-    "wof:lastmodified":1566644533,
+    "wof:lastmodified":1690866949,
     "wof:name":"\u00d1u\u00f1oa",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

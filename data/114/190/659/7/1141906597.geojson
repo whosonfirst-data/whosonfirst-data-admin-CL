@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0627\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0627\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
     "name:ceb_x_preferred":[
         "Santa B\u00e1rbara"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:pol_x_preferred":[
         "Santa Barbara"
+    ],
+    "name:pol_x_variant":[
+        "Santa B\u00e1rbara"
     ],
     "name:por_x_preferred":[
         "Santa B\u00e1rbara"
@@ -209,7 +218,7 @@
         }
     ],
     "wof:id":1141906597,
-    "wof:lastmodified":1636495062,
+    "wof:lastmodified":1690867006,
     "wof:name":"Santa Barbara",
     "wof:parent_id":102063151,
     "wof:placetype":"locality",

@@ -41,6 +41,15 @@
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u0995\u09cb\u09aa\u09bf\u09b2\u09cd\u09b2\u09be"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Tocopilla"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Tocopilla"
+    ],
+    "name:diq_x_preferred":[
+        "Tocopilla"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03ba\u03bf\u03c0\u03af\u03b3\u03b9\u03b1"
     ],
@@ -62,6 +71,9 @@
     "name:fra_x_preferred":[
         "province de Tocopilla"
     ],
+    "name:fra_x_variant":[
+        "Tocopilla"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u094b\u0915\u094b\u092a\u093f\u0932\u093e"
     ],
@@ -82,6 +94,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud1a0\ucf54\ud53c\uc57c \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ud1a0\ucf54\ud53c\uc57c\ud604"
     ],
     "name:nan_x_preferred":[
         "Tocopilla"
@@ -177,7 +192,7 @@
         }
     ],
     "wof:id":102063093,
-    "wof:lastmodified":1636495003,
+    "wof:lastmodified":1690866797,
     "wof:name":"Tocopilla",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

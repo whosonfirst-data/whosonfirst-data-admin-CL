@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Guanaqueros"
     ],
+    "name:pol_x_preferred":[
+        "Guanaqueros"
+    ],
     "name:spa_x_preferred":[
         "Guanaqueros"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890518103,
-    "wof:lastmodified":1566644632,
+    "wof:lastmodified":1690866981,
     "wof:name":"Guanaquero",
     "wof:parent_id":102063091,
     "wof:placetype":"locality",

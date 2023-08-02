@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Vichuqu\u00e9n"
+    ],
+    "name:ceb_x_preferred":[
+        "Vichquen"
+    ],
     "name:eng_x_preferred":[
         "Vichuqu\u00e9n"
     ],
@@ -52,6 +58,12 @@
     ],
     "name:spa_x_preferred":[
         "Vichuqu\u00e9n"
+    ],
+    "name:swe_x_preferred":[
+        "Vichquen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0447\u0443\u043a\u0435\u043d"
     ],
     "name:zho_x_preferred":[
         "\u6258\u723e\u7279\u723e"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":890517433,
-    "wof:lastmodified":1566644624,
+    "wof:lastmodified":1690866975,
     "wof:name":"Vichuqu\u00e9n",
     "wof:parent_id":102063147,
     "wof:placetype":"localadmin",

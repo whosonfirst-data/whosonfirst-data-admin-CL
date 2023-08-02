@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "Los Lagos"
     ],
+    "name:diq_x_preferred":[
+        "Los Lagos"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c2 \u039b\u03ac\u03b3\u03bf\u03c2"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05e1 \u05dc\u05d2\u05d5\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d5\u05e1 \u05dc\u05d0\u05d2\u05d5\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u0932\u094b\u0938 \u0932\u093e\u0917\u094b\u0938"
@@ -264,7 +270,7 @@
         }
     ],
     "wof:id":102017435,
-    "wof:lastmodified":1636495020,
+    "wof:lastmodified":1690866909,
     "wof:name":"Los Lagos",
     "wof:parent_id":102063183,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Apoquindo"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u0648\u06a9\u06cc\u0646\u062f\u0648"
+    ],
     "name:nld_x_preferred":[
         "Apoquindo"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890518333,
-    "wof:lastmodified":1566644647,
+    "wof:lastmodified":1690866993,
     "wof:name":"Apoquindo",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

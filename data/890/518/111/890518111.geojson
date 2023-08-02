@@ -17,14 +17,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Llay-Llay"
+    ],
+    "name:cat_x_preferred":[
+        "Llay-Llay"
+    ],
     "name:ceb_x_preferred":[
         "Llaillay"
     ],
     "name:deu_x_preferred":[
         "Llay-Llay"
     ],
+    "name:diq_x_preferred":[
+        "Llaillay"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03ac\u03b9-\u0393\u03b9\u03ac\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Llaillay"
     ],
     "name:eus_x_preferred":[
         "Llay-Llay"
@@ -34,6 +46,9 @@
     ],
     "name:fra_x_preferred":[
         "Llay-Llay"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d9-\u05dc\u05d9\u05d9"
     ],
     "name:ita_x_preferred":[
         "Llaillay"
@@ -45,6 +60,9 @@
         "Llaillay"
     ],
     "name:nld_x_preferred":[
+        "Llaillay"
+    ],
+    "name:pol_x_preferred":[
         "Llaillay"
     ],
     "name:por_x_preferred":[
@@ -61,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Llaillay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044c\u044f\u0439\u043b\u044c\u044f\u0439"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u723e\u666e\u57c3"
@@ -106,7 +127,7 @@
         }
     ],
     "wof:id":890518111,
-    "wof:lastmodified":1566644643,
+    "wof:lastmodified":1690866989,
     "wof:name":"Llaillay",
     "wof:parent_id":102063099,
     "wof:placetype":"localadmin",

@@ -97,6 +97,9 @@
     "name:deu_x_preferred":[
         "Salamanca"
     ],
+    "name:diq_x_preferred":[
+        "Salamanca"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bb\u03b1\u03bc\u03ac\u03bd\u03ba\u03b1"
     ],
@@ -141,6 +144,9 @@
     ],
     "name:hun_x_preferred":[
         "Salamanca"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u0561\u0574\u0561\u0576\u056f\u0561"
     ],
     "name:ind_x_preferred":[
         "Salamanca"
@@ -258,6 +264,9 @@
     ],
     "name:war_x_variant":[
         "Salamanke"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8428\u62c9\u66fc\u5361"
     ],
     "name:yor_x_preferred":[
         "Salamanca"
@@ -413,7 +422,7 @@
         }
     ],
     "wof:id":102016997,
-    "wof:lastmodified":1636495009,
+    "wof:lastmodified":1690866831,
     "wof:name":"Salamanca",
     "wof:parent_id":102063179,
     "wof:placetype":"locality",

@@ -34,8 +34,14 @@
     "name:deu_x_preferred":[
         "Santa Cruz"
     ],
+    "name:diq_x_preferred":[
+        "Santa Cruz"
+    ],
     "name:eng_x_preferred":[
         "Santa Cruz"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Kruco"
     ],
     "name:eus_x_preferred":[
         "Santa Cruz"
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":102016925,
-    "wof:lastmodified":1636495012,
+    "wof:lastmodified":1690866838,
     "wof:name":"Santa Cruz",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",

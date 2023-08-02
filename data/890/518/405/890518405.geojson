@@ -80,6 +80,12 @@
     "name:spa_x_preferred":[
         "Alhu\u00e9"
     ],
+    "name:swe_x_preferred":[
+        "Alhu\u00e9"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0443\u0435"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u723e\u97cb"
     ],
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":890518405,
-    "wof:lastmodified":1582316358,
+    "wof:lastmodified":1690866998,
     "wof:name":"Alhue",
     "wof:parent_id":102063083,
     "wof:placetype":"localadmin",

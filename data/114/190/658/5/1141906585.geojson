@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.6699957699,-22.3500195121,-69.6699957699,-22.3500195121",
+    "geom:bbox":"-69.669996,-22.35002,-69.669996,-22.35002",
     "geom:latitude":-22.35002,
     "geom:longitude":-69.669996,
     "iso:country":"CL",
@@ -21,10 +21,22 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0627 \u0625\u064a\u0644\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0627 \u0627\u064a\u0644\u064a\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
     "name:cat_x_preferred":[
         "Mar\u00eda Elena"
     ],
+    "name:ceb_x_preferred":[
+        "Maria Elena"
+    ],
     "name:deu_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:diq_x_preferred":[
         "Mar\u00eda Elena"
     ],
     "name:eng_x_preferred":[
@@ -76,6 +88,12 @@
         "Mar\u00eda Elena"
     ],
     "name:spa_x_preferred":[
+        "Mar\u00eda Elena"
+    ],
+    "name:swe_x_preferred":[
+        "Maria Elena"
+    ],
+    "name:tur_x_preferred":[
         "Mar\u00eda Elena"
     ],
     "name:ukr_x_preferred":[
@@ -195,7 +213,7 @@
     },
     "wof:country":"CL",
     "wof:created":1499130613,
-    "wof:geomhash":"b3e789a3f8c76f96edb8e21f26d3be4a",
+    "wof:geomhash":"4da24c369769820f51c4e3d73c8bda4f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -206,7 +224,7 @@
         }
     ],
     "wof:id":1141906585,
-    "wof:lastmodified":1566644802,
+    "wof:lastmodified":1690867006,
     "wof:name":"Maria Elena",
     "wof:parent_id":102063093,
     "wof:placetype":"locality",
@@ -216,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.66999576992242,
-    -22.35001951211729,
-    -69.66999576992242,
-    -22.35001951211729
+    -69.669996,
+    -22.35002,
+    -69.669996,
+    -22.35002
 ],
-  "geometry": {"coordinates":[-69.66999576992242,-22.35001951211729],"type":"Point"}
+  "geometry": {"coordinates":[-69.669996,-22.35002],"type":"Point"}
 }
