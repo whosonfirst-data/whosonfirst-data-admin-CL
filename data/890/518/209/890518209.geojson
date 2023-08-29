@@ -36,7 +36,16 @@
     "name:ceb_x_preferred":[
         "Ancud"
     ],
+    "name:ces_x_preferred":[
+        "Ancud"
+    ],
+    "name:cym_x_preferred":[
+        "Ancud"
+    ],
     "name:deu_x_preferred":[
+        "Ancud"
+    ],
+    "name:diq_x_preferred":[
         "Ancud"
     ],
     "name:ell_x_preferred":[
@@ -114,6 +123,9 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u043a\u0443\u0434"
     ],
+    "name:slk_x_preferred":[
+        "Ancud"
+    ],
     "name:spa_x_preferred":[
         "Ancud"
     ],
@@ -143,6 +155,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5eab\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5e93\u5fb7"
     ],
     "qs:name":"Ancud",
     "qs:name_adm0":"Chile",
@@ -176,7 +191,7 @@
         }
     ],
     "wof:id":890518209,
-    "wof:lastmodified":1636495052,
+    "wof:lastmodified":1690866997,
     "wof:name":"Ancud",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

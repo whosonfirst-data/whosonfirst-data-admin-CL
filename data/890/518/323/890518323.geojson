@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Quilpu\u00e9"
     ],
+    "name:diq_x_preferred":[
+        "Quilpu\u00e9"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03bb\u03c0\u03bf\u03cd\u03b5"
     ],
@@ -140,6 +143,9 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e27\u0e34\u0e27\u0e1e\u0e39"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e34\u0e25\u0e1b\u0e39\u0e40\u0e2d"
+    ],
     "name:tur_x_preferred":[
         "Quilpue"
     ],
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":890518323,
-    "wof:lastmodified":1566644643,
+    "wof:lastmodified":1690866989,
     "wof:name":"Quilpu\u00e9",
     "wof:parent_id":1108721747,
     "wof:placetype":"localadmin",

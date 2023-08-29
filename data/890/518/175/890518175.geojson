@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u0627\u0644\u0648\u0644\u064a\u0646"
+    ],
     "name:cat_x_preferred":[
         "Pe\u00f1alol\u00e9n"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Pe\u00f1alol\u00e9n"
+    ],
+    "name:eng_x_variant":[
+        "la Reina"
     ],
     "name:eus_x_preferred":[
         "Pe\u00f1alol\u00e9n"
@@ -83,6 +89,9 @@
     "name:swe_x_preferred":[
         "Pe\u00f1alol\u00e9n"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043d\u044c\u044f\u043b\u043e\u043b\u0435\u043d"
+    ],
     "name:vol_x_preferred":[
         "Pe\u00f1alol\u00e9n"
     ],
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":890518175,
-    "wof:lastmodified":1566644644,
+    "wof:lastmodified":1690866990,
     "wof:name":"Pe\u00f1alolen",
     "wof:parent_id":102063117,
     "wof:placetype":"localadmin",

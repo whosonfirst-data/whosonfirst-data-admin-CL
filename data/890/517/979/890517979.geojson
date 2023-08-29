@@ -83,6 +83,9 @@
     "name:swe_x_preferred":[
         "Chile Chico"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043b\u0435-\u0427\u0438\u043a\u043e"
+    ],
     "name:vls_x_preferred":[
         "Chile Chico"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890517979,
-    "wof:lastmodified":1566644612,
+    "wof:lastmodified":1690866962,
     "wof:name":"Chile Chico",
     "wof:parent_id":102063127,
     "wof:placetype":"localadmin",

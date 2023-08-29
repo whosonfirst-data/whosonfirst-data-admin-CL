@@ -25,6 +25,21 @@
     "name:bak_x_preferred":[
         "\u0421\u0430\u043d\u0442\u043e-\u0414\u043e\u043c\u0438\u043d\u0433\u043e"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0414\u0430\u043c\u0456\u043d\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09cb \u09a6\u09cb\u09ae\u09bf\u0999\u09cd\u0997\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ceb_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:diq_x_preferred":[
+        "Santo Domingo"
+    ],
     "name:eng_x_preferred":[
         "Santo Domingo"
     ],
@@ -79,6 +94,12 @@
     "name:spa_x_preferred":[
         "Santo Domingo"
     ],
+    "name:swe_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e-\u0414\u043e\u043c\u0456\u043d\u0433\u043e"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u591a\u660e\u6208"
     ],
@@ -123,7 +144,7 @@
         }
     ],
     "wof:id":102018097,
-    "wof:lastmodified":1642551802,
+    "wof:lastmodified":1690866813,
     "wof:name":"Santo Domingo",
     "wof:parent_id":102063167,
     "wof:placetype":"locality",

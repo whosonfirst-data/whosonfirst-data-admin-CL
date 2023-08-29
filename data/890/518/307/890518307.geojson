@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Calbuco"
     ],
+    "name:diq_x_preferred":[
+        "Calbuco"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bb\u03bc\u03c0\u03bf\u03cd\u03ba\u03bf"
     ],
@@ -81,6 +84,9 @@
         "Calbuco"
     ],
     "name:oci_x_preferred":[
+        "Calbuco"
+    ],
+    "name:pol_x_preferred":[
         "Calbuco"
     ],
     "name:por_x_preferred":[
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890518307,
-    "wof:lastmodified":1636495048,
+    "wof:lastmodified":1690866981,
     "wof:name":"Calbuco",
     "wof:parent_id":102063135,
     "wof:placetype":"localadmin",

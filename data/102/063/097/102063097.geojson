@@ -42,11 +42,16 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Linares"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Linares"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Linares"
+    ],
     "name:eng_x_preferred":[
         "Linares"
     ],
     "name:eng_x_variant":[
-        "Linares",
         "Linares Province"
     ],
     "name:fas_x_preferred":[
@@ -54,6 +59,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Linares"
+    ],
+    "name:fra_x_variant":[
+        "Linares"
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0576\u0561\u0580\u0565\u057d"
@@ -71,7 +79,8 @@
         "\ub9ac\ub098\ub808\uc2a4"
     ],
     "name:kor_x_variant":[
-        "\ub9ac\ub098\ub808\uc2a4 \ud604"
+        "\ub9ac\ub098\ub808\uc2a4 \ud604",
+        "\ub9ac\ub098\ub808\uc2a4\ud604"
     ],
     "name:nan_x_preferred":[
         "Linares"
@@ -184,7 +193,7 @@
         }
     ],
     "wof:id":102063097,
-    "wof:lastmodified":1636494999,
+    "wof:lastmodified":1690866771,
     "wof:name":"Linares",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

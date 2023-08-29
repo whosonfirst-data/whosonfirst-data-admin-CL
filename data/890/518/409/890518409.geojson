@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Panim\u00e1vida"
     ],
+    "name:pol_x_preferred":[
+        "Panim\u00e1vida"
+    ],
     "name:ron_x_preferred":[
         "Panim\u00e1vida"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890518409,
-    "wof:lastmodified":1566644640,
+    "wof:lastmodified":1690866987,
     "wof:name":"Panim\u00e1vida",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

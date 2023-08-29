@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Calle Larga"
     ],
+    "name:diq_x_preferred":[
+        "Calle Larga"
+    ],
     "name:eng_x_preferred":[
         "Calle Larga"
     ],
@@ -56,6 +59,9 @@
     "name:oci_x_preferred":[
         "Calle Larga"
     ],
+    "name:pol_x_preferred":[
+        "Calle Larga"
+    ],
     "name:por_x_preferred":[
         "Calle Larga"
     ],
@@ -67,6 +73,12 @@
     ],
     "name:spa_x_preferred":[
         "Calle Larga"
+    ],
+    "name:swe_x_preferred":[
+        "Calle Larga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0454-\u041b\u0430\u0440\u0433\u0430"
     ],
     "name:zho_x_preferred":[
         "\u5361\u840a\u62c9\u723e\u52a0"
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":890517539,
-    "wof:lastmodified":1566644616,
+    "wof:lastmodified":1690866966,
     "wof:name":"Calle Larga",
     "wof:parent_id":102063139,
     "wof:placetype":"localadmin",

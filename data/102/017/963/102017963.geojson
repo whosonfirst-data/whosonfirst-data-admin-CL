@@ -89,6 +89,9 @@
     "name:chy_x_preferred":[
         "Antofagasta"
     ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0646\u062a\u06c6\u0641\u0627\u06af\u0627\u0633\u062a\u0627"
+    ],
     "name:cos_x_preferred":[
         "Antofagasta"
     ],
@@ -236,6 +239,9 @@
     "name:mar_x_preferred":[
         "\u0905\u0902\u0924\u094b\u092b\u093e\u0917\u093e\u0938\u094d\u0924\u093e"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u0444\u0430\u0433\u0430\u0441\u0442\u0430"
+    ],
     "name:mon_x_preferred":[
         "\u0410\u043d\u0442\u043e\u0444\u0430\u0433\u0430\u0441\u0442\u0430"
     ],
@@ -249,6 +255,9 @@
         "Antofagasta"
     ],
     "name:nld_x_preferred":[
+        "Antofagasta"
+    ],
+    "name:nno_x_preferred":[
         "Antofagasta"
     ],
     "name:nob_x_preferred":[
@@ -354,6 +363,9 @@
         "\u0627\u0646\u062a\u0648\u0641\u0627\u06af\u0627\u0633\u062a\u0627"
     ],
     "name:uzb_x_preferred":[
+        "Antofagasta"
+    ],
+    "name:vec_x_preferred":[
         "Antofagasta"
     ],
     "name:vep_x_preferred":[
@@ -498,8 +510,8 @@
     "wof:belongsto":[
         102191577,
         85633057,
-        102063073,
-        85682175
+        85682175,
+        102063073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -528,7 +540,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1587428375,
+    "wof:lastmodified":1690866853,
     "wof:megacity":0,
     "wof:name":"Antofagasta",
     "wof:parent_id":102063073,

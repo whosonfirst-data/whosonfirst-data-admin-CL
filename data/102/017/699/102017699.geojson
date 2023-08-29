@@ -65,6 +65,9 @@
     "name:hun_x_preferred":[
         "Diego de Almagro"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u0565\u0563\u0578 \u0564\u0565 \u0531\u056c\u0574\u0561\u0563\u0580\u0578"
+    ],
     "name:ind_x_preferred":[
         "Diego de Almagro"
     ],
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":102017699,
-    "wof:lastmodified":1636495020,
+    "wof:lastmodified":1690866903,
     "wof:name":"Diego de Almagro",
     "wof:parent_id":102063133,
     "wof:placetype":"locality",

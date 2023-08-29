@@ -38,6 +38,9 @@
     "name:aze_x_preferred":[
         "Villa Alemana"
     ],
+    "name:aze_x_variant":[
+        "Vilya-Alemana"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b2\u09be \u098f\u09b2\u09c7\u09ae\u09be\u09a8\u09be"
     ],
@@ -54,6 +57,9 @@
         "Villa Alemana"
     ],
     "name:deu_x_preferred":[
+        "Villa Alemana"
+    ],
+    "name:diq_x_preferred":[
         "Villa Alemana"
     ],
     "name:ell_x_preferred":[
@@ -140,6 +146,9 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0932\u093e \u0906\u0932\u092e\u092e\u0928"
     ],
+    "name:mlt_x_preferred":[
+        "Villa Alemana"
+    ],
     "name:msa_x_preferred":[
         "Villa Alemana"
     ],
@@ -218,6 +227,9 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e34\u0e27\u0e25\u0e32 \u0e2d\u0e40\u0e25\u0e21\u0e32\u0e19\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e34\u0e22\u0e32\u0e2d\u0e32\u0e40\u0e25\u0e21\u0e32\u0e19\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Villa Alemana"
     ],
@@ -226,6 +238,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0644\u0627 \u0627\u0644\u06cc\u0645\u0627\u0646\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Villa Alemana"
     ],
     "name:vie_x_preferred":[
         "Villa Alemana"
@@ -280,7 +295,7 @@
         }
     ],
     "wof:id":890517923,
-    "wof:lastmodified":1566644613,
+    "wof:lastmodified":1690866963,
     "wof:name":"Villa Alemana",
     "wof:parent_id":1108721747,
     "wof:placetype":"locality",

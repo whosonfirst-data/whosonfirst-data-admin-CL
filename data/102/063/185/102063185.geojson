@@ -39,8 +39,14 @@
     "name:bre_x_preferred":[
         "Provi\u00f1s Tierra del Fuego"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Tierra del Fuego"
+    ],
     "name:deu_x_preferred":[
         "Provinz Tierra del Fuego"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03b7\u03c2 \u03a4\u03b9\u03ad\u03c1\u03c1\u03b1 \u03b4\u03b5\u03bb \u03a6\u03bf\u03c5\u03ad\u03b3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Tierra del Fuego"
@@ -64,6 +70,9 @@
     "name:fra_x_preferred":[
         "province de Tierra del Fuego"
     ],
+    "name:fra_x_variant":[
+        "Tierra del Fuego"
+    ],
     "name:hun_x_preferred":[
         "Tierra del Fuego"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2f0\uc5d0\ub77c\ub378\ud478\uc5d0\uace0 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ud2f0\uc5d0\ub77c\ub378\ud478\uc5d0\uace0\ud604"
     ],
     "name:lit_x_preferred":[
         "Ugnies \u017dem\u0117s provincija"
@@ -190,7 +202,7 @@
         }
     ],
     "wof:id":102063185,
-    "wof:lastmodified":1636495004,
+    "wof:lastmodified":1690866803,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":85682211,
     "wof:placetype":"county",

@@ -158,6 +158,9 @@
     "name:deu_x_preferred":[
         "Valpara\u00edso"
     ],
+    "name:din_x_preferred":[
+        "Valparaiso"
+    ],
     "name:diq_x_preferred":[
         "Valpara\u00edso"
     ],
@@ -244,6 +247,9 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf31\ud800\udf30\ud800\udf3b\ud800\udf40\ud800\udf30\ud800\udf42\ud800\udf30\ud800\udf39\ud800\udf43\ud800\udf49"
+    ],
+    "name:gpe_x_preferred":[
+        "Valpara\u00edso"
     ],
     "name:grn_x_preferred":[
         "Valparaiso"
@@ -644,6 +650,9 @@
     "name:tet_x_preferred":[
         "Valpara\u00edso"
     ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0430\u043b\u043f\u0430\u0440\u0430\u0438\u0441\u043e"
+    ],
     "name:tgl_x_preferred":[
         "Valparaiso"
     ],
@@ -779,7 +788,7 @@
         }
     ],
     "wof:id":890517899,
-    "wof:lastmodified":1566644626,
+    "wof:lastmodified":1690866977,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":102063161,
     "wof:placetype":"locality",

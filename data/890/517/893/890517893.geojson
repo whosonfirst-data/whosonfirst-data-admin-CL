@@ -74,6 +74,9 @@
     "name:swe_x_preferred":[
         "Lo Espejo"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e-\u0415\u0441\u043f\u0435\u0445\u043e"
+    ],
     "name:zho_x_preferred":[
         "\u6d1b\u57c3\u65af\u4f69\u970d"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890517893,
-    "wof:lastmodified":1566644609,
+    "wof:lastmodified":1690866960,
     "wof:name":"Lo Espejo",
     "wof:parent_id":102063117,
     "wof:placetype":"localadmin",

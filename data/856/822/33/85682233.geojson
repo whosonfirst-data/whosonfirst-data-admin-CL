@@ -56,11 +56,17 @@
     "name:ces_x_preferred":[
         "Region Los Lagos"
     ],
+    "name:ces_x_variant":[
+        "Los Lagos"
+    ],
     "name:dan_x_preferred":[
         "Los Lagos-regionen"
     ],
     "name:deu_x_preferred":[
         "Regi\u00f3n de los Lagos"
+    ],
+    "name:diq_x_preferred":[
+        "Los Lagos"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c2 \u039b\u03ac\u03b3\u03ba\u03bf\u03c2"
@@ -86,6 +92,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion des Lacs"
     ],
+    "name:gle_x_preferred":[
+        "R\u00e9igi\u00fan Los Lagos"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Los Lagos"
     ],
@@ -106,6 +115,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u0578\u057d \u053c\u0561\u0563\u0578\u057d"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053c\u0578\u057d \u053c\u0561\u056f\u0578\u057d"
     ],
     "name:ilo_x_preferred":[
         "Rehion ti Los Lagos"
@@ -167,6 +179,9 @@
     "name:nld_x_preferred":[
         "Los Lagos"
     ],
+    "name:nno_x_preferred":[
+        "Los Lagos-regionen"
+    ],
     "name:nob_x_preferred":[
         "Los Lagos"
     ],
@@ -221,6 +236,9 @@
     "name:tha_x_preferred":[
         "\u0e25\u0e2d\u0e2a\u0e25\u0e32\u0e01\u0e2d\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e42\u0e25\u0e2a\u0e25\u0e32\u0e42\u0e01\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Los Lagos b\u00f6lgesi"
     ],
@@ -235,6 +253,12 @@
     ],
     "name:war_x_preferred":[
         "X Rehiyon han Los Lagos"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6e56\u5927\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u6e56\u5927\u5340"
     ],
     "name:zho_x_preferred":[
         "\u6e56\u5927\u533a"
@@ -297,7 +321,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1617130733,
+    "wof:lastmodified":1690866937,
     "wof:name":"De Los Lagos",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

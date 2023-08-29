@@ -62,6 +62,9 @@
     "name:deu_x_preferred":[
         "Regi\u00f3n de Valpara\u00edso"
     ],
+    "name:diq_x_preferred":[
+        "Eyalet\u00ea Valpara\u00edsoy"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03bb\u03c0\u03b1\u03c1\u03b1\u0390\u03c3\u03bf"
     ],
@@ -69,7 +72,8 @@
         "De Valparaiso"
     ],
     "name:eng_x_variant":[
-        "Valpara\u00edso"
+        "Valpara\u00edso",
+        "Valpara\u00edso Region"
     ],
     "name:epo_x_preferred":[
         "Valparaiso"
@@ -114,6 +118,9 @@
     "name:hye_x_preferred":[
         "\u054e\u0561\u056c\u057a\u0561\u0580\u0561\u056b\u057d\u0578"
     ],
+    "name:hyw_x_preferred":[
+        "\u054e\u0561\u056c\u0583\u0561\u0580\u0561\u0566\u056b\u0585"
+    ],
     "name:ilo_x_preferred":[
         "Rehion ti Valpara\u00edso"
     ],
@@ -156,6 +163,9 @@
     "name:mar_x_preferred":[
         "\u0935\u093e\u0932\u092a\u0930\u093e\u0907\u0938\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
+    "name:mlt_x_preferred":[
+        "Re\u0121jun ta' Valpara\u00edso"
+    ],
     "name:msa_x_preferred":[
         "Valparaiso Region"
     ],
@@ -170,6 +180,9 @@
     ],
     "name:nld_x_preferred":[
         "Valpara\u00edso"
+    ],
+    "name:nno_x_preferred":[
+        "Valpara\u00edso-regionen"
     ],
     "name:nob_x_preferred":[
         "Valpara\u00edso"
@@ -235,6 +248,9 @@
     "name:tha_x_preferred":[
         "\u0e1f\u0e32\u0e25\u0e1b\u0e32\u0e44\u0e23\u0e42\u0e0b"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e1a\u0e31\u0e25\u0e1b\u0e32\u0e23\u0e32\u0e2d\u0e34\u0e42\u0e0b"
+    ],
     "name:tur_x_preferred":[
         "Valpara\u00edso b\u00f6lgesi"
     ],
@@ -255,6 +271,12 @@
     ],
     "name:war_x_preferred":[
         "V Rehiyon han Valpara\u00edso"
+    ],
+    "name:wuu_x_preferred":[
+        "\u74e6\u5c14\u5e15\u83b1\u7d22\u5927\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u74e6\u723e\u5e15\u840a\u7d22\u5927\u5340"
     ],
     "name:zho_x_preferred":[
         "\u74e6\u5c14\u5e15\u83b1\u7d22\u5927\u533a"
@@ -375,7 +397,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1617130067,
+    "wof:lastmodified":1690866929,
     "wof:name":"De Valparaiso",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

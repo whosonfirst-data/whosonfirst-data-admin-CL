@@ -23,8 +23,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0648\u0641\u0627\u064a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0641\u0627\u064a\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Ovalle"
+    ],
     "name:bak_x_preferred":[
         "\u041e\u0432\u0430\u043b\u044c\u0435"
+    ],
+    "name:bar_x_preferred":[
+        "Ovalle"
     ],
     "name:ben_x_preferred":[
         "\u0993\u09ad\u09be\u09af\u09bc\u09c7"
@@ -42,6 +51,9 @@
         "Ovalle"
     ],
     "name:deu_x_preferred":[
+        "Ovalle"
+    ],
+    "name:diq_x_preferred":[
         "Ovalle"
     ],
     "name:ell_x_preferred":[
@@ -73,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Ovalle"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u057e\u0561\u056c\u056c\u0565"
     ],
     "name:ind_x_preferred":[
         "Ovalle"
@@ -138,6 +153,9 @@
         "\u041e\u0432\u0430\u0459\u0435"
     ],
     "name:swe_x_preferred":[
+        "Ovalle"
+    ],
+    "name:szl_x_preferred":[
         "Ovalle"
     ],
     "name:tam_x_preferred":[
@@ -312,7 +330,7 @@
         }
     ],
     "wof:id":102017293,
-    "wof:lastmodified":1642551802,
+    "wof:lastmodified":1690866871,
     "wof:name":"Ovalle",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",

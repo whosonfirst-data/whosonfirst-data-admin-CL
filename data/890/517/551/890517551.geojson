@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0644\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Quell\u00f3n"
+    ],
     "name:cat_x_preferred":[
         "Quell\u00f3n"
     ],
@@ -30,6 +33,9 @@
         "Quell\u00f3n"
     ],
     "name:deu_x_preferred":[
+        "Quell\u00f3n"
+    ],
+    "name:diq_x_preferred":[
         "Quell\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -92,6 +98,9 @@
     "name:swe_x_preferred":[
         "Quellon"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043b\u044c\u0439\u043e\u043d"
+    ],
     "name:vol_x_preferred":[
         "Quell\u00f3n"
     ],
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":890517551,
-    "wof:lastmodified":1566644598,
+    "wof:lastmodified":1690866951,
     "wof:name":"Quellon",
     "wof:parent_id":102063115,
     "wof:placetype":"localadmin",

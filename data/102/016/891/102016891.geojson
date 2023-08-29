@@ -49,8 +49,14 @@
     "name:aze_x_preferred":[
         "Talcahuano"
     ],
+    "name:aze_x_variant":[
+        "Talkauano"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u043b\u044c\u043a\u0430\u0443\u0430\u043d\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u0430\u043b\u044c\u043a\u0430\u0443\u0430\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b2\u0995\u09be\u0989\u09af\u09bc\u09be\u09a8\u09cb"
@@ -283,6 +289,9 @@
     "name:tha_x_preferred":[
         "\u0e15\u0e31\u0e25\u0e01\u0e32\u0e2d\u0e31\u0e27\u0e42\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e31\u0e25\u0e01\u0e32\u0e27\u0e32\u0e42\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Talcahuano"
     ],
@@ -303,6 +312,9 @@
     ],
     "name:war_x_preferred":[
         "Talcahuano"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5854\u5c14\u5361\u74e6\u8bfa"
     ],
     "name:yid_x_preferred":[
         "\u05d8\u05d0\u05dc\u05e7\u05d0\u05d5\u05d5\u05d0\u05e0\u05d0"
@@ -455,7 +467,7 @@
         }
     ],
     "wof:id":102016891,
-    "wof:lastmodified":1642551760,
+    "wof:lastmodified":1690866843,
     "wof:name":"Talcahuano",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

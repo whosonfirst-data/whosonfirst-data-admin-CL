@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0643\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0646\u0643\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Conc\u00f3n"
+    ],
     "name:cat_x_preferred":[
         "Conc\u00f3n"
     ],
@@ -28,6 +34,9 @@
         "Concon"
     ],
     "name:deu_x_preferred":[
+        "Conc\u00f3n"
+    ],
+    "name:diq_x_preferred":[
         "Conc\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -41,6 +50,9 @@
     ],
     "name:fra_x_preferred":[
         "Conc\u00f3n"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0576\u056f\u0578\u0576"
     ],
     "name:ita_x_preferred":[
         "Conc\u00f3n"
@@ -81,6 +93,9 @@
     "name:swe_x_preferred":[
         "Conc\u00f3n"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u043a\u043e\u043d"
+    ],
     "name:zho_x_preferred":[
         "\u5b54\u5b54"
     ],
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":890517707,
-    "wof:lastmodified":1566644602,
+    "wof:lastmodified":1690866954,
     "wof:name":"Conc\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

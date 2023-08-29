@@ -25,11 +25,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u0646\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0648\u0646\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Coronel"
+    ],
     "name:aym_x_preferred":[
         "Coronel"
     ],
     "name:aze_x_preferred":[
         "Coronel"
+    ],
+    "name:aze_x_variant":[
+        "Koronel"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09b0\u09cb\u09a8\u09c7\u09b2"
@@ -190,6 +199,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e42\u0e23\u0e41\u0e19\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e01\u0e42\u0e23\u0e40\u0e19\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Coronel"
     ],
@@ -252,7 +264,7 @@
         }
     ],
     "wof:id":102018175,
-    "wof:lastmodified":1636495008,
+    "wof:lastmodified":1690866816,
     "wof:name":"Coronel",
     "wof:parent_id":102063171,
     "wof:placetype":"locality",

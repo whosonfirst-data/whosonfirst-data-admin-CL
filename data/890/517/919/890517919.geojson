@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "Melinka"
     ],
+    "name:pol_x_preferred":[
+        "Melinka"
+    ],
     "name:ron_x_preferred":[
         "Melinka"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890517919,
-    "wof:lastmodified":1566644629,
+    "wof:lastmodified":1690866979,
     "wof:name":"Melinka",
     "wof:parent_id":102063187,
     "wof:placetype":"locality",

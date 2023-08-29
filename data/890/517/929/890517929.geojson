@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Entre Lagos"
     ],
+    "name:pol_x_preferred":[
+        "Entre Lagos"
+    ],
     "name:spa_x_preferred":[
         "Entre Lagos"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890517929,
-    "wof:lastmodified":1566644627,
+    "wof:lastmodified":1690866978,
     "wof:name":"Entre Lagos",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

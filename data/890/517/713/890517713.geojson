@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.7760695,-39.456607,-72.7760695,-39.456607",
+    "geom:bbox":"-72.77607,-39.456607,-72.77607,-39.456607",
     "geom:latitude":-39.456607,
     "geom:longitude":-72.77607,
     "gp:adm0":23424782,
@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Lanco"
     ],
+    "name:diq_x_preferred":[
+        "Lanco"
+    ],
     "name:eng_x_preferred":[
         "Lanco"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Lanco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e0\u05e7\u05d5"
     ],
     "name:ita_x_preferred":[
         "Lanco"
@@ -53,6 +59,9 @@
     "name:oci_x_preferred":[
         "Lanco"
     ],
+    "name:pol_x_preferred":[
+        "Lanco"
+    ],
     "name:por_x_preferred":[
         "Lanco"
     ],
@@ -67,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Lanco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043d\u043a\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646\u06a9\u0648"
@@ -111,7 +123,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d052a4433176db16a61d87eea9b1859",
+    "wof:geomhash":"d505463753451208647286816af9ef9f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":890517713,
-    "wof:lastmodified":1582316357,
+    "wof:lastmodified":1690866962,
     "wof:name":"Lanco",
     "wof:parent_id":102063183,
     "wof:placetype":"localadmin",
@@ -132,10 +144,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.7760695,
+    -72.77607,
     -39.456607,
-    -72.7760695,
+    -72.77607,
     -39.456607
 ],
-  "geometry": {"coordinates":[-72.77606950000001,-39.456607],"type":"Point"}
+  "geometry": {"coordinates":[-72.77607,-39.456607],"type":"Point"}
 }

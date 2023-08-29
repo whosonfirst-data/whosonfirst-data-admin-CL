@@ -32,6 +32,9 @@
     "name:deu_x_preferred":[
         "Futrono"
     ],
+    "name:diq_x_preferred":[
+        "Futrono"
+    ],
     "name:eng_x_preferred":[
         "Futrono"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:fra_x_preferred":[
         "Futrono"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d8\u05e8\u05d5\u05e0\u05d5"
     ],
     "name:ita_x_preferred":[
         "Futrono"
@@ -59,6 +65,9 @@
     "name:oci_x_preferred":[
         "Futrono"
     ],
+    "name:pol_x_preferred":[
+        "Futrono"
+    ],
     "name:por_x_preferred":[
         "Futrono"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Futrono"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u0442\u0440\u043e\u043d\u043e"
     ],
     "name:zho_x_preferred":[
         "\u5bcc\u7279\u7f85\u8afe"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":890517511,
-    "wof:lastmodified":1566644614,
+    "wof:lastmodified":1690866964,
     "wof:name":"Futrono",
     "wof:parent_id":102063189,
     "wof:placetype":"localadmin",

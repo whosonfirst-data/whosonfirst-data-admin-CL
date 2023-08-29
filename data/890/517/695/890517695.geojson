@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Puchuncav\u00ed"
     ],
+    "name:diq_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Puchuncav\u00ed"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fra_x_preferred":[
         "Puchuncav\u00ed"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0579\u0578\u0582\u0576\u056f\u0561\u057e\u056b"
     ],
     "name:ita_x_preferred":[
         "Puchuncav\u00ed"
@@ -49,6 +55,9 @@
     "name:oci_x_preferred":[
         "Puchuncav\u00ed"
     ],
+    "name:pol_x_preferred":[
+        "Puchuncav\u00ed"
+    ],
     "name:por_x_preferred":[
         "Puchuncav\u00ed"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Puchuncav\u00ed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0447\u0443\u043d\u043a\u0430\u0432\u0456"
     ],
     "name:zho_x_preferred":[
         "\u8056\u80e1\u5b89\u5fb7\u62c9\u79d1\u65af\u5854"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":890517695,
-    "wof:lastmodified":1566644610,
+    "wof:lastmodified":1690866961,
     "wof:name":"Puchuncavi",
     "wof:parent_id":102063161,
     "wof:placetype":"localadmin",

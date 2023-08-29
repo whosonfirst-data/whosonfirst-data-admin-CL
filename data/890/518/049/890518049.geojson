@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0631\u064a\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "La Reina"
+    ],
     "name:aze_x_preferred":[
         "La Reyna"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:fra_x_preferred":[
         "La Reina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e8\u05d9\u05d9\u05e0\u05d4"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0561 \u054c\u0565\u0575\u0576\u0561"
@@ -100,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "La Reina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0420\u0435\u0439\u043d\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0631\u06cc\u0646\u0627"
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":890518049,
-    "wof:lastmodified":1566644637,
+    "wof:lastmodified":1690866986,
     "wof:name":"La Reina",
     "wof:parent_id":102063117,
     "wof:placetype":"localadmin",

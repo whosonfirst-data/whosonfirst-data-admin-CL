@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0628\u064a\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0644\u0628\u064a\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Colb\u00fan"
+    ],
     "name:cat_x_preferred":[
         "Colb\u00fan"
     ],
     "name:ceb_x_preferred":[
         "Colb\u00fan"
+    ],
+    "name:ceb_x_variant":[
+        "Colbun"
     ],
     "name:deu_x_preferred":[
         "Colb\u00fan"
@@ -56,6 +65,9 @@
     "name:oci_x_preferred":[
         "Colb\u00fan"
     ],
+    "name:pol_x_preferred":[
+        "Colb\u00fan"
+    ],
     "name:por_x_preferred":[
         "Colb\u00fan"
     ],
@@ -70,6 +82,12 @@
     ],
     "name:swe_x_preferred":[
         "Colb\u00fan"
+    ],
+    "name:swe_x_variant":[
+        "Colbun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u044c\u0431\u0443\u043d"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u723e\u6587"
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":890517623,
-    "wof:lastmodified":1566644621,
+    "wof:lastmodified":1690866971,
     "wof:name":"Colb\u00fan",
     "wof:parent_id":102063097,
     "wof:placetype":"localadmin",

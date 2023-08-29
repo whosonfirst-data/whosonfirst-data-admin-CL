@@ -17,8 +17,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u062e\u0648\u0627\u0646\u0627"
+    ],
     "name:aze_x_preferred":[
         "Santa Juana"
+    ],
+    "name:aze_x_variant":[
+        "Santa-Xuana"
     ],
     "name:bre_x_preferred":[
         "Santa Juana"
@@ -26,11 +32,20 @@
     "name:cat_x_preferred":[
         "Santa Juana"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Juana"
+    ],
     "name:deu_x_preferred":[
         "Santa Juana"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a7\u03bf\u03c5\u03ac\u03bd\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Santa Juana"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Johanino"
     ],
     "name:eus_x_preferred":[
         "Santa Juana"
@@ -86,8 +101,14 @@
     "name:spa_x_preferred":[
         "Santa Juana"
     ],
+    "name:swe_x_preferred":[
+        "Santa Juana"
+    ],
     "name:tur_x_preferred":[
         "Santa Juana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0425\u0443\u0430\u043d\u0430"
     ],
     "name:vol_x_preferred":[
         "Santa Juana"
@@ -146,7 +167,7 @@
         }
     ],
     "wof:id":890518207,
-    "wof:lastmodified":1582316358,
+    "wof:lastmodified":1690866998,
     "wof:name":"Santa Juana",
     "wof:parent_id":102063151,
     "wof:placetype":"localadmin",

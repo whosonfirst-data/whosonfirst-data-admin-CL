@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u064a\u062a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0627\u064a\u062a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Chait\u00e9n"
+    ],
+    "name:bre_x_preferred":[
+        "Chait\u00e9n"
+    ],
     "name:cat_x_preferred":[
         "Chait\u00e9n"
     ],
@@ -90,6 +99,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0439\u0442\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Chait\u00e9n"
     ],
     "name:spa_x_preferred":[
         "Chait\u00e9n"
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":1125841025,
-    "wof:lastmodified":1566644667,
+    "wof:lastmodified":1690867004,
     "wof:name":"Chait\u00e9n",
     "wof:parent_id":102063169,
     "wof:placetype":"locality",

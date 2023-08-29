@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.5999884457,-43.0996056938,-73.5999884457,-43.0996056938",
+    "geom:bbox":"-73.599988,-43.099606,-73.599988,-43.099606",
     "geom:latitude":-43.099606,
     "geom:longitude":-73.599988,
     "iso:country":"CL",
@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0644\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Quell\u00f3n"
+    ],
     "name:cat_x_preferred":[
         "Quell\u00f3n"
     ],
@@ -31,6 +34,9 @@
         "Quell\u00f3n"
     ],
     "name:deu_x_preferred":[
+        "Quell\u00f3n"
+    ],
+    "name:diq_x_preferred":[
         "Quell\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -92,6 +98,9 @@
     ],
     "name:swe_x_preferred":[
         "Quellon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043b\u044c\u0439\u043e\u043d"
     ],
     "name:vol_x_preferred":[
         "Quell\u00f3n"
@@ -210,7 +219,7 @@
     },
     "wof:country":"CL",
     "wof:created":1499130775,
-    "wof:geomhash":"bcc38f923efa0d408da4d88a0459671d",
+    "wof:geomhash":"33cb42cc17d3a7f5fdb37bc4354f52e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -221,7 +230,7 @@
         }
     ],
     "wof:id":1141907825,
-    "wof:lastmodified":1566644804,
+    "wof:lastmodified":1690867007,
     "wof:name":"Quellon",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",
@@ -231,10 +240,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.59998844571948,
-    -43.09960569384089,
-    -73.59998844571948,
-    -43.09960569384089
+    -73.599988,
+    -43.099606,
+    -73.599988,
+    -43.099606
 ],
-  "geometry": {"coordinates":[-73.59998844571948,-43.09960569384089],"type":"Point"}
+  "geometry": {"coordinates":[-73.599988,-43.099606],"type":"Point"}
 }

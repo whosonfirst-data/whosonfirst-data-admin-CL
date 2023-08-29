@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.4862895,-42.474122,-73.4862895,-42.474122",
+    "geom:bbox":"-73.486289,-42.474122,-73.486289,-42.474122",
     "geom:latitude":-42.474122,
     "geom:longitude":-73.486289,
     "gp:adm0":23424782,
@@ -21,6 +21,12 @@
         "Quinchao"
     ],
     "name:ceb_x_preferred":[
+        "Quinchao"
+    ],
+    "name:ces_x_preferred":[
+        "Quinchao"
+    ],
+    "name:deu_x_preferred":[
         "Quinchao"
     ],
     "name:eng_x_preferred":[
@@ -65,6 +71,9 @@
     "name:swe_x_variant":[
         "Quinchao"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u043d\u0447\u0430\u043e"
+    ],
     "name:zho_x_preferred":[
         "\u91d1\u55ac"
     ],
@@ -95,7 +104,7 @@
     },
     "wof:country":"CL",
     "wof:created":1469056027,
-    "wof:geomhash":"5bd66c884833c004d159ef21189ae38b",
+    "wof:geomhash":"931fc4f945b53e1e725ff7648cea7501",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":890517837,
-    "wof:lastmodified":1566644625,
+    "wof:lastmodified":1690866976,
     "wof:name":"Quinchao",
     "wof:parent_id":102063115,
     "wof:placetype":"localadmin",
@@ -116,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.4862895,
+    -73.486289,
     -42.474122,
-    -73.4862895,
+    -73.486289,
     -42.474122
 ],
-  "geometry": {"coordinates":[-73.4862895,-42.474122],"type":"Point"}
+  "geometry": {"coordinates":[-73.486289,-42.474122],"type":"Point"}
 }

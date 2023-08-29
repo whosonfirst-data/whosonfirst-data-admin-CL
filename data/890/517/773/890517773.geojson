@@ -17,10 +17,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Melipeuco"
+    ],
     "name:cat_x_preferred":[
         "Melipeuco"
     ],
     "name:ceb_x_preferred":[
+        "Melipeuco"
+    ],
+    "name:deu_x_preferred":[
         "Melipeuco"
     ],
     "name:eng_x_preferred":[
@@ -38,6 +44,9 @@
     "name:ita_x_preferred":[
         "Melipeuco"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30ea\u30da\u30a6\u30b3"
+    ],
     "name:kor_x_preferred":[
         "\uba5c\ub9ac\ud398\uc6b0\ucf54"
     ],
@@ -48,6 +57,9 @@
         "Melipeuco"
     ],
     "name:oci_x_preferred":[
+        "Melipeuco"
+    ],
+    "name:pol_x_preferred":[
         "Melipeuco"
     ],
     "name:por_x_preferred":[
@@ -64,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Melipeuco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0456\u043f\u0435\u0443\u043a\u043e"
     ],
     "name:zho_x_preferred":[
         "Puerto Weber"
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":890517773,
-    "wof:lastmodified":1566644629,
+    "wof:lastmodified":1690866979,
     "wof:name":"Melipeuco",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

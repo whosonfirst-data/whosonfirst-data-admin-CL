@@ -53,6 +53,9 @@
     "name:oci_x_preferred":[
         "Pemuco"
     ],
+    "name:pol_x_preferred":[
+        "Pemuco"
+    ],
     "name:por_x_preferred":[
         "Pemuco"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Pemuco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043c\u0443\u043a\u043e"
     ],
     "name:zho_x_preferred":[
         "\u6f58\u5409\u666e\u4f0a"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":890518415,
-    "wof:lastmodified":1566644637,
+    "wof:lastmodified":1690866986,
     "wof:name":"Pemuco",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

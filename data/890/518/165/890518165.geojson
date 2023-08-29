@@ -23,6 +23,12 @@
     "name:ceb_x_preferred":[
         "Tiltil"
     ],
+    "name:deu_x_preferred":[
+        "Tiltil"
+    ],
+    "name:diq_x_preferred":[
+        "Tiltil"
+    ],
     "name:eng_x_preferred":[
         "Tiltil"
     ],
@@ -38,6 +44,9 @@
     "name:ita_x_preferred":[
         "Tiltil"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30eb\u30c6\u30a3\u30eb"
+    ],
     "name:kor_x_preferred":[
         "\ud2f8\ud2f8"
     ],
@@ -48,6 +57,9 @@
         "Tiltil"
     ],
     "name:nld_x_preferred":[
+        "Tiltil"
+    ],
+    "name:pol_x_preferred":[
         "Tiltil"
     ],
     "name:por_x_preferred":[
@@ -67,6 +79,9 @@
     ],
     "name:swe_x_variant":[
         "Tiltil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043b\u044c\u0442\u0456\u043b\u044c"
     ],
     "name:zho_x_preferred":[
         "\u8482\u723e\u8482\u723e"
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":890518165,
-    "wof:lastmodified":1582316358,
+    "wof:lastmodified":1690866991,
     "wof:name":"Tiltil",
     "wof:parent_id":102063173,
     "wof:placetype":"localadmin",

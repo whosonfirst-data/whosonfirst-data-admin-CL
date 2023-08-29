@@ -23,7 +23,13 @@
     "name:eng_x_preferred":[
         "Lonqu\u00e9n"
     ],
+    "name:fra_x_preferred":[
+        "Lonqu\u00e9n"
+    ],
     "name:nld_x_preferred":[
+        "Lonqu\u00e9n"
+    ],
+    "name:pol_x_preferred":[
         "Lonqu\u00e9n"
     ],
     "name:spa_x_preferred":[
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890517835,
-    "wof:lastmodified":1566644608,
+    "wof:lastmodified":1690866958,
     "wof:name":"Lonqu\u00e9n",
     "wof:parent_id":102063095,
     "wof:placetype":"locality",

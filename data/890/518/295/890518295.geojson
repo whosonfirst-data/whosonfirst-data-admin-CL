@@ -29,8 +29,14 @@
     "name:ast_x_preferred":[
         "Hanga Ruque"
     ],
+    "name:ast_x_variant":[
+        "Hanga Roa"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u043d\u0433\u0430-\u0420\u043e\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u043d\u0433\u0430-\u0420\u043e\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09af\u09be\u0999\u09cd\u0995\u09be \u09b0\u09cb\u09af\u09bc\u09be"
@@ -60,6 +66,9 @@
         "\u03a7\u03ac\u03bd\u03b3\u03ba\u03b1 \u03a1\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Hanga Roa"
+    ],
+    "name:epo_x_preferred":[
         "Hanga Roa"
     ],
     "name:fas_x_preferred":[
@@ -116,6 +125,9 @@
     "name:lit_x_preferred":[
         "Hanga Roa"
     ],
+    "name:lmo_x_preferred":[
+        "Hanga Roa"
+    ],
     "name:mar_x_preferred":[
         "\u0939\u093e\u0902\u0917\u093e \u0930\u094b\u0906"
     ],
@@ -160,6 +172,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc4\u0db1\u0dca\u0d9c\u0dcf \u0dbb\u0ddd"
+    ],
+    "name:slk_x_preferred":[
+        "Hanga Roa"
     ],
     "name:slv_x_preferred":[
         "Hanga Roa"
@@ -240,7 +255,7 @@
         }
     ],
     "wof:id":890518295,
-    "wof:lastmodified":1566644639,
+    "wof:lastmodified":1690866987,
     "wof:name":"Hangoa-Roa",
     "wof:parent_id":1108786421,
     "wof:placetype":"locality",

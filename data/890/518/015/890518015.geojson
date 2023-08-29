@@ -59,6 +59,9 @@
     "name:oci_x_preferred":[
         "Coelemu"
     ],
+    "name:pol_x_preferred":[
+        "Coelemu"
+    ],
     "name:por_x_preferred":[
         "Coelemu"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Coelemu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0435\u043b\u0435\u043c\u0443"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u57c3\u840a\u7a46"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":890518015,
-    "wof:lastmodified":1566644635,
+    "wof:lastmodified":1690866983,
     "wof:name":"Coelemu",
     "wof:parent_id":102063109,
     "wof:placetype":"localadmin",

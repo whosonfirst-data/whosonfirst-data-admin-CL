@@ -77,6 +77,9 @@
     "name:swe_x_preferred":[
         "Estaci\u00f3n Central"
     ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u0442\u0430\u0441\u044c\u0439\u043e\u043d-\u0421\u0435\u043d\u0442\u0440\u0430\u043b\u044c"
+    ],
     "name:zho_x_preferred":[
         "\u57c3\u65af\u5854\u897f\u7fc1\u68ee\u7279\u62c9\u723e"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":890517625,
-    "wof:lastmodified":1566644620,
+    "wof:lastmodified":1690866970,
     "wof:name":"Estacion Central",
     "wof:parent_id":102063117,
     "wof:placetype":"localadmin",

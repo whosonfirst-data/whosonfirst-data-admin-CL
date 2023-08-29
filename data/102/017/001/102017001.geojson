@@ -76,6 +76,9 @@
     "name:nld_x_preferred":[
         "Lago Rupanco"
     ],
+    "name:pol_x_preferred":[
+        "Rupanco"
+    ],
     "name:por_x_preferred":[
         "Lago Rupanco"
     ],
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":102017001,
-    "wof:lastmodified":1636495017,
+    "wof:lastmodified":1690866873,
     "wof:name":"Lago Rupanco",
     "wof:parent_id":102063121,
     "wof:placetype":"locality",

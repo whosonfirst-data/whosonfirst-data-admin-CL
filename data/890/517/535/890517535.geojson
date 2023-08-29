@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Curacav\u00ed"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d0\u05e7\u05d5\u05d5\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0580\u0561\u056f\u0561\u057e\u056b"
+    ],
     "name:ita_x_preferred":[
         "Curacav\u00ed"
     ],
@@ -59,6 +65,9 @@
     "name:oci_x_preferred":[
         "Curacav\u00ed"
     ],
+    "name:pol_x_preferred":[
+        "Curacav\u00ed"
+    ],
     "name:por_x_preferred":[
         "Curacav\u00ed"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Curacav\u00ed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u043a\u0430\u0432\u0456"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u62c9\u5361\u7dad"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":890517535,
-    "wof:lastmodified":1566644602,
+    "wof:lastmodified":1690866954,
     "wof:name":"Curacav\u00ed",
     "wof:parent_id":102063083,
     "wof:placetype":"localadmin",

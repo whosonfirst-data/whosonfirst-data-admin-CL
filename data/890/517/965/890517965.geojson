@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.85289,-33.4433925,-70.85289,-33.4433925",
+    "geom:bbox":"-70.85289,-33.443393,-70.85289,-33.443393",
     "geom:latitude":-33.443393,
     "geom:longitude":-70.85289,
     "gp:adm0":23424782,
@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062f\u0627\u0647\u064a\u0644"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0443\u0434\u0430\u0445\u0443\u0435\u043b"
     ],
@@ -24,6 +27,9 @@
         "Pudahuel"
     ],
     "name:ceb_x_preferred":[
+        "Pudahuel"
+    ],
+    "name:deu_x_preferred":[
         "Pudahuel"
     ],
     "name:eng_x_preferred":[
@@ -36,6 +42,9 @@
         "\u067e\u0648\u062f\u0627\u0648\u0644"
     ],
     "name:fra_x_preferred":[
+        "Pudahuel"
+    ],
+    "name:hun_x_preferred":[
         "Pudahuel"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Pudahuel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0434\u0430\u0443\u0435\u043b\u044c"
     ],
     "name:vie_x_preferred":[
         "Pudahuel"
@@ -110,7 +122,7 @@
     },
     "wof:country":"CL",
     "wof:created":1469056038,
-    "wof:geomhash":"9bcdbbf4f7b8260ba9ccacfa874c0746",
+    "wof:geomhash":"91f3316ebbb299bab8e38d610eecff4b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":890517965,
-    "wof:lastmodified":1566644599,
+    "wof:lastmodified":1690866952,
     "wof:name":"Pudahuel",
     "wof:parent_id":102063117,
     "wof:placetype":"localadmin",
@@ -132,9 +144,9 @@
 },
   "bbox": [
     -70.85289,
-    -33.4433925,
+    -33.443393,
     -70.85289,
-    -33.4433925
+    -33.443393
 ],
-  "geometry": {"coordinates":[-70.85289,-33.4433925],"type":"Point"}
+  "geometry": {"coordinates":[-70.85289,-33.443393],"type":"Point"}
 }

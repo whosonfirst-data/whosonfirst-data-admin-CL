@@ -26,6 +26,12 @@
     "name:ceb_x_preferred":[
         "Quinchao"
     ],
+    "name:ces_x_preferred":[
+        "Quinchao"
+    ],
+    "name:deu_x_preferred":[
+        "Quinchao"
+    ],
     "name:eng_x_preferred":[
         "Quinchao"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Quinchao"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u043d\u0447\u0430\u043e"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u55ac"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":890518155,
-    "wof:lastmodified":1566644646,
+    "wof:lastmodified":1690866992,
     "wof:name":"Quinchao",
     "wof:parent_id":102063115,
     "wof:placetype":"locality",

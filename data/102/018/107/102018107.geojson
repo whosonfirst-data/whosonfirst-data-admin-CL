@@ -50,6 +50,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0456\u0447\u044b\u043b\u0435\u043c\u0443"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u0456\u0447\u044b\u043b\u0435\u043c\u0443"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u099a\u09b2\u09c7\u09ae\u09c1"
     ],
@@ -78,6 +81,9 @@
         "Pichilemu"
     ],
     "name:deu_x_preferred":[
+        "Pichilemu"
+    ],
+    "name:diq_x_preferred":[
         "Pichilemu"
     ],
     "name:ell_x_preferred":[
@@ -302,6 +308,9 @@
     "name:wol_x_preferred":[
         "Pichilemu"
     ],
+    "name:wuu_x_preferred":[
+        "\u62ab\u5e02\u52d2\u4ea9"
+    ],
     "name:yor_x_preferred":[
         "P\u00edts\u00edl\u1eb9\u0301mu"
     ],
@@ -361,7 +370,7 @@
         }
     ],
     "wof:id":102018107,
-    "wof:lastmodified":1636495008,
+    "wof:lastmodified":1690866818,
     "wof:name":"Pichilemu",
     "wof:parent_id":102063149,
     "wof:placetype":"locality",

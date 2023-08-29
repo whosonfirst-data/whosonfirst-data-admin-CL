@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0627\u0647\u064a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0631\u0627\u0647\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u09b9\u09c1\u09df\u09c7"
     ],
@@ -75,6 +78,9 @@
         "Carahue"
     ],
     "name:oci_x_preferred":[
+        "Carahue"
+    ],
+    "name:pol_x_preferred":[
         "Carahue"
     ],
     "name:por_x_preferred":[
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":890517495,
-    "wof:lastmodified":1636495046,
+    "wof:lastmodified":1690866976,
     "wof:name":"Carahue",
     "wof:parent_id":102063107,
     "wof:placetype":"localadmin",

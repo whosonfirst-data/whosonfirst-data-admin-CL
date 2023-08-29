@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Iloca"
     ],
+    "name:pol_x_preferred":[
+        "Iloca"
+    ],
     "name:ron_x_preferred":[
         "Iloca"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890517877,
-    "wof:lastmodified":1566644620,
+    "wof:lastmodified":1690866970,
     "wof:name":"Iloca",
     "wof:parent_id":102063147,
     "wof:placetype":"locality",

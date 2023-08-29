@@ -68,6 +68,9 @@
     "name:deu_x_preferred":[
         "Regi\u00f3n de Tarapac\u00e1"
     ],
+    "name:diq_x_preferred":[
+        "Tarapac\u00e1"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03c1\u03b1\u03c0\u03b1\u03ba\u03ac"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0580\u0561\u057a\u0561\u056f\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0561\u0580\u0561\u0583\u0561\u0584\u0561"
     ],
     "name:ilo_x_preferred":[
         "Rehion ti Tarapac\u00e1"
@@ -169,6 +175,9 @@
     "name:nld_x_preferred":[
         "Tarapac\u00e1"
     ],
+    "name:nno_x_preferred":[
+        "Tarapac\u00e1-regionen"
+    ],
     "name:nob_x_preferred":[
         "Tarapac\u00e1"
     ],
@@ -211,6 +220,9 @@
     "name:spa_x_variant":[
         "Regi\u00f3n de Tarapac\u00e1"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043f\u0430\u043a\u0430"
+    ],
     "name:swa_x_preferred":[
         "Mkoa wa Tarapac\u00e1"
     ],
@@ -238,6 +250,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u0631\u0627\u067e\u0627\u06a9\u0627 \u0631\u06cc\u062c\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Tarapac\u00e1 viloyati"
+    ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Tarapac\u00e1"
     ],
@@ -246,6 +261,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5854\u62c9\u5e15\u5361\u5927\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u5854\u62c9\u5e15\u5361\u5927\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5854\u62c9\u5e15\u5361\u5927\u533a"
@@ -366,7 +384,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1617131265,
+    "wof:lastmodified":1690866946,
     "wof:name":"De Tarapaca",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

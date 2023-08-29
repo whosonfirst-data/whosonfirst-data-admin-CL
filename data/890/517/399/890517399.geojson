@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "Do\u00f1ihue"
     ],
+    "name:diq_x_preferred":[
+        "Do\u00f1ihue"
+    ],
     "name:eng_x_preferred":[
         "Do\u00f1ihue"
     ],
@@ -61,6 +64,9 @@
     "name:oci_x_preferred":[
         "Do\u00f1ihue"
     ],
+    "name:pol_x_preferred":[
+        "Do\u00f1ihue"
+    ],
     "name:por_x_preferred":[
         "Do\u00f1ihue"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Do\u00f1ihue"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u044c\u0457\u0443\u0435"
     ],
     "name:zho_x_preferred":[
         "\u591a\u5c3c\u97cb"
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":890517399,
-    "wof:lastmodified":1582316356,
+    "wof:lastmodified":1690866954,
     "wof:name":"Do\u00f1ihue",
     "wof:parent_id":102063155,
     "wof:placetype":"localadmin",

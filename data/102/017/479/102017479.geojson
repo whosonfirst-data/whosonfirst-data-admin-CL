@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u0627\u0631\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0646\u0627\u0631\u064a\u0633 \u062a\u0634\u064a\u0644\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09a8\u09be\u09b0\u09c7\u099a"
     ],
@@ -133,6 +136,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e19\u0e48\u0e32\u0e40\u0e23\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e34\u0e19\u0e32\u0e40\u0e23\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Linares"
@@ -314,7 +320,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1636495015,
+    "wof:lastmodified":1690866861,
     "wof:name":"Linares",
     "wof:parent_id":102063097,
     "wof:placetype":"locality",

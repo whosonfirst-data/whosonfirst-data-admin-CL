@@ -22,6 +22,15 @@
     "name:cat_x_preferred":[
         "Rinconada"
     ],
+    "name:ceb_x_preferred":[
+        "Rinconada"
+    ],
+    "name:deu_x_preferred":[
+        "Rinconada"
+    ],
+    "name:diq_x_preferred":[
+        "Rinconada"
+    ],
     "name:eng_x_preferred":[
         "Rinconada"
     ],
@@ -64,8 +73,14 @@
     "name:spa_x_preferred":[
         "Rinconada"
     ],
+    "name:swe_x_preferred":[
+        "Rinconada"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043d\u043a\u043e\u043d\u0430\u0434\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0438\u043d\u043a\u043e\u043d\u0430\u0434\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0646\u06a9\u0648\u0646\u0627\u0688\u0627"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":890517463,
-    "wof:lastmodified":1636495044,
+    "wof:lastmodified":1690866958,
     "wof:name":"Rinconada",
     "wof:parent_id":102063139,
     "wof:placetype":"localadmin",

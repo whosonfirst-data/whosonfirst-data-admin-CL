@@ -37,6 +37,9 @@
     "name:deu_x_preferred":[
         "Taltal"
     ],
+    "name:diq_x_preferred":[
+        "Taltal"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03bb\u03c4\u03ac\u03bb"
     ],
@@ -77,6 +80,9 @@
         "Taltal"
     ],
     "name:nld_x_preferred":[
+        "Taltal"
+    ],
+    "name:pol_x_preferred":[
         "Taltal"
     ],
     "name:por_x_preferred":[
@@ -261,7 +267,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1636495010,
+    "wof:lastmodified":1690866832,
     "wof:name":"Taltal",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",

@@ -22,10 +22,16 @@
     "name:cat_x_preferred":[
         "La Cruz"
     ],
+    "name:ceb_x_preferred":[
+        "La Cruz"
+    ],
     "name:dan_x_preferred":[
         "La Cruz"
     ],
     "name:deu_x_preferred":[
+        "La Cruz"
+    ],
+    "name:diq_x_preferred":[
         "La Cruz"
     ],
     "name:eng_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "La Cruz"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u053f\u0580\u0578\u0582\u057d"
     ],
     "name:ita_x_preferred":[
         "La Cruz"
@@ -55,6 +64,9 @@
     "name:oci_x_preferred":[
         "La Cruz"
     ],
+    "name:pol_x_preferred":[
+        "La Cruz"
+    ],
     "name:por_x_preferred":[
         "La Cruz"
     ],
@@ -66,6 +78,12 @@
     ],
     "name:spa_x_preferred":[
         "La Cruz"
+    ],
+    "name:swe_x_preferred":[
+        "La Cruz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041a\u0440\u0443\u0441"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06a9\u0631\u0648\u0632"
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":102017563,
-    "wof:lastmodified":1642551723,
+    "wof:lastmodified":1690866887,
     "wof:name":"La Cruz",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Ollag\u00fce"
     ],
+    "name:diq_x_preferred":[
+        "Ollag\u00fce"
+    ],
     "name:eng_x_preferred":[
         "Ollag\u00fce"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:spa_x_preferred":[
         "Ollag\u00fce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u044c\u044f\u0433\u0443\u0435"
     ],
     "name:und_x_variant":[
         "Oliague"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":890517811,
-    "wof:lastmodified":1566644603,
+    "wof:lastmodified":1690866955,
     "wof:name":"Ollag\u00fce",
     "wof:parent_id":102063131,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "name:ceb_x_preferred":[
         "Rengo"
     ],
+    "name:dan_x_preferred":[
+        "Rengo"
+    ],
+    "name:diq_x_preferred":[
+        "Rengo"
+    ],
     "name:eng_x_preferred":[
         "Rengo"
     ],
@@ -89,6 +95,12 @@
     "name:swe_x_preferred":[
         "Rengo"
     ],
+    "name:szl_x_preferred":[
+        "Rengo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043d\u0433\u043e"
+    ],
     "name:zho_x_preferred":[
         "\u502b\u6208"
     ],
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":890518431,
-    "wof:lastmodified":1566644641,
+    "wof:lastmodified":1690866988,
     "wof:name":"Rengo",
     "wof:parent_id":102063155,
     "wof:placetype":"localadmin",

@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Pelluhue"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u043b\u0443\u0445\u0443\u0435"
     ],
@@ -59,6 +62,9 @@
     "name:oci_x_preferred":[
         "Pelluhue"
     ],
+    "name:pol_x_preferred":[
+        "Pelluhue"
+    ],
     "name:por_x_preferred":[
         "Pelluhue"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Pelluhue"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043b\u044c\u044e\u0443\u0435"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u67f3\u97cb"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":890518035,
-    "wof:lastmodified":1582316358,
+    "wof:lastmodified":1690866998,
     "wof:name":"Pelluhue",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
