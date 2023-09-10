@@ -12,8 +12,8 @@
     "gn:elevation":508,
     "gn:population":104316,
     "iso:country":"CL",
-    "lbl:latitude":-33.449154,
-    "lbl:longitude":-70.722748,
+    "lbl:latitude":-33.452142,
+    "lbl:longitude":-70.712905,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mps:latitude":-33.452142,
@@ -103,7 +103,7 @@
     "qs:type":"Suburb",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":371,
     "wof:belongsto":[
@@ -135,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690866822,
+    "wof:lastmodified":1694320307,
     "wof:name":"Lo Prado",
     "wof:parent_id":102063117,
     "wof:placetype":"locality",

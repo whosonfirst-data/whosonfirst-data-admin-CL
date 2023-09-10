@@ -17,8 +17,8 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
-    "lbl:latitude":-49.453532,
-    "lbl:longitude":-73.457491,
+    "lbl:latitude":-51.101116,
+    "lbl:longitude":-72.809352,
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "meso:admin_1":"Regi\u00f3n de Magallanes y Ant\u00e1rtica Chilena",
@@ -236,7 +236,7 @@
         }
     ],
     "wof:id":102063081,
-    "wof:lastmodified":1690866792,
+    "wof:lastmodified":1694320308,
     "wof:name":"Ultima Esperanza",
     "wof:parent_id":-1,
     "wof:placetype":"county",
