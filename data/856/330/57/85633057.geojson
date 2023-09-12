@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":78.680145,
-    "geom:area_square_m":751538316339.139404,
+    "geom:area_square_m":752687921560.287964,
     "geom:bbox":"-109.451933,-55.978214,-66.414139,-17.498344",
     "geom:latitude":-37.936621,
     "geom:longitude":-71.383691,
     "iso:country":"CL",
     "itu:country_code":[
         "56"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "CL"
@@ -1203,7 +1206,8 @@
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"56",
     "statoids:ds":"RCH",
     "statoids:fifa":"CHI",
@@ -1258,7 +1262,7 @@
         "meso-reversegeo",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"a2b30d30928f9d9549d1895a537fdfd2",
+    "wof:geomhash":"f5ea1c6c85a8642bdbfcf34e835d13e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1269,12 +1273,12 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690866920,
+    "wof:lastmodified":1694492134,
     "wof:name":"Chile",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":17619708,
-    "wof:population_rank":14,
+    "wof:population":18952038,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:shortcode":"CL",
     "wof:superseded_by":[],

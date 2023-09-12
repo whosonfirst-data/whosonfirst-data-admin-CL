@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194432,
-    "geom:area_square_m":2012699772.219708,
+    "geom:area_square_m":2012699772.219785,
     "geom:bbox":"-80.8370280559,-33.815113493,-71.1953946237,-32.6268088072",
     "geom:latitude":-33.157317,
     "geom:longitude":-71.896086,
@@ -187,6 +187,9 @@
     ],
     "name:eml_x_preferred":[
         "Valparaiso"
+    ],
+    "name:eng_x_preferred":[
+        "Valpara\u00edso"
     ],
     "name:eng_x_variant":[
         "Ocean Islands",
@@ -728,7 +731,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b89acd5afc69daea47e88ef567619f19",
+    "wof:geomhash":"faed2d2009b5dc09edb855021527200e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -738,7 +741,7 @@
         }
     ],
     "wof:id":102063161,
-    "wof:lastmodified":1582316208,
+    "wof:lastmodified":1694492485,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":85682143,
     "wof:placetype":"county",
