@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014822,
-    "geom:area_square_m":163168722.872293,
+    "geom:area_square_m":163168635.586998,
     "geom:bbox":"-109.45656,-27.202318,-79.871123,-26.28604",
     "geom:latitude":-27.09156,
     "geom:longitude":-108.367989,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Isla de Pascua"
+    ],
     "name:eng_x_variant":[
         "\u00edsla de Pascua"
     ],
@@ -80,7 +83,7 @@
         "wof:parent_id"
     ],
     "wof:country":"CL",
-    "wof:geomhash":"aaab4586a37fc13eec87dea22a108708",
+    "wof:geomhash":"2fe42f652b59d5673ecf3abcb139c30d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108786421,
-    "wof:lastmodified":1628266658,
+    "wof:lastmodified":1694492850,
     "wof:name":"Isla de Pascua",
     "wof:parent_id":85633057,
     "wof:placetype":"county",

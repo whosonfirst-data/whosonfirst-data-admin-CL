@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.485202,
-    "geom:area_square_m":3897342539.318445,
+    "geom:area_square_m":3897341111.784757,
     "geom:bbox":"-73.641665,-49.81276,-72.871154,-49.169024",
     "geom:latitude":-49.488719,
     "geom:longitude":-73.255231,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Zona sin demarcar"
+    ],
     "name:fra_x_preferred":[
         "Zone non marqu\u00e9e"
     ],
@@ -53,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"CL",
     "wof:created":1476220470,
-    "wof:geomhash":"977235bf03acf6e8dad68d9cd298299a",
+    "wof:geomhash":"2b06eced3cc126ed9003ffbb8f4e18d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108721741,
-    "wof:lastmodified":1628266751,
+    "wof:lastmodified":1694492899,
     "wof:name":"Zona sin demarcar",
     "wof:parent_id":-1,
     "wof:placetype":"county",

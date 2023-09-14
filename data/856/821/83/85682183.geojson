@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.414172,
-    "geom:area_square_m":3328155049.586578,
+    "geom:area_square_m":3328156046.453827,
     "geom:bbox":"-73.6166,-49.7869,-72.966003,-49.150002",
     "geom:latitude":-49.4685,
     "geom:longitude":-73.291151,
     "iso:country":"CL",
+    "label:eng_x_preferred_placetype":[
+        "disputed area"
+    ],
     "lbl:latitude":-49.468451,
     "lbl:longitude":-73.291151,
     "lbl:min_zoom":8.0,
@@ -50,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CL",
-    "wof:geomhash":"03155c804cbbf963ed682514da7a2412",
+    "wof:geomhash":"d2845075df95ae07a7a37f975231b41f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +73,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1627522003,
+    "wof:lastmodified":1694493237,
     "wof:name":"Andean Southern Ice Field (Campo de Hielo Sur)",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
