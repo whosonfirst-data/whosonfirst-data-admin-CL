@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.970998,
-    "geom:area_square_m":54507888561.099831,
+    "geom:area_square_m":54507888288.442879,
     "geom:bbox":"-75.690437,-52.805279,-71.605347,-48.595795",
     "geom:latitude":-50.767452,
     "geom:longitude":-73.853637,
@@ -204,11 +204,12 @@
         "qs_pg:id":977584,
         "wd:id":"Q721769"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"df0f48888371a490ac7f167df1c927cc",
+    "wof:geomhash":"adc04d66d2de2441f09182e3a4e45948",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -236,7 +237,7 @@
         }
     ],
     "wof:id":102063081,
-    "wof:lastmodified":1690866792,
+    "wof:lastmodified":1695886528,
     "wof:name":"Ultima Esperanza",
     "wof:parent_id":-1,
     "wof:placetype":"county",

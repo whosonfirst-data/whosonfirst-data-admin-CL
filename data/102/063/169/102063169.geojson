@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.658832,
-    "geom:area_square_m":14992530281.068739,
+    "geom:area_square_m":14992530336.96279,
     "geom:bbox":"-73.104924,-44.067119,-71.582377,-41.713146",
     "geom:latitude":-43.033163,
     "geom:longitude":-72.385891,
@@ -181,11 +181,12 @@
         "wd:id":"Q721535",
         "wk:page":"Palena"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fef9b7a8412bc4d8f949b65fe1aedcd2",
+    "wof:geomhash":"796533d52e59b9e455a2047421530f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":102063169,
-    "wof:lastmodified":1690866759,
+    "wof:lastmodified":1695886462,
     "wof:name":"Palena",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

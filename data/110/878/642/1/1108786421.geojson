@@ -79,6 +79,7 @@
         "hasc:id":"CL.VS.IP",
         "qs_pg:id":579646
     },
+    "wof:concordances_official":"hasc:id",
     "wof:controlled":[
         "wof:parent_id"
     ],
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108786421,
-    "wof:lastmodified":1694492850,
+    "wof:lastmodified":1695886304,
     "wof:name":"Isla de Pascua",
     "wof:parent_id":85633057,
     "wof:placetype":"county",

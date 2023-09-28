@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.536655,
-    "geom:area_square_m":5520400511.58091,
+    "geom:area_square_m":5520400625.465402,
     "geom:bbox":"-70.655887,-34.290669,-69.770032,-33.051444",
     "geom:latitude":-33.703983,
     "geom:longitude":-70.13713,
@@ -188,11 +188,12 @@
         "wd:id":"Q201331",
         "wk:page":"Cordillera"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aff95ef54d1e4bdb8fe646c82ebaea65",
+    "wof:geomhash":"760bf7ed85d8ace2952361fa0f924930",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":102063137,
-    "wof:lastmodified":1690866784,
+    "wof:lastmodified":1695886629,
     "wof:name":"Cordillera",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

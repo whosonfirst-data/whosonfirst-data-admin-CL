@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.96445,
-    "geom:area_square_m":10144841142.71966,
+    "geom:area_square_m":10144841090.82946,
     "geom:bbox":"-71.647548,-32.282156,-70.208086,-31.141673",
     "geom:latitude":-31.713678,
     "geom:longitude":-71.017921,
@@ -178,11 +178,12 @@
         "hasc:id":"CL.CO.CH",
         "wd:id":"Q63916"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bcc45f98a2622e90d3aa22666cd542de",
+    "wof:geomhash":"ed0203100652545d74f42544c79c1d69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":102063179,
-    "wof:lastmodified":1690866800,
+    "wof:lastmodified":1695886559,
     "wof:name":"Choapa",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

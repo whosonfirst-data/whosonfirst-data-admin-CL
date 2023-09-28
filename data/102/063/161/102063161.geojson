@@ -727,6 +727,7 @@
     "wof:concordances":{
         "hasc:id":"CL.VS.IP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
@@ -741,7 +742,7 @@
         }
     ],
     "wof:id":102063161,
-    "wof:lastmodified":1694492485,
+    "wof:lastmodified":1695886456,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

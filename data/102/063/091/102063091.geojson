@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.599305,
-    "geom:area_square_m":17156228090.551104,
+    "geom:area_square_m":17156227305.106842,
     "geom:bbox":"-71.671925,-30.509804,-69.808981,-29.037697",
     "geom:latitude":-29.824185,
     "geom:longitude":-70.686685,
@@ -197,11 +197,12 @@
         "qs_pg:id":890663,
         "wd:id":"Q721224"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe71df0e16eca7775958e0b0bc60805d",
+    "wof:geomhash":"53cdff25ea52f027f76e2d0eeecac7c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":102063091,
-    "wof:lastmodified":1690866770,
+    "wof:lastmodified":1695886491,
     "wof:name":"Elqui",
     "wof:parent_id":85682161,
     "wof:placetype":"county",

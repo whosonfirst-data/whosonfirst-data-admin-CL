@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200315,
-    "geom:area_square_m":2073951236.360099,
+    "geom:area_square_m":2073951067.178837,
     "geom:bbox":"-71.029324,-33.385353,-70.373573,-32.922479",
     "geom:latitude":-33.143288,
     "geom:longitude":-70.754198,
@@ -167,11 +167,12 @@
         "wd:id":"Q201247",
         "wk:page":"Chacabuco"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"002844f75882ea90d99aa754894c65df",
+    "wof:geomhash":"39bf7e260ec2ccdd3de9b9cf97556d60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":102063173,
-    "wof:lastmodified":1690866773,
+    "wof:lastmodified":1695886626,
     "wof:name":"Chacabuco",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

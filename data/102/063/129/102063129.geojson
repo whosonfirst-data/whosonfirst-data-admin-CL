@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.301438,
-    "geom:area_square_m":3018652389.297681,
+    "geom:area_square_m":3018652164.04825,
     "geom:bbox":"-72.7859,-36.261367,-71.976233,-35.541012",
     "geom:latitude":-35.916809,
     "geom:longitude":-72.355878,
@@ -172,11 +172,12 @@
         "wd:id":"Q201176",
         "wk:page":"Cauquenes"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d1d06716e677ca2eb37b0ebf2bad2a2f",
+    "wof:geomhash":"6b26f1971e07cf1841897e0c6ec4289e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":102063129,
-    "wof:lastmodified":1690866775,
+    "wof:lastmodified":1695886625,
     "wof:name":"Cauquenes",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.907372,
-    "geom:area_square_m":18342287571.991867,
+    "geom:area_square_m":18342287511.296566,
     "geom:bbox":"-73.518399,-39.636856,-71.373634,-38.320508",
     "geom:latitude":-38.947745,
     "geom:longitude":-72.405917,
@@ -187,11 +187,12 @@
         "qs_pg:id":1087905,
         "wd:id":"Q201237"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e69e2dfd62b2cd1db18d4d9a58c7132",
+    "wof:geomhash":"1966b7f8a9d8c6fa01800e0249f34e8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -201,7 +202,7 @@
         }
     ],
     "wof:id":102063107,
-    "wof:lastmodified":1690866782,
+    "wof:lastmodified":1695886504,
     "wof:name":"Caut\u00edn",
     "wof:parent_id":85682179,
     "wof:placetype":"county",

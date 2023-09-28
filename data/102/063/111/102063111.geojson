@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.985965,
-    "geom:area_square_m":9924441680.134766,
+    "geom:area_square_m":9924441410.603071,
     "geom:bbox":"-72.618302,-36.178334,-70.314772,-34.971431",
     "geom:latitude":-35.507072,
     "geom:longitude":-71.424386,
@@ -172,11 +172,12 @@
         "wd:id":"Q721653",
         "wk:page":"Talca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb11bb88b22d3fa506cbe4ae33e66d88",
+    "wof:geomhash":"39a21f809751d7e5e56c56e232a93ca5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":102063111,
-    "wof:lastmodified":1690866776,
+    "wof:lastmodified":1695886494,
     "wof:name":"Talca",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.434586,
-    "geom:area_square_m":16438600975.071926,
+    "geom:area_square_m":16438600551.939577,
     "geom:bbox":"-70.291947,-22.880213,-68.85968,-21.284983",
     "geom:latitude":-22.068061,
     "geom:longitude":-69.60223,
@@ -178,11 +178,12 @@
         "hasc:id":"CL.AN.TO",
         "wd:id":"Q251448"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76ece6ad76e75681111f1905d4173608",
+    "wof:geomhash":"e009a7882ffbb7b513357509bd8cfcfa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":102063093,
-    "wof:lastmodified":1690866797,
+    "wof:lastmodified":1695886630,
     "wof:name":"Tocopilla",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

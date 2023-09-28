@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.976594,
-    "geom:area_square_m":32649778699.932026,
+    "geom:area_square_m":32649778183.329525,
     "geom:bbox":"-71.143592,-28.643587,-68.264216,-26.642622",
     "geom:latitude":-27.488863,
     "geom:longitude":-69.870438,
@@ -185,11 +185,12 @@
         "wd:id":"Q74292",
         "wk:page":"Copiap\u00f3"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"686b438dff4c7fc7e5c5954694c66123",
+    "wof:geomhash":"d89195f54fb33ed26ccf2bba84848bd0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":102063143,
-    "wof:lastmodified":1690866777,
+    "wof:lastmodified":1695886496,
     "wof:name":"Copiap\u00f3",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

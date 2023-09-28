@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111804,
-    "geom:area_square_m":1158275976.580821,
+    "geom:area_square_m":1158275799.555416,
     "geom:bbox":"-71.493386,-33.24653,-70.992502,-32.917597",
     "geom:latitude":-33.08876,
     "geom:longitude":-71.2381,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"CL.VS.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:created":1476220495,
-    "wof:geomhash":"a4c0d0ac4dfa7be9722a85ce51d0f804",
+    "wof:geomhash":"7d4d24149df7b323f0b2e58dab2e4c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108721747,
-    "wof:lastmodified":1627522004,
+    "wof:lastmodified":1695886490,
     "wof:name":"Marga Marga",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.395827,
-    "geom:area_square_m":4069338194.227802,
+    "geom:area_square_m":4069338526.181506,
     "geom:bbox":"-71.714492,-34.184196,-70.791801,-33.197876",
     "geom:latitude":-33.754829,
     "geom:longitude":-71.198039,
@@ -179,11 +179,12 @@
         "wd:id":"Q721498",
         "wk:page":"Melipilla"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4288a16c8a95d75af26ac5208f8228d7",
+    "wof:geomhash":"0f4a0ea3a55ea6d0b6ffd8a5f7f7d49b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":102063083,
-    "wof:lastmodified":1690866762,
+    "wof:lastmodified":1695886467,
     "wof:name":"Melipilla",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.559739,
-    "geom:area_square_m":5474094871.819531,
+    "geom:area_square_m":5474094756.340466,
     "geom:bbox":"-73.961443,-38.492464,-72.981197,-37.146452",
     "geom:latitude":-37.728275,
     "geom:longitude":-73.346011,
@@ -190,11 +190,12 @@
         "hasc:id":"CL.BI.AU",
         "wd:id":"Q201109"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f585ec23dd24a32f650dc7cee44d731",
+    "wof:geomhash":"6a387d21641dd5620d991e37bbc74a53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":102063153,
-    "wof:lastmodified":1690866779,
+    "wof:lastmodified":1695886500,
     "wof:name":"Arauco",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

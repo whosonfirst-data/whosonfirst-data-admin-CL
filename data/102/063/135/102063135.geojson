@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.594726,
-    "geom:area_square_m":14784290489.712139,
+    "geom:area_square_m":14784290421.533981,
     "geom:bbox":"-73.93979,-42.189532,-71.724482,-40.794195",
     "geom:latitude":-41.430936,
     "geom:longitude":-72.713644,
@@ -196,11 +196,12 @@
         "wd:id":"Q721408",
         "wk:page":"Llanquihue"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4861491b9a8256bcc89703fd99be48f3",
+    "wof:geomhash":"bf78fa65d19dae6e9d44d0491445185c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -210,7 +211,7 @@
         }
     ],
     "wof:id":102063135,
-    "wof:lastmodified":1690866755,
+    "wof:lastmodified":1695886451,
     "wof:name":"Llanquihue",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

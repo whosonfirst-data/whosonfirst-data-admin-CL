@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.987076,
-    "geom:area_square_m":9248008370.74741,
+    "geom:area_square_m":9248008997.287359,
     "geom:bbox":"-73.947252,-41.119254,-71.825198,-40.236539",
     "geom:latitude":-40.737837,
     "geom:longitude":-73.054624,
@@ -172,11 +172,12 @@
         "hasc:id":"CL.LG.OS",
         "wd:id":"Q721503"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b704a20ef66209d26463dde9b3ba286",
+    "wof:geomhash":"8607b0e3d43466f453b611d7404494b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":102063121,
-    "wof:lastmodified":1690866778,
+    "wof:lastmodified":1695886498,
     "wof:name":"Osorno",
     "wof:parent_id":85682233,
     "wof:placetype":"county",

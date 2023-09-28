@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.025345,
-    "geom:area_square_m":67881689173.218529,
+    "geom:area_square_m":67881688787.638329,
     "geom:bbox":"-70.738609,-26.057821,-68.065038,-22.425123",
     "geom:latitude":-24.327334,
     "geom:longitude":-69.568962,
@@ -175,11 +175,12 @@
         "hasc:id":"CL.AN.AN",
         "wd:id":"Q94552"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0034694809e8d618cdbd9890c5e41f69",
+    "wof:geomhash":"b9036e81992d4d814e3de133157751ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":102063073,
-    "wof:lastmodified":1690866791,
+    "wof:lastmodified":1695886627,
     "wof:name":"Antofagasta",
     "wof:parent_id":85682175,
     "wof:placetype":"county",

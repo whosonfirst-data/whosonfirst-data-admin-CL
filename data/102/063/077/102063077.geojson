@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.440232,
-    "geom:area_square_m":4599221670.870373,
+    "geom:area_square_m":4599221664.911881,
     "geom:bbox":"-71.543679,-32.683614,-70.411345,-32.020791",
     "geom:latitude":-32.339184,
     "geom:longitude":-71.005383,
@@ -175,11 +175,12 @@
         "wd:id":"Q721557",
         "wk:page":"Petorca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9a6e5c2e9aed690bedd38ad70b87f37b",
+    "wof:geomhash":"98421e72666091a75eb891e913988f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":102063077,
-    "wof:lastmodified":1690866761,
+    "wof:lastmodified":1695886466,
     "wof:name":"Petorca",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.259159,
-    "geom:area_square_m":13375287440.361765,
+    "geom:area_square_m":13375287205.252182,
     "geom:bbox":"-71.719074,-31.434702,-70.180985,-30.208435",
     "geom:latitude":-30.788154,
     "geom:longitude":-70.961845,
@@ -185,11 +185,12 @@
         "wd:id":"Q63774",
         "wk:page":"Limar\u00ed"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c67d48f8ced57cc7cb77dd53af27f92c",
+    "wof:geomhash":"df60059b6e9566edf3aac81de25aca6e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":102063113,
-    "wof:lastmodified":1690866801,
+    "wof:lastmodified":1695886558,
     "wof:name":"Limar\u00ed",
     "wof:parent_id":85682161,
     "wof:placetype":"county",
