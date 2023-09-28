@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.152067,
-    "geom:area_square_m":126396481842.34021,
+    "geom:area_square_m":126396482115.714279,
     "geom:bbox":"-70.738609,-26.057821,-67.003011,-20.940313",
     "geom:latitude":-23.53615,
     "geom:longitude":-69.120973,
@@ -361,15 +361,17 @@
         "gn:id":3899537,
         "gp:id":2345020,
         "hasc:id":"CL.AN",
+        "iso:code":"CL-AN",
         "iso:id":"CL-AN",
         "unlc:id":"CL-AN",
         "wd:id":"Q2118"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0e1fa6260d93c08c3a4f8b8f27daff4c",
+    "wof:geomhash":"7976dd6ce9588ce22130875d082c9a8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -384,7 +386,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866927,
+    "wof:lastmodified":1695884491,
     "wof:name":"De Antofagasta",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.921902,
-    "geom:area_square_m":18203115642.715652,
+    "geom:area_square_m":18203116156.66024,
     "geom:bbox":"-73.727678,-40.681161,-71.58773,-39.287737",
     "geom:latitude":-40.005298,
     "geom:longitude":-72.571214,
@@ -300,14 +300,16 @@
     "wof:concordances":{
         "fips:code":"CI17",
         "hasc:id":"CL.LR",
+        "iso:code":"CL-LR",
         "iso:id":"CL-LR",
         "wd:id":"Q2177"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c267ef54db5c15625635a97e3c68d6fa",
+    "wof:geomhash":"6d7fdd4dc57fce54014d6afd59d2d867",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -322,7 +324,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866934,
+    "wof:lastmodified":1695884493,
     "wof:name":"De Los Rios",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

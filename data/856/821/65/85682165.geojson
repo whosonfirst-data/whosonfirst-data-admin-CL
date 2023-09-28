@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.602952,
-    "geom:area_square_m":16347316518.216087,
+    "geom:area_square_m":16347316518.213947,
     "geom:bbox":"-72.056454,-35.006489,-70.00916,-33.850573",
     "geom:latitude":-34.435491,
     "geom:longitude":-71.046543,
@@ -346,14 +346,16 @@
         "gn:id":3883281,
         "gp:id":2345025,
         "hasc:id":"CL.LI",
+        "iso:code":"CL-LI",
         "iso:id":"CL-LI",
         "wd:id":"Q2133"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57f254b2c2747ae6fd96a264b40745dc",
+    "wof:geomhash":"e98bbf1b49b0cae2cf4c98e511506511",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -368,7 +370,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866930,
+    "wof:lastmodified":1695884492,
     "wof:name":"Del Libertador B Ohiggins",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

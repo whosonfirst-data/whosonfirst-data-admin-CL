@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.496931,
-    "geom:area_square_m":106487932179.501129,
+    "geom:area_square_m":106487935882.014923,
     "geom:bbox":"-75.646118,-49.150002,-71.09063,-43.641613",
     "geom:latitude":-46.422938,
     "geom:longitude":-73.254315,
@@ -354,14 +354,16 @@
         "gn:id":3900333,
         "gp:id":2345019,
         "hasc:id":"CL.AI",
+        "iso:code":"CL-AI",
         "iso:id":"CL-AI",
         "wd:id":"Q2181"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"7d44339a4fffe5198d0f2146e165c3f6",
+    "wof:geomhash":"16ed970861f9f63599023dc3677a9b84",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -376,7 +378,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866925,
+    "wof:lastmodified":1695884487,
     "wof:name":"De Aisen",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

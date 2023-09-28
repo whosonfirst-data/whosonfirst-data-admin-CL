@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.290127,
-    "geom:area_square_m":31771788133.299786,
+    "geom:area_square_m":31771788247.298527,
     "geom:bbox":"-73.518399,-39.636856,-70.827381,-37.581733",
     "geom:latitude":-38.64932,
     "geom:longitude":-72.274676,
@@ -379,14 +379,16 @@
         "gn:id":3899463,
         "gp:id":2345021,
         "hasc:id":"CL.AR",
+        "iso:code":"CL-AR",
         "iso:id":"CL-AR",
         "wd:id":"Q2176"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67718910ef7c4279ce114a20ae25e9ca",
+    "wof:geomhash":"90818876b880be17f904106dcff82b44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -401,7 +403,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866933,
+    "wof:lastmodified":1695884568,
     "wof:name":"De La Araucania",
     "wof:parent_id":85633057,
     "wof:placetype":"region",
