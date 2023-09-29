@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.56512,
-    "geom:area_square_m":16277703495.108854,
+    "geom:area_square_m":16277703909.52458,
     "geom:bbox":"-109.45656,-33.956064,-69.977481,-27.053618",
     "geom:latitude":-32.737694,
     "geom:longitude":-71.367954,
@@ -375,14 +375,16 @@
         "gn:id":3868621,
         "gp:id":2345018,
         "hasc:id":"CL.VS",
+        "iso:code":"CL-VS",
         "iso:id":"CL-VS",
         "wd:id":"Q219458"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"467ed8d7e1bfe43a4fbe0ec41fca3b5e",
+    "wof:geomhash":"a884489c99706e0a908054526d7c6c47",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -397,7 +399,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866929,
+    "wof:lastmodified":1695884566,
     "wof:name":"De Valparaiso",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

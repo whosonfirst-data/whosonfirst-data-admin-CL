@@ -1243,6 +1243,7 @@
         "hasc:id":"CL",
         "icao:code":"CC",
         "ioc:id":"CHI",
+        "iso:code":"CL",
         "itu:id":"CHL",
         "m49:code":"152",
         "marc:id":"cl",
@@ -1253,6 +1254,7 @@
         "wd:id":"Q298",
         "wmo:id":"CH"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:country_alpha3":"CHL",
     "wof:geom_alt":[
@@ -1273,7 +1275,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1694639587,
+    "wof:lastmodified":1695881248,
     "wof:name":"Chile",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

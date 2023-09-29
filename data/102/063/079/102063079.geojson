@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.452183,
-    "geom:area_square_m":12673165841.874767,
+    "geom:area_square_m":12673166921.852642,
     "geom:bbox":"-72.931571,-46.138433,-71.089331,-43.925254",
     "geom:latitude":-45.1052,
     "geom:longitude":-71.925117,
@@ -169,11 +169,12 @@
         "wd:id":"Q201277",
         "wk:page":"Coyhaique"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea0b94152f8f19ed7c05c61ce8349171",
+    "wof:geomhash":"1b4408ebb9055ea574409b1c632852d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":102063079,
-    "wof:lastmodified":1690866760,
+    "wof:lastmodified":1695886465,
     "wof:name":"Coyhaique",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

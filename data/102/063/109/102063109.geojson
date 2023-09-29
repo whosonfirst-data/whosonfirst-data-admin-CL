@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.318904,
-    "geom:area_square_m":13084873028.191925,
+    "geom:area_square_m":13084873001.683125,
     "geom:bbox":"-72.885837,-37.197621,-71.007303,-36.00556",
     "geom:latitude":-36.645579,
     "geom:longitude":-71.974533,
@@ -173,11 +173,12 @@
         "hasc:id":"CL.BI.NU",
         "wd:id":"Q721755"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"75014cbc1a22f77cfe4da852f60bef0d",
+    "wof:geomhash":"20469e66cf127d5c4a7c26f53dcd34f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":102063109,
-    "wof:lastmodified":1690866781,
+    "wof:lastmodified":1695886501,
     "wof:name":"\u00d1uble",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.54621,
-    "geom:area_square_m":5552483236.677835,
+    "geom:area_square_m":5552483066.336429,
     "geom:bbox":"-71.859937,-35.006489,-70.249097,-34.359361",
     "geom:latitude":-34.703836,
     "geom:longitude":-71.064204,
@@ -196,11 +196,12 @@
         "wd:id":"Q201304",
         "wk:page":"Colchagua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7607f1cad8d718539f192a362f5c653e",
+    "wof:geomhash":"dc45a90057fe608c5f7cd2f4f85bf8e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -210,7 +211,7 @@
         }
     ],
     "wof:id":102063157,
-    "wof:lastmodified":1690866757,
+    "wof:lastmodified":1695886455,
     "wof:name":"Colchagua",
     "wof:parent_id":85682165,
     "wof:placetype":"county",

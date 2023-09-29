@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.822915,
-    "geom:area_square_m":40676356673.603432,
+    "geom:area_square_m":40676355601.196365,
     "geom:bbox":"-71.719074,-32.282156,-69.808981,-29.037697",
     "geom:latitude":-30.618373,
     "geom:longitude":-70.86088,
@@ -358,15 +358,17 @@
         "gn:id":3893623,
         "gp:id":2345024,
         "hasc:id":"CL.CO",
+        "iso:code":"CL-CO",
         "iso:id":"CL-CO",
         "unlc:id":"CL-CO",
         "wd:id":"Q2121"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"750401e1944b5b3c8b9804adec26c68e",
+    "wof:geomhash":"741de0053b8560fe3d6305c01ed9b0d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -381,7 +383,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866923,
+    "wof:lastmodified":1695884486,
     "wof:name":"De Coquimbo",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

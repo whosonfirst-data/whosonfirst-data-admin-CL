@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.017042,
-    "geom:area_square_m":22106248354.999928,
+    "geom:area_square_m":22106246206.908607,
     "geom:bbox":"-71.1106,-54.747941,-68.604781,-52.452953",
     "geom:latitude":-53.658691,
     "geom:longitude":-69.454656,
@@ -188,11 +188,12 @@
         "wd:id":"Q721689",
         "wk:page":"Tierra del Fuego"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b5cb51c83ee4280d1a41e5048f39ff93",
+    "wof:geomhash":"eda2ac4c57cfedd1b92e7ef8a8f82e91",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":102063185,
-    "wof:lastmodified":1690866803,
+    "wof:lastmodified":1695886631,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":85682211,
     "wof:placetype":"county",

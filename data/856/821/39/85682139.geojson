@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.907073,
-    "geom:area_square_m":75817759973.870499,
+    "geom:area_square_m":75817759506.661743,
     "geom:bbox":"-71.528039,-29.535151,-68.264216,-25.287753",
     "geom:latitude":-27.394917,
     "geom:longitude":-69.909959,
@@ -355,15 +355,17 @@
         "gn:id":3899191,
         "gp:id":2345022,
         "hasc:id":"CL.AT",
+        "iso:code":"CL-AT",
         "iso:id":"CL-AT",
         "unlc:id":"CL-AT",
         "wd:id":"Q2120"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f410001a3e02fb2b5b11e0b866402c22",
+    "wof:geomhash":"e2179a812db3dfe1f84f1ac213ce681e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -378,7 +380,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866931,
+    "wof:lastmodified":1695884491,
     "wof:name":"De Atacama",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

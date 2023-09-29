@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.974402,
-    "geom:area_square_m":36938558137.012871,
+    "geom:area_square_m":36938558170.666039,
     "geom:bbox":"-74.706787,-54.495392,-68.436333,-52.00222",
     "geom:latitude":-53.089193,
     "geom:longitude":-71.737161,
@@ -172,11 +172,12 @@
         "hasc:id":"CL.MA.MG",
         "wd:id":"Q684369"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"661ea8ef32526f4d7642b90e76424f53",
+    "wof:geomhash":"8b3da202dc764494510bb34c2c3c262d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":102063075,
-    "wof:lastmodified":1690866795,
+    "wof:lastmodified":1695886538,
     "wof:name":"Magallanes",
     "wof:parent_id":85682211,
     "wof:placetype":"county",

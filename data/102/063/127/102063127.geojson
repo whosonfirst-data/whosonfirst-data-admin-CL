@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.378973,
-    "geom:area_square_m":11730964036.006523,
+    "geom:area_square_m":11730964313.290001,
     "geom:bbox":"-73.410946,-47.09409,-71.643373,-45.920276",
     "geom:latitude":-46.528822,
     "geom:longitude":-72.535245,
@@ -182,11 +182,12 @@
         "wd:id":"Q721242",
         "wk:page":"General Carrera Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"024bde286ba3f18fc815c9975f163fa7",
+    "wof:geomhash":"e1b40cd6d993867ff8a8be47cfb68f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":102063127,
-    "wof:lastmodified":1690866776,
+    "wof:lastmodified":1695886496,
     "wof:name":"General Carrera",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

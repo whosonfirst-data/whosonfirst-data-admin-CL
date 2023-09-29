@@ -51,7 +51,10 @@
         85632505
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code_pseudo":"CL-CHS"
+    },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"CL",
     "wof:geomhash":"d2845075df95ae07a7a37f975231b41f",
     "wof:hierarchy":[
@@ -73,7 +76,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694493237,
+    "wof:lastmodified":1695884738,
     "wof:name":"Andean Southern Ice Field (Campo de Hielo Sur)",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

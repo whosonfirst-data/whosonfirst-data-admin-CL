@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.495271,
-    "geom:area_square_m":15399102020.364119,
+    "geom:area_square_m":15399102157.600121,
     "geom:bbox":"-71.714492,-34.290669,-69.770032,-32.922479",
     "geom:latitude":-33.604596,
     "geom:longitude":-70.626919,
@@ -368,14 +368,16 @@
         "gn:id":3873544,
         "gp:id":2345029,
         "hasc:id":"CL.RM",
+        "iso:code":"CL-RM",
         "iso:id":"CL-RM",
         "wd:id":"Q2131"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"93f424b5a7b35ef9ce11d41e5a8a71e1",
+    "wof:geomhash":"2637b3db90558e065904c33d55e9e5ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -390,7 +392,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866947,
+    "wof:lastmodified":1695884501,
     "wof:name":"Metropolitana",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

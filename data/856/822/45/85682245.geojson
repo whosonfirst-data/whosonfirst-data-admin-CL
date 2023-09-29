@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.678266,
-    "geom:area_square_m":42679469289.997765,
+    "geom:area_square_m":42679468500.365112,
     "geom:bbox":"-70.286603,-21.631476,-68.436807,-18.935848",
     "geom:latitude":-20.209074,
     "geom:longitude":-69.396548,
@@ -362,14 +362,16 @@
         "gn:id":3870116,
         "gp:id":2345030,
         "hasc:id":"CL.TP",
+        "iso:code":"CL-TA",
         "iso:id":"CL-TA",
         "wd:id":"Q2114"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd30ce1ebf317208cdc78ad490d255c9",
+    "wof:geomhash":"7fc21de2a8ad6f7d7d762ca1e71ee350",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -384,7 +386,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866946,
+    "wof:lastmodified":1695884645,
     "wof:name":"De Tarapaca",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

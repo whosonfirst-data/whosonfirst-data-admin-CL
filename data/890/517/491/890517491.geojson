@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.418918,
-    "geom:area_square_m":39681549211.442169,
+    "geom:area_square_m":39681548156.774719,
     "geom:bbox":"-70.286603,-21.631476,-68.436807,-18.935848",
     "geom:latitude":-20.164614,
     "geom:longitude":-69.3481,
@@ -85,12 +85,13 @@
         "hasc:id":"CL.TP.TM",
         "qs_pg:id":1308414
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:created":1469056011,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b07b372418f01e07b80672c53456c1c",
+    "wof:geomhash":"b406fac82a144406b78981c3700e2b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":890517491,
-    "wof:lastmodified":1627522004,
+    "wof:lastmodified":1695886489,
     "wof:name":"Tamarugal",
     "wof:parent_id":85682245,
     "wof:placetype":"county",

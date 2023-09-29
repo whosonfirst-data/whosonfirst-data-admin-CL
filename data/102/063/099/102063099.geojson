@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253546,
-    "geom:area_square_m":2640866272.113833,
+    "geom:area_square_m":2640866356.111586,
     "geom:bbox":"-71.055121,-32.980168,-70.21639,-32.253806",
     "geom:latitude":-32.611343,
     "geom:longitude":-70.665768,
@@ -170,11 +170,12 @@
         "wd:id":"Q721611",
         "wk:page":"San Felipe de Aconcagua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ee023de4804707483aa3843d2543f3b",
+    "wof:geomhash":"65cbf01413e8f6be7f6ce672f5fce78f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":102063099,
-    "wof:lastmodified":1690866770,
+    "wof:lastmodified":1695886624,
     "wof:name":"San Felipe",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

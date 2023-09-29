@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056442,
-    "geom:area_square_m":580799584.725361,
+    "geom:area_square_m":580799462.913469,
     "geom:bbox":"-71.120564,-33.803974,-70.778664,-33.509421",
     "geom:latitude":-33.675008,
     "geom:longitude":-70.935583,
@@ -161,11 +161,12 @@
         "wd:id":"Q721450",
         "wk:page":"Talagante"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c7e79cb888149c0bf44cc41377609cbf",
+    "wof:geomhash":"bb052d092168a1759a33e286e3465964",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":102063095,
-    "wof:lastmodified":1690866796,
+    "wof:lastmodified":1695886545,
     "wof:name":"Talagante",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

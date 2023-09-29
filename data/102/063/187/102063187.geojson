@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.226566,
-    "geom:area_square_m":45331211565.109665,
+    "geom:area_square_m":45331211542.27832,
     "geom:bbox":"-75.646118,-47.054794,-71.944519,-43.641613",
     "geom:latitude":-45.451999,
     "geom:longitude":-73.564494,
@@ -179,12 +179,13 @@
         "hasc:id":"CL.AI.AI",
         "wd:id":"Q201126"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "meso-reversegeo",
         "meso"
     ],
-    "wof:geomhash":"64f4acb5c805c0af188e717b712653bd",
+    "wof:geomhash":"19e679d2a03dca75b351d0bb6d04c829",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":102063187,
-    "wof:lastmodified":1690866772,
+    "wof:lastmodified":1695886272,
     "wof:name":"Ays\u00e9n",
     "wof:parent_id":85682189,
     "wof:placetype":"county",

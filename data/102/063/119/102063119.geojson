@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109221,
-    "geom:area_square_m":1122362627.918128,
+    "geom:area_square_m":1122362576.005717,
     "geom:bbox":"-70.988963,-33.988669,-70.475152,-33.524076",
     "geom:latitude":-33.793494,
     "geom:longitude":-70.752005,
@@ -170,11 +170,12 @@
         "wd:id":"Q721450",
         "wk:page":"Maipo"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"457b4f239369e7e25018766310a36939",
+    "wof:geomhash":"7cf57fc352c19eeded183a4ec63d2efe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":102063119,
-    "wof:lastmodified":1690866779,
+    "wof:lastmodified":1695886498,
     "wof:name":"Maipo",
     "wof:parent_id":85682207,
     "wof:placetype":"county",

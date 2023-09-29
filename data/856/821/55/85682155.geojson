@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.76322,
-    "geom:area_square_m":37063217478.574814,
+    "geom:area_square_m":37063217481.339355,
     "geom:bbox":"-73.961443,-38.492464,-70.984933,-36.00556",
     "geom:latitude":-37.200125,
     "geom:longitude":-72.247269,
@@ -425,14 +425,16 @@
     "wof:concordances":{
         "fips:code":"CI06",
         "hasc:id":"CL.BI",
+        "iso:code":"CL-BI",
         "iso:id":"CL-BI",
         "wd:id":"Q2170"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8607019d17f3e2b7e87201987bd36db2",
+    "wof:geomhash":"6e0b208674a6cd35cb423a3a7afc925c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -447,7 +449,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866932,
+    "wof:lastmodified":1695884578,
     "wof:name":"Del Bio-Bio",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

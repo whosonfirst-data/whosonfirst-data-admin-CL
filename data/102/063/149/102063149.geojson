@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.322174,
-    "geom:area_square_m":3289924588.64734,
+    "geom:area_square_m":3289924616.250714,
     "geom:bbox":"-72.056454,-34.84083,-71.452865,-33.902724",
     "geom:latitude":-34.326013,
     "geom:longitude":-71.781685,
@@ -202,11 +202,12 @@
         "wd:id":"Q201163",
         "wk:page":"Cardenal Caro"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b5774d7b678e85e30b2dbfbfac577132",
+    "wof:geomhash":"7a06cf287d60b9fa35fe9129f523f80d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":102063149,
-    "wof:lastmodified":1690866802,
+    "wof:lastmodified":1695886562,
     "wof:name":"Cardenal Caro",
     "wof:parent_id":85682165,
     "wof:placetype":"county",

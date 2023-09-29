@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.723212,
-    "geom:area_square_m":8470192645.924322,
+    "geom:area_square_m":8470193033.638857,
     "geom:bbox":"-70.376868,-19.189358,-69.068332,-18.110527",
     "geom:latitude":-18.706187,
     "geom:longitude":-69.855828,
@@ -175,11 +175,12 @@
         "hasc:id":"CL.AP.AR",
         "wd:id":"Q201119"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7034c664c1884a863eefcb620fe51e53",
+    "wof:geomhash":"4214da2b19e256ac10d133d610834664",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":102063165,
-    "wof:lastmodified":1690866780,
+    "wof:lastmodified":1695886503,
     "wof:name":"Arica",
     "wof:parent_id":1108804709,
     "wof:placetype":"county",

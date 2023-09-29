@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.350997,
-    "geom:area_square_m":3468303175.928588,
+    "geom:area_square_m":3468303357.285161,
     "geom:bbox":"-73.556074,-37.451174,-72.538448,-36.442605",
     "geom:latitude":-36.953139,
     "geom:longitude":-72.918365,
@@ -381,11 +381,12 @@
         "wd:id":"Q40008",
         "wk:page":"Concepci\u00f3n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88c5cd9f7ba6a371fee9e6b2bfe1baf1",
+    "wof:geomhash":"041447af81e1ef74b72eb8d14f8ef20d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -395,7 +396,7 @@
         }
     ],
     "wof:id":102063171,
-    "wof:lastmodified":1690866803,
+    "wof:lastmodified":1695886563,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85682155,
     "wof:placetype":"county",

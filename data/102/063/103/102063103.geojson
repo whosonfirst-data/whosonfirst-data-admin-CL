@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1072,
-    "geom:area_square_m":1114120526.240106,
+    "geom:area_square_m":1114120617.849988,
     "geom:bbox":"-71.452206,-32.990638,-71.002061,-32.590921",
     "geom:latitude":-32.807163,
     "geom:longitude":-71.182886,
@@ -175,11 +175,12 @@
         "wd:id":"Q721567",
         "wk:page":"Quillota"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ac863ee1524b0ccecb70c55ea9cf905",
+    "wof:geomhash":"a16994f436c4d7b457c320f7a9d8b087",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":102063103,
-    "wof:lastmodified":1690866756,
+    "wof:lastmodified":1695886623,
     "wof:name":"Quillota",
     "wof:parent_id":85682143,
     "wof:placetype":"county",

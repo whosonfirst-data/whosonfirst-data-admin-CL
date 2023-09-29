@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.007552,
-    "geom:area_square_m":10077419831.069342,
+    "geom:area_square_m":10077419573.037321,
     "geom:bbox":"-72.187708,-36.543565,-70.567885,-35.417724",
     "geom:latitude":-36.013189,
     "geom:longitude":-71.426324,
@@ -179,11 +179,12 @@
         "wd:id":"Q721396",
         "wk:page":"Linares"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e773e5a27247a484b045702260ce5e0",
+    "wof:geomhash":"81daaf659f922c91999b690cfb202f84",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":102063097,
-    "wof:lastmodified":1690866771,
+    "wof:lastmodified":1695886623,
     "wof:name":"Linares",
     "wof:parent_id":85682149,
     "wof:placetype":"county",

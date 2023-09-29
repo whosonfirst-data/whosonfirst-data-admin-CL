@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.25731,
-    "geom:area_square_m":48271421127.113754,
+    "geom:area_square_m":48271421524.190582,
     "geom:bbox":"-74.84898,-44.067119,-71.582377,-40.236539",
     "geom:latitude":-42.041382,
     "geom:longitude":-72.895505,
@@ -298,15 +298,17 @@
     "wof:concordances":{
         "fips:code":"CI14",
         "hasc:id":"CL.LG",
+        "iso:code":"CL-LL",
         "iso:id":"CL-LL",
         "unlc:id":"CL-LL",
         "wd:id":"Q2178"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"11bc7caf0ed8ef8cbab11b1cca1ca06c",
+    "wof:geomhash":"aeef464f81b1884549637bd0c51752c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866937,
+    "wof:lastmodified":1695884618,
     "wof:name":"De Los Lagos",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

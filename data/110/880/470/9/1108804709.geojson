@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.423559,
-    "geom:area_square_m":16693887241.23823,
+    "geom:area_square_m":16693887561.099564,
     "geom:bbox":"-70.376868,-19.189358,-68.913362,-17.498426",
     "geom:latitude":-18.486713,
     "geom:longitude":-69.624388,
@@ -318,12 +318,14 @@
         "gn:id":6693562,
         "gp:id":56043702,
         "hasc:id":"CL.AP",
+        "iso:code":"CL-AP",
         "iso:id":"CL-AP",
         "wd:id":"Q2109"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CL",
     "wof:created":1485297129,
-    "wof:geomhash":"e5d287e526ec63c469bb5db99a2d8876",
+    "wof:geomhash":"8dc09fe5f31d731660dbe94fdd130eb4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690866948,
+    "wof:lastmodified":1695884785,
     "wof:name":"Arica y Parinacota",
     "wof:parent_id":85633057,
     "wof:placetype":"region",

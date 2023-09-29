@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.249904,
-    "geom:area_square_m":24947010271.038033,
+    "geom:area_square_m":24947010251.634827,
     "geom:bbox":"-70.724981,-26.940568,-68.361236,-25.287753",
     "geom:latitude":-26.268525,
     "geom:longitude":-69.453099,
@@ -161,11 +161,12 @@
         "hasc:id":"CL.AT.CR",
         "wd:id":"Q201256"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"231266cdbd1a5d47a9b137c8f4c18ed0",
+    "wof:geomhash":"ecefaedbdd3df50c205d9beee7468b95",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":102063133,
-    "wof:lastmodified":1690866757,
+    "wof:lastmodified":1695886459,
     "wof:name":"Cha\u00f1aral",
     "wof:parent_id":85682139,
     "wof:placetype":"county",

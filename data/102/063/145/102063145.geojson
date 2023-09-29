@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259349,
-    "geom:area_square_m":2997920078.555822,
+    "geom:area_square_m":2997920343.580209,
     "geom:bbox":"-70.207016,-21.438522,-69.824678,-20.048233",
     "geom:latitude":-20.795188,
     "geom:longitude":-70.035214,
@@ -181,11 +181,12 @@
         "wd:id":"Q251456",
         "wk:page":"Iquique"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c533f442e2112d337ca6f5d7253436ba",
+    "wof:geomhash":"dc4de88cd1dbd778f6e86df972696378",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":102063145,
-    "wof:lastmodified":1690866774,
+    "wof:lastmodified":1695886492,
     "wof:name":"Iquique",
     "wof:parent_id":85682245,
     "wof:placetype":"county",

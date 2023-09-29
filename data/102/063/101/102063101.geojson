@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.382755,
-    "geom:area_square_m":13429500561.630827,
+    "geom:area_square_m":13429500757.738338,
     "geom:bbox":"-73.34113,-38.909573,-70.827381,-37.581733",
     "geom:latitude":-38.237673,
     "geom:longitude":-72.093642,
@@ -184,11 +184,12 @@
         "wd:id":"Q721462",
         "wk:page":"Malleco"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0c8f8cbe06e214bf8774fb6e6e92bb1",
+    "wof:geomhash":"6712ce29f98c5e39816d3cbaafd01387",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":102063101,
-    "wof:lastmodified":1690866783,
+    "wof:lastmodified":1695886506,
     "wof:name":"Malleco",
     "wof:parent_id":85682179,
     "wof:placetype":"county",
