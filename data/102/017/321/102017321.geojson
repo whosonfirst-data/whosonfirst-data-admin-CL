@@ -9,7 +9,23 @@
     "geom:bbox":"-71.25151,-32.774025,-71.183487,-32.713355",
     "geom:latitude":-32.739547,
     "geom:longitude":-71.213098,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5506.0",
+    "gn:asciiname":"Nogales",
+    "gn:country_code":"CL",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3878574,
+    "gn:latitude":-32.73468,
+    "gn:longitude":-71.20251,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Nogales",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.22251,-32.75468,-71.18251,-32.71468",
     "lbl:latitude":-32.733877,
     "lbl:longitude":-71.205114,
     "lbl:max_zoom":18.0,
@@ -125,7 +141,13 @@
     "wof:concordances":{
         "gn:id":3878575,
         "gp:id":348516,
-        "wd:id":"Q51049"
+        "wd:id":"Q51049",
+        "wk:page":"Nogales%2C_Chile"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3878574
+        ]
     },
     "wof:country":"CL",
     "wof:geomhash":"d6f7b5f3f0bc7e51af1d24ebba885dc9",
@@ -139,13 +161,15 @@
         }
     ],
     "wof:id":102017321,
-    "wof:lastmodified":1690866916,
+    "wof:lastmodified":1706239389,
     "wof:name":"Nogales",
     "wof:parent_id":102063103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193146581
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -126,6 +126,11 @@
     "wof:concordances":{
         "gn:id":3871932
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3950075
+        ]
+    },
     "wof:country":"CL",
     "wof:geomhash":"bf24813e6f3df30c4f349d74bf51b1ba",
     "wof:hierarchy":[
@@ -138,13 +143,15 @@
         }
     ],
     "wof:id":1259504971,
-    "wof:lastmodified":1636495057,
+    "wof:lastmodified":1706239390,
     "wof:name":"San Marcos",
     "wof:parent_id":102063113,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293610349
+    ],
     "wof:tags":[]
 },
   "bbox": [

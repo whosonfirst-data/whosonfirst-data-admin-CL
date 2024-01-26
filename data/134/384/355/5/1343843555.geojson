@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-70.74444,-34.17083,-70.74444,-34.17083",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:ang_x_preferred":[
         "Rancagwa"
@@ -254,14 +256,16 @@
         }
     ],
     "wof:id":1343843555,
-    "wof:lastmodified":1566644250,
+    "wof:lastmodified":1706239389,
     "wof:name":"Rancagua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",
     "wof:population":212695,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-cl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102017057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
