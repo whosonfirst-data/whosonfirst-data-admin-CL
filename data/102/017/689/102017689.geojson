@@ -9,11 +9,26 @@
     "geom:bbox":"-72.051309,-36.91059,-72.006919,-36.883799",
     "geom:latitude":-36.896638,
     "geom:longitude":-72.028521,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"84.0",
+    "gn:admin3_code":"8407.0",
+    "gn:asciiname":"El Carmen",
     "gn:country":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":246,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3891707,
+    "gn:latitude":-36.89834,
+    "gn:longitude":-72.0261,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Carmen",
     "gn:population":0,
+    "gn:timezone":"America/Santiago",
     "gp:adm0":23424782,
     "iso:country":"CL",
+    "lbl:bbox":"-72.0461,-36.91834,-72.0061,-36.87834",
     "lbl:latitude":-36.897204,
     "lbl:longitude":-72.031164,
     "lbl:max_zoom":18.0,
@@ -133,6 +148,14 @@
         "wd:id":"Q13037",
         "wk:page":"El Carmen"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3891707
+        ],
+        "wk:page":[
+            "El_Carmen%2C_Chile"
+        ]
+    },
     "wof:country":"CL",
     "wof:geomhash":"ff7306d05a83519a9247636a9b776711",
     "wof:hierarchy":[
@@ -145,14 +168,16 @@
         }
     ],
     "wof:id":102017689,
-    "wof:lastmodified":1690866860,
+    "wof:lastmodified":1706239390,
     "wof:name":"El Carmen",
     "wof:parent_id":102063109,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226564357
+    ],
     "wof:tags":[]
 },
   "bbox": [

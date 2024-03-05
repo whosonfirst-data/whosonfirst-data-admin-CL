@@ -9,9 +9,23 @@
     "geom:bbox":"-70.48651,-28.75946,-70.48651,-28.75946",
     "geom:latitude":-28.75946,
     "geom:longitude":-70.48651,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3302.0",
+    "gn:asciiname":"Alto del Carmen",
     "gn:country":"CL",
+    "gn:country_code":"CL",
+    "gn:dem":814,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949796,
+    "gn:latitude":-28.75968,
+    "gn:longitude":-70.48618,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Alto del Carmen",
     "gn:population":0,
+    "gn:timezone":"America/Santiago",
     "gp:adm0":23424782,
     "iso:country":"CL",
     "lbl:bbox":"-70.50651,-28.77946,-70.46651,-28.73946",
@@ -131,6 +145,11 @@
         "wd:id":"Q2215",
         "wk:page":"Alto del Carmen"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3949796
+        ]
+    },
     "wof:country":"CL",
     "wof:created":1469056033,
     "wof:geomhash":"d5f3ef46077fccee47ec6c3557d0b166",
@@ -144,14 +163,16 @@
         }
     ],
     "wof:id":890517869,
-    "wof:lastmodified":1690866959,
+    "wof:lastmodified":1706239390,
     "wof:name":"Alto del Carmen",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193136469
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -54,6 +54,11 @@
     "wof:concordances":{
         "gn:id":9036696
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9036695
+        ]
+    },
     "wof:country":"CL",
     "wof:geomhash":"58a070b402bfcabec3e74933fc043299",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1243240655,
-    "wof:lastmodified":1566644689,
+    "wof:lastmodified":1706239390,
     "wof:name":"Las Mercedes",
     "wof:parent_id":102063083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259463217
+    ],
     "wof:tags":[]
 },
   "bbox": [

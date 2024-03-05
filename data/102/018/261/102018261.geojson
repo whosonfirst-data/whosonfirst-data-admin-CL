@@ -9,7 +9,11 @@
     "geom:bbox":"-72.572721,-48.478267,-72.545688,-48.453006",
     "geom:latitude":-48.465637,
     "geom:longitude":-72.559204,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:population":400,
     "iso:country":"CL",
+    "lbl:bbox":"-72.58092,-48.48521,-72.54092,-48.44521",
     "lbl:latitude":-48.465637,
     "lbl:longitude":-72.559204,
     "lbl:max_zoom":18.0,
@@ -220,13 +224,18 @@
     "qs:level":"locality",
     "qs:loc":"Villa O'Higgins",
     "qs:loc_lc":"8504888",
+    "qs:name":"Villa O'Higgins",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
     "qs:pop":0,
+    "qs:pop_sr":"2",
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":170,
     "wof:belongsto":[
         102191577,
@@ -238,7 +247,20 @@
     "wof:concordances":{
         "gn:id":8504888,
         "gp:id":350010,
-        "wd:id":"Q992143"
+        "qs_pg:id":105190,
+        "wd:id":"Q992143",
+        "wk:page":"Villa O'Higgins"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6694355
+        ],
+        "gp:id":[
+            350010
+        ],
+        "wd:id":[
+            "Q992143"
+        ]
     },
     "wof:country":"CL",
     "wof:geom_alt":[
@@ -255,14 +277,17 @@
         }
     ],
     "wof:id":102018261,
-    "wof:lastmodified":1690866811,
+    "wof:lastmodified":1706239390,
     "wof:name":"Villa O'Higgins",
     "wof:parent_id":102063085,
     "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1141908033
+        1141908033,
+        890429613
     ],
     "wof:tags":[]
 },

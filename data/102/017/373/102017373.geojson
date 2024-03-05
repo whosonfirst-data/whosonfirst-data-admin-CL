@@ -10,6 +10,7 @@
     "geom:latitude":-23.102678,
     "geom:longitude":-70.437601,
     "iso:country":"CL",
+    "lbl:bbox":"-70.4699998389,-23.119999574,-70.4299998389,-23.079999574",
     "lbl:latitude":-23.104969,
     "lbl:longitude":-70.44014,
     "lbl:max_zoom":18.0,
@@ -216,6 +217,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
     "qs:a0":"Chile",
     "qs:a1":"*Antofagasta",
     "qs:a1r":"*",
@@ -230,6 +232,8 @@
     "qs:pop":0,
     "qs:source":"Lquattroshapes",
     "qs:type":"Town",
+    "reversegeo:latitude":-23.1,
+    "reversegeo:longitude":-70.45,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -252,6 +256,11 @@
         "wd:id":"Q16928",
         "wk:page":"Mejillones"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q16928"
+        ]
+    },
     "wof:country":"CL",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -271,13 +280,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690866914,
+    "wof:lastmodified":1706239389,
     "wof:name":"Mejillones",
     "wof:parent_id":102063073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141908953
+    ],
     "wof:tags":[]
 },
   "bbox": [

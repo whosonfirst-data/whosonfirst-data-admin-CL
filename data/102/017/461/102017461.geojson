@@ -9,7 +9,23 @@
     "geom:bbox":"-71.691208,-34.746107,-71.617202,-34.707774",
     "geom:latitude":-34.726177,
     "geom:longitude":-71.651884,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"63.0",
+    "gn:admin3_code":"6304.0",
+    "gn:asciiname":"Lolol",
+    "gn:country_code":"CL",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3882654,
+    "gn:latitude":-34.72825,
+    "gn:longitude":-71.6455,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Lolol",
+    "gn:population":0,
+    "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-71.6655,-34.74825,-71.6255,-34.70825",
     "lbl:latitude":-34.728074,
     "lbl:longitude":-71.648185,
     "lbl:max_zoom":18.0,
@@ -220,6 +236,10 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043b\u043e\u043b\u044c"
     ],
+    "name:und_x_variant":[
+        "Camino Alc\u00e1ntara",
+        "Hacienda Lolol"
+    ],
     "name:vls_x_preferred":[
         "Lolol"
     ],
@@ -260,7 +280,13 @@
         "gn:id":3882653,
         "gp:id":348407,
         "qs_pg:id":1320281,
-        "wd:id":"Q16899"
+        "wd:id":"Q16899",
+        "wk:page":"Lolol"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3882654
+        ]
     },
     "wof:country":"CL",
     "wof:geom_alt":[
@@ -277,13 +303,15 @@
         }
     ],
     "wof:id":102017461,
-    "wof:lastmodified":1690866908,
+    "wof:lastmodified":1706239389,
     "wof:name":"Lolol",
     "wof:parent_id":102063157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260166665
+    ],
     "wof:tags":[]
 },
   "bbox": [

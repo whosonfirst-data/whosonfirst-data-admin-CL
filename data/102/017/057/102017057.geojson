@@ -9,8 +9,23 @@
     "geom:bbox":"-70.894775,-34.270836,-70.6697,-34.084596",
     "geom:latitude":-34.168841,
     "geom:longitude":-70.765102,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"61.0",
+    "gn:admin3_code":"6101.0",
+    "gn:asciiname":"Rancagua",
+    "gn:country_code":"CL",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3873775,
+    "gn:latitude":-34.17083,
+    "gn:longitude":-70.74444,
+    "gn:modification_date":"2012-05-03",
+    "gn:name":"Rancagua",
     "gn:population":212695,
+    "gn:timezone":"America/Santiago",
     "iso:country":"CL",
+    "lbl:bbox":"-70.76444,-34.19083,-70.72444,-34.15083",
     "lbl:latitude":-34.168002,
     "lbl:longitude":-70.745937,
     "lbl:max_zoom":13.0,
@@ -430,7 +445,15 @@
         "wk:page":"Rancagua"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":353401
+        "gn:id":[
+            3873775
+        ],
+        "qs_pg:id":[
+            353401
+        ],
+        "wk:page":[
+            "Rancagua"
+        ]
     },
     "wof:country":"CL",
     "wof:geom_alt":[
@@ -447,7 +470,7 @@
         }
     ],
     "wof:id":102017057,
-    "wof:lastmodified":1690866906,
+    "wof:lastmodified":1706239389,
     "wof:name":"Rancagua",
     "wof:parent_id":102063155,
     "wof:placetype":"locality",
@@ -455,7 +478,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-cl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343843555
+    ],
     "wof:tags":[]
 },
   "bbox": [
